@@ -1,0 +1,78 @@
+classification: card_game
+classification_capital: Card Game
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CARD_GAME
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/card_game_magic_the_gathering
+distributors: []
+filter: ''
+from_yaml: false
+id: card_game_magic_the_gathering
+id_no_class: magic_the_gathering
+id_no_size: magicthegathering
+id_no_type: magic_the_gathering
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/card_game_magic_the_gathering
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/card_game_magic_the_gathering
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/card_game_magic_the_gathering
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[card_game_magic_the_gathering](none)<br>[](none)<br>[Card Game Magic
+    The Gathering](none)<br><br>'
+markdown_short: '[card_game_magic_the_gathering](none)<br><br>'
+md5: 2083ddebeba757b1c47f0fb763daadf9
+md5_10: 2083ddebeb
+md5_10_upper: 2083DDEBEB
+md5_5: 2083d
+md5_5_upper: 2083D
+md5_6: 2083dd
+md5_6_alpha: 19o7x
+md5_6_alpha_upper: 19O7X
+md5_6_upper: 2083DD
+name: Card Game Magic The Gathering
+name_no_class: Magic The Gathering
+name_no_size: Magicthegathering
+name_no_size_short: Magicthegathering
+name_no_type: Magic The Gathering
+oomp_key: oomp_card_game_magic_the_gathering
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: magic_the_gathering
+type_capital: Magic The Gathering
+type_first_letter: m
+type_first_letter_upper: M
+type_upper: MAGIC_THE_GATHERING

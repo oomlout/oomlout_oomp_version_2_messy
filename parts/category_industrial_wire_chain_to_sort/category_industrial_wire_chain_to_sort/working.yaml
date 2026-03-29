@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_industrial
+description_extra: to_sort
+description_extra_capital: To Sort
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TO_SORT
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_industrial_wire_chain_to_sort
+distributors: []
+filter: ''
+from_yaml: false
+id: category_industrial_wire_chain_to_sort
+id_no_class: industrial_wire_chain_to_sort
+id_no_size: to_sort
+id_no_type: wire_chain_to_sort
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_industrial_wire_chain_to_sort
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_industrial_wire_chain_to_sort
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_industrial_wire_chain_to_sort
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_industrial_wire_chain_to_sort](none)<br>[](none)<br>[Category
+    Industrial Wire Chain To Sort](none)<br><br>'
+markdown_short: '[category_industrial_wire_chain_to_sort](none)<br><br>'
+md5: 072b0b441cd79407a85f9fd45a80b096
+md5_10: 072b0b441c
+md5_10_upper: 072B0B441C
+md5_5: 072b0
+md5_5_upper: 072B0
+md5_6: 072b0b
+md5_6_alpha: a2h7
+md5_6_alpha_upper: A2H7
+md5_6_upper: 072B0B
+name: Category Industrial Wire Chain To Sort
+name_no_class: Industrial Wire Chain To Sort
+name_no_size: To Sort
+name_no_size_short: To Sort
+name_no_type: Wire Chain To Sort
+oomp_key: oomp_category_industrial_wire_chain_to_sort
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryindustrial
+size: wire_chain
+size_capital: Wire Chain
+size_first_letter: w
+size_first_letter_upper: W
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: WIRE_CHAIN
+type: industrial
+type_capital: Industrial
+type_first_letter: i
+type_first_letter_upper: I
+type_upper: INDUSTRIAL

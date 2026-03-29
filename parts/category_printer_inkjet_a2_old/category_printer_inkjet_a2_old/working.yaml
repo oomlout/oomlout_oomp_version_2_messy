@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: a2
+color_capital: A2
+color_first_letter: a
+color_first_letter_upper: A
+color_upper: A2
+description: category_printer
+description_extra: old
+description_extra_capital: Old
+description_extra_first_letter: o
+description_extra_first_letter_upper: O
+description_extra_upper: OLD
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'A '
+description_or_color_upper: 'A '
+directory: parts/category_printer_inkjet_a2_old
+distributors: []
+filter: ''
+from_yaml: false
+id: category_printer_inkjet_a2_old
+id_no_class: printer_inkjet_a2_old
+id_no_size: a2_old
+id_no_type: inkjet_a2_old
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_printer_inkjet_a2_old
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_printer_inkjet_a2_old
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_printer_inkjet_a2_old
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_printer_inkjet_a2_old](none)<br>[](none)<br>[Category Printer
+    Inkjet A2 Old](none)<br><br>'
+markdown_short: '[category_printer_inkjet_a2_old](none)<br><br>'
+md5: 7577c59815c5a0395eb4c2e26708219d
+md5_10: 7577c59815
+md5_10_upper: 7577C59815
+md5_5: 7577c
+md5_5_upper: 7577C
+md5_6: 7577c5
+md5_6_alpha: 4l03p
+md5_6_alpha_upper: 4L03P
+md5_6_upper: 7577C5
+name: Category Printer Inkjet A2 Old
+name_no_class: Printer Inkjet A2 Old
+name_no_size: A2 Old
+name_no_size_short: A2 Old
+name_no_type: Inkjet A2 Old
+oomp_key: oomp_category_printer_inkjet_a2_old
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryprinter
+size: inkjet
+size_capital: Inkjet
+size_first_letter: i
+size_first_letter_upper: I
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: INKJET
+type: printer
+type_capital: Printer
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PRINTER

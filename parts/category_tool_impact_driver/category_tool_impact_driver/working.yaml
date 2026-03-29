@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_tool
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_tool_impact_driver
+distributors: []
+filter: ''
+from_yaml: false
+id: category_tool_impact_driver
+id_no_class: tool_impact_driver
+id_no_size: impact_driver
+id_no_type: impact_driver
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_impact_driver
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_impact_driver
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_impact_driver
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_tool_impact_driver](none)<br>[](none)<br>[Category Tool
+    Impact Driver](none)<br><br>'
+markdown_short: '[category_tool_impact_driver](none)<br><br>'
+md5: a57b13945598adbf48409156ef0f86ad
+md5_10: a57b139455
+md5_10_upper: A57B139455
+md5_5: a57b1
+md5_5_upper: A57B1
+md5_6: a57b13
+md5_6_alpha: 6gg0j
+md5_6_alpha_upper: 6GG0J
+md5_6_upper: A57B13
+name: Category Tool Impact Driver
+name_no_class: Tool Impact Driver
+name_no_size: Impact Driver
+name_no_size_short: Impact Driver
+name_no_type: Impact Driver
+oomp_key: oomp_category_tool_impact_driver
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorytool
+size: impact_driver
+size_capital: Impact Driver
+size_first_letter: i
+size_first_letter_upper: I
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: IMPACT_DRIVER
+type: tool
+type_capital: Tool
+type_first_letter: t
+type_first_letter_upper: T
+type_upper: TOOL

@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: 101_6_mm_width_101_6_mm_length
+color_capital: 101.6 mm Width 101.6 mm Length
+color_first_letter: '1'
+color_first_letter_upper: '1'
+color_upper: 101_6_MM_WIDTH_101_6_MM_LENGTH
+description: category_packaging
+description_extra: cubby_box
+description_extra_capital: Cubby Box
+description_extra_first_letter: c
+description_extra_first_letter_upper: C
+description_extra_upper: CUBBY_BOX
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: '1 '
+description_or_color_upper: '1 '
+directory: parts/category_packaging_label_101_6_mm_width_101_6_mm_length_cubby_box
+distributors: []
+filter: ''
+from_yaml: false
+id: category_packaging_label_101_6_mm_width_101_6_mm_length_cubby_box
+id_no_class: packaging_label_101_6_mm_width_101_6_mm_length_cubby_box
+id_no_size: 101_6_mm_width_101_6_mm_length_cubby_box
+id_no_type: label_101_6_mm_width_101_6_mm_length_cubby_box
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_packaging_label_101_6_mm_width_101_6_mm_length_cubby_box
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_packaging_label_101_6_mm_width_101_6_mm_length_cubby_box
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_packaging_label_101_6_mm_width_101_6_mm_length_cubby_box
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_packaging_label_101_6_mm_width_101_6_mm_length_cubby_box](none)<br>[](none)<br>[Category
+    Packaging Label 101 6 Mm Width 101 6 Mm Length Cubby Box](none)<br><br>'
+markdown_short: '[category_packaging_label_101_6_mm_width_101_6_mm_length_cubby_box](none)<br><br>'
+md5: 3c6b89d412bf852fa43a7ad843875c94
+md5_10: 3c6b89d412
+md5_10_upper: 3C6B89D412
+md5_5: 3c6b8
+md5_5_upper: 3C6B8
+md5_6: 3c6b89
+md5_6_alpha: 2cvbd
+md5_6_alpha_upper: 2CVBD
+md5_6_upper: 3C6B89
+name: Category Packaging Label 101 6 Mm Width 101 6 Mm Length Cubby Box
+name_no_class: Packaging Label 101 6 Mm Width 101 6 Mm Length Cubby Box
+name_no_size: 101 6 Mm Width 101 6 Mm Length Cubby Box
+name_no_size_short: 101 6 Mm Width 101 6 Mm Length Cubby Box
+name_no_type: Label 101 6 Mm Width 101 6 Mm Length Cubby Box
+oomp_key: oomp_category_packaging_label_101_6_mm_width_101_6_mm_length_cubby_box
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorypackaging
+size: label
+size_capital: Label
+size_first_letter: l
+size_first_letter_upper: L
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: LABEL
+type: packaging
+type_capital: Packaging
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PACKAGING

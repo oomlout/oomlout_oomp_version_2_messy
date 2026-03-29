@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_electronic
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_electronic_dc_to_dc_converter
+distributors: []
+filter: ''
+from_yaml: false
+id: category_electronic_dc_to_dc_converter
+id_no_class: electronic_dc_to_dc_converter
+id_no_size: dc_to_dc_converter
+id_no_type: dc_to_dc_converter
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_dc_to_dc_converter
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_dc_to_dc_converter
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_dc_to_dc_converter
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_electronic_dc_to_dc_converter](none)<br>[](none)<br>[Category
+    Electronic Dc To Dc Converter](none)<br><br>'
+markdown_short: '[category_electronic_dc_to_dc_converter](none)<br><br>'
+md5: ab6befea9d3891b9207f6af118e7e38d
+md5_10: ab6befea9d
+md5_10_upper: AB6BEFEA9D
+md5_5: ab6be
+md5_5_upper: AB6BE
+md5_6: ab6bef
+md5_6_alpha: 6osfj
+md5_6_alpha_upper: 6OSFJ
+md5_6_upper: AB6BEF
+name: Category Electronic Dc To Dc Converter
+name_no_class: Electronic Dc To Dc Converter
+name_no_size: Dc To Dc Converter
+name_no_size_short: Dc To Dc Converter
+name_no_type: Dc To Dc Converter
+oomp_key: oomp_category_electronic_dc_to_dc_converter
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryelectronic
+size: dc_to_dc_converter
+size_capital: Dc To Dc Converter
+size_first_letter: d
+size_first_letter_upper: D
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: DC_TO_DC_CONVERTER
+type: electronic
+type_capital: Electronic
+type_first_letter: e
+type_first_letter_upper: E
+type_upper: ELECTRONIC

@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: flour
+color_capital: Flour
+color_first_letter: f
+color_first_letter_upper: F
+color_upper: FLOUR
+description: category_food
+description_extra: cubby_box
+description_extra_capital: Cubby Box
+description_extra_first_letter: c
+description_extra_first_letter_upper: C
+description_extra_upper: CUBBY_BOX
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'F '
+description_or_color_upper: 'F '
+directory: parts/category_food_baking_flour_cubby_box
+distributors: []
+filter: ''
+from_yaml: false
+id: category_food_baking_flour_cubby_box
+id_no_class: food_baking_flour_cubby_box
+id_no_size: flour_cubby_box
+id_no_type: baking_flour_cubby_box
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_baking_flour_cubby_box
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_baking_flour_cubby_box
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_baking_flour_cubby_box
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_food_baking_flour_cubby_box](none)<br>[](none)<br>[Category
+    Food Baking Flour Cubby Box](none)<br><br>'
+markdown_short: '[category_food_baking_flour_cubby_box](none)<br><br>'
+md5: f23012087c0a1efcd23196adc4b725c0
+md5_10: f23012087c
+md5_10_upper: F23012087C
+md5_5: f2301
+md5_5_upper: F2301
+md5_6: f23012
+md5_6_alpha: 9g6xe
+md5_6_alpha_upper: 9G6XE
+md5_6_upper: F23012
+name: Category Food Baking Flour Cubby Box
+name_no_class: Food Baking Flour Cubby Box
+name_no_size: Flour Cubby Box
+name_no_size_short: Flour Cubby Box
+name_no_type: Baking Flour Cubby Box
+oomp_key: oomp_category_food_baking_flour_cubby_box
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryfood
+size: baking
+size_capital: Baking
+size_first_letter: b
+size_first_letter_upper: B
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: BAKING
+type: food
+type_capital: Food
+type_first_letter: f
+type_first_letter_upper: F
+type_upper: FOOD

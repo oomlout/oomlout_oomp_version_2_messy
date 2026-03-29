@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: MR_series
+color_capital: Mr Series
+color_first_letter: M
+color_first_letter_upper: M
+color_upper: MR_SERIES
+description: category_hardware
+description_extra: old
+description_extra_capital: Old
+description_extra_first_letter: o
+description_extra_first_letter_upper: O
+description_extra_upper: OLD
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'M '
+description_or_color_upper: 'M '
+directory: parts/category_hardware_bearing_MR_series_old
+distributors: []
+filter: ''
+from_yaml: false
+id: category_hardware_bearing_MR_series_old
+id_no_class: hardware_bearing_MR_series_old
+id_no_size: MR_series_old
+id_no_type: bearing_MR_series_old
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_bearing_MR_series_old
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_bearing_MR_series_old
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_bearing_MR_series_old
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_hardware_bearing_MR_series_old](none)<br>[](none)<br>[Category
+    Hardware Bearing Mr Series Old](none)<br><br>'
+markdown_short: '[category_hardware_bearing_MR_series_old](none)<br><br>'
+md5: b396e8c4c394a9251463b181ddd39422
+md5_10: b396e8c4c3
+md5_10_upper: B396E8C4C3
+md5_5: b396e
+md5_5_upper: B396E
+md5_6: b396e8
+md5_6_alpha: 709go
+md5_6_alpha_upper: 709GO
+md5_6_upper: B396E8
+name: Category Hardware Bearing Mr Series Old
+name_no_class: Hardware Bearing Mr Series Old
+name_no_size: Mr Series Old
+name_no_size_short: Mr Series Old
+name_no_type: Bearing Mr Series Old
+oomp_key: oomp_category_hardware_bearing_MR_series_old
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryhardware
+size: bearing
+size_capital: Bearing
+size_first_letter: b
+size_first_letter_upper: B
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: BEARING
+type: hardware
+type_capital: Hardware
+type_first_letter: h
+type_first_letter_upper: H
+type_upper: HARDWARE

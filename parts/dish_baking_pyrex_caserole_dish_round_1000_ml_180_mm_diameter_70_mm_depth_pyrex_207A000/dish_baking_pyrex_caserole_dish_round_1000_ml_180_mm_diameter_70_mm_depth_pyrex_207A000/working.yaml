@@ -1,0 +1,82 @@
+classification: dish
+classification_capital: Dish
+classification_first_letter: d
+classification_first_letter_upper: D
+classification_upper: DISH
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: 1000_ml_180_mm_diameter_70_mm_depth
+description_extra_capital: 1000 Ml 180 mm Diameter 70 mm Depth
+description_extra_first_letter: '1'
+description_extra_first_letter_upper: '1'
+description_extra_upper: 1000_ML_180_MM_DIAMETER_70_MM_DEPTH
+description_main: caserole_dish_round
+description_main_capital: Caserole Dish Round
+description_main_first_letter: c
+description_main_first_letter_upper: C
+description_main_upper: CASEROLE_DISH_ROUND
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/dish_baking_pyrex_caserole_dish_round_1000_ml_180_mm_diameter_70_mm_depth_pyrex_207A000
+distributors: []
+filter: ''
+from_yaml: false
+id: dish_baking_pyrex_caserole_dish_round_1000_ml_180_mm_diameter_70_mm_depth_pyrex_207A000
+id_no_class: baking_pyrex_caserole_round_1000_ml_180_mm_diameter_70_mm_depth_pyrex_207A000
+id_no_size: caserole_round_1000_ml_180_mm_diameter_70_mm_depth_207A000
+id_no_type: pyrex_caserole_round_1000_ml_180_mm_diameter_70_mm_depth_pyrex_207A000
+link_distributor_pyrex: https://pyrex.co.uk/products/glass-round-casserole-high-resistance?variant=14730280566819
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/dish_baking_pyrex_caserole_dish_round_1000_ml_180_mm_diameter_70_mm_depth_pyrex_207A000
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/dish_baking_pyrex_caserole_dish_round_1000_ml_180_mm_diameter_70_mm_depth_pyrex_207A000
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/dish_baking_pyrex_caserole_dish_round_1000_ml_180_mm_diameter_70_mm_depth_pyrex_207A000
+manufacturer: pyrex
+manufacturer_capital: Pyrex
+manufacturer_first_letter: p
+manufacturer_first_letter_upper: P
+manufacturer_upper: PYREX
+manufacturers: []
+markdown_full: '[dish_baking_pyrex_caserole_dish_round_1000_ml_180_mm_diameter_70_mm_depth_pyrex_207A000](none)<br>[](none)<br>[Dish
+    Baking Pyrex Caserole Dish Round 1000 Ml 180 Mm Diameter 70 Mm Depth Pyrex 207A000](none)<br><br>'
+markdown_short: '[dish_baking_pyrex_caserole_dish_round_1000_ml_180_mm_diameter_70_mm_depth_pyrex_207A000](none)<br><br>'
+md5: 721a1b625980294701d5fa19bb9abca2
+md5_10: 721a1b6259
+md5_10_upper: 721A1B6259
+md5_5: 721a1
+md5_5_upper: 721A1
+md5_6: 721a1b
+md5_6_alpha: 4g9wb
+md5_6_alpha_upper: 4G9WB
+md5_6_upper: 721A1B
+name: Dish Baking Pyrex Caserole Dish Round 1000 Ml 180 Mm Diameter 70 Mm Depth Pyrex
+    207A000
+name_no_class: Baking Pyrex Caserole Round 1000 Ml 180 Mm Diameter 70 Mm Depth Pyrex
+    207A000
+name_no_size: Caserole Round 1000 Ml 180 Mm Diameter 70 Mm Depth 207A000
+name_no_size_short: Caserole Round 1000 Ml 180 Mm Diameter 70 Mm Depth 207A000
+name_no_type: Pyrex Caserole Round 1000 Ml 180 Mm Diameter 70 Mm Depth Pyrex 207A000
+oomp_key: oomp_dish_baking_pyrex_caserole_dish_round_1000_ml_180_mm_diameter_70_mm_depth_pyrex_207A000
+part_number: 207A000
+part_number_capital: 207A000
+part_number_exact: 207A000
+part_number_first_letter: '2'
+part_number_first_letter_upper: '2'
+part_number_upper: 207A000
+short_code: ''
+short_code_upper: ''
+size: pyrex
+size_capital: Pyrex
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PYREX
+type: baking
+type_capital: Baking
+type_first_letter: b
+type_first_letter_upper: B
+type_upper: BAKING

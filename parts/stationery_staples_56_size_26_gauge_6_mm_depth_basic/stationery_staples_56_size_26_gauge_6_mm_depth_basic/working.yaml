@@ -1,0 +1,77 @@
+classification: stationery
+classification_capital: Stationery
+classification_first_letter: s
+classification_first_letter_upper: S
+classification_upper: STATIONERY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: basic
+description_main_capital: Basic
+description_main_first_letter: b
+description_main_first_letter_upper: B
+description_main_upper: BASIC
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/stationery_staples_56_size_26_gauge_6_mm_depth_basic
+distributors: []
+id: stationery_staples_56_size_26_gauge_6_mm_depth_basic
+id_no_class: staples_56_size_26_gauge_6_mm_depth_basic
+id_no_size: basic
+id_no_type: 56_size_26_gauge_6_mm_depth_basic
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_staples_56_size_26_gauge_6_mm_depth_basic
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_staples_56_size_26_gauge_6_mm_depth_basic
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_staples_56_size_26_gauge_6_mm_depth_basic
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[stationery_staples_56_size_26_gauge_6_mm_depth_basic](none)<br>[](none)<br>[Stationery
+    Staples 56 Size 26 Gauge 6 Mm Depth Basic](none)<br><br>'
+markdown_short: '[stationery_staples_56_size_26_gauge_6_mm_depth_basic](none)<br><br>'
+md5: 601a8614339ef77174a0a6cfed35ef8b
+md5_10: 601a861433
+md5_10_upper: 601A861433
+md5_5: 601a8
+md5_5_upper: 601A8
+md5_6: 601a86
+md5_6_alpha: 3qzra
+md5_6_alpha_upper: 3QZRA
+md5_6_upper: 601A86
+name: Stationery Staples 56 Size 26 Gauge 6 Mm Depth Basic
+name_no_class: Staples 56 Size 26 Gauge 6 Mm Depth Basic
+name_no_size: Basic
+name_no_size_short: Basic
+name_no_type: 56 Size 26 Gauge 6 Mm Depth Basic
+oomp_key: oomp_stationery_staples_56_size_26_gauge_6_mm_depth_basic
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: 56_size_26_gauge_6_mm_depth
+size_capital: 56 Size 26 Gauge 6 mm Depth
+size_first_letter: '5'
+size_first_letter_upper: '5'
+size_only_numbers: '56266'
+size_only_numbers_no_zeros: '56266'
+size_upper: 56_SIZE_26_GAUGE_6_MM_DEPTH
+type: staples
+type_capital: Staples
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: STAPLES

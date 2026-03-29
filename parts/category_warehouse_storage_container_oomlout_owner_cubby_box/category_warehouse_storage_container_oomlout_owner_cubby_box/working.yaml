@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: oomlout_owner
+color_capital: Oomlout Owner
+color_first_letter: o
+color_first_letter_upper: O
+color_upper: OOMLOUT_OWNER
+description: category_warehouse
+description_extra: cubby_box
+description_extra_capital: Cubby Box
+description_extra_first_letter: c
+description_extra_first_letter_upper: C
+description_extra_upper: CUBBY_BOX
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'O '
+description_or_color_upper: 'O '
+directory: parts/category_warehouse_storage_container_oomlout_owner_cubby_box
+distributors: []
+filter: ''
+from_yaml: false
+id: category_warehouse_storage_container_oomlout_owner_cubby_box
+id_no_class: warehouse_storage_container_oomlout_owner_cubby_box
+id_no_size: oomlout_owner_cubby_box
+id_no_type: storage_container_oomlout_owner_cubby_box
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_warehouse_storage_container_oomlout_owner_cubby_box
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_warehouse_storage_container_oomlout_owner_cubby_box
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_warehouse_storage_container_oomlout_owner_cubby_box
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_warehouse_storage_container_oomlout_owner_cubby_box](none)<br>[](none)<br>[Category
+    Warehouse Storage Container Oomlout Owner Cubby Box](none)<br><br>'
+markdown_short: '[category_warehouse_storage_container_oomlout_owner_cubby_box](none)<br><br>'
+md5: 4dabcd5028b83bbf1c2443f86b869b9f
+md5_10: 4dabcd5028
+md5_10_upper: 4DABCD5028
+md5_5: 4dabc
+md5_5_upper: 4DABC
+md5_6: 4dabcd
+md5_6_alpha: 313nx
+md5_6_alpha_upper: 313NX
+md5_6_upper: 4DABCD
+name: Category Warehouse Storage Container Oomlout Owner Cubby Box
+name_no_class: Warehouse Storage Container Oomlout Owner Cubby Box
+name_no_size: Oomlout Owner Cubby Box
+name_no_size_short: Oomlout Owner Cubby Box
+name_no_type: Storage Container Oomlout Owner Cubby Box
+oomp_key: oomp_category_warehouse_storage_container_oomlout_owner_cubby_box
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorywarehouse
+size: storage_container
+size_capital: Storage Container
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: STORAGE_CONTAINER
+type: warehouse
+type_capital: Warehouse
+type_first_letter: w
+type_first_letter_upper: W
+type_upper: WAREHOUSE

@@ -1,0 +1,80 @@
+classification: food
+classification_capital: Food
+classification_first_letter: f
+classification_first_letter_upper: F
+classification_upper: FOOD
+color: giant
+color_capital: Giant
+color_first_letter: g
+color_first_letter_upper: G
+color_upper: GIANT
+description: couscous_giant
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'G '
+description_or_color_upper: 'G '
+directory: parts/food_starch_couscous_giant
+distributors: []
+filter: ''
+from_yaml: false
+id: food_starch_couscous_giant
+id_no_class: starch_couscous_giant
+id_no_size: giant
+id_no_type: couscous_giant
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_couscous_giant
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_couscous_giant
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_couscous_giant
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[food_starch_couscous_giant](none)<br>[](none)<br>[Food Starch Couscous
+    Giant](none)<br><br>'
+markdown_short: '[food_starch_couscous_giant](none)<br><br>'
+md5: dae4fcb5b50090be3e8733c25be87b95
+md5_10: dae4fcb5b5
+md5_10_upper: DAE4FCB5B5
+md5_5: dae4f
+md5_5_upper: DAE4F
+md5_6: dae4fc
+md5_6_alpha: 8jh18
+md5_6_alpha_upper: 8JH18
+md5_6_upper: DAE4FC
+name: Food Starch Couscous Giant
+name_no_class: Starch Couscous Giant
+name_no_size: Giant
+name_no_size_short: Giant
+name_no_type: Couscous Giant
+name_short: Couscous Giant
+oomp_key: oomp_food_starch_couscous_giant
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: couscous
+size_capital: Couscous
+size_first_letter: c
+size_first_letter_upper: C
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: COUSCOUS
+type: starch
+type_capital: Starch
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: STARCH

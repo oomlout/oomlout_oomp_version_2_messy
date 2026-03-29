@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_tool
+description_extra: tote
+description_extra_capital: Tote
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TOTE
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_tool_plastic_prying_tool_tote
+distributors: []
+filter: ''
+from_yaml: false
+id: category_tool_plastic_prying_tool_tote
+id_no_class: tool_plastic_prying_tool_tote
+id_no_size: plastic_prying_tote
+id_no_type: plastic_prying_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_plastic_prying_tool_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_plastic_prying_tool_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_plastic_prying_tool_tote
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_tool_plastic_prying_tool_tote](none)<br>[](none)<br>[Category
+    Tool Plastic Prying Tool Tote](none)<br><br>'
+markdown_short: '[category_tool_plastic_prying_tool_tote](none)<br><br>'
+md5: 322a51b28caab717da5e775256fda748
+md5_10: 322a51b28c
+md5_10_upper: 322A51B28C
+md5_5: 322a5
+md5_5_upper: 322A5
+md5_6: 322a51
+md5_6_alpha: 1ygr5
+md5_6_alpha_upper: 1YGR5
+md5_6_upper: 322A51
+name: Category Tool Plastic Prying Tool Tote
+name_no_class: Tool Plastic Prying Tool Tote
+name_no_size: Plastic Prying Tote
+name_no_size_short: Plastic Prying Tote
+name_no_type: Plastic Prying Tote
+oomp_key: oomp_category_tool_plastic_prying_tool_tote
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorytool
+size: plastic_prying_tool
+size_capital: Plastic Prying Tool
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PLASTIC_PRYING_TOOL
+type: tool
+type_capital: Tool
+type_first_letter: t
+type_first_letter_upper: T
+type_upper: TOOL

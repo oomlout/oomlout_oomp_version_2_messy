@@ -1,0 +1,77 @@
+classification: craft
+classification_capital: Craft
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CRAFT
+color: black
+color_capital: Black
+color_first_letter: b
+color_first_letter_upper: B
+color_upper: BLACK
+description_extra: 1_meter
+description_extra_capital: 1 Meter
+description_extra_first_letter: '1'
+description_extra_first_letter_upper: '1'
+description_extra_upper: 1_METER
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'B '
+description_or_color_upper: 'B '
+directory: parts/craft_ribbon_elastic_black_1_meter
+distributors: []
+id: craft_ribbon_elastic_black_1_meter
+id_no_class: ribbon_elastic_black_1_meter
+id_no_size: black_1_meter
+id_no_type: elastic_black_1_meter
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/craft_ribbon_elastic_black_1_meter
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/craft_ribbon_elastic_black_1_meter
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/craft_ribbon_elastic_black_1_meter
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[craft_ribbon_elastic_black_1_meter](none)<br>[b](none)<br>[Craft
+    Ribbon Elastic Black 1 Meter](none)<br><br>'
+markdown_short: '[craft_ribbon_elastic_black_1_meter](none)<br><br>'
+md5: b74ed93c7d6e01bc78eb980788627eaa
+md5_10: b74ed93c7d
+md5_10_upper: B74ED93C7D
+md5_5: b74ed
+md5_5_upper: B74ED
+md5_6: b74ed9
+md5_6_alpha: 75hi1
+md5_6_alpha_upper: 75HI1
+md5_6_upper: B74ED9
+name: Craft Ribbon Elastic Black 1 Meter
+name_no_class: Ribbon Elastic Black 1 Meter
+name_no_size: Black 1 Meter
+name_no_size_short: Black 1 Meter
+name_no_type: Elastic Black 1 Meter
+oomp_key: oomp_craft_ribbon_elastic_black_1_meter
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: b
+short_code_upper: B
+short_name: ''
+size: elastic
+size_capital: Elastic
+size_first_letter: e
+size_first_letter_upper: E
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ELASTIC
+type: ribbon
+type_capital: Ribbon
+type_first_letter: r
+type_first_letter_upper: R
+type_upper: RIBBON

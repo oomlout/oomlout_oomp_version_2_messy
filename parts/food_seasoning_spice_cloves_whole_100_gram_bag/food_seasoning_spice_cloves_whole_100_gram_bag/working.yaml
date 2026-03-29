@@ -1,0 +1,80 @@
+classification: food
+classification_capital: Food
+classification_first_letter: f
+classification_first_letter_upper: F
+classification_upper: FOOD
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: cloves whole
+description_extra: 100_gram_bag
+description_extra_capital: 100 Gram Bag
+description_extra_first_letter: '1'
+description_extra_first_letter_upper: '1'
+description_extra_upper: 100_GRAM_BAG
+description_main: cloves_whole
+description_main_capital: Cloves Whole
+description_main_first_letter: c
+description_main_first_letter_upper: C
+description_main_upper: CLOVES_WHOLE
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/food_seasoning_spice_cloves_whole_100_gram_bag
+distributors: []
+filter: ''
+from_yaml: false
+id: food_seasoning_spice_cloves_whole_100_gram_bag
+id_no_class: seasoning_spice_cloves_whole_100_gram_bag
+id_no_size: cloves_whole_100_gram_bag
+id_no_type: spice_cloves_whole_100_gram_bag
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_spice_cloves_whole_100_gram_bag
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_spice_cloves_whole_100_gram_bag
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_spice_cloves_whole_100_gram_bag
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[food_seasoning_spice_cloves_whole_100_gram_bag](none)<br>[](none)<br>[Food
+    Seasoning Spice Cloves Whole 100 Gram Bag](none)<br><br>'
+markdown_short: '[food_seasoning_spice_cloves_whole_100_gram_bag](none)<br><br>'
+md5: 76c267714c7780dff6546cd52a2ed088
+md5_10: 76c267714c
+md5_10_upper: 76C267714C
+md5_5: 76c26
+md5_5_upper: 76C26
+md5_6: 76c267
+md5_6_alpha: 4mtev
+md5_6_alpha_upper: 4MTEV
+md5_6_upper: 76C267
+name: Food Seasoning Spice Cloves Whole 100 Gram Bag
+name_no_class: Seasoning Spice Cloves Whole 100 Gram Bag
+name_no_size: Cloves Whole 100 Gram Bag
+name_no_size_short: Cloves Whole 100 Gram Bag
+name_no_type: Spice Cloves Whole 100 Gram Bag
+name_short: Cloves Whole
+oomp_key: oomp_food_seasoning_spice_cloves_whole_100_gram_bag
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: spice
+size_capital: Spice
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SPICE
+type: seasoning
+type_capital: Seasoning
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: SEASONING

@@ -1,0 +1,82 @@
+classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_upper: ELECTRONIC
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: 2_pole_inline
+description_extra_capital: 2 Pole Inline
+description_extra_first_letter: '2'
+description_extra_first_letter_upper: '2'
+description_extra_upper: 2_POLE_INLINE
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/electronic_connector_wago_221_2_pole_inline_wago_221_2411
+distributor_screwfix: 148RU
+distributor_screwfix_link: https://www.screwfix.com/p/148ru
+distributors: []
+filter: ''
+from_yaml: false
+id: electronic_connector_wago_221_2_pole_inline_wago_221_2411
+id_no_class: connector_wago_221_2_pole_inline_wago_221_2411
+id_no_size: 2_pole_inline_2411
+id_no_type: wago_221_2_pole_inline_wago_221_2411
+kicad_reference: L
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_connector_wago_221_2_pole_inline_wago_221_2411
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_connector_wago_221_2_pole_inline_wago_221_2411
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_connector_wago_221_2_pole_inline_wago_221_2411
+manufacturer: wago
+manufacturer_capital: Wago
+manufacturer_first_letter: w
+manufacturer_first_letter_upper: W
+manufacturer_upper: WAGO
+manufacturers: []
+markdown_full: '[electronic_connector_wago_221_2_pole_inline_wago_221_2411](none)<br>[conw221](none)<br>[Electronic
+    Connector Wago 221 2 Pole Inline Wago 221 2411](none)<br><br>'
+markdown_short: '[electronic_connector_wago_221_2_pole_inline_wago_221_2411](none)<br><br>'
+md5: 0bc5b16df15af1744cf22b110d81acd2
+md5_10: 0bc5b16df1
+md5_10_upper: 0BC5B16DF1
+md5_5: 0bc5b
+md5_5_upper: 0BC5B
+md5_6: 0bc5b1
+md5_6_alpha: gjap
+md5_6_alpha_upper: GJAP
+md5_6_upper: 0BC5B1
+name: Electronic Connector Wago 221 2 Pole Inline Wago 221 2411
+name_no_class: Connector Wago 221 2 Pole Inline Wago 221 2411
+name_no_size: 2 Pole Inline 2411
+name_no_size_short: 2 Pole Inline 2411
+name_no_type: Wago 221 2 Pole Inline Wago 221 2411
+oomp_key: oomp_electronic_connector_wago_221_2_pole_inline_wago_221_2411
+part_number: '221_2411'
+part_number_capital: '221.2411'
+part_number_exact: 221-2411
+part_number_first_letter: '2'
+part_number_first_letter_upper: '2'
+part_number_upper: '221_2411'
+short_code: conw221
+short_code_upper: CONW221
+size: wago_221
+size_capital: Wago 221
+size_first_letter: w
+size_first_letter_upper: W
+size_only_numbers: '221'
+size_only_numbers_no_zeros: '221'
+size_upper: WAGO_221
+type: connector
+type_capital: Connector
+type_first_letter: c
+type_first_letter_upper: C
+type_upper: CONNECTOR

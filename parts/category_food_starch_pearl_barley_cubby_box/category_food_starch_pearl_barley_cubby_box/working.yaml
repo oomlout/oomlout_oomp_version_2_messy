@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: pearl_barley
+color_capital: Pearl Barley
+color_first_letter: p
+color_first_letter_upper: P
+color_upper: PEARL_BARLEY
+description: category_food
+description_extra: cubby_box
+description_extra_capital: Cubby Box
+description_extra_first_letter: c
+description_extra_first_letter_upper: C
+description_extra_upper: CUBBY_BOX
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'P '
+description_or_color_upper: 'P '
+directory: parts/category_food_starch_pearl_barley_cubby_box
+distributors: []
+filter: ''
+from_yaml: false
+id: category_food_starch_pearl_barley_cubby_box
+id_no_class: food_starch_pearl_barley_cubby_box
+id_no_size: pearl_barley_cubby_box
+id_no_type: starch_pearl_barley_cubby_box
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_starch_pearl_barley_cubby_box
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_starch_pearl_barley_cubby_box
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_starch_pearl_barley_cubby_box
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_food_starch_pearl_barley_cubby_box](none)<br>[](none)<br>[Category
+    Food Starch Pearl Barley Cubby Box](none)<br><br>'
+markdown_short: '[category_food_starch_pearl_barley_cubby_box](none)<br><br>'
+md5: 3da557b916f195dd9265eb5ec68c1098
+md5_10: 3da557b916
+md5_10_upper: 3DA557B916
+md5_5: 3da55
+md5_5_upper: 3DA55
+md5_6: 3da557
+md5_6_alpha: 2elav
+md5_6_alpha_upper: 2ELAV
+md5_6_upper: 3DA557
+name: Category Food Starch Pearl Barley Cubby Box
+name_no_class: Food Starch Pearl Barley Cubby Box
+name_no_size: Pearl Barley Cubby Box
+name_no_size_short: Pearl Barley Cubby Box
+name_no_type: Starch Pearl Barley Cubby Box
+oomp_key: oomp_category_food_starch_pearl_barley_cubby_box
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryfood
+size: starch
+size_capital: Starch
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: STARCH
+type: food
+type_capital: Food
+type_first_letter: f
+type_first_letter_upper: F
+type_upper: FOOD

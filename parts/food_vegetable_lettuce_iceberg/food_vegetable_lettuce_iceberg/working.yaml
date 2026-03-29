@@ -1,0 +1,81 @@
+classification: food
+classification_capital: Food
+classification_first_letter: f
+classification_first_letter_upper: F
+classification_upper: FOOD
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: M&S Iceberg Lettuce
+description_extra: iceberg
+description_extra_capital: Iceberg
+description_extra_first_letter: i
+description_extra_first_letter_upper: I
+description_extra_upper: ICEBERG
+description_main: lettuce
+description_main_capital: Lettuce
+description_main_first_letter: l
+description_main_first_letter_upper: L
+description_main_upper: LETTUCE
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/food_vegetable_lettuce_iceberg
+distributors: []
+filter: ''
+from_yaml: false
+id: food_vegetable_lettuce_iceberg
+id_no_class: vegetable_lettuce_iceberg
+id_no_size: lettuceiceberg
+id_no_type: lettuce_iceberg
+link_distributor_ocado: https://www.ocado.com/search?entry=518090011
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_vegetable_lettuce_iceberg
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_vegetable_lettuce_iceberg
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_vegetable_lettuce_iceberg
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[food_vegetable_lettuce_iceberg](none)<br>[](none)<br>[Food Vegetable
+    Lettuce Iceberg](none)<br><br>'
+markdown_short: '[food_vegetable_lettuce_iceberg](none)<br><br>'
+md5: dceee918a5a7908186786f20a210b0e2
+md5_10: dceee918a5
+md5_10_upper: DCEEE918A5
+md5_5: dceee
+md5_5_upper: DCEEE
+md5_6: dceee9
+md5_6_alpha: 8mc4p
+md5_6_alpha_upper: 8MC4P
+md5_6_upper: DCEEE9
+name: Food Vegetable Lettuce Iceberg
+name_no_class: Vegetable Lettuce Iceberg
+name_no_size: Lettuceiceberg
+name_no_size_short: Lettuceiceberg
+name_no_type: Lettuce Iceberg
+oomp_key: oomp_food_vegetable_lettuce_iceberg
+part_number: ''
+part_number_capital: ''
+part_number_distributor_ocado: '518090011'
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: vegetable
+type_capital: Vegetable
+type_first_letter: v
+type_first_letter_upper: V
+type_upper: VEGETABLE

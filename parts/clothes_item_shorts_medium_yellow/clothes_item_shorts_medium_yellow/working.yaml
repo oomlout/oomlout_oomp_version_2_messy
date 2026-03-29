@@ -1,0 +1,78 @@
+classification: clothes
+classification_capital: Clothes
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CLOTHES
+color: medium
+color_capital: Medium
+color_first_letter: m
+color_first_letter_upper: M
+color_upper: MEDIUM
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: yellow
+description_main_capital: Yellow
+description_main_first_letter: y
+description_main_first_letter_upper: Y
+description_main_upper: YELLOW
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'M '
+description_or_color_upper: 'M '
+directory: parts/clothes_item_shorts_medium_yellow
+distributors: []
+filter: ''
+from_yaml: false
+id: clothes_item_shorts_medium_yellow
+id_no_class: item_shorts_medium_yellow
+id_no_size: medium_yellow
+id_no_type: shorts_medium_yellow
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_shorts_medium_yellow
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_shorts_medium_yellow
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_shorts_medium_yellow
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[clothes_item_shorts_medium_yellow](none)<br>[](none)<br>[Clothes
+    Item Shorts Medium Yellow](none)<br><br>'
+markdown_short: '[clothes_item_shorts_medium_yellow](none)<br><br>'
+md5: 54efcdef9761ea6c7e723c105533d3d9
+md5_10: 54efcdef97
+md5_10_upper: 54EFCDEF97
+md5_5: 54efc
+md5_5_upper: 54EFC
+md5_6: 54efcd
+md5_6_alpha: 3bb2l
+md5_6_alpha_upper: 3BB2L
+md5_6_upper: 54EFCD
+name: Clothes Item Shorts Medium Yellow
+name_no_class: Item Shorts Medium Yellow
+name_no_size: Medium Yellow
+name_no_size_short: Medium Yellow
+name_no_type: Shorts Medium Yellow
+oomp_key: oomp_clothes_item_shorts_medium_yellow
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: shorts
+size_capital: Shorts
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SHORTS
+type: item
+type_capital: Item
+type_first_letter: i
+type_first_letter_upper: I
+type_upper: ITEM

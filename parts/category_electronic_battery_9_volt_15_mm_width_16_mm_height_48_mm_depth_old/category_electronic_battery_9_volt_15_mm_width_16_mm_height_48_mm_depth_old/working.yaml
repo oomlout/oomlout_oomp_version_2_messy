@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: 9_volt_15_mm_width_16_mm_height_48_mm_depth
+color_capital: 9 Volt 15 mm Width 16 mm Height 48 mm Depth
+color_first_letter: '9'
+color_first_letter_upper: '9'
+color_upper: 9_VOLT_15_MM_WIDTH_16_MM_HEIGHT_48_MM_DEPTH
+description: category_electronic
+description_extra: old
+description_extra_capital: Old
+description_extra_first_letter: o
+description_extra_first_letter_upper: O
+description_extra_upper: OLD
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: '9 '
+description_or_color_upper: '9 '
+directory: parts/category_electronic_battery_9_volt_15_mm_width_16_mm_height_48_mm_depth_old
+distributors: []
+filter: ''
+from_yaml: false
+id: category_electronic_battery_9_volt_15_mm_width_16_mm_height_48_mm_depth_old
+id_no_class: electronic_battery_9_volt_15_mm_width_16_mm_height_48_mm_depth_old
+id_no_size: 9_volt_15_mm_width_16_mm_height_48_mm_depth_old
+id_no_type: battery_9_volt_15_mm_width_16_mm_height_48_mm_depth_old
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_battery_9_volt_15_mm_width_16_mm_height_48_mm_depth_old
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_battery_9_volt_15_mm_width_16_mm_height_48_mm_depth_old
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_battery_9_volt_15_mm_width_16_mm_height_48_mm_depth_old
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_electronic_battery_9_volt_15_mm_width_16_mm_height_48_mm_depth_old](none)<br>[](none)<br>[Category
+    Electronic Battery 9 Volt 15 Mm Width 16 Mm Height 48 Mm Depth Old](none)<br><br>'
+markdown_short: '[category_electronic_battery_9_volt_15_mm_width_16_mm_height_48_mm_depth_old](none)<br><br>'
+md5: bd49b5000479dd1a3b84ae6f3457c9bf
+md5_10: bd49b50004
+md5_10_upper: BD49B50004
+md5_5: bd49b
+md5_5_upper: BD49B
+md5_6: bd49b5
+md5_6_alpha: 7dvw5
+md5_6_alpha_upper: 7DVW5
+md5_6_upper: BD49B5
+name: Category Electronic Battery 9 Volt 15 Mm Width 16 Mm Height 48 Mm Depth Old
+name_no_class: Electronic Battery 9 Volt 15 Mm Width 16 Mm Height 48 Mm Depth Old
+name_no_size: 9 Volt 15 Mm Width 16 Mm Height 48 Mm Depth Old
+name_no_size_short: 9 Volt 15 Mm Width 16 Mm Height 48 Mm Depth Old
+name_no_type: Battery 9 Volt 15 Mm Width 16 Mm Height 48 Mm Depth Old
+oomp_key: oomp_category_electronic_battery_9_volt_15_mm_width_16_mm_height_48_mm_depth_old
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryelectronic
+size: battery
+size_capital: Battery
+size_first_letter: b
+size_first_letter_upper: B
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: BATTERY
+type: electronic
+type_capital: Electronic
+type_first_letter: e
+type_first_letter_upper: E
+type_upper: ELECTRONIC

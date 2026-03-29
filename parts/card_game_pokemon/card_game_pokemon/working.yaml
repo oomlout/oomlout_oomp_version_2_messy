@@ -1,0 +1,77 @@
+classification: card_game
+classification_capital: Card Game
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CARD_GAME
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/card_game_pokemon
+distributors: []
+filter: ''
+from_yaml: false
+id: card_game_pokemon
+id_no_class: pokemon
+id_no_size: pokemon
+id_no_type: pokemon
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/card_game_pokemon
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/card_game_pokemon
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/card_game_pokemon
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[card_game_pokemon](none)<br>[](none)<br>[Card Game Pokemon](none)<br><br>'
+markdown_short: '[card_game_pokemon](none)<br><br>'
+md5: 6457f54b8e11a9156ab141b4499a164a
+md5_10: 6457f54b8e
+md5_10_upper: 6457F54B8E
+md5_5: 6457f
+md5_5_upper: 6457F
+md5_6: 6457f5
+md5_6_alpha: 3wy5x
+md5_6_alpha_upper: 3WY5X
+md5_6_upper: 6457F5
+name: Card Game Pokemon
+name_no_class: Pokemon
+name_no_size: Pokemon
+name_no_size_short: Pokemon
+name_no_type: Pokemon
+oomp_key: oomp_card_game_pokemon
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: pokemon
+type_capital: Pokemon
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: POKEMON

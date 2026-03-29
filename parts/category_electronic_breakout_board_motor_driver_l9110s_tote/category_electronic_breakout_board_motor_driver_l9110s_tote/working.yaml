@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: l9110s
+color_capital: L9110S
+color_first_letter: l
+color_first_letter_upper: L
+color_upper: L9110S
+description: category_electronic
+description_extra: tote
+description_extra_capital: Tote
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TOTE
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'L '
+description_or_color_upper: 'L '
+directory: parts/category_electronic_breakout_board_motor_driver_l9110s_tote
+distributors: []
+filter: ''
+from_yaml: false
+id: category_electronic_breakout_board_motor_driver_l9110s_tote
+id_no_class: electronic_breakout_board_motor_driver_l9110s_tote
+id_no_size: l9110s_tote
+id_no_type: breakout_board_motor_driver_l9110s_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_breakout_board_motor_driver_l9110s_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_breakout_board_motor_driver_l9110s_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_breakout_board_motor_driver_l9110s_tote
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_electronic_breakout_board_motor_driver_l9110s_tote](none)<br>[](none)<br>[Category
+    Electronic Breakout Board Motor Driver L9110S Tote](none)<br><br>'
+markdown_short: '[category_electronic_breakout_board_motor_driver_l9110s_tote](none)<br><br>'
+md5: 69d4178c42f61124d8ed984aabfe831f
+md5_10: 69d4178c42
+md5_10_upper: 69D4178C42
+md5_5: 69d41
+md5_5_upper: 69D41
+md5_6: 69d417
+md5_6_alpha: 44niv
+md5_6_alpha_upper: 44NIV
+md5_6_upper: 69D417
+name: Category Electronic Breakout Board Motor Driver L9110S Tote
+name_no_class: Electronic Breakout Board Motor Driver L9110S Tote
+name_no_size: L9110S Tote
+name_no_size_short: L9110S Tote
+name_no_type: Breakout Board Motor Driver L9110S Tote
+oomp_key: oomp_category_electronic_breakout_board_motor_driver_l9110s_tote
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryelectronic
+size: breakout_board_motor_driver
+size_capital: Breakout Board Motor Driver
+size_first_letter: b
+size_first_letter_upper: B
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: BREAKOUT_BOARD_MOTOR_DRIVER
+type: electronic
+type_capital: Electronic
+type_first_letter: e
+type_first_letter_upper: E
+type_upper: ELECTRONIC

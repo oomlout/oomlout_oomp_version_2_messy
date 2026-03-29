@@ -1,0 +1,80 @@
+classification: food
+classification_capital: Food
+classification_first_letter: f
+classification_first_letter_upper: F
+classification_upper: FOOD
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: M&S Perfectly Ripe Medium Hass Avocados
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: avocado
+description_main_capital: Avocado
+description_main_first_letter: a
+description_main_first_letter_upper: A
+description_main_upper: AVOCADO
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/food_vegetable_avocado
+distributors: []
+filter: ''
+from_yaml: false
+id: food_vegetable_avocado
+id_no_class: vegetable_avocado
+id_no_size: avocado
+id_no_type: avocado
+link_distributor_ocado: https://www.ocado.com/search?entry=517789011
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_vegetable_avocado
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_vegetable_avocado
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_vegetable_avocado
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[food_vegetable_avocado](none)<br>[](none)<br>[Food Vegetable Avocado](none)<br><br>'
+markdown_short: '[food_vegetable_avocado](none)<br><br>'
+md5: dc17badb565fe45ec0d49575d1d89784
+md5_10: dc17badb56
+md5_10_upper: DC17BADB56
+md5_5: dc17b
+md5_5_upper: DC17B
+md5_6: dc17ba
+md5_6_alpha: 8l5mi
+md5_6_alpha_upper: 8L5MI
+md5_6_upper: DC17BA
+name: Food Vegetable Avocado
+name_no_class: Vegetable Avocado
+name_no_size: Avocado
+name_no_size_short: Avocado
+name_no_type: Avocado
+oomp_key: oomp_food_vegetable_avocado
+part_number: ''
+part_number_capital: ''
+part_number_distributor_ocado: '517789011'
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: vegetable
+type_capital: Vegetable
+type_first_letter: v
+type_first_letter_upper: V
+type_upper: VEGETABLE

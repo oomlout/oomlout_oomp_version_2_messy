@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_furniture
+description_extra: to_sort
+description_extra_capital: To Sort
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TO_SORT
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_furniture_cabinet_to_sort
+distributors: []
+filter: ''
+from_yaml: false
+id: category_furniture_cabinet_to_sort
+id_no_class: furniture_cabinet_to_sort
+id_no_size: to_sort
+id_no_type: cabinet_to_sort
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_furniture_cabinet_to_sort
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_furniture_cabinet_to_sort
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_furniture_cabinet_to_sort
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_furniture_cabinet_to_sort](none)<br>[](none)<br>[Category
+    Furniture Cabinet To Sort](none)<br><br>'
+markdown_short: '[category_furniture_cabinet_to_sort](none)<br><br>'
+md5: 2a72c97216efd0d688f0b656f8699a49
+md5_10: 2a72c97216
+md5_10_upper: 2A72C97216
+md5_5: 2a72c
+md5_5_upper: 2A72C
+md5_6: 2a72c9
+md5_6_alpha: 1nmix
+md5_6_alpha_upper: 1NMIX
+md5_6_upper: 2A72C9
+name: Category Furniture Cabinet To Sort
+name_no_class: Furniture Cabinet To Sort
+name_no_size: To Sort
+name_no_size_short: To Sort
+name_no_type: Cabinet To Sort
+oomp_key: oomp_category_furniture_cabinet_to_sort
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryfurniture
+size: cabinet
+size_capital: Cabinet
+size_first_letter: c
+size_first_letter_upper: C
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: CABINET
+type: furniture
+type_capital: Furniture
+type_first_letter: f
+type_first_letter_upper: F
+type_upper: FURNITURE

@@ -1,0 +1,79 @@
+classification: vinyl
+classification_capital: Vinyl
+classification_first_letter: v
+classification_first_letter_upper: V
+classification_upper: VINYL
+color: white
+color_capital: White
+color_first_letter: w
+color_first_letter_upper: W
+color_upper: WHITE
+description_extra: 1260_mm_width_roll
+description_extra_capital: 1260 mm Width Roll
+description_extra_first_letter: '1'
+description_extra_first_letter_upper: '1'
+description_extra_upper: 1260_MM_WIDTH_ROLL
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'W '
+description_or_color_upper: 'W '
+directory: parts/vinyl_white_1260_mm_width_roll
+distributors: []
+filter: ''
+from_yaml: false
+id: vinyl_white_1260_mm_width_roll
+id_no_class: white_1260_mm_width_roll
+id_no_size: white1260mmwidthroll
+id_no_type: white1260mmwidthroll
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/vinyl_white_1260_mm_width_roll
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/vinyl_white_1260_mm_width_roll
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/vinyl_white_1260_mm_width_roll
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[vinyl_white_1260_mm_width_roll](none)<br>[w](none)<br>[Vinyl White
+    1260 Mm Width Roll](none)<br><br>'
+markdown_short: '[vinyl_white_1260_mm_width_roll](none)<br><br>'
+md5: 37e61f6117a3a8f81e0c952e6642b92b
+md5_10: 37e61f6117
+md5_10_upper: 37E61F6117
+md5_5: 37e61
+md5_5_upper: 37E61
+md5_6: 37e61f
+md5_6_alpha: 26iov
+md5_6_alpha_upper: 26IOV
+md5_6_upper: 37E61F
+name: Vinyl White 1260 Mm Width Roll
+name_no_class: White 1260 Mm Width Roll
+name_no_size: White1260Mmwidthroll
+name_no_size_short: White1260Mmwidthroll
+name_no_type: White1260Mmwidthroll
+oomp_key: oomp_vinyl_white_1260_mm_width_roll
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: w
+short_code_upper: W
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: ''
+type_capital: ''
+type_first_letter: ''
+type_first_letter_upper: ''
+type_upper: ''
+width: 1260 mm

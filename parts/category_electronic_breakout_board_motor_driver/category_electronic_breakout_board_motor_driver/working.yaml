@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_electronic
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_electronic_breakout_board_motor_driver
+distributors: []
+filter: ''
+from_yaml: false
+id: category_electronic_breakout_board_motor_driver
+id_no_class: electronic_breakout_board_motor_driver
+id_no_size: breakout_board_motor_driver
+id_no_type: breakout_board_motor_driver
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_breakout_board_motor_driver
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_breakout_board_motor_driver
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_breakout_board_motor_driver
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_electronic_breakout_board_motor_driver](none)<br>[](none)<br>[Category
+    Electronic Breakout Board Motor Driver](none)<br><br>'
+markdown_short: '[category_electronic_breakout_board_motor_driver](none)<br><br>'
+md5: 9cf7be07c9f054399883e7d6eee3016e
+md5_10: 9cf7be07c9
+md5_10_upper: 9CF7BE07C9
+md5_5: 9cf7b
+md5_5_upper: 9CF7B
+md5_6: 9cf7be
+md5_6_alpha: 64hj2
+md5_6_alpha_upper: 64HJ2
+md5_6_upper: 9CF7BE
+name: Category Electronic Breakout Board Motor Driver
+name_no_class: Electronic Breakout Board Motor Driver
+name_no_size: Breakout Board Motor Driver
+name_no_size_short: Breakout Board Motor Driver
+name_no_type: Breakout Board Motor Driver
+oomp_key: oomp_category_electronic_breakout_board_motor_driver
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryelectronic
+size: breakout_board_motor_driver
+size_capital: Breakout Board Motor Driver
+size_first_letter: b
+size_first_letter_upper: B
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: BREAKOUT_BOARD_MOTOR_DRIVER
+type: electronic
+type_capital: Electronic
+type_first_letter: e
+type_first_letter_upper: E
+type_upper: ELECTRONIC

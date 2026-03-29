@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_packaging
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_packaging_cardboard_box_postal_tabs
+distributors: []
+filter: ''
+from_yaml: false
+id: category_packaging_cardboard_box_postal_tabs
+id_no_class: packaging_cardboard_box_postal_tabs
+id_no_size: cardboard_box_postal_tabs
+id_no_type: cardboard_box_postal_tabs
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_packaging_cardboard_box_postal_tabs
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_packaging_cardboard_box_postal_tabs
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_packaging_cardboard_box_postal_tabs
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_packaging_cardboard_box_postal_tabs](none)<br>[](none)<br>[Category
+    Packaging Cardboard Box Postal Tabs](none)<br><br>'
+markdown_short: '[category_packaging_cardboard_box_postal_tabs](none)<br><br>'
+md5: ff1d60ddd9332332f3a649a66314c211
+md5_10: ff1d60ddd9
+md5_10_upper: FF1D60DDD9
+md5_5: ff1d6
+md5_5_upper: FF1D6
+md5_6: ff1d60
+md5_6_alpha: 9ycm8
+md5_6_alpha_upper: 9YCM8
+md5_6_upper: FF1D60
+name: Category Packaging Cardboard Box Postal Tabs
+name_no_class: Packaging Cardboard Box Postal Tabs
+name_no_size: Cardboard Box Postal Tabs
+name_no_size_short: Cardboard Box Postal Tabs
+name_no_type: Cardboard Box Postal Tabs
+oomp_key: oomp_category_packaging_cardboard_box_postal_tabs
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorypackaging
+size: cardboard_box_postal_tabs
+size_capital: Cardboard Box Postal Tabs
+size_first_letter: c
+size_first_letter_upper: C
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: CARDBOARD_BOX_POSTAL_TABS
+type: packaging
+type_capital: Packaging
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PACKAGING

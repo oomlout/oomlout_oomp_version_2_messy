@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: usb_mini
+color_capital: Usb Mini
+color_first_letter: u
+color_first_letter_upper: U
+color_upper: USB_MINI
+description: category_electronic
+description_extra: old
+description_extra_capital: Old
+description_extra_first_letter: o
+description_extra_first_letter_upper: O
+description_extra_upper: OLD
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'U '
+description_or_color_upper: 'U '
+directory: parts/category_electronic_socket_usb_mini_old
+distributors: []
+filter: ''
+from_yaml: false
+id: category_electronic_socket_usb_mini_old
+id_no_class: electronic_socket_usb_mini_old
+id_no_size: usb_mini_old
+id_no_type: socket_usb_mini_old
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_socket_usb_mini_old
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_socket_usb_mini_old
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_socket_usb_mini_old
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_electronic_socket_usb_mini_old](none)<br>[](none)<br>[Category
+    Electronic Socket Usb Mini Old](none)<br><br>'
+markdown_short: '[category_electronic_socket_usb_mini_old](none)<br><br>'
+md5: dfdf3be69eb77ac99bde9f6d493383b7
+md5_10: dfdf3be69e
+md5_10_upper: DFDF3BE69E
+md5_5: dfdf3
+md5_5_upper: DFDF3
+md5_6: dfdf3b
+md5_6_alpha: 8qgqj
+md5_6_alpha_upper: 8QGQJ
+md5_6_upper: DFDF3B
+name: Category Electronic Socket Usb Mini Old
+name_no_class: Electronic Socket Usb Mini Old
+name_no_size: Usb Mini Old
+name_no_size_short: Usb Mini Old
+name_no_type: Socket Usb Mini Old
+oomp_key: oomp_category_electronic_socket_usb_mini_old
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryelectronic
+size: socket
+size_capital: Socket
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SOCKET
+type: electronic
+type_capital: Electronic
+type_first_letter: e
+type_first_letter_upper: E
+type_upper: ELECTRONIC

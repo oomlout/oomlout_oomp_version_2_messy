@@ -1,0 +1,78 @@
+classification: clothes
+classification_capital: Clothes
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CLOTHES
+color: medium
+color_capital: Medium
+color_first_letter: m
+color_first_letter_upper: M
+color_upper: MEDIUM
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: lime
+description_main_capital: Lime
+description_main_first_letter: l
+description_main_first_letter_upper: L
+description_main_upper: LIME
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'M '
+description_or_color_upper: 'M '
+directory: parts/clothes_item_swimwear_medium_lime
+distributors: []
+filter: ''
+from_yaml: false
+id: clothes_item_swimwear_medium_lime
+id_no_class: item_swimwear_medium_lime
+id_no_size: medium_lime
+id_no_type: swimwear_medium_lime
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_swimwear_medium_lime
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_swimwear_medium_lime
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_swimwear_medium_lime
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[clothes_item_swimwear_medium_lime](none)<br>[](none)<br>[Clothes
+    Item Swimwear Medium Lime](none)<br><br>'
+markdown_short: '[clothes_item_swimwear_medium_lime](none)<br><br>'
+md5: c1d22cf19c94321ced90f0ee84d4be34
+md5_10: c1d22cf19c
+md5_10_upper: C1D22CF19C
+md5_5: c1d22
+md5_5_upper: C1D22
+md5_6: c1d22c
+md5_6_alpha: 7k94c
+md5_6_alpha_upper: 7K94C
+md5_6_upper: C1D22C
+name: Clothes Item Swimwear Medium Lime
+name_no_class: Item Swimwear Medium Lime
+name_no_size: Medium Lime
+name_no_size_short: Medium Lime
+name_no_type: Swimwear Medium Lime
+oomp_key: oomp_clothes_item_swimwear_medium_lime
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: swimwear
+size_capital: Swimwear
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SWIMWEAR
+type: item
+type_capital: Item
+type_first_letter: i
+type_first_letter_upper: I
+type_upper: ITEM

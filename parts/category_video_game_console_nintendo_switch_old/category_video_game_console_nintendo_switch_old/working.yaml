@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_video_game_console
+description_extra: old
+description_extra_capital: Old
+description_extra_first_letter: o
+description_extra_first_letter_upper: O
+description_extra_upper: OLD
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_video_game_console_nintendo_switch_old
+distributors: []
+filter: ''
+from_yaml: false
+id: category_video_game_console_nintendo_switch_old
+id_no_class: video_game_console_nintendo_switch_old
+id_no_size: old
+id_no_type: nintendo_switch_old
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_video_game_console_nintendo_switch_old
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_video_game_console_nintendo_switch_old
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_video_game_console_nintendo_switch_old
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_video_game_console_nintendo_switch_old](none)<br>[](none)<br>[Category
+    Video Game Console Nintendo Switch Old](none)<br><br>'
+markdown_short: '[category_video_game_console_nintendo_switch_old](none)<br><br>'
+md5: 6a4e4aa07794f2e582ac5d1792c8e8cf
+md5_10: 6a4e4aa077
+md5_10_upper: 6A4E4AA077
+md5_5: 6a4e4
+md5_5_upper: 6A4E4
+md5_6: 6a4e4a
+md5_6_alpha: 45bnu
+md5_6_alpha_upper: 45BNU
+md5_6_upper: 6A4E4A
+name: Category Video Game Console Nintendo Switch Old
+name_no_class: Video Game Console Nintendo Switch Old
+name_no_size: Old
+name_no_size_short: Old
+name_no_type: Nintendo Switch Old
+oomp_key: oomp_category_video_game_console_nintendo_switch_old
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryvideogameconsole
+size: nintendo_switch
+size_capital: Nintendo Switch
+size_first_letter: n
+size_first_letter_upper: N
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: NINTENDO_SWITCH
+type: video_game_console
+type_capital: Video Game Console
+type_first_letter: v
+type_first_letter_upper: V
+type_upper: VIDEO_GAME_CONSOLE

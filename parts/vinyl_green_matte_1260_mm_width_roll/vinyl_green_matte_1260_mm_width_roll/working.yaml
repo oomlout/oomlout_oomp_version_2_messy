@@ -1,0 +1,79 @@
+classification: vinyl
+classification_capital: Vinyl
+classification_first_letter: v
+classification_first_letter_upper: V
+classification_upper: VINYL
+color: green_matte
+color_capital: Green Matte
+color_first_letter: g
+color_first_letter_upper: G
+color_upper: GREEN_MATTE
+description_extra: 1260_mm_width_roll
+description_extra_capital: 1260 mm Width Roll
+description_extra_first_letter: '1'
+description_extra_first_letter_upper: '1'
+description_extra_upper: 1260_MM_WIDTH_ROLL
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'G '
+description_or_color_upper: 'G '
+directory: parts/vinyl_green_matte_1260_mm_width_roll
+distributors: []
+filter: ''
+from_yaml: false
+id: vinyl_green_matte_1260_mm_width_roll
+id_no_class: green_matte_1260_mm_width_roll
+id_no_size: greenmatte1260mmwidthroll
+id_no_type: greenmatte1260mmwidthroll
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/vinyl_green_matte_1260_mm_width_roll
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/vinyl_green_matte_1260_mm_width_roll
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/vinyl_green_matte_1260_mm_width_roll
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[vinyl_green_matte_1260_mm_width_roll](none)<br>[](none)<br>[Vinyl
+    Green Matte 1260 Mm Width Roll](none)<br><br>'
+markdown_short: '[vinyl_green_matte_1260_mm_width_roll](none)<br><br>'
+md5: 811d3fd99962953223ea67722d325829
+md5_10: 811d3fd999
+md5_10_upper: 811D3FD999
+md5_5: 811d3
+md5_5_upper: 811D3
+md5_6: 811d3f
+md5_6_alpha: 51d1b
+md5_6_alpha_upper: 51D1B
+md5_6_upper: 811D3F
+name: Vinyl Green Matte 1260 Mm Width Roll
+name_no_class: Green Matte 1260 Mm Width Roll
+name_no_size: Greenmatte1260Mmwidthroll
+name_no_size_short: Greenmatte1260Mmwidthroll
+name_no_type: Greenmatte1260Mmwidthroll
+oomp_key: oomp_vinyl_green_matte_1260_mm_width_roll
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: ''
+type_capital: ''
+type_first_letter: ''
+type_first_letter_upper: ''
+type_upper: ''
+width: 1260 mm

@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: m1
+color_capital: M1
+color_first_letter: m
+color_first_letter_upper: M
+color_upper: M1
+description: category_hardware
+description_extra: tote
+description_extra_capital: Tote
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TOTE
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'M '
+description_or_color_upper: 'M '
+directory: parts/category_hardware_washer_m1_tote
+distributors: []
+filter: ''
+from_yaml: false
+id: category_hardware_washer_m1_tote
+id_no_class: hardware_washer_m1_tote
+id_no_size: m1_tote
+id_no_type: washer_m1_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_washer_m1_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_washer_m1_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_washer_m1_tote
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_hardware_washer_m1_tote](none)<br>[](none)<br>[Category
+    Hardware Washer M1 Tote](none)<br><br>'
+markdown_short: '[category_hardware_washer_m1_tote](none)<br><br>'
+md5: e86583fef81570a6a7548d883783f5c8
+md5_10: e86583fef8
+md5_10_upper: E86583FEF8
+md5_5: e8658
+md5_5_upper: E8658
+md5_6: e86583
+md5_6_alpha: 92fsz
+md5_6_alpha_upper: 92FSZ
+md5_6_upper: E86583
+name: Category Hardware Washer M1 Tote
+name_no_class: Hardware Washer M1 Tote
+name_no_size: M1 Tote
+name_no_size_short: M1 Tote
+name_no_type: Washer M1 Tote
+oomp_key: oomp_category_hardware_washer_m1_tote
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryhardware
+size: washer
+size_capital: Washer
+size_first_letter: w
+size_first_letter_upper: W
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: WASHER
+type: hardware
+type_capital: Hardware
+type_first_letter: h
+type_first_letter_upper: H
+type_upper: HARDWARE

@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: m3
+color_capital: M3
+color_first_letter: m
+color_first_letter_upper: M
+color_upper: M3
+description: category_hardware
+description_extra: old
+description_extra_capital: Old
+description_extra_first_letter: o
+description_extra_first_letter_upper: O
+description_extra_upper: OLD
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'M '
+description_or_color_upper: 'M '
+directory: parts/category_hardware_screw_countersunk_m3_old
+distributors: []
+filter: ''
+from_yaml: false
+id: category_hardware_screw_countersunk_m3_old
+id_no_class: hardware_screw_countersunk_m3_old
+id_no_size: m3_old
+id_no_type: screw_countersunk_m3_old
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_screw_countersunk_m3_old
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_screw_countersunk_m3_old
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_screw_countersunk_m3_old
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_hardware_screw_countersunk_m3_old](none)<br>[](none)<br>[Category
+    Hardware Screw Countersunk M3 Old](none)<br><br>'
+markdown_short: '[category_hardware_screw_countersunk_m3_old](none)<br><br>'
+md5: c4fbd34e5d27029df1ee362de3f8d9e1
+md5_10: c4fbd34e5d
+md5_10_upper: C4FBD34E5D
+md5_5: c4fbd
+md5_5_upper: C4FBD
+md5_6: c4fbd3
+md5_6_alpha: 7op1v
+md5_6_alpha_upper: 7OP1V
+md5_6_upper: C4FBD3
+name: Category Hardware Screw Countersunk M3 Old
+name_no_class: Hardware Screw Countersunk M3 Old
+name_no_size: M3 Old
+name_no_size_short: M3 Old
+name_no_type: Screw Countersunk M3 Old
+oomp_key: oomp_category_hardware_screw_countersunk_m3_old
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryhardware
+size: screw_countersunk
+size_capital: Screw Countersunk
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SCREW_COUNTERSUNK
+type: hardware
+type_capital: Hardware
+type_first_letter: h
+type_first_letter_upper: H
+type_upper: HARDWARE

@@ -1,0 +1,76 @@
+classification: hardware
+classification_capital: Hardware
+classification_first_letter: h
+classification_first_letter_upper: H
+classification_upper: HARDWARE
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/hardware_ball_bearing_17_mm
+distributors: []
+id: hardware_ball_bearing_17_mm
+id_no_class: ball_bearing_17_mm
+id_no_size: 17_mm
+id_no_type: 17_mm
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_ball_bearing_17_mm
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_ball_bearing_17_mm
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_ball_bearing_17_mm
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[hardware_ball_bearing_17_mm](none)<br>[17](none)<br>[Hardware Ball
+    Bearing 17 Mm](none)<br><br>'
+markdown_short: '[hardware_ball_bearing_17_mm](none)<br><br>'
+md5: 25f5f5f738388886f0cb573ebb6d81c2
+md5_10: 25f5f5f738
+md5_10_upper: 25F5F5F738
+md5_5: 25f5f
+md5_5_upper: 25F5F
+md5_6: 25f5f5
+md5_6_alpha: 1hblh
+md5_6_alpha_upper: 1HBLH
+md5_6_upper: 25F5F5
+name: Hardware Ball Bearing 17 Mm
+name_no_class: Ball Bearing 17 Mm
+name_no_size: 17 Mm
+name_no_size_short: 17 Mm
+name_no_type: 17 Mm
+oomp_key: oomp_hardware_ball_bearing_17_mm
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: '17'
+short_code_upper: '17'
+size: 17_mm
+size_capital: 17 mm
+size_first_letter: '1'
+size_first_letter_upper: '1'
+size_only_numbers: '17'
+size_only_numbers_no_zeros: '17'
+size_upper: 17_MM
+type: ball_bearing
+type_capital: Ball Bearing
+type_first_letter: b
+type_first_letter_upper: B
+type_upper: BALL_BEARING

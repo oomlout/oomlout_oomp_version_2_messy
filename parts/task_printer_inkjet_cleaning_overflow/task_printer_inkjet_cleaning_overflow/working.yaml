@@ -1,0 +1,78 @@
+classification: task
+classification_capital: Task
+classification_first_letter: t
+classification_first_letter_upper: T
+classification_upper: TASK
+color: cleaning
+color_capital: Cleaning
+color_first_letter: c
+color_first_letter_upper: C
+color_upper: CLEANING
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: overflow
+description_main_capital: Overflow
+description_main_first_letter: o
+description_main_first_letter_upper: O
+description_main_upper: OVERFLOW
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'C '
+description_or_color_upper: 'C '
+directory: parts/task_printer_inkjet_cleaning_overflow
+distributors: []
+filter: ''
+from_yaml: false
+id: task_printer_inkjet_cleaning_overflow
+id_no_class: printer_inkjet_cleaning_overflow
+id_no_size: cleaning_overflow
+id_no_type: inkjet_cleaning_overflow
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/task_printer_inkjet_cleaning_overflow
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/task_printer_inkjet_cleaning_overflow
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/task_printer_inkjet_cleaning_overflow
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[task_printer_inkjet_cleaning_overflow](none)<br>[](none)<br>[Task
+    Printer Inkjet Cleaning Overflow](none)<br><br>'
+markdown_short: '[task_printer_inkjet_cleaning_overflow](none)<br><br>'
+md5: fbefe3e565e903a4115a19c450beaece
+md5_10: fbefe3e565
+md5_10_upper: FBEFE3E565
+md5_5: fbefe
+md5_5_upper: FBEFE
+md5_6: fbefe3
+md5_6_alpha: 9tvxf
+md5_6_alpha_upper: 9TVXF
+md5_6_upper: FBEFE3
+name: Task Printer Inkjet Cleaning Overflow
+name_no_class: Printer Inkjet Cleaning Overflow
+name_no_size: Cleaning Overflow
+name_no_size_short: Cleaning Overflow
+name_no_type: Inkjet Cleaning Overflow
+oomp_key: oomp_task_printer_inkjet_cleaning_overflow
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: inkjet
+size_capital: Inkjet
+size_first_letter: i
+size_first_letter_upper: I
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: INKJET
+type: printer
+type_capital: Printer
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PRINTER

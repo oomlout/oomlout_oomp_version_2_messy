@@ -1,0 +1,79 @@
+classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_upper: ELECTRONIC
+color: red
+color_capital: Red
+color_first_letter: r
+color_first_letter_upper: R
+color_upper: RED
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 25_mm_length
+description_main_capital: 25 mm Length
+description_main_first_letter: '2'
+description_main_first_letter_upper: '2'
+description_main_upper: 25_MM_LENGTH
+description_only_numbers: '25'
+description_only_numbers_short: '25'
+description_or_color: R25
+description_or_color_upper: R25
+directory: parts/electronic_heatshrink_2_to_1_shrink_ratio_38_1_mm_internal_diameter_red_25_mm_length
+distributors: []
+id: electronic_heatshrink_2_to_1_shrink_ratio_38_1_mm_internal_diameter_red_25_mm_length
+id_no_class: heatshrink_2_to_1_shrink_ratio_38_1_mm_internal_diameter_red_25_mm_length
+id_no_size: red_25_mm_length
+id_no_type: 38_1_mm_internal_diameter_red_25_mm_length
+kicad_reference: ''
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_38_1_mm_internal_diameter_red_25_mm_length
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_38_1_mm_internal_diameter_red_25_mm_length
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_38_1_mm_internal_diameter_red_25_mm_length
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[electronic_heatshrink_2_to_1_shrink_ratio_38_1_mm_internal_diameter_red_25_mm_length](none)<br>[r25](none)<br>[Electronic
+    Heatshrink 2 To 1 Shrink Ratio 38 1 Mm Internal Diameter Red 25 Mm Length](none)<br><br>'
+markdown_short: '[electronic_heatshrink_2_to_1_shrink_ratio_38_1_mm_internal_diameter_red_25_mm_length](none)<br><br>'
+md5: 7ef48e76c1440fb498513a61047aa15e
+md5_10: 7ef48e76c1
+md5_10_upper: 7EF48E76C1
+md5_5: 7ef48
+md5_5_upper: 7EF48
+md5_6: 7ef48e
+md5_6_alpha: 4ybv2
+md5_6_alpha_upper: 4YBV2
+md5_6_upper: 7EF48E
+name: Electronic Heatshrink 2 To 1 Shrink Ratio 38 1 Mm Internal Diameter Red 25 Mm
+    Length
+name_no_class: Heatshrink 2 To 1 Shrink Ratio 38 1 Mm Internal Diameter Red 25 Mm
+    Length
+name_no_size: Red 25 Mm Length
+name_no_size_short: Red 25 Mm Length
+name_no_type: 38 1 Mm Internal Diameter Red 25 Mm Length
+oomp_key: oomp_electronic_heatshrink_2_to_1_shrink_ratio_38_1_mm_internal_diameter_red_25_mm_length
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: r25
+short_code_upper: R25
+size: 38_1_mm_internal_diameter
+size_capital: 38.1 mm Internal Diameter
+size_first_letter: '3'
+size_first_letter_upper: '3'
+size_only_numbers: '381'
+size_only_numbers_no_zeros: '381'
+size_upper: 38_1_MM_INTERNAL_DIAMETER
+type: heatshrink_2_to_1_shrink_ratio
+type_capital: Heatshrink 2 To 1 Shrink Ratio
+type_first_letter: h
+type_first_letter_upper: H
+type_upper: HEATSHRINK_2_TO_1_SHRINK_RATIO

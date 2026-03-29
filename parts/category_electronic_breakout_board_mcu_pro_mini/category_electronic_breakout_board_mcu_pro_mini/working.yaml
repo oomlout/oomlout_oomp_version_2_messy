@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: pro_mini
+color_capital: Pro Mini
+color_first_letter: p
+color_first_letter_upper: P
+color_upper: PRO_MINI
+description: category_electronic
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'P '
+description_or_color_upper: 'P '
+directory: parts/category_electronic_breakout_board_mcu_pro_mini
+distributors: []
+filter: ''
+from_yaml: false
+id: category_electronic_breakout_board_mcu_pro_mini
+id_no_class: electronic_breakout_board_mcu_pro_mini
+id_no_size: pro_mini
+id_no_type: breakout_board_mcu_pro_mini
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_breakout_board_mcu_pro_mini
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_breakout_board_mcu_pro_mini
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_breakout_board_mcu_pro_mini
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_electronic_breakout_board_mcu_pro_mini](none)<br>[](none)<br>[Category
+    Electronic Breakout Board Mcu Pro Mini](none)<br><br>'
+markdown_short: '[category_electronic_breakout_board_mcu_pro_mini](none)<br><br>'
+md5: f63b79293842968ed809b47255fb3efb
+md5_10: f63b792938
+md5_10_upper: F63B792938
+md5_5: f63b7
+md5_5_upper: F63B7
+md5_6: f63b79
+md5_6_alpha: 9lvg9
+md5_6_alpha_upper: 9LVG9
+md5_6_upper: F63B79
+name: Category Electronic Breakout Board Mcu Pro Mini
+name_no_class: Electronic Breakout Board Mcu Pro Mini
+name_no_size: Pro Mini
+name_no_size_short: Pro Mini
+name_no_type: Breakout Board Mcu Pro Mini
+oomp_key: oomp_category_electronic_breakout_board_mcu_pro_mini
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryelectronic
+size: breakout_board_mcu
+size_capital: Breakout Board Mcu
+size_first_letter: b
+size_first_letter_upper: B
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: BREAKOUT_BOARD_MCU
+type: electronic
+type_capital: Electronic
+type_first_letter: e
+type_first_letter_upper: E
+type_upper: ELECTRONIC

@@ -1,0 +1,78 @@
+classification: clothes
+classification_capital: Clothes
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CLOTHES
+color: small
+color_capital: Small
+color_first_letter: s
+color_first_letter_upper: S
+color_upper: SMALL
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: purple
+description_main_capital: Purple
+description_main_first_letter: p
+description_main_first_letter_upper: P
+description_main_upper: PURPLE
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'S '
+description_or_color_upper: 'S '
+directory: parts/clothes_item_gloves_small_purple
+distributors: []
+filter: ''
+from_yaml: false
+id: clothes_item_gloves_small_purple
+id_no_class: item_gloves_small_purple
+id_no_size: small_purple
+id_no_type: gloves_small_purple
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_gloves_small_purple
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_gloves_small_purple
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_gloves_small_purple
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[clothes_item_gloves_small_purple](none)<br>[](none)<br>[Clothes Item
+    Gloves Small Purple](none)<br><br>'
+markdown_short: '[clothes_item_gloves_small_purple](none)<br><br>'
+md5: 956747c27224f6689a327bd85fe83e20
+md5_10: 956747c272
+md5_10_upper: 956747C272
+md5_5: '95674'
+md5_5_upper: '95674'
+md5_6: '956747'
+md5_6_alpha: 5tv0n
+md5_6_alpha_upper: 5TV0N
+md5_6_upper: '956747'
+name: Clothes Item Gloves Small Purple
+name_no_class: Item Gloves Small Purple
+name_no_size: Small Purple
+name_no_size_short: Small Purple
+name_no_type: Gloves Small Purple
+oomp_key: oomp_clothes_item_gloves_small_purple
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: gloves
+size_capital: Gloves
+size_first_letter: g
+size_first_letter_upper: G
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: GLOVES
+type: item
+type_capital: Item
+type_first_letter: i
+type_first_letter_upper: I
+type_upper: ITEM

@@ -1,0 +1,80 @@
+classification: food
+classification_capital: Food
+classification_first_letter: f
+classification_first_letter_upper: F
+classification_upper: FOOD
+color: peanut_raw
+color_capital: Peanut Raw
+color_first_letter: p
+color_first_letter_upper: P
+color_upper: PEANUT_RAW
+description: nut_peanut_raw
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'P '
+description_or_color_upper: 'P '
+directory: parts/food_baking_nut_peanut_raw
+distributors: []
+filter: ''
+from_yaml: false
+id: food_baking_nut_peanut_raw
+id_no_class: baking_nut_peanut_raw
+id_no_size: pearaw
+id_no_type: nut_peanut_raw
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_baking_nut_peanut_raw
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_baking_nut_peanut_raw
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_baking_nut_peanut_raw
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[food_baking_nut_peanut_raw](none)<br>[](none)<br>[Food Baking Nut
+    Peanut Raw](none)<br><br>'
+markdown_short: '[food_baking_nut_peanut_raw](none)<br><br>'
+md5: ab53ab8cdd6b8d3d2a92e81d9455ff1a
+md5_10: ab53ab8cdd
+md5_10_upper: AB53AB8CDD
+md5_5: ab53a
+md5_5_upper: AB53A
+md5_6: ab53ab
+md5_6_alpha: 6onmz
+md5_6_alpha_upper: 6ONMZ
+md5_6_upper: AB53AB
+name: Food Baking Nut Peanut Raw
+name_no_class: Baking Nut Peanut Raw
+name_no_size: Pearaw
+name_no_size_short: Pearaw
+name_no_type: Nut Peanut Raw
+name_short: Nut Peanut Raw
+oomp_key: oomp_food_baking_nut_peanut_raw
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: nut
+size_capital: Nut
+size_first_letter: n
+size_first_letter_upper: N
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: NUT
+type: baking
+type_capital: Baking
+type_first_letter: b
+type_first_letter_upper: B
+type_upper: BAKING

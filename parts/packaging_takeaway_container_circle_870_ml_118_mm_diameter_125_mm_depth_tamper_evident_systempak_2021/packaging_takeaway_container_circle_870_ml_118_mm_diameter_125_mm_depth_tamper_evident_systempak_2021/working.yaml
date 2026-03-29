@@ -1,0 +1,87 @@
+box_quantity: '230'
+classification: packaging
+classification_capital: Packaging
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_upper: PACKAGING
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+cost_per: "\xA30.326"
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 118_mm_diameter_125_mm_depth_tamper_evident
+description_main_capital: 118 mm Diameter 125 mm Depth Tamper Evident
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_upper: 118_MM_DIAMETER_125_MM_DEPTH_TAMPER_EVIDENT
+description_only_numbers: '118125'
+description_only_numbers_short: 118k
+description_or_color: 118k
+description_or_color_upper: 118K
+directory: parts/packaging_takeaway_container_circle_870_ml_118_mm_diameter_125_mm_depth_tamper_evident_systempak_2021
+distributors: []
+id: packaging_takeaway_container_circle_870_ml_118_mm_diameter_125_mm_depth_tamper_evident_systempak_2021
+id_no_class: takeaway_container_circle_870_ml_118_mm_diameter_125_mm_depth_tamper_evident_systempak_2021
+id_no_size: 118_mm_diameter_125_mm_depth_tamper_evident_systempak_2021
+id_no_type: 870_ml_118_mm_diameter_125_mm_depth_tamper_evident_systempak_2021
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/packaging_takeaway_container_circle_870_ml_118_mm_diameter_125_mm_depth_tamper_evident_systempak_2021
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/packaging_takeaway_container_circle_870_ml_118_mm_diameter_125_mm_depth_tamper_evident_systempak_2021
+link_purchase:
+- https://systempak.net/product/870ml-x-118od-round-plastic-tamper-proof-food-containers-and-lids/
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/packaging_takeaway_container_circle_870_ml_118_mm_diameter_125_mm_depth_tamper_evident_systempak_2021
+manufacturer: systempak
+manufacturer_capital: Systempak
+manufacturer_first_letter: s
+manufacturer_first_letter_upper: S
+manufacturer_upper: SYSTEMPAK
+manufacturers: []
+markdown_full: '[packaging_takeaway_container_circle_870_ml_118_mm_diameter_125_mm_depth_tamper_evident_systempak_2021](none)<br>[](none)<br>[Packaging
+    Takeaway Container Circle 870 Ml 118 Mm Diameter 125 Mm Depth Tamper Evident Systempak
+    2021](none)<br><br>'
+markdown_short: '[packaging_takeaway_container_circle_870_ml_118_mm_diameter_125_mm_depth_tamper_evident_systempak_2021](none)<br><br>'
+md5: bb527ea83f668828906ca5c07ca78f32
+md5_10: bb527ea83f
+md5_10_upper: BB527EA83F
+md5_5: bb527
+md5_5_upper: BB527
+md5_6: bb527e
+md5_6_alpha: 7b4hq
+md5_6_alpha_upper: 7B4HQ
+md5_6_upper: BB527E
+name: Packaging Takeaway Container Circle 870 Ml 118 Mm Diameter 125 Mm Depth Tamper
+    Evident Systempak 2021
+name_no_class: Takeaway Container Circle 870 Ml 118 Mm Diameter 125 Mm Depth Tamper
+    Evident Systempak 2021
+name_no_size: 118 Mm Diameter 125 Mm Depth Tamper Evident Systempak 2021
+name_no_size_short: 118 Mm Diameter 125 Mm Depth Tamper Evident Systempak 2021
+name_no_type: 870 Ml 118 Mm Diameter 125 Mm Depth Tamper Evident Systempak 2021
+note: only available by the pallet
+oomp_key: oomp_packaging_takeaway_container_circle_870_ml_118_mm_diameter_125_mm_depth_tamper_evident_systempak_2021
+part_number: '2021'
+part_number_capital: '2021'
+part_number_first_letter: '2'
+part_number_first_letter_upper: '2'
+part_number_upper: '2021'
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: 870_ml
+size_capital: 870 Ml
+size_first_letter: '8'
+size_first_letter_upper: '8'
+size_only_numbers: '870'
+size_only_numbers_no_zeros: '87'
+size_upper: 870_ML
+type: takeaway_container_circle
+type_capital: Takeaway Container Circle
+type_first_letter: t
+type_first_letter_upper: T
+type_upper: TAKEAWAY_CONTAINER_CIRCLE
+upc_number: ''
+weight: 32 g

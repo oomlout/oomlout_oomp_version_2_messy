@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: m6
+color_capital: M6
+color_first_letter: m
+color_first_letter_upper: M
+color_upper: M6
+description: category_hardware
+description_extra: tote
+description_extra_capital: Tote
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TOTE
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'M '
+description_or_color_upper: 'M '
+directory: parts/category_hardware_screw_socket_cap_low_head_ultra_m6_tote
+distributors: []
+filter: ''
+from_yaml: false
+id: category_hardware_screw_socket_cap_low_head_ultra_m6_tote
+id_no_class: hardware_screw_socket_cap_low_head_ultra_m6_tote
+id_no_size: m6_tote
+id_no_type: screw_socket_cap_low_head_ultra_m6_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_screw_socket_cap_low_head_ultra_m6_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_screw_socket_cap_low_head_ultra_m6_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_screw_socket_cap_low_head_ultra_m6_tote
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_hardware_screw_socket_cap_low_head_ultra_m6_tote](none)<br>[](none)<br>[Category
+    Hardware Screw Socket Cap Low Head Ultra M6 Tote](none)<br><br>'
+markdown_short: '[category_hardware_screw_socket_cap_low_head_ultra_m6_tote](none)<br><br>'
+md5: 320f0cc9d3ccd5b2af36aac7f582eba3
+md5_10: 320f0cc9d3
+md5_10_upper: 320F0CC9D3
+md5_5: 320f0
+md5_5_upper: 320F0
+md5_6: 320f0c
+md5_6_alpha: 1ybd8
+md5_6_alpha_upper: 1YBD8
+md5_6_upper: 320F0C
+name: Category Hardware Screw Socket Cap Low Head Ultra M6 Tote
+name_no_class: Hardware Screw Socket Cap Low Head Ultra M6 Tote
+name_no_size: M6 Tote
+name_no_size_short: M6 Tote
+name_no_type: Screw Socket Cap Low Head Ultra M6 Tote
+oomp_key: oomp_category_hardware_screw_socket_cap_low_head_ultra_m6_tote
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryhardware
+size: screw_socket_cap_low_head_ultra
+size_capital: Screw Socket Cap Low Head Ultra
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SCREW_SOCKET_CAP_LOW_HEAD_ULTRA
+type: hardware
+type_capital: Hardware
+type_first_letter: h
+type_first_letter_upper: H
+type_upper: HARDWARE

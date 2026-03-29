@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_household_toy
+description_extra: old
+description_extra_capital: Old
+description_extra_first_letter: o
+description_extra_first_letter_upper: O
+description_extra_upper: OLD
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_household_toy_educational_old
+distributors: []
+filter: ''
+from_yaml: false
+id: category_household_toy_educational_old
+id_no_class: household_toy_educational_old
+id_no_size: old
+id_no_type: educational_old
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_toy_educational_old
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_toy_educational_old
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_toy_educational_old
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_household_toy_educational_old](none)<br>[](none)<br>[Category
+    Household Toy Educational Old](none)<br><br>'
+markdown_short: '[category_household_toy_educational_old](none)<br><br>'
+md5: 3d1326efd6cec93481318d4fef83a386
+md5_10: 3d1326efd6
+md5_10_upper: 3D1326EFD6
+md5_5: 3d132
+md5_5_upper: 3D132
+md5_6: 3d1326
+md5_6_alpha: 2dsfa
+md5_6_alpha_upper: 2DSFA
+md5_6_upper: 3D1326
+name: Category Household Toy Educational Old
+name_no_class: Household Toy Educational Old
+name_no_size: Old
+name_no_size_short: Old
+name_no_type: Educational Old
+oomp_key: oomp_category_household_toy_educational_old
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryhouseholdtoy
+size: educational
+size_capital: Educational
+size_first_letter: e
+size_first_letter_upper: E
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: EDUCATIONAL
+type: household_toy
+type_capital: Household Toy
+type_first_letter: h
+type_first_letter_upper: H
+type_upper: HOUSEHOLD_TOY

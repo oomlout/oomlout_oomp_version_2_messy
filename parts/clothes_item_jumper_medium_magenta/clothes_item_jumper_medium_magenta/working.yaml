@@ -1,0 +1,78 @@
+classification: clothes
+classification_capital: Clothes
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CLOTHES
+color: medium
+color_capital: Medium
+color_first_letter: m
+color_first_letter_upper: M
+color_upper: MEDIUM
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: magenta
+description_main_capital: Magenta
+description_main_first_letter: m
+description_main_first_letter_upper: M
+description_main_upper: MAGENTA
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'M '
+description_or_color_upper: 'M '
+directory: parts/clothes_item_jumper_medium_magenta
+distributors: []
+filter: ''
+from_yaml: false
+id: clothes_item_jumper_medium_magenta
+id_no_class: item_jumper_medium_magenta
+id_no_size: medium_magenta
+id_no_type: jumper_medium_magenta
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_jumper_medium_magenta
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_jumper_medium_magenta
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_jumper_medium_magenta
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[clothes_item_jumper_medium_magenta](none)<br>[](none)<br>[Clothes
+    Item Jumper Medium Magenta](none)<br><br>'
+markdown_short: '[clothes_item_jumper_medium_magenta](none)<br><br>'
+md5: ded8784e3801fa682be69805b1bca617
+md5_10: ded8784e38
+md5_10_upper: DED8784E38
+md5_5: ded87
+md5_5_upper: DED87
+md5_6: ded878
+md5_6_alpha: 8p0u0
+md5_6_alpha_upper: 8P0U0
+md5_6_upper: DED878
+name: Clothes Item Jumper Medium Magenta
+name_no_class: Item Jumper Medium Magenta
+name_no_size: Medium Magenta
+name_no_size_short: Medium Magenta
+name_no_type: Jumper Medium Magenta
+oomp_key: oomp_clothes_item_jumper_medium_magenta
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: jumper
+size_capital: Jumper
+size_first_letter: j
+size_first_letter_upper: J
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: JUMPER
+type: item
+type_capital: Item
+type_first_letter: i
+type_first_letter_upper: I
+type_upper: ITEM

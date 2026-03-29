@@ -1,0 +1,77 @@
+classification: book
+classification_capital: Book
+classification_first_letter: b
+classification_first_letter_upper: B
+classification_upper: BOOK
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/book_cook_vegetarian
+distributors: []
+filter: ''
+from_yaml: false
+id: book_cook_vegetarian
+id_no_class: cook_vegetarian
+id_no_size: vegetarian
+id_no_type: vegetarian
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/book_cook_vegetarian
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/book_cook_vegetarian
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/book_cook_vegetarian
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[book_cook_vegetarian](none)<br>[](none)<br>[Book Cook Vegetarian](none)<br><br>'
+markdown_short: '[book_cook_vegetarian](none)<br><br>'
+md5: c300403664ea5cb0656d26b45528d001
+md5_10: c300403664
+md5_10_upper: C300403664
+md5_5: c3004
+md5_5_upper: C3004
+md5_6: c30040
+md5_6_alpha: 7lwsg
+md5_6_alpha_upper: 7LWSG
+md5_6_upper: C30040
+name: Book Cook Vegetarian
+name_no_class: Cook Vegetarian
+name_no_size: Vegetarian
+name_no_size_short: Vegetarian
+name_no_type: Vegetarian
+oomp_key: oomp_book_cook_vegetarian
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: vegetarian
+size_capital: Vegetarian
+size_first_letter: v
+size_first_letter_upper: V
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: VEGETARIAN
+type: cook
+type_capital: Cook
+type_first_letter: c
+type_first_letter_upper: C
+type_upper: COOK

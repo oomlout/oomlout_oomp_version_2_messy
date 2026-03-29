@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_stationery
+description_extra: old
+description_extra_capital: Old
+description_extra_first_letter: o
+description_extra_first_letter_upper: O
+description_extra_upper: OLD
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_stationery_pen_ballpoint_clicky_old
+distributors: []
+filter: ''
+from_yaml: false
+id: category_stationery_pen_ballpoint_clicky_old
+id_no_class: stationery_pen_ballpoint_clicky_old
+id_no_size: old
+id_no_type: pen_ballpoint_clicky_old
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_stationery_pen_ballpoint_clicky_old
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_stationery_pen_ballpoint_clicky_old
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_stationery_pen_ballpoint_clicky_old
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_stationery_pen_ballpoint_clicky_old](none)<br>[](none)<br>[Category
+    Stationery Pen Ballpoint Clicky Old](none)<br><br>'
+markdown_short: '[category_stationery_pen_ballpoint_clicky_old](none)<br><br>'
+md5: 8fab2480aa96d8c4c8630dbaf82bc55a
+md5_10: 8fab2480aa
+md5_10_upper: 8FAB2480AA
+md5_5: 8fab2
+md5_5_upper: 8FAB2
+md5_6: 8fab24
+md5_6_alpha: 5lt0k
+md5_6_alpha_upper: 5LT0K
+md5_6_upper: 8FAB24
+name: Category Stationery Pen Ballpoint Clicky Old
+name_no_class: Stationery Pen Ballpoint Clicky Old
+name_no_size: Old
+name_no_size_short: Old
+name_no_type: Pen Ballpoint Clicky Old
+oomp_key: oomp_category_stationery_pen_ballpoint_clicky_old
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorystationery
+size: pen_ballpoint_clicky
+size_capital: Pen Ballpoint Clicky
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PEN_BALLPOINT_CLICKY
+type: stationery
+type_capital: Stationery
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: STATIONERY

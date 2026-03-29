@@ -1,0 +1,76 @@
+classification: printer
+classification_capital: Printer
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_upper: PRINTER
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: cyan_bottle_70_ml
+description_main_capital: Cyan Bottle 70 Ml
+description_main_first_letter: c
+description_main_first_letter_upper: C
+description_main_upper: CYAN_BOTTLE_70_ML
+description_only_numbers: '70'
+description_only_numbers_short: '70'
+description_or_color: '70'
+description_or_color_upper: '70'
+directory: parts/printer_ink_ecosolvent_cyan_bottle_70_ml_ocbestjet
+distributors: []
+id: printer_ink_ecosolvent_cyan_bottle_70_ml_ocbestjet
+id_no_class: ink_ecosolvent_cyan_bottle_70_ml_ocbestjet
+id_no_size: cyan_bottle_70_ml_ocbestjet
+id_no_type: ecosolvent_cyan_bottle_70_ml_ocbestjet
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_ink_ecosolvent_cyan_bottle_70_ml_ocbestjet
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_ink_ecosolvent_cyan_bottle_70_ml_ocbestjet
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_ink_ecosolvent_cyan_bottle_70_ml_ocbestjet
+manufacturer: ocbestjet
+manufacturer_capital: Ocbestjet
+manufacturer_first_letter: o
+manufacturer_first_letter_upper: O
+manufacturer_upper: OCBESTJET
+manufacturers: []
+markdown_full: '[printer_ink_ecosolvent_cyan_bottle_70_ml_ocbestjet](none)<br>[](none)<br>[Printer
+    Ink Ecosolvent Cyan Bottle 70 Ml Ocbestjet](none)<br><br>'
+markdown_short: '[printer_ink_ecosolvent_cyan_bottle_70_ml_ocbestjet](none)<br><br>'
+md5: dd25ac645e598519333df4252c13ff87
+md5_10: dd25ac645e
+md5_10_upper: DD25AC645E
+md5_5: dd25a
+md5_5_upper: DD25A
+md5_6: dd25ac
+md5_6_alpha: 8mmy4
+md5_6_alpha_upper: 8MMY4
+md5_6_upper: DD25AC
+name: Printer Ink Ecosolvent Cyan Bottle 70 Ml Ocbestjet
+name_no_class: Ink Ecosolvent Cyan Bottle 70 Ml Ocbestjet
+name_no_size: Cyan Bottle 70 Ml Ocbestjet
+name_no_size_short: Cyan Bottle 70 Ml Ocbestjet
+name_no_type: Ecosolvent Cyan Bottle 70 Ml Ocbestjet
+oomp_key: oomp_printer_ink_ecosolvent_cyan_bottle_70_ml_ocbestjet
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: ecosolvent
+size_capital: Ecosolvent
+size_first_letter: e
+size_first_letter_upper: E
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ECOSOLVENT
+type: ink
+type_capital: Ink
+type_first_letter: i
+type_first_letter_upper: I
+type_upper: INK

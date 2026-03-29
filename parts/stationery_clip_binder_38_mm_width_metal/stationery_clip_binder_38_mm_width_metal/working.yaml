@@ -1,0 +1,80 @@
+classification: stationery
+classification_capital: Stationery
+classification_first_letter: s
+classification_first_letter_upper: S
+classification_upper: STATIONERY
+color: metal
+color_capital: Metal
+color_first_letter: m
+color_first_letter_upper: M
+color_upper: METAL
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'M '
+description_or_color_upper: 'M '
+directory: parts/stationery_clip_binder_38_mm_width_metal
+distributor_amazon: B07VHPV47Q
+distributors: []
+id: stationery_clip_binder_38_mm_width_metal
+id_no_class: clip_binder_38_mm_width_metal
+id_no_size: metal
+id_no_type: 38_mm_width_metal
+link_distributor_amazon: https://www.amazon.co.uk/dp/B07VHPV47Q
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_clip_binder_38_mm_width_metal
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_clip_binder_38_mm_width_metal
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_clip_binder_38_mm_width_metal
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[stationery_clip_binder_38_mm_width_metal](none)<br>[](none)<br>[Stationery
+    Clip Binder 38 Mm Width Metal](none)<br><br>'
+markdown_short: '[stationery_clip_binder_38_mm_width_metal](none)<br><br>'
+md5: 402b05d0907c80538ec9dc286f46c79e
+md5_10: 402b05d090
+md5_10_upper: 402B05D090
+md5_5: 402b0
+md5_5_upper: 402B0
+md5_6: 402b05
+md5_6_alpha: 2i4ud
+md5_6_alpha_upper: 2I4UD
+md5_6_upper: 402B05
+name: Stationery Clip Binder 38 Mm Width Metal
+name_no_class: Clip Binder 38 Mm Width Metal
+name_no_size: Metal
+name_no_size_short: Metal
+name_no_type: 38 Mm Width Metal
+oomp_key: oomp_stationery_clip_binder_38_mm_width_metal
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+price_1_distributor_amazon: 0.27708333333333335
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: 38_mm_width
+size_capital: 38 mm Width
+size_first_letter: '3'
+size_first_letter_upper: '3'
+size_only_numbers: '38'
+size_only_numbers_no_zeros: '38'
+size_upper: 38_MM_WIDTH
+type: clip_binder
+type_capital: Clip Binder
+type_first_letter: c
+type_first_letter_upper: C
+type_upper: CLIP_BINDER

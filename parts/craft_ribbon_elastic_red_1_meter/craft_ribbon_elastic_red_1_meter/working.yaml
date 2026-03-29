@@ -1,0 +1,77 @@
+classification: craft
+classification_capital: Craft
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CRAFT
+color: red
+color_capital: Red
+color_first_letter: r
+color_first_letter_upper: R
+color_upper: RED
+description_extra: 1_meter
+description_extra_capital: 1 Meter
+description_extra_first_letter: '1'
+description_extra_first_letter_upper: '1'
+description_extra_upper: 1_METER
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'R '
+description_or_color_upper: 'R '
+directory: parts/craft_ribbon_elastic_red_1_meter
+distributors: []
+id: craft_ribbon_elastic_red_1_meter
+id_no_class: ribbon_elastic_red_1_meter
+id_no_size: red_1_meter
+id_no_type: elastic_red_1_meter
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/craft_ribbon_elastic_red_1_meter
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/craft_ribbon_elastic_red_1_meter
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/craft_ribbon_elastic_red_1_meter
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[craft_ribbon_elastic_red_1_meter](none)<br>[r](none)<br>[Craft Ribbon
+    Elastic Red 1 Meter](none)<br><br>'
+markdown_short: '[craft_ribbon_elastic_red_1_meter](none)<br><br>'
+md5: 504e64d51ca3ff00012a2cf1d11be27c
+md5_10: 504e64d51c
+md5_10_upper: 504E64D51C
+md5_5: 504e6
+md5_5_upper: 504E6
+md5_6: 504e64
+md5_6_alpha: 34sx0
+md5_6_alpha_upper: 34SX0
+md5_6_upper: 504E64
+name: Craft Ribbon Elastic Red 1 Meter
+name_no_class: Ribbon Elastic Red 1 Meter
+name_no_size: Red 1 Meter
+name_no_size_short: Red 1 Meter
+name_no_type: Elastic Red 1 Meter
+oomp_key: oomp_craft_ribbon_elastic_red_1_meter
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: r
+short_code_upper: R
+short_name: ''
+size: elastic
+size_capital: Elastic
+size_first_letter: e
+size_first_letter_upper: E
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ELASTIC
+type: ribbon
+type_capital: Ribbon
+type_first_letter: r
+type_first_letter_upper: R
+type_upper: RIBBON

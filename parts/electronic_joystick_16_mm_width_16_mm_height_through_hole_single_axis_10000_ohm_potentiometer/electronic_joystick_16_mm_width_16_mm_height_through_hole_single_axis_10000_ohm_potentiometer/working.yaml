@@ -1,0 +1,79 @@
+classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_upper: ELECTRONIC
+color: through_hole
+color_capital: Through Hole
+color_first_letter: t
+color_first_letter_upper: T
+color_upper: THROUGH_HOLE
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: single_axis_10000_ohm_potentiometer
+description_main_capital: Single Axis 10000 Ohm Potentiometer
+description_main_first_letter: s
+description_main_first_letter_upper: S
+description_main_upper: SINGLE_AXIS_10000_OHM_POTENTIOMETER
+description_only_numbers: '10000'
+description_only_numbers_short: 10k
+description_or_color: T10k
+description_or_color_upper: T10K
+directory: parts/electronic_joystick_16_mm_width_16_mm_height_through_hole_single_axis_10000_ohm_potentiometer
+distributors: []
+id: electronic_joystick_16_mm_width_16_mm_height_through_hole_single_axis_10000_ohm_potentiometer
+id_no_class: joystick_16_mm_width_16_mm_height_through_hole_single_axis_10000_ohm_potentiometer
+id_no_size: through_hole_single_axis_10000_ohm_potentiometer
+id_no_type: 16_mm_width_16_mm_height_through_hole_single_axis_10000_ohm_potentiometer
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_joystick_16_mm_width_16_mm_height_through_hole_single_axis_10000_ohm_potentiometer
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_joystick_16_mm_width_16_mm_height_through_hole_single_axis_10000_ohm_potentiometer
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_joystick_16_mm_width_16_mm_height_through_hole_single_axis_10000_ohm_potentiometer
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[electronic_joystick_16_mm_width_16_mm_height_through_hole_single_axis_10000_ohm_potentiometer](none)<br>[](none)<br>[Electronic
+    Joystick 16 Mm Width 16 Mm Height Through Hole Single Axis 10000 Ohm Potentiometer](none)<br><br>'
+markdown_short: '[electronic_joystick_16_mm_width_16_mm_height_through_hole_single_axis_10000_ohm_potentiometer](none)<br><br>'
+md5: 0e05a77af7efd3e036ca827379fd2659
+md5_10: 0e05a77af7
+md5_10_upper: 0E05A77AF7
+md5_5: 0e05a
+md5_5_upper: 0E05A
+md5_6: 0e05a7
+md5_6_alpha: jp2f
+md5_6_alpha_upper: JP2F
+md5_6_upper: 0E05A7
+name: Electronic Joystick 16 Mm Width 16 Mm Height Through Hole Single Axis 10000
+    Ohm Potentiometer
+name_no_class: Joystick 16 Mm Width 16 Mm Height Through Hole Single Axis 10000 Ohm
+    Potentiometer
+name_no_size: Through Hole Single Axis 10000 Ohm Potentiometer
+name_no_size_short: Through Hole Single Axis 10k Ohm Potentiometer
+name_no_type: 16 Mm Width 16 Mm Height Through Hole Single Axis 10000 Ohm Potentiometer
+oomp_key: oomp_electronic_joystick_16_mm_width_16_mm_height_through_hole_single_axis_10000_ohm_potentiometer
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: 16_mm_width_16_mm_height
+size_capital: 16 mm Width 16 mm Height
+size_first_letter: '1'
+size_first_letter_upper: '1'
+size_only_numbers: '1616'
+size_only_numbers_no_zeros: '1616'
+size_upper: 16_MM_WIDTH_16_MM_HEIGHT
+type: joystick
+type_capital: Joystick
+type_first_letter: j
+type_first_letter_upper: J
+type_upper: JOYSTICK

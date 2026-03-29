@@ -1,0 +1,77 @@
+classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_upper: ELECTRONIC
+color: timer
+color_capital: Timer
+color_first_letter: t
+color_first_letter_upper: T
+color_upper: TIMER
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: precision_timer
+description_main_capital: Precision Timer
+description_main_first_letter: p
+description_main_first_letter_upper: P
+description_main_upper: PRECISION_TIMER
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'T '
+description_or_color_upper: 'T '
+directory: parts/electronic_ic_dip_8_timer_precision_timer
+distributors: []
+id: electronic_ic_dip_8_timer_precision_timer
+id_no_class: ic_dip_8_timer_precision_timer
+id_no_size: timer_precision_timer
+id_no_type: dip_8_timer_precision_timer
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ic_dip_8_timer_precision_timer
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ic_dip_8_timer_precision_timer
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ic_dip_8_timer_precision_timer
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[electronic_ic_dip_8_timer_precision_timer](none)<br>[id8](none)<br>[Electronic
+    Ic Dip 8 Timer Precision Timer](none)<br><br>'
+markdown_short: '[electronic_ic_dip_8_timer_precision_timer](none)<br><br>'
+md5: 474caaf3e0d59da3a83116ee390da893
+md5_10: 474caaf3e0
+md5_10_upper: 474CAAF3E0
+md5_5: 474ca
+md5_5_upper: 474CA
+md5_6: 474caa
+md5_6_alpha: 2s5gq
+md5_6_alpha_upper: 2S5GQ
+md5_6_upper: 474CAA
+name: Electronic Ic Dip 8 Timer Precision Timer
+name_no_class: Ic Dip 8 Timer Precision Timer
+name_no_size: Timer Precision Timer
+name_no_size_short: Timer Precision Timer
+name_no_type: Dip 8 Timer Precision Timer
+oomp_key: oomp_electronic_ic_dip_8_timer_precision_timer
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: id8
+short_code_upper: ID8
+short_name: 555 timer
+size: dip_8
+size_capital: Dip 8
+size_first_letter: d
+size_first_letter_upper: D
+size_only_numbers: '8'
+size_only_numbers_no_zeros: '8'
+size_upper: DIP_8
+type: ic
+type_capital: Ic
+type_first_letter: i
+type_first_letter_upper: I
+type_upper: IC

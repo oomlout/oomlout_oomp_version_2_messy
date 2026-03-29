@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: dewalt_tower_style
+color_capital: Dewalt Tower Style
+color_first_letter: d
+color_first_letter_upper: D
+color_upper: DEWALT_TOWER_STYLE
+description: category_electronic
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'D '
+description_or_color_upper: 'D '
+directory: parts/category_electronic_battery_box_dewalt_tower_style
+distributors: []
+filter: ''
+from_yaml: false
+id: category_electronic_battery_box_dewalt_tower_style
+id_no_class: electronic_battery_box_dewalt_tower_style
+id_no_size: dewalt_tower_style
+id_no_type: battery_box_dewalt_tower_style
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_battery_box_dewalt_tower_style
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_battery_box_dewalt_tower_style
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_battery_box_dewalt_tower_style
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_electronic_battery_box_dewalt_tower_style](none)<br>[](none)<br>[Category
+    Electronic Battery Box Dewalt Tower Style](none)<br><br>'
+markdown_short: '[category_electronic_battery_box_dewalt_tower_style](none)<br><br>'
+md5: acd05830410999eb5fbc3c67da903739
+md5_10: acd0583041
+md5_10_upper: ACD0583041
+md5_5: acd05
+md5_5_upper: ACD05
+md5_6: acd058
+md5_6_alpha: 6qqu0
+md5_6_alpha_upper: 6QQU0
+md5_6_upper: ACD058
+name: Category Electronic Battery Box Dewalt Tower Style
+name_no_class: Electronic Battery Box Dewalt Tower Style
+name_no_size: Dewalt Tower Style
+name_no_size_short: Dewalt Tower Style
+name_no_type: Battery Box Dewalt Tower Style
+oomp_key: oomp_category_electronic_battery_box_dewalt_tower_style
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryelectronic
+size: battery_box
+size_capital: Battery Box
+size_first_letter: b
+size_first_letter_upper: B
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: BATTERY_BOX
+type: electronic
+type_capital: Electronic
+type_first_letter: e
+type_first_letter_upper: E
+type_upper: ELECTRONIC

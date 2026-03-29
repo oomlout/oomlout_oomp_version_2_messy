@@ -1,0 +1,80 @@
+classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_upper: ELECTRONIC
+color: blue
+color_capital: Blue
+color_first_letter: b
+color_first_letter_upper: B
+color_upper: BLUE
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: clear
+description_main_capital: Clear
+description_main_first_letter: c
+description_main_first_letter_upper: C
+description_main_upper: CLEAR
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'B '
+description_or_color_upper: 'B '
+directory: parts/electronic_led_0201_blue_clear
+distributors: []
+filter: ''
+from_yaml: false
+id: electronic_led_0201_blue_clear
+id_no_class: led_0201_blue_clear
+id_no_size: blue_clear
+id_no_type: 0201_blue_clear
+kicad_reference: L
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_0201_blue_clear
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_0201_blue_clear
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_0201_blue_clear
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[electronic_led_0201_blue_clear](none)<br>[ll](none)<br>[Electronic
+    Led 0201 Blue Clear](none)<br><br>'
+markdown_short: '[electronic_led_0201_blue_clear](none)<br><br>'
+md5: 3aaa4078d327a16f3a390b5689e52aca
+md5_10: 3aaa4078d3
+md5_10_upper: 3AAA4078D3
+md5_5: 3aaa4
+md5_5_upper: 3AAA4
+md5_6: 3aaa40
+md5_6_alpha: 2aekg
+md5_6_alpha_upper: 2AEKG
+md5_6_upper: 3AAA40
+name: Electronic Led 0201 Blue Clear
+name_no_class: Led 0201 Blue Clear
+name_no_size: Blue Clear
+name_no_size_short: Blue Clear
+name_no_type: 0201 Blue Clear
+oomp_key: oomp_electronic_led_0201_blue_clear
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ll
+short_code_upper: LL
+short_name: 0201 Blueclear Led
+size: '0201'
+size_capital: '0201'
+size_first_letter: '0'
+size_first_letter_upper: '0'
+size_only_numbers: '0201'
+size_only_numbers_no_zeros: '21'
+size_upper: '0201'
+type: led
+type_capital: Led
+type_first_letter: l
+type_first_letter_upper: L
+type_upper: LED

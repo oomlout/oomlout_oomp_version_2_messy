@@ -1,0 +1,77 @@
+classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_upper: ELECTRONIC
+color: mcu
+color_capital: Mcu
+color_first_letter: m
+color_first_letter_upper: M
+color_upper: MCU
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: atmega328
+description_main_capital: Atmega328
+description_main_first_letter: a
+description_main_first_letter_upper: A
+description_main_upper: ATMEGA328
+description_only_numbers: '328'
+description_only_numbers_short: '328'
+description_or_color: M328
+description_or_color_upper: M328
+directory: parts/electronic_ic_vqfn_28_mcu_atmega328_microchip_atmega328p_mmh
+distributors: []
+id: electronic_ic_vqfn_28_mcu_atmega328_microchip_atmega328p_mmh
+id_no_class: ic_vqfn_28_mcu_atmega328_microchip_atmega328p_mmh
+id_no_size: mcu_atmega328_microchip_atmega328p_mmh
+id_no_type: vqfn_28_mcu_atmega328_microchip_atmega328p_mmh
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ic_vqfn_28_mcu_atmega328_microchip_atmega328p_mmh
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ic_vqfn_28_mcu_atmega328_microchip_atmega328p_mmh
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_ic_vqfn_28_mcu_atmega328_microchip_atmega328p_mmh
+manufacturer: microchip
+manufacturer_capital: Microchip
+manufacturer_first_letter: m
+manufacturer_first_letter_upper: M
+manufacturer_upper: MICROCHIP
+manufacturers: []
+markdown_full: '[electronic_ic_vqfn_28_mcu_atmega328_microchip_atmega328p_mmh](none)<br>[ivq28mcuat328](none)<br>[Electronic
+    Ic Vqfn 28 Mcu Atmega328 Microchip Atmega328P Mmh](none)<br><br>'
+markdown_short: '[electronic_ic_vqfn_28_mcu_atmega328_microchip_atmega328p_mmh](none)<br><br>'
+md5: 5c1e39c0204a190c5ee2c8d7d640acf5
+md5_10: 5c1e39c020
+md5_10_upper: 5C1E39C020
+md5_5: 5c1e3
+md5_5_upper: 5C1E3
+md5_6: 5c1e39
+md5_6_alpha: 3le7t
+md5_6_alpha_upper: 3LE7T
+md5_6_upper: 5C1E39
+name: Electronic Ic Vqfn 28 Mcu Atmega328 Microchip Atmega328P Mmh
+name_no_class: Ic Vqfn 28 Mcu Atmega328 Microchip Atmega328P Mmh
+name_no_size: Mcu Atmega328 Microchip Atmega328P Mmh
+name_no_size_short: Mcu Atmega328 Microchip Atmega328P Mmh
+name_no_type: Vqfn 28 Mcu Atmega328 Microchip Atmega328P Mmh
+oomp_key: oomp_electronic_ic_vqfn_28_mcu_atmega328_microchip_atmega328p_mmh
+part_number: atmega328p_mmh
+part_number_capital: Atmega328P mmh
+part_number_first_letter: a
+part_number_first_letter_upper: A
+part_number_upper: ATMEGA328P_MMH
+short_code: ivq28mcuat328
+short_code_upper: IVQ28MCUAT328
+short_name: atmega328 28 pin vqfn
+size: vqfn_28
+size_capital: Vqfn 28
+size_first_letter: v
+size_first_letter_upper: V
+size_only_numbers: '28'
+size_only_numbers_no_zeros: '28'
+size_upper: VQFN_28
+type: ic
+type_capital: Ic
+type_first_letter: i
+type_first_letter_upper: I
+type_upper: IC

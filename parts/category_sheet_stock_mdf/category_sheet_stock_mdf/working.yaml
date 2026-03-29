@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_sheet_stock
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_sheet_stock_mdf
+distributors: []
+filter: ''
+from_yaml: false
+id: category_sheet_stock_mdf
+id_no_class: sheet_stock_mdf
+id_no_size: mdf
+id_no_type: mdf
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_sheet_stock_mdf
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_sheet_stock_mdf
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_sheet_stock_mdf
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_sheet_stock_mdf](none)<br>[](none)<br>[Category Sheet Stock
+    Mdf](none)<br><br>'
+markdown_short: '[category_sheet_stock_mdf](none)<br><br>'
+md5: 32121ac64031ac33645ca5cf58e5af7c
+md5_10: 32121ac640
+md5_10_upper: 32121AC640
+md5_5: '32121'
+md5_5_upper: '32121'
+md5_6: 32121a
+md5_6_alpha: 1ybyy
+md5_6_alpha_upper: 1YBYY
+md5_6_upper: 32121A
+name: Category Sheet Stock Mdf
+name_no_class: Sheet Stock Mdf
+name_no_size: Mdf
+name_no_size_short: Mdf
+name_no_type: Mdf
+oomp_key: oomp_category_sheet_stock_mdf
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorysheetstock
+size: mdf
+size_capital: Mdf
+size_first_letter: m
+size_first_letter_upper: M
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: MDF
+type: sheet_stock
+type_capital: Sheet Stock
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: SHEET_STOCK

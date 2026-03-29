@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: roald_dahl
+color_capital: Roald Dahl
+color_first_letter: r
+color_first_letter_upper: R
+color_upper: ROALD_DAHL
+description: category_book
+description_extra: tote
+description_extra_capital: Tote
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TOTE
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'R '
+description_or_color_upper: 'R '
+directory: parts/category_book_chapter_roald_dahl_tote
+distributors: []
+filter: ''
+from_yaml: false
+id: category_book_chapter_roald_dahl_tote
+id_no_class: book_chapter_roald_dahl_tote
+id_no_size: roald_dahl_tote
+id_no_type: chapter_roald_dahl_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_book_chapter_roald_dahl_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_book_chapter_roald_dahl_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_book_chapter_roald_dahl_tote
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_book_chapter_roald_dahl_tote](none)<br>[](none)<br>[Category
+    Book Chapter Roald Dahl Tote](none)<br><br>'
+markdown_short: '[category_book_chapter_roald_dahl_tote](none)<br><br>'
+md5: 2a2194ff4996d702df1f824a0360c8ef
+md5_10: 2a2194ff49
+md5_10_upper: 2A2194FF49
+md5_5: 2a219
+md5_5_upper: 2A219
+md5_6: 2a2194
+md5_6_alpha: 1n6hg
+md5_6_alpha_upper: 1N6HG
+md5_6_upper: 2A2194
+name: Category Book Chapter Roald Dahl Tote
+name_no_class: Book Chapter Roald Dahl Tote
+name_no_size: Roald Dahl Tote
+name_no_size_short: Roald Dahl Tote
+name_no_type: Chapter Roald Dahl Tote
+oomp_key: oomp_category_book_chapter_roald_dahl_tote
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorybook
+size: chapter
+size_capital: Chapter
+size_first_letter: c
+size_first_letter_upper: C
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: CHAPTER
+type: book
+type_capital: Book
+type_first_letter: b
+type_first_letter_upper: B
+type_upper: BOOK

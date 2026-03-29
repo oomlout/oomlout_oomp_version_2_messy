@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_paper
+description_extra: old
+description_extra_capital: Old
+description_extra_first_letter: o
+description_extra_first_letter_upper: O
+description_extra_upper: OLD
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_paper_envelope_old
+distributors: []
+filter: ''
+from_yaml: false
+id: category_paper_envelope_old
+id_no_class: paper_envelope_old
+id_no_size: old
+id_no_type: envelope_old
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_paper_envelope_old
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_paper_envelope_old
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_paper_envelope_old
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_paper_envelope_old](none)<br>[](none)<br>[Category Paper
+    Envelope Old](none)<br><br>'
+markdown_short: '[category_paper_envelope_old](none)<br><br>'
+md5: f54281333ef3307a474746e4dfe8ccb4
+md5_10: f54281333e
+md5_10_upper: F54281333E
+md5_5: f5428
+md5_5_upper: F5428
+md5_6: f54281
+md5_6_alpha: 9ki9t
+md5_6_alpha_upper: 9KI9T
+md5_6_upper: F54281
+name: Category Paper Envelope Old
+name_no_class: Paper Envelope Old
+name_no_size: Old
+name_no_size_short: Old
+name_no_type: Envelope Old
+oomp_key: oomp_category_paper_envelope_old
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorypaper
+size: envelope
+size_capital: Envelope
+size_first_letter: e
+size_first_letter_upper: E
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ENVELOPE
+type: paper
+type_capital: Paper
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PAPER

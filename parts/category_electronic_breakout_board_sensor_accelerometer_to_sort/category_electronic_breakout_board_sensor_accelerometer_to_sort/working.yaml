@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: accelerometer
+color_capital: Accelerometer
+color_first_letter: a
+color_first_letter_upper: A
+color_upper: ACCELEROMETER
+description: category_electronic
+description_extra: to_sort
+description_extra_capital: To Sort
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TO_SORT
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'A '
+description_or_color_upper: 'A '
+directory: parts/category_electronic_breakout_board_sensor_accelerometer_to_sort
+distributors: []
+filter: ''
+from_yaml: false
+id: category_electronic_breakout_board_sensor_accelerometer_to_sort
+id_no_class: electronic_breakout_board_sensor_accelerometer_to_sort
+id_no_size: accelerometer_to_sort
+id_no_type: breakout_board_sensor_accelerometer_to_sort
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_breakout_board_sensor_accelerometer_to_sort
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_breakout_board_sensor_accelerometer_to_sort
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_breakout_board_sensor_accelerometer_to_sort
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_electronic_breakout_board_sensor_accelerometer_to_sort](none)<br>[](none)<br>[Category
+    Electronic Breakout Board Sensor Accelerometer To Sort](none)<br><br>'
+markdown_short: '[category_electronic_breakout_board_sensor_accelerometer_to_sort](none)<br><br>'
+md5: 842ec65fd9ba939413e7c53ab9732ef3
+md5_10: 842ec65fd9
+md5_10_upper: 842EC65FD9
+md5_5: 842ec
+md5_5_upper: 842EC
+md5_6: 842ec6
+md5_6_alpha: 55o7a
+md5_6_alpha_upper: 55O7A
+md5_6_upper: 842EC6
+name: Category Electronic Breakout Board Sensor Accelerometer To Sort
+name_no_class: Electronic Breakout Board Sensor Accelerometer To Sort
+name_no_size: Accelerometer To Sort
+name_no_size_short: Accelerometer To Sort
+name_no_type: Breakout Board Sensor Accelerometer To Sort
+oomp_key: oomp_category_electronic_breakout_board_sensor_accelerometer_to_sort
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryelectronic
+size: breakout_board_sensor
+size_capital: Breakout Board Sensor
+size_first_letter: b
+size_first_letter_upper: B
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: BREAKOUT_BOARD_SENSOR
+type: electronic
+type_capital: Electronic
+type_first_letter: e
+type_first_letter_upper: E
+type_upper: ELECTRONIC

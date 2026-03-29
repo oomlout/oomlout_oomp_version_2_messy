@@ -1,0 +1,80 @@
+classification: stationery
+classification_capital: Stationery
+classification_first_letter: s
+classification_first_letter_upper: S
+classification_upper: STATIONERY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: bic_style_18_color_set
+description_extra_capital: Bic Style 18 Color Set
+description_extra_first_letter: b
+description_extra_first_letter_upper: B
+description_extra_upper: BIC_STYLE_18_COLOR_SET
+description_main: 8_5_mm_diameter_150_mm_length
+description_main_capital: 8.5 mm Diameter 150 mm Length
+description_main_first_letter: '8'
+description_main_first_letter_upper: '8'
+description_main_upper: 8_5_MM_DIAMETER_150_MM_LENGTH
+description_only_numbers: '85150'
+description_only_numbers_short: 85k
+description_or_color: 85k
+description_or_color_upper: 85K
+directory: parts/stationery_felt_tip_pen_8_5_mm_diameter_150_mm_length_bic_style_18_color_set_bic
+distributor_part_number_amazon: B002047E7Q
+distributors: []
+id: stationery_felt_tip_pen_8_5_mm_diameter_150_mm_length_bic_style_18_color_set_bic
+id_no_class: felt_tip_pen_8_5_mm_diameter_150_mm_length_bic_style_18_color_set_bic
+id_no_size: 85mmdiameter150mmlengthbicstyle18colorsetbic
+id_no_type: 8_5_mm_diameter_150_mm_length_bic_style_18_color_set_bic
+link_distributor_amazon: https://www.amazon.co.uk/dp/B002047E7Q
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_felt_tip_pen_8_5_mm_diameter_150_mm_length_bic_style_18_color_set_bic
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_felt_tip_pen_8_5_mm_diameter_150_mm_length_bic_style_18_color_set_bic
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_felt_tip_pen_8_5_mm_diameter_150_mm_length_bic_style_18_color_set_bic
+manufacturer: bic
+manufacturer_capital: Bic
+manufacturer_first_letter: b
+manufacturer_first_letter_upper: B
+manufacturer_upper: BIC
+manufacturers: []
+markdown_full: '[stationery_felt_tip_pen_8_5_mm_diameter_150_mm_length_bic_style_18_color_set_bic](none)<br>[](none)<br>[Stationery
+    Felt Tip Pen 8 5 Mm Diameter 150 Mm Length Bic Style 18 Color Set Bic](none)<br><br>'
+markdown_short: '[stationery_felt_tip_pen_8_5_mm_diameter_150_mm_length_bic_style_18_color_set_bic](none)<br><br>'
+md5: da5428254129b0c3fc2742a6af80c9de
+md5_10: da54282541
+md5_10_upper: DA54282541
+md5_5: da542
+md5_5_upper: DA542
+md5_6: da5428
+md5_6_alpha: 8iofc
+md5_6_alpha_upper: 8IOFC
+md5_6_upper: DA5428
+name: Stationery Felt Tip Pen 8 5 Mm Diameter 150 Mm Length Bic Style 18 Color Set
+    Bic
+name_no_class: Felt Tip Pen 8 5 Mm Diameter 150 Mm Length Bic Style 18 Color Set Bic
+name_no_size: 85Mmdiameter150Mmlengthbicstyle18Colorsetbic
+name_no_size_short: 85Mmdiameter150Mmlengthbicstyle18Colorsetbic
+name_no_type: 8 5 Mm Diameter 150 Mm Length Bic Style 18 Color Set Bic
+oomp_key: oomp_stationery_felt_tip_pen_8_5_mm_diameter_150_mm_length_bic_style_18_color_set_bic
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: felt_tip_pen
+type_capital: Felt Tip Pen
+type_first_letter: f
+type_first_letter_upper: F
+type_upper: FELT_TIP_PEN

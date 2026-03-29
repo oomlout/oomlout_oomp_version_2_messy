@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: coffee
+color_capital: Coffee
+color_first_letter: c
+color_first_letter_upper: C
+color_upper: COFFEE
+description: category_food
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'C '
+description_or_color_upper: 'C '
+directory: parts/category_food_drink_coffee
+distributors: []
+filter: ''
+from_yaml: false
+id: category_food_drink_coffee
+id_no_class: food_drink_coffee
+id_no_size: coffee
+id_no_type: drink_coffee
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_drink_coffee
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_drink_coffee
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_drink_coffee
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_food_drink_coffee](none)<br>[](none)<br>[Category Food Drink
+    Coffee](none)<br><br>'
+markdown_short: '[category_food_drink_coffee](none)<br><br>'
+md5: 6f1e2e6315b7fdce3f5c0355f1d2761a
+md5_10: 6f1e2e6315
+md5_10_upper: 6F1E2E6315
+md5_5: 6f1e2
+md5_5_upper: 6F1E2
+md5_6: 6f1e2e
+md5_6_alpha: 4c2zy
+md5_6_alpha_upper: 4C2ZY
+md5_6_upper: 6F1E2E
+name: Category Food Drink Coffee
+name_no_class: Food Drink Coffee
+name_no_size: Coffee
+name_no_size_short: Coffee
+name_no_type: Drink Coffee
+oomp_key: oomp_category_food_drink_coffee
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryfood
+size: drink
+size_capital: Drink
+size_first_letter: d
+size_first_letter_upper: D
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: DRINK
+type: food
+type_capital: Food
+type_first_letter: f
+type_first_letter_upper: F
+type_upper: FOOD

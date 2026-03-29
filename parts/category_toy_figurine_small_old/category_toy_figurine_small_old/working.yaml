@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: small
+color_capital: Small
+color_first_letter: s
+color_first_letter_upper: S
+color_upper: SMALL
+description: category_toy
+description_extra: old
+description_extra_capital: Old
+description_extra_first_letter: o
+description_extra_first_letter_upper: O
+description_extra_upper: OLD
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'S '
+description_or_color_upper: 'S '
+directory: parts/category_toy_figurine_small_old
+distributors: []
+filter: ''
+from_yaml: false
+id: category_toy_figurine_small_old
+id_no_class: toy_figurine_small_old
+id_no_size: small_old
+id_no_type: figurine_small_old
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_toy_figurine_small_old
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_toy_figurine_small_old
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_toy_figurine_small_old
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_toy_figurine_small_old](none)<br>[](none)<br>[Category Toy
+    Figurine Small Old](none)<br><br>'
+markdown_short: '[category_toy_figurine_small_old](none)<br><br>'
+md5: 0c6e0fe3244b43170904ce1efdd0dd90
+md5_10: 0c6e0fe324
+md5_10_upper: 0C6E0FE324
+md5_5: 0c6e0
+md5_5_upper: 0C6E0
+md5_6: 0c6e0f
+md5_6_alpha: hgjz
+md5_6_alpha_upper: HGJZ
+md5_6_upper: 0C6E0F
+name: Category Toy Figurine Small Old
+name_no_class: Toy Figurine Small Old
+name_no_size: Small Old
+name_no_size_short: Small Old
+name_no_type: Figurine Small Old
+oomp_key: oomp_category_toy_figurine_small_old
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorytoy
+size: figurine
+size_capital: Figurine
+size_first_letter: f
+size_first_letter_upper: F
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: FIGURINE
+type: toy
+type_capital: Toy
+type_first_letter: t
+type_first_letter_upper: T
+type_upper: TOY

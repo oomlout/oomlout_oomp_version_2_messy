@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: 3mm_depth
+color_capital: 3mm Depth
+color_first_letter: '3'
+color_first_letter_upper: '3'
+color_upper: 3MM_DEPTH
+description: category_sheet_stock
+description_extra: tote
+description_extra_capital: Tote
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TOTE
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: '3 '
+description_or_color_upper: '3 '
+directory: parts/category_sheet_stock_mdf_3mm_depth_tote
+distributors: []
+filter: ''
+from_yaml: false
+id: category_sheet_stock_mdf_3mm_depth_tote
+id_no_class: sheet_stock_mdf_3mm_depth_tote
+id_no_size: 3mm_depth_tote
+id_no_type: mdf_3mm_depth_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_sheet_stock_mdf_3mm_depth_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_sheet_stock_mdf_3mm_depth_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_sheet_stock_mdf_3mm_depth_tote
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_sheet_stock_mdf_3mm_depth_tote](none)<br>[](none)<br>[Category
+    Sheet Stock Mdf 3Mm Depth Tote](none)<br><br>'
+markdown_short: '[category_sheet_stock_mdf_3mm_depth_tote](none)<br><br>'
+md5: 78efd2dfd8161256526c4a074008f53c
+md5_10: 78efd2dfd8
+md5_10_upper: 78EFD2DFD8
+md5_5: 78efd
+md5_5_upper: 78EFD
+md5_6: 78efd2
+md5_6_alpha: 4pviq
+md5_6_alpha_upper: 4PVIQ
+md5_6_upper: 78EFD2
+name: Category Sheet Stock Mdf 3Mm Depth Tote
+name_no_class: Sheet Stock Mdf 3Mm Depth Tote
+name_no_size: 3Mm Depth Tote
+name_no_size_short: 3Mm Depth Tote
+name_no_type: Mdf 3Mm Depth Tote
+oomp_key: oomp_category_sheet_stock_mdf_3mm_depth_tote
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorysheetstock
+size: mdf
+size_capital: Mdf
+size_first_letter: m
+size_first_letter_upper: M
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: MDF
+type: sheet_stock
+type_capital: Sheet Stock
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: SHEET_STOCK

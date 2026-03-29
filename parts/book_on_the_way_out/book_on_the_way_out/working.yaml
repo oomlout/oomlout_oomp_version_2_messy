@@ -1,0 +1,77 @@
+classification: book
+classification_capital: Book
+classification_first_letter: b
+classification_first_letter_upper: B
+classification_upper: BOOK
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/book_on_the_way_out
+distributors: []
+filter: ''
+from_yaml: false
+id: book_on_the_way_out
+id_no_class: on_the_way_out
+id_no_size: onthewayout
+id_no_type: on_the_way_out
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/book_on_the_way_out
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/book_on_the_way_out
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/book_on_the_way_out
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[book_on_the_way_out](none)<br>[](none)<br>[Book On The Way Out](none)<br><br>'
+markdown_short: '[book_on_the_way_out](none)<br><br>'
+md5: c55107579ea4a7d40f9b0b3374e3eb56
+md5_10: c55107579e
+md5_10_upper: C55107579E
+md5_5: c5510
+md5_5_upper: C5510
+md5_6: c55107
+md5_6_alpha: 7p5vr
+md5_6_alpha_upper: 7P5VR
+md5_6_upper: C55107
+name: Book On The Way Out
+name_no_class: On The Way Out
+name_no_size: Onthewayout
+name_no_size_short: Onthewayout
+name_no_type: On The Way Out
+oomp_key: oomp_book_on_the_way_out
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: on_the_way_out
+type_capital: On The Way Out
+type_first_letter: o
+type_first_letter_upper: O
+type_upper: ON_THE_WAY_OUT

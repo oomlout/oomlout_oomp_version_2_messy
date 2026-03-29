@@ -1,0 +1,78 @@
+classification: clothes
+classification_capital: Clothes
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CLOTHES
+color: small
+color_capital: Small
+color_first_letter: s
+color_first_letter_upper: S
+color_upper: SMALL
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: cyan
+description_main_capital: Cyan
+description_main_first_letter: c
+description_main_first_letter_upper: C
+description_main_upper: CYAN
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'S '
+description_or_color_upper: 'S '
+directory: parts/clothes_item_coat_small_cyan
+distributors: []
+filter: ''
+from_yaml: false
+id: clothes_item_coat_small_cyan
+id_no_class: item_coat_small_cyan
+id_no_size: small_cyan
+id_no_type: coat_small_cyan
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_coat_small_cyan
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_coat_small_cyan
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_coat_small_cyan
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[clothes_item_coat_small_cyan](none)<br>[](none)<br>[Clothes Item
+    Coat Small Cyan](none)<br><br>'
+markdown_short: '[clothes_item_coat_small_cyan](none)<br><br>'
+md5: db0f279bc12acca5c19386f80eb88090
+md5_10: db0f279bc1
+md5_10_upper: DB0F279BC1
+md5_5: db0f2
+md5_5_upper: DB0F2
+md5_6: db0f27
+md5_6_alpha: 8jpd3
+md5_6_alpha_upper: 8JPD3
+md5_6_upper: DB0F27
+name: Clothes Item Coat Small Cyan
+name_no_class: Item Coat Small Cyan
+name_no_size: Small Cyan
+name_no_size_short: Small Cyan
+name_no_type: Coat Small Cyan
+oomp_key: oomp_clothes_item_coat_small_cyan
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: coat
+size_capital: Coat
+size_first_letter: c
+size_first_letter_upper: C
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: COAT
+type: item
+type_capital: Item
+type_first_letter: i
+type_first_letter_upper: I
+type_upper: ITEM

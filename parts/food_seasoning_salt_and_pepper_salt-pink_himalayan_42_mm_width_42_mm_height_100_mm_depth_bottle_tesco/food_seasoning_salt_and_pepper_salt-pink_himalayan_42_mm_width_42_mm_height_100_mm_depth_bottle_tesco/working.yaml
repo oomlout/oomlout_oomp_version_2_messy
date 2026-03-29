@@ -1,0 +1,85 @@
+classification: food
+classification_capital: Food
+classification_first_letter: f
+classification_first_letter_upper: F
+classification_upper: FOOD
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: salt-pink himalayan
+description_extra: 42_mm_width_42_mm_height_100_mm_depth_bottle
+description_extra_capital: 42 mm Width 42 mm Height 100 mm Depth Bottle
+description_extra_first_letter: '4'
+description_extra_first_letter_upper: '4'
+description_extra_upper: 42_MM_WIDTH_42_MM_HEIGHT_100_MM_DEPTH_BOTTLE
+description_main: salt-pink_himalayan
+description_main_capital: Salt-Pink Himalayan
+description_main_first_letter: s
+description_main_first_letter_upper: S
+description_main_upper: SALT-PINK_HIMALAYAN
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/food_seasoning_salt_and_pepper_salt-pink_himalayan_42_mm_width_42_mm_height_100_mm_depth_bottle_tesco
+distributors: []
+filter: ''
+from_yaml: false
+id: food_seasoning_salt_and_pepper_salt-pink_himalayan_42_mm_width_42_mm_height_100_mm_depth_bottle_tesco
+id_no_class: seasoning_salt_and_pepper_salt-pink_himalayan_42_mm_width_42_mm_height_100_mm_depth_bottle_tesco
+id_no_size: salt-pink_himalayan_42_mm_width_42_mm_height_100_mm_depth_bottle_tesco
+id_no_type: salt_and_pepper_salt-pink_himalayan_42_mm_width_42_mm_height_100_mm_depth_bottle_tesco
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_salt_and_pepper_salt-pink_himalayan_42_mm_width_42_mm_height_100_mm_depth_bottle_tesco
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_salt_and_pepper_salt-pink_himalayan_42_mm_width_42_mm_height_100_mm_depth_bottle_tesco
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_salt_and_pepper_salt-pink_himalayan_42_mm_width_42_mm_height_100_mm_depth_bottle_tesco
+manufacturer: tesco
+manufacturer_capital: Tesco
+manufacturer_first_letter: t
+manufacturer_first_letter_upper: T
+manufacturer_upper: TESCO
+manufacturers: []
+markdown_full: '[food_seasoning_salt_and_pepper_salt-pink_himalayan_42_mm_width_42_mm_height_100_mm_depth_bottle_tesco](none)<br>[](none)<br>[Food
+    Seasoning Salt And Pepper Salt-Pink Himalayan 42 Mm Width 42 Mm Height 100 Mm
+    Depth Bottle Tesco](none)<br><br>'
+markdown_short: '[food_seasoning_salt_and_pepper_salt-pink_himalayan_42_mm_width_42_mm_height_100_mm_depth_bottle_tesco](none)<br><br>'
+md5: ca0751ed955c60e61da5665912cb9c2b
+md5_10: ca0751ed95
+md5_10_upper: CA0751ED95
+md5_5: ca075
+md5_5_upper: CA075
+md5_6: ca0751
+md5_6_alpha: 7vs5t
+md5_6_alpha_upper: 7VS5T
+md5_6_upper: CA0751
+name: Food Seasoning Salt And Pepper Salt-Pink Himalayan 42 Mm Width 42 Mm Height
+    100 Mm Depth Bottle Tesco
+name_no_class: Seasoning Salt And Pepper Salt-Pink Himalayan 42 Mm Width 42 Mm Height
+    100 Mm Depth Bottle Tesco
+name_no_size: Salt-Pink Himalayan 42 Mm Width 42 Mm Height 100 Mm Depth Bottle Tesco
+name_no_size_short: Salt-Pink Himalayan 42 Mm Width 42 Mm Height 100 Mm Depth Bottle
+    Tesco
+name_no_type: Salt And Pepper Salt-Pink Himalayan 42 Mm Width 42 Mm Height 100 Mm
+    Depth Bottle Tesco
+name_short: Salt-Pink Himalayan
+oomp_key: oomp_food_seasoning_salt_and_pepper_salt-pink_himalayan_42_mm_width_42_mm_height_100_mm_depth_bottle_tesco
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: salt_and_pepper
+size_capital: Salt And Pepper
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SALT_AND_PEPPER
+type: seasoning
+type_capital: Seasoning
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: SEASONING

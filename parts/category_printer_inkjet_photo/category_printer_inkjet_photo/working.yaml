@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: photo
+color_capital: Photo
+color_first_letter: p
+color_first_letter_upper: P
+color_upper: PHOTO
+description: category_printer
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'P '
+description_or_color_upper: 'P '
+directory: parts/category_printer_inkjet_photo
+distributors: []
+filter: ''
+from_yaml: false
+id: category_printer_inkjet_photo
+id_no_class: printer_inkjet_photo
+id_no_size: photo
+id_no_type: inkjet_photo
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_printer_inkjet_photo
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_printer_inkjet_photo
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_printer_inkjet_photo
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_printer_inkjet_photo](none)<br>[](none)<br>[Category Printer
+    Inkjet Photo](none)<br><br>'
+markdown_short: '[category_printer_inkjet_photo](none)<br><br>'
+md5: 5d32bd36011d7171033bb65629949fcd
+md5_10: 5d32bd3601
+md5_10_upper: 5D32BD3601
+md5_5: 5d32b
+md5_5_upper: 5D32B
+md5_6: 5d32bd
+md5_6_alpha: 3mwu5
+md5_6_alpha_upper: 3MWU5
+md5_6_upper: 5D32BD
+name: Category Printer Inkjet Photo
+name_no_class: Printer Inkjet Photo
+name_no_size: Photo
+name_no_size_short: Photo
+name_no_type: Inkjet Photo
+oomp_key: oomp_category_printer_inkjet_photo
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryprinter
+size: inkjet
+size_capital: Inkjet
+size_first_letter: i
+size_first_letter_upper: I
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: INKJET
+type: printer
+type_capital: Printer
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PRINTER

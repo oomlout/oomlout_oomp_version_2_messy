@@ -1,0 +1,80 @@
+classification: dish
+classification_capital: Dish
+classification_first_letter: d
+classification_first_letter_upper: D
+classification_upper: DISH
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: 2000_ml_210_mm_diameter
+description_extra_capital: 2000 Ml 210 mm Diameter
+description_extra_first_letter: '2'
+description_extra_first_letter_upper: '2'
+description_extra_upper: 2000_ML_210_MM_DIAMETER
+description_main: bowl
+description_main_capital: Bowl
+description_main_first_letter: b
+description_main_first_letter_upper: B
+description_main_upper: BOWL
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/dish_baking_pyrex_bowl_2000_ml_210_mm_diameter_pyrex_180B000
+distributors: []
+filter: ''
+from_yaml: false
+id: dish_baking_pyrex_bowl_2000_ml_210_mm_diameter_pyrex_180B000
+id_no_class: baking_pyrex_bowl_2000_ml_210_mm_diameter_pyrex_180B000
+id_no_size: bowl_2000_ml_210_mm_diameter_180B000
+id_no_type: pyrex_bowl_2000_ml_210_mm_diameter_pyrex_180B000
+link_distributor_pyrex: https://pyrex.co.uk/products/classic-glass-bowl-high-resistance?variant=14730280697891
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/dish_baking_pyrex_bowl_2000_ml_210_mm_diameter_pyrex_180B000
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/dish_baking_pyrex_bowl_2000_ml_210_mm_diameter_pyrex_180B000
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/dish_baking_pyrex_bowl_2000_ml_210_mm_diameter_pyrex_180B000
+manufacturer: pyrex
+manufacturer_capital: Pyrex
+manufacturer_first_letter: p
+manufacturer_first_letter_upper: P
+manufacturer_upper: PYREX
+manufacturers: []
+markdown_full: '[dish_baking_pyrex_bowl_2000_ml_210_mm_diameter_pyrex_180B000](none)<br>[](none)<br>[Dish
+    Baking Pyrex Bowl 2000 Ml 210 Mm Diameter Pyrex 180B000](none)<br><br>'
+markdown_short: '[dish_baking_pyrex_bowl_2000_ml_210_mm_diameter_pyrex_180B000](none)<br><br>'
+md5: 845a7926177579075ee864c63fcd3c4c
+md5_10: 845a792617
+md5_10_upper: 845A792617
+md5_5: 845a7
+md5_5_upper: 845A7
+md5_6: 845a79
+md5_6_alpha: 55wu1
+md5_6_alpha_upper: 55WU1
+md5_6_upper: 845A79
+name: Dish Baking Pyrex Bowl 2000 Ml 210 Mm Diameter Pyrex 180B000
+name_no_class: Baking Pyrex Bowl 2000 Ml 210 Mm Diameter Pyrex 180B000
+name_no_size: Bowl 2000 Ml 210 Mm Diameter 180B000
+name_no_size_short: Bowl 2000 Ml 210 Mm Diameter 180B000
+name_no_type: Pyrex Bowl 2000 Ml 210 Mm Diameter Pyrex 180B000
+oomp_key: oomp_dish_baking_pyrex_bowl_2000_ml_210_mm_diameter_pyrex_180B000
+part_number: 180B000
+part_number_capital: 180B000
+part_number_exact: 180B000
+part_number_first_letter: '1'
+part_number_first_letter_upper: '1'
+part_number_upper: 180B000
+short_code: ''
+short_code_upper: ''
+size: pyrex
+size_capital: Pyrex
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PYREX
+type: baking
+type_capital: Baking
+type_first_letter: b
+type_first_letter_upper: B
+type_upper: BAKING

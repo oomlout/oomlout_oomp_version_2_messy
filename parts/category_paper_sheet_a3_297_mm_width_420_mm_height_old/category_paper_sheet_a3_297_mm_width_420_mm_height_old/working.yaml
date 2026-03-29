@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: a3_297_mm_width_420_mm_height
+color_capital: A3.297 mm Width 420 mm Height
+color_first_letter: a
+color_first_letter_upper: A
+color_upper: A3_297_MM_WIDTH_420_MM_HEIGHT
+description: category_paper
+description_extra: old
+description_extra_capital: Old
+description_extra_first_letter: o
+description_extra_first_letter_upper: O
+description_extra_upper: OLD
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'A '
+description_or_color_upper: 'A '
+directory: parts/category_paper_sheet_a3_297_mm_width_420_mm_height_old
+distributors: []
+filter: ''
+from_yaml: false
+id: category_paper_sheet_a3_297_mm_width_420_mm_height_old
+id_no_class: paper_sheet_a3_297_mm_width_420_mm_height_old
+id_no_size: a3_297_mm_width_420_mm_height_old
+id_no_type: sheet_a3_297_mm_width_420_mm_height_old
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_paper_sheet_a3_297_mm_width_420_mm_height_old
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_paper_sheet_a3_297_mm_width_420_mm_height_old
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_paper_sheet_a3_297_mm_width_420_mm_height_old
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_paper_sheet_a3_297_mm_width_420_mm_height_old](none)<br>[](none)<br>[Category
+    Paper Sheet A3 297 Mm Width 420 Mm Height Old](none)<br><br>'
+markdown_short: '[category_paper_sheet_a3_297_mm_width_420_mm_height_old](none)<br><br>'
+md5: 4769e178c698a10741f1f99c1ceee375
+md5_10: 4769e178c6
+md5_10_upper: 4769E178C6
+md5_5: 4769e
+md5_5_upper: 4769E
+md5_6: 4769e1
+md5_6_alpha: 2sb8h
+md5_6_alpha_upper: 2SB8H
+md5_6_upper: 4769E1
+name: Category Paper Sheet A3 297 Mm Width 420 Mm Height Old
+name_no_class: Paper Sheet A3 297 Mm Width 420 Mm Height Old
+name_no_size: A3 297 Mm Width 420 Mm Height Old
+name_no_size_short: A3 297 Mm Width 420 Mm Height Old
+name_no_type: Sheet A3 297 Mm Width 420 Mm Height Old
+oomp_key: oomp_category_paper_sheet_a3_297_mm_width_420_mm_height_old
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorypaper
+size: sheet
+size_capital: Sheet
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SHEET
+type: paper
+type_capital: Paper
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PAPER

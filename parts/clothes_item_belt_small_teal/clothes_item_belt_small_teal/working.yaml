@@ -1,0 +1,78 @@
+classification: clothes
+classification_capital: Clothes
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CLOTHES
+color: small
+color_capital: Small
+color_first_letter: s
+color_first_letter_upper: S
+color_upper: SMALL
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: teal
+description_main_capital: Teal
+description_main_first_letter: t
+description_main_first_letter_upper: T
+description_main_upper: TEAL
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'S '
+description_or_color_upper: 'S '
+directory: parts/clothes_item_belt_small_teal
+distributors: []
+filter: ''
+from_yaml: false
+id: clothes_item_belt_small_teal
+id_no_class: item_belt_small_teal
+id_no_size: small_teal
+id_no_type: belt_small_teal
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_belt_small_teal
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_belt_small_teal
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_belt_small_teal
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[clothes_item_belt_small_teal](none)<br>[](none)<br>[Clothes Item
+    Belt Small Teal](none)<br><br>'
+markdown_short: '[clothes_item_belt_small_teal](none)<br><br>'
+md5: 5b65be5c21351289fef3fd04b289a684
+md5_10: 5b65be5c21
+md5_10_upper: 5B65BE5C21
+md5_5: 5b65b
+md5_5_upper: 5B65B
+md5_6: 5b65be
+md5_6_alpha: 3kdry
+md5_6_alpha_upper: 3KDRY
+md5_6_upper: 5B65BE
+name: Clothes Item Belt Small Teal
+name_no_class: Item Belt Small Teal
+name_no_size: Small Teal
+name_no_size_short: Small Teal
+name_no_type: Belt Small Teal
+oomp_key: oomp_clothes_item_belt_small_teal
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: belt
+size_capital: Belt
+size_first_letter: b
+size_first_letter_upper: B
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: BELT
+type: item
+type_capital: Item
+type_first_letter: i
+type_first_letter_upper: I
+type_upper: ITEM

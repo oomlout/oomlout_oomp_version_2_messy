@@ -1,0 +1,81 @@
+classification: household_cleaning
+classification_capital: Household Cleaning
+classification_first_letter: h
+classification_first_letter_upper: H
+classification_upper: HOUSEHOLD_CLEANING
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: 750_ml_bottle
+description_extra_capital: 750 Ml Bottle
+description_extra_first_letter: '7'
+description_extra_first_letter_upper: '7'
+description_extra_upper: 750_ML_BOTTLE
+description_main: ineos_multi_room_cleaner_rhubarb_and_pommegranate
+description_main_capital: Ineos Multi Room Cleaner Rhubarb And Pommegranate
+description_main_first_letter: i
+description_main_first_letter_upper: I
+description_main_upper: INEOS_MULTI_ROOM_CLEANER_RHUBARB_AND_POMMEGRANATE
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/household_cleaning_cleaner_spray_ineos_multi_room_cleaner_rhubarb_and_pommegranate_750_ml_bottle
+distributors: []
+filter: ''
+from_yaml: false
+id: household_cleaning_cleaner_spray_ineos_multi_room_cleaner_rhubarb_and_pommegranate_750_ml_bottle
+id_no_class: cleaner_spray_ineos_multi_room_cleaner_rhubarb_and_pommegranate_750_ml_bottle
+id_no_size: ineosmultiroomcleanerrhubarbandpommegranate750mlbottle
+id_no_type: ineos_multi_room_cleaner_rhubarb_and_pommegranate_750_ml_bottle
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/household_cleaning_cleaner_spray_ineos_multi_room_cleaner_rhubarb_and_pommegranate_750_ml_bottle
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/household_cleaning_cleaner_spray_ineos_multi_room_cleaner_rhubarb_and_pommegranate_750_ml_bottle
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/household_cleaning_cleaner_spray_ineos_multi_room_cleaner_rhubarb_and_pommegranate_750_ml_bottle
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[household_cleaning_cleaner_spray_ineos_multi_room_cleaner_rhubarb_and_pommegranate_750_ml_bottle](none)<br>[](none)<br>[Household
+    Cleaning Cleaner Spray Ineos Multi Room Cleaner Rhubarb And Pommegranate 750 Ml
+    Bottle](none)<br><br>'
+markdown_short: '[household_cleaning_cleaner_spray_ineos_multi_room_cleaner_rhubarb_and_pommegranate_750_ml_bottle](none)<br><br>'
+md5: 400de1f099a8081f81da54d828ebb9f7
+md5_10: 400de1f099
+md5_10_upper: 400DE1F099
+md5_5: 400de
+md5_5_upper: 400DE
+md5_6: 400de1
+md5_6_alpha: 2hz35
+md5_6_alpha_upper: 2HZ35
+md5_6_upper: 400DE1
+name: Household Cleaning Cleaner Spray Ineos Multi Room Cleaner Rhubarb And Pommegranate
+    750 Ml Bottle
+name_no_class: Cleaner Spray Ineos Multi Room Cleaner Rhubarb And Pommegranate 750
+    Ml Bottle
+name_no_size: Ineosmultiroomcleanerrhubarbandpommegranate750Mlbottle
+name_no_size_short: Ineosmultiroomcleanerrhubarbandpommegranate750Mlbottle
+name_no_type: Ineos Multi Room Cleaner Rhubarb And Pommegranate 750 Ml Bottle
+oomp_key: oomp_household_cleaning_cleaner_spray_ineos_multi_room_cleaner_rhubarb_and_pommegranate_750_ml_bottle
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: cleaner_spray
+type_capital: Cleaner Spray
+type_first_letter: c
+type_first_letter_upper: C
+type_upper: CLEANER_SPRAY

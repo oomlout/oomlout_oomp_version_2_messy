@@ -1,0 +1,81 @@
+classification: stationery
+classification_capital: Stationery
+classification_first_letter: s
+classification_first_letter_upper: S
+classification_upper: STATIONERY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: crayola_style_50_color_set
+description_extra_capital: Crayola Style 50 Color Set
+description_extra_first_letter: c
+description_extra_first_letter_upper: C
+description_extra_upper: CRAYOLA_STYLE_50_COLOR_SET
+description_main: 7_5_mm_diameter_175_mm_length
+description_main_capital: 7.5 mm Diameter 175 mm Length
+description_main_first_letter: '7'
+description_main_first_letter_upper: '7'
+description_main_upper: 7_5_MM_DIAMETER_175_MM_LENGTH
+description_only_numbers: '75175'
+description_only_numbers_short: 75k
+description_or_color: 75k
+description_or_color_upper: 75K
+directory: parts/stationery_pencil_crayon_7_5_mm_diameter_175_mm_length_crayola_style_50_color_set_crayola
+distributor_part_number_amazon: B00000J0S3
+distributors: []
+id: stationery_pencil_crayon_7_5_mm_diameter_175_mm_length_crayola_style_50_color_set_crayola
+id_no_class: pencil_crayon_7_5_mm_diameter_175_mm_length_crayola_style_50_color_set_crayola
+id_no_size: 75mmdiameter175mmlengthcrayolastyle50colorsetcrayola
+id_no_type: 7_5_mm_diameter_175_mm_length_crayola_style_50_color_set_crayola
+link_distributor_amazon: https://www.amazon.co.uk/dp/B00000J0S3
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_pencil_crayon_7_5_mm_diameter_175_mm_length_crayola_style_50_color_set_crayola
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_pencil_crayon_7_5_mm_diameter_175_mm_length_crayola_style_50_color_set_crayola
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_pencil_crayon_7_5_mm_diameter_175_mm_length_crayola_style_50_color_set_crayola
+manufacturer: crayola
+manufacturer_capital: Crayola
+manufacturer_first_letter: c
+manufacturer_first_letter_upper: C
+manufacturer_upper: CRAYOLA
+manufacturers: []
+markdown_full: '[stationery_pencil_crayon_7_5_mm_diameter_175_mm_length_crayola_style_50_color_set_crayola](none)<br>[](none)<br>[Stationery
+    Pencil Crayon 7 5 Mm Diameter 175 Mm Length Crayola Style 50 Color Set Crayola](none)<br><br>'
+markdown_short: '[stationery_pencil_crayon_7_5_mm_diameter_175_mm_length_crayola_style_50_color_set_crayola](none)<br><br>'
+md5: 866fa626f61094ab630a85d19c43cf73
+md5_10: 866fa626f6
+md5_10_upper: 866FA626F6
+md5_5: 866fa
+md5_5_upper: 866FA
+md5_6: 866fa6
+md5_6_alpha: 58u5i
+md5_6_alpha_upper: 58U5I
+md5_6_upper: 866FA6
+name: Stationery Pencil Crayon 7 5 Mm Diameter 175 Mm Length Crayola Style 50 Color
+    Set Crayola
+name_no_class: Pencil Crayon 7 5 Mm Diameter 175 Mm Length Crayola Style 50 Color
+    Set Crayola
+name_no_size: 75Mmdiameter175Mmlengthcrayolastyle50Colorsetcrayola
+name_no_size_short: 75Mmdiameter175Mmlengthcrayolastyle50Colorsetcrayola
+name_no_type: 7 5 Mm Diameter 175 Mm Length Crayola Style 50 Color Set Crayola
+oomp_key: oomp_stationery_pencil_crayon_7_5_mm_diameter_175_mm_length_crayola_style_50_color_set_crayola
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: pencil_crayon
+type_capital: Pencil Crayon
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PENCIL_CRAYON

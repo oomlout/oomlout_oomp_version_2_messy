@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: soldering
+color_capital: Soldering
+color_first_letter: s
+color_first_letter_upper: S
+color_upper: SOLDERING
+description: category_tool
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'S '
+description_or_color_upper: 'S '
+directory: parts/category_tool_electronic_soldering
+distributors: []
+filter: ''
+from_yaml: false
+id: category_tool_electronic_soldering
+id_no_class: tool_electronic_soldering
+id_no_size: soldering
+id_no_type: electronic_soldering
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_electronic_soldering
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_electronic_soldering
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_electronic_soldering
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_tool_electronic_soldering](none)<br>[](none)<br>[Category
+    Tool Electronic Soldering](none)<br><br>'
+markdown_short: '[category_tool_electronic_soldering](none)<br><br>'
+md5: 137d7eabe475e5b1eb32d856ccd920ad
+md5_10: 137d7eabe4
+md5_10_upper: 137D7EABE4
+md5_5: 137d7
+md5_5_upper: 137D7
+md5_6: 137d7e
+md5_6_alpha: rdku
+md5_6_alpha_upper: RDKU
+md5_6_upper: 137D7E
+name: Category Tool Electronic Soldering
+name_no_class: Tool Electronic Soldering
+name_no_size: Soldering
+name_no_size_short: Soldering
+name_no_type: Electronic Soldering
+oomp_key: oomp_category_tool_electronic_soldering
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorytool
+size: electronic
+size_capital: Electronic
+size_first_letter: e
+size_first_letter_upper: E
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ELECTRONIC
+type: tool
+type_capital: Tool
+type_first_letter: t
+type_first_letter_upper: T
+type_upper: TOOL

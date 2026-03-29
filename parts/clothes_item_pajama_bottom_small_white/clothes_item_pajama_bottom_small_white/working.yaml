@@ -1,0 +1,78 @@
+classification: clothes
+classification_capital: Clothes
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CLOTHES
+color: small
+color_capital: Small
+color_first_letter: s
+color_first_letter_upper: S
+color_upper: SMALL
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: white
+description_main_capital: White
+description_main_first_letter: w
+description_main_first_letter_upper: W
+description_main_upper: WHITE
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'S '
+description_or_color_upper: 'S '
+directory: parts/clothes_item_pajama_bottom_small_white
+distributors: []
+filter: ''
+from_yaml: false
+id: clothes_item_pajama_bottom_small_white
+id_no_class: item_pajama_bottom_small_white
+id_no_size: small_white
+id_no_type: pajama_bottom_small_white
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_pajama_bottom_small_white
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_pajama_bottom_small_white
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_pajama_bottom_small_white
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[clothes_item_pajama_bottom_small_white](none)<br>[](none)<br>[Clothes
+    Item Pajama Bottom Small White](none)<br><br>'
+markdown_short: '[clothes_item_pajama_bottom_small_white](none)<br><br>'
+md5: 17e9620c3b0d8c46d91a5657f7fac938
+md5_10: 17e9620c3b
+md5_10_upper: 17E9620C3B
+md5_5: 17e96
+md5_5_upper: 17E96
+md5_6: 17e962
+md5_6_alpha: xl5u
+md5_6_alpha_upper: XL5U
+md5_6_upper: 17E962
+name: Clothes Item Pajama Bottom Small White
+name_no_class: Item Pajama Bottom Small White
+name_no_size: Small White
+name_no_size_short: Small White
+name_no_type: Pajama Bottom Small White
+oomp_key: oomp_clothes_item_pajama_bottom_small_white
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: pajama_bottom
+size_capital: Pajama Bottom
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PAJAMA_BOTTOM
+type: item
+type_capital: Item
+type_first_letter: i
+type_first_letter_upper: I
+type_upper: ITEM

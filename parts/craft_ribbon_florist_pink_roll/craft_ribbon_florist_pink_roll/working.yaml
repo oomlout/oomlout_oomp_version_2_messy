@@ -1,0 +1,77 @@
+classification: craft
+classification_capital: Craft
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CRAFT
+color: pink
+color_capital: Pink
+color_first_letter: p
+color_first_letter_upper: P
+color_upper: PINK
+description_extra: roll
+description_extra_capital: Roll
+description_extra_first_letter: r
+description_extra_first_letter_upper: R
+description_extra_upper: ROLL
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'P '
+description_or_color_upper: 'P '
+directory: parts/craft_ribbon_florist_pink_roll
+distributors: []
+id: craft_ribbon_florist_pink_roll
+id_no_class: ribbon_florist_pink_roll
+id_no_size: pink_roll
+id_no_type: florist_pink_roll
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/craft_ribbon_florist_pink_roll
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/craft_ribbon_florist_pink_roll
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/craft_ribbon_florist_pink_roll
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[craft_ribbon_florist_pink_roll](none)<br>[p](none)<br>[Craft Ribbon
+    Florist Pink Roll](none)<br><br>'
+markdown_short: '[craft_ribbon_florist_pink_roll](none)<br><br>'
+md5: 34cc5620a80baa63ab3e5d69838cf708
+md5_10: 34cc5620a8
+md5_10_upper: 34CC5620A8
+md5_5: 34cc5
+md5_5_upper: 34CC5
+md5_6: 34cc56
+md5_6_alpha: 225w6
+md5_6_alpha_upper: 225W6
+md5_6_upper: 34CC56
+name: Craft Ribbon Florist Pink Roll
+name_no_class: Ribbon Florist Pink Roll
+name_no_size: Pink Roll
+name_no_size_short: Pink Roll
+name_no_type: Florist Pink Roll
+oomp_key: oomp_craft_ribbon_florist_pink_roll
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: p
+short_code_upper: P
+short_name: ''
+size: florist
+size_capital: Florist
+size_first_letter: f
+size_first_letter_upper: F
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: FLORIST
+type: ribbon
+type_capital: Ribbon
+type_first_letter: r
+type_first_letter_upper: R
+type_upper: RIBBON

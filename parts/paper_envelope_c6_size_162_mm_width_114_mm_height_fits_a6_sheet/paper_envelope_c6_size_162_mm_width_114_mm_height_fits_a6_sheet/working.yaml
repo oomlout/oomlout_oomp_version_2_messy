@@ -1,0 +1,81 @@
+classification: paper
+classification_capital: Paper
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_upper: PAPER
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/paper_envelope_c6_size_162_mm_width_114_mm_height_fits_a6_sheet
+distributors: []
+filter: ''
+from_yaml: false
+height: 114 mm
+id: paper_envelope_c6_size_162_mm_width_114_mm_height_fits_a6_sheet
+id_no_class: envelope_c6_size_162_mm_width_114_mm_height_fits_a6_sheet
+id_no_size: c6_size_162_mm_width_114_mm_height_fits_a6_sheet
+id_no_type: c6_size_162_mm_width_114_mm_height_fits_a6_sheet
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_envelope_c6_size_162_mm_width_114_mm_height_fits_a6_sheet
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_envelope_c6_size_162_mm_width_114_mm_height_fits_a6_sheet
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_envelope_c6_size_162_mm_width_114_mm_height_fits_a6_sheet
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[paper_envelope_c6_size_162_mm_width_114_mm_height_fits_a6_sheet](none)<br>[](none)<br>[Paper
+    Envelope C6 Size 162 Mm Width 114 Mm Height Fits A6 Sheet](none)<br><br>'
+markdown_short: '[paper_envelope_c6_size_162_mm_width_114_mm_height_fits_a6_sheet](none)<br><br>'
+md5: 79e026cd4d99675b1c57e226b019f628
+md5_10: 79e026cd4d
+md5_10_upper: 79E026CD4D
+md5_5: 79e02
+md5_5_upper: 79E02
+md5_6: 79e026
+md5_6_alpha: 4r6zq
+md5_6_alpha_upper: 4R6ZQ
+md5_6_upper: 79E026
+name: Paper Envelope C6 Size 162 Mm Width 114 Mm Height Fits A6 Sheet
+name_no_class: Envelope C6 Size 162 Mm Width 114 Mm Height Fits A6 Sheet
+name_no_size: C6 Size 162 Mm Width 114 Mm Height Fits A6 Sheet
+name_no_size_short: C6 Size 162 Mm Width 114 Mm Height Fits A6 Sheet
+name_no_type: C6 Size 162 Mm Width 114 Mm Height Fits A6 Sheet
+oomp_key: oomp_paper_envelope_c6_size_162_mm_width_114_mm_height_fits_a6_sheet
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: C6 Envelope
+size: c6_size_162_mm_width_114_mm_height_fits_a6_sheet
+size_capital: C6 Size 162 mm Width 114 mm Height Fits A6 Sheet
+size_first_letter: c
+size_first_letter_upper: C
+size_only_numbers: '61621146'
+size_only_numbers_no_zeros: '61621146'
+size_upper: C6_SIZE_162_MM_WIDTH_114_MM_HEIGHT_FITS_A6_SHEET
+type: envelope
+type_capital: Envelope
+type_first_letter: e
+type_first_letter_upper: E
+type_upper: ENVELOPE
+width: 162 mm

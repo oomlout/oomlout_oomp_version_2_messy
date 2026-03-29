@@ -1,0 +1,80 @@
+classification: food
+classification_capital: Food
+classification_first_letter: f
+classification_first_letter_upper: F
+classification_upper: FOOD
+color: icing
+color_capital: Icing
+color_first_letter: i
+color_first_letter_upper: I
+color_upper: ICING
+description: sugar_icing
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'I '
+description_or_color_upper: 'I '
+directory: parts/food_baking_sugar_icing
+distributors: []
+filter: ''
+from_yaml: false
+id: food_baking_sugar_icing
+id_no_class: baking_sugar_icing
+id_no_size: icing
+id_no_type: sugar_icing
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_baking_sugar_icing
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_baking_sugar_icing
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_baking_sugar_icing
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[food_baking_sugar_icing](none)<br>[](none)<br>[Food Baking Sugar
+    Icing](none)<br><br>'
+markdown_short: '[food_baking_sugar_icing](none)<br><br>'
+md5: 95ffd9b78297001ddb319f2f8b765f35
+md5_10: 95ffd9b782
+md5_10_upper: 95FFD9B782
+md5_5: 95ffd
+md5_5_upper: 95FFD
+md5_6: 95ffd9
+md5_6_alpha: 5up5l
+md5_6_alpha_upper: 5UP5L
+md5_6_upper: 95FFD9
+name: Food Baking Sugar Icing
+name_no_class: Baking Sugar Icing
+name_no_size: Icing
+name_no_size_short: Icing
+name_no_type: Sugar Icing
+name_short: Sugar Icing
+oomp_key: oomp_food_baking_sugar_icing
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: sugar
+size_capital: Sugar
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SUGAR
+type: baking
+type_capital: Baking
+type_first_letter: b
+type_first_letter_upper: B
+type_upper: BAKING

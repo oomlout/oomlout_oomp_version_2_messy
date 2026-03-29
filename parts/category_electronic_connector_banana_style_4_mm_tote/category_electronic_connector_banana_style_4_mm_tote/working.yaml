@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: banana_style_4_mm
+color_capital: Banana Style 4 mm
+color_first_letter: b
+color_first_letter_upper: B
+color_upper: BANANA_STYLE_4_MM
+description: category_electronic
+description_extra: tote
+description_extra_capital: Tote
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TOTE
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'B '
+description_or_color_upper: 'B '
+directory: parts/category_electronic_connector_banana_style_4_mm_tote
+distributors: []
+filter: ''
+from_yaml: false
+id: category_electronic_connector_banana_style_4_mm_tote
+id_no_class: electronic_connector_banana_style_4_mm_tote
+id_no_size: banana_style_4_mm_tote
+id_no_type: connector_banana_style_4_mm_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_connector_banana_style_4_mm_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_connector_banana_style_4_mm_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_connector_banana_style_4_mm_tote
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_electronic_connector_banana_style_4_mm_tote](none)<br>[](none)<br>[Category
+    Electronic Connector Banana Style 4 Mm Tote](none)<br><br>'
+markdown_short: '[category_electronic_connector_banana_style_4_mm_tote](none)<br><br>'
+md5: 670cf046ee8324f028b1b000c5ae35b3
+md5_10: 670cf046ee
+md5_10_upper: 670CF046EE
+md5_5: 670cf
+md5_5_upper: 670CF
+md5_6: 670cf0
+md5_6_alpha: 40r1s
+md5_6_alpha_upper: 40R1S
+md5_6_upper: 670CF0
+name: Category Electronic Connector Banana Style 4 Mm Tote
+name_no_class: Electronic Connector Banana Style 4 Mm Tote
+name_no_size: Banana Style 4 Mm Tote
+name_no_size_short: Banana Style 4 Mm Tote
+name_no_type: Connector Banana Style 4 Mm Tote
+oomp_key: oomp_category_electronic_connector_banana_style_4_mm_tote
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryelectronic
+size: connector
+size_capital: Connector
+size_first_letter: c
+size_first_letter_upper: C
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: CONNECTOR
+type: electronic
+type_capital: Electronic
+type_first_letter: e
+type_first_letter_upper: E
+type_upper: ELECTRONIC

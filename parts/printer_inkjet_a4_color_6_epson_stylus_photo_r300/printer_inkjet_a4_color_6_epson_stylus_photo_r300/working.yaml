@@ -1,0 +1,78 @@
+classification: printer
+classification_capital: Printer
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_upper: PRINTER
+color: color_6
+color_capital: Color 6
+color_first_letter: c
+color_first_letter_upper: C
+color_upper: COLOR_6
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'C '
+description_or_color_upper: 'C '
+directory: parts/printer_inkjet_a4_color_6_epson_stylus_photo_r300
+distributors: []
+id: printer_inkjet_a4_color_6_epson_stylus_photo_r300
+id_no_class: inkjet_a4_color_6_epson_stylus_photo_r300
+id_no_size: color_6_epson_stylus_photo_r300
+id_no_type: a4_color_6_epson_stylus_photo_r300
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_inkjet_a4_color_6_epson_stylus_photo_r300
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_inkjet_a4_color_6_epson_stylus_photo_r300
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_inkjet_a4_color_6_epson_stylus_photo_r300
+manufacturer: epson
+manufacturer_capital: Epson
+manufacturer_first_letter: e
+manufacturer_first_letter_upper: E
+manufacturer_upper: EPSON
+manufacturers: []
+markdown_full: '[printer_inkjet_a4_color_6_epson_stylus_photo_r300](none)<br>[](none)<br>[Printer
+    Inkjet A4 Color 6 Epson Stylus Photo R300](none)<br><br>'
+markdown_short: '[printer_inkjet_a4_color_6_epson_stylus_photo_r300](none)<br><br>'
+md5: 2510000ede9dd347528ec95561f7af3e
+md5_10: 2510000ede
+md5_10_upper: 2510000EDE
+md5_5: '25100'
+md5_5_upper: '25100'
+md5_6: '251000'
+md5_6_alpha: 1g268
+md5_6_alpha_upper: 1G268
+md5_6_upper: '251000'
+name: Printer Inkjet A4 Color 6 Epson Stylus Photo R300
+name_no_class: Inkjet A4 Color 6 Epson Stylus Photo R300
+name_no_size: Color 6 Epson Stylus Photo R300
+name_no_size_short: Color 6 Epson Stylus Photo R300
+name_no_type: A4 Color 6 Epson Stylus Photo R300
+oomp_key: oomp_printer_inkjet_a4_color_6_epson_stylus_photo_r300
+part_number: stylus_photo_r300
+part_number_capital: Stylus Photo R300
+part_number_exact: Stylus Photo R300
+part_number_first_letter: s
+part_number_first_letter_upper: S
+part_number_upper: STYLUS_PHOTO_R300
+short_code: ''
+short_code_upper: ''
+short_name: Epson Stylus Photo R300
+size: a4
+size_capital: A4
+size_first_letter: a
+size_first_letter_upper: A
+size_only_numbers: '4'
+size_only_numbers_no_zeros: '4'
+size_upper: A4
+type: inkjet
+type_capital: Inkjet
+type_first_letter: i
+type_first_letter_upper: I
+type_upper: INKJET

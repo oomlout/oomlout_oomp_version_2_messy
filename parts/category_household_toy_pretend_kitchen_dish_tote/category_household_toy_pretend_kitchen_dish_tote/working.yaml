@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_household_toy
+description_extra: tote
+description_extra_capital: Tote
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TOTE
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_household_toy_pretend_kitchen_dish_tote
+distributors: []
+filter: ''
+from_yaml: false
+id: category_household_toy_pretend_kitchen_dish_tote
+id_no_class: household_toy_pretend_kitchen_dish_tote
+id_no_size: tote
+id_no_type: pretend_kitchen_dish_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_toy_pretend_kitchen_dish_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_toy_pretend_kitchen_dish_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_toy_pretend_kitchen_dish_tote
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_household_toy_pretend_kitchen_dish_tote](none)<br>[](none)<br>[Category
+    Household Toy Pretend Kitchen Dish Tote](none)<br><br>'
+markdown_short: '[category_household_toy_pretend_kitchen_dish_tote](none)<br><br>'
+md5: 04867df4fc240a877fc2f52ce202cb42
+md5_10: 04867df4fc
+md5_10_upper: 04867DF4FC
+md5_5: 04867
+md5_5_upper: 04867
+md5_6: 04867d
+md5_6_alpha: 6cu5
+md5_6_alpha_upper: 6CU5
+md5_6_upper: 04867D
+name: Category Household Toy Pretend Kitchen Dish Tote
+name_no_class: Household Toy Pretend Kitchen Dish Tote
+name_no_size: Tote
+name_no_size_short: Tote
+name_no_type: Pretend Kitchen Dish Tote
+oomp_key: oomp_category_household_toy_pretend_kitchen_dish_tote
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryhouseholdtoy
+size: pretend_kitchen_dish
+size_capital: Pretend Kitchen Dish
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PRETEND_KITCHEN_DISH
+type: household_toy
+type_capital: Household Toy
+type_first_letter: h
+type_first_letter_upper: H
+type_upper: HOUSEHOLD_TOY

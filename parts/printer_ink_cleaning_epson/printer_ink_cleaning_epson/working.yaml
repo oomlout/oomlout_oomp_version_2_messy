@@ -1,0 +1,76 @@
+classification: printer
+classification_capital: Printer
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_upper: PRINTER
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/printer_ink_cleaning_epson
+distributors: []
+id: printer_ink_cleaning_epson
+id_no_class: ink_cleaning_epson
+id_no_size: epson
+id_no_type: cleaning_epson
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_ink_cleaning_epson
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_ink_cleaning_epson
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_ink_cleaning_epson
+manufacturer: epson
+manufacturer_capital: Epson
+manufacturer_first_letter: e
+manufacturer_first_letter_upper: E
+manufacturer_upper: EPSON
+manufacturers: []
+markdown_full: '[printer_ink_cleaning_epson](none)<br>[](none)<br>[Printer Ink Cleaning
+    Epson](none)<br><br>'
+markdown_short: '[printer_ink_cleaning_epson](none)<br><br>'
+md5: 6b136e11fce3f2396386ceb50b065f9a
+md5_10: 6b136e11fc
+md5_10_upper: 6B136E11FC
+md5_5: 6b136
+md5_5_upper: 6B136
+md5_6: 6b136e
+md5_6_alpha: 46elq
+md5_6_alpha_upper: 46ELQ
+md5_6_upper: 6B136E
+name: Printer Ink Cleaning Epson
+name_no_class: Ink Cleaning Epson
+name_no_size: Epson
+name_no_size_short: Epson
+name_no_type: Cleaning Epson
+oomp_key: oomp_printer_ink_cleaning_epson
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: cleaning
+size_capital: Cleaning
+size_first_letter: c
+size_first_letter_upper: C
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: CLEANING
+type: ink
+type_capital: Ink
+type_first_letter: i
+type_first_letter_upper: I
+type_upper: INK

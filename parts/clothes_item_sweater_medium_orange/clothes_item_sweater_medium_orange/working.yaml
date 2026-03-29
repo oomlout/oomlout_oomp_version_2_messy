@@ -1,0 +1,78 @@
+classification: clothes
+classification_capital: Clothes
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CLOTHES
+color: medium
+color_capital: Medium
+color_first_letter: m
+color_first_letter_upper: M
+color_upper: MEDIUM
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: orange
+description_main_capital: Orange
+description_main_first_letter: o
+description_main_first_letter_upper: O
+description_main_upper: ORANGE
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'M '
+description_or_color_upper: 'M '
+directory: parts/clothes_item_sweater_medium_orange
+distributors: []
+filter: ''
+from_yaml: false
+id: clothes_item_sweater_medium_orange
+id_no_class: item_sweater_medium_orange
+id_no_size: medium_orange
+id_no_type: sweater_medium_orange
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_sweater_medium_orange
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_sweater_medium_orange
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_sweater_medium_orange
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[clothes_item_sweater_medium_orange](none)<br>[](none)<br>[Clothes
+    Item Sweater Medium Orange](none)<br><br>'
+markdown_short: '[clothes_item_sweater_medium_orange](none)<br><br>'
+md5: 681dde69457091a373bbdb1d2084ec96
+md5_10: 681dde6945
+md5_10_upper: 681DDE6945
+md5_5: 681dd
+md5_5_upper: 681DD
+md5_6: 681dde
+md5_6_alpha: 428ym
+md5_6_alpha_upper: 428YM
+md5_6_upper: 681DDE
+name: Clothes Item Sweater Medium Orange
+name_no_class: Item Sweater Medium Orange
+name_no_size: Medium Orange
+name_no_size_short: Medium Orange
+name_no_type: Sweater Medium Orange
+oomp_key: oomp_clothes_item_sweater_medium_orange
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: sweater
+size_capital: Sweater
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SWEATER
+type: item
+type_capital: Item
+type_first_letter: i
+type_first_letter_upper: I
+type_upper: ITEM

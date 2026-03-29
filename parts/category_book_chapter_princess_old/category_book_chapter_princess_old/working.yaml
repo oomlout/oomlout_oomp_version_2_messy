@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: princess
+color_capital: Princess
+color_first_letter: p
+color_first_letter_upper: P
+color_upper: PRINCESS
+description: category_book
+description_extra: old
+description_extra_capital: Old
+description_extra_first_letter: o
+description_extra_first_letter_upper: O
+description_extra_upper: OLD
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'P '
+description_or_color_upper: 'P '
+directory: parts/category_book_chapter_princess_old
+distributors: []
+filter: ''
+from_yaml: false
+id: category_book_chapter_princess_old
+id_no_class: book_chapter_princess_old
+id_no_size: princess_old
+id_no_type: chapter_princess_old
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_book_chapter_princess_old
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_book_chapter_princess_old
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_book_chapter_princess_old
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_book_chapter_princess_old](none)<br>[](none)<br>[Category
+    Book Chapter Princess Old](none)<br><br>'
+markdown_short: '[category_book_chapter_princess_old](none)<br><br>'
+md5: a64ff4953a5d301fb24ea56a8f2d59e7
+md5_10: a64ff4953a
+md5_10_upper: A64FF4953A
+md5_5: a64ff
+md5_5_upper: A64FF
+md5_6: a64ff4
+md5_6_alpha: 6hm2c
+md5_6_alpha_upper: 6HM2C
+md5_6_upper: A64FF4
+name: Category Book Chapter Princess Old
+name_no_class: Book Chapter Princess Old
+name_no_size: Princess Old
+name_no_size_short: Princess Old
+name_no_type: Chapter Princess Old
+oomp_key: oomp_category_book_chapter_princess_old
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorybook
+size: chapter
+size_capital: Chapter
+size_first_letter: c
+size_first_letter_upper: C
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: CHAPTER
+type: book
+type_capital: Book
+type_first_letter: b
+type_first_letter_upper: B
+type_upper: BOOK

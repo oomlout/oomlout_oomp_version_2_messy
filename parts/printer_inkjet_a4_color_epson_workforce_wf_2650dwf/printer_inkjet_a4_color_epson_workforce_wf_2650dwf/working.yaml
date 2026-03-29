@@ -1,0 +1,93 @@
+classification: printer
+classification_capital: Printer
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_upper: PRINTER
+color: color
+color_capital: Color
+color_first_letter: c
+color_first_letter_upper: C
+color_upper: COLOR
+compatible_ink_bottles:
+- '16'
+- 16XL
+description_chat_gpt: 4-in-1 with auto duplex and Wi-Fi Direct.
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'C '
+description_or_color_upper: 'C '
+directory: parts/printer_inkjet_a4_color_epson_workforce_wf_2650dwf
+distributors: []
+features:
+- duplex
+- wifi
+- wifi_direct
+- fax
+- adf
+id: printer_inkjet_a4_color_epson_workforce_wf_2650dwf
+id_no_class: inkjet_a4_color_epson_workforce_wf_2650dwf
+id_no_size: color_epson_workforce_wf_2650dwf
+id_no_type: a4_color_epson_workforce_wf_2650dwf
+ink_type: pigment
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_inkjet_a4_color_epson_workforce_wf_2650dwf
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_inkjet_a4_color_epson_workforce_wf_2650dwf
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_inkjet_a4_color_epson_workforce_wf_2650dwf
+manufacturer: epson_workforce
+manufacturer_capital: Epson Workforce
+manufacturer_first_letter: e
+manufacturer_first_letter_upper: E
+manufacturer_upper: EPSON_WORKFORCE
+manufacturers: []
+markdown_full: '[printer_inkjet_a4_color_epson_workforce_wf_2650dwf](none)<br>[](none)<br>[Printer
+    Inkjet A4 Color Epson Workforce Wf 2650Dwf](none)<br><br>'
+markdown_short: '[printer_inkjet_a4_color_epson_workforce_wf_2650dwf](none)<br><br>'
+md5: 7ff0b248e7c59f82f341d9954dd69664
+md5_10: 7ff0b248e7
+md5_10_upper: 7FF0B248E7
+md5_5: 7ff0b
+md5_5_upper: 7FF0B
+md5_6: 7ff0b2
+md5_6_alpha: 4zpo2
+md5_6_alpha_upper: 4ZPO2
+md5_6_upper: 7FF0B2
+name: Printer Inkjet A4 Color Epson Workforce Wf 2650Dwf
+name_no_class: Inkjet A4 Color Epson Workforce Wf 2650Dwf
+name_no_size: Color Epson Workforce Wf 2650Dwf
+name_no_size_short: Color Epson Workforce Wf 2650Dwf
+name_no_type: A4 Color Epson Workforce Wf 2650Dwf
+nozzle_count_black: 180
+nozzle_count_per_colour: 59
+oomp_key: oomp_printer_inkjet_a4_color_epson_workforce_wf_2650dwf
+original_rrp_gbp: 99.99
+part_number: wf_2650dwf
+part_number_capital: Wf 2650Dwf
+part_number_first_letter: w
+part_number_first_letter_upper: W
+part_number_upper: WF_2650DWF
+printhead_technology: Micro Piezo
+short_code: ''
+short_code_upper: ''
+short_name: WorkForce WF-2650DWF
+size: a4
+size_capital: A4
+size_first_letter: a
+size_first_letter_upper: A
+size_only_numbers: '4'
+size_only_numbers_no_zeros: '4'
+size_upper: A4
+total_colours: 4
+type: inkjet
+type_capital: Inkjet
+type_first_letter: i
+type_first_letter_upper: I
+type_upper: INKJET

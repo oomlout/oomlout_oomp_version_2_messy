@@ -1,0 +1,83 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: electronic_crimp_housing_header_2_5_mm_jst_xh
+color_capital: Electronic Crimp Housing Header 2.5 mm Jst Xh
+color_first_letter: e
+color_first_letter_upper: E
+color_upper: ELECTRONIC_CRIMP_HOUSING_HEADER_2_5_MM_JST_XH
+description: category_hardware
+description_extra: cubby_box
+description_extra_capital: Cubby Box
+description_extra_first_letter: c
+description_extra_first_letter_upper: C
+description_extra_upper: CUBBY_BOX
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'E '
+description_or_color_upper: 'E '
+directory: parts/category_hardware_variety_pack_electronic_crimp_housing_header_2_5_mm_jst_xh_cubby_box
+distributors: []
+filter: ''
+from_yaml: false
+id: category_hardware_variety_pack_electronic_crimp_housing_header_2_5_mm_jst_xh_cubby_box
+id_no_class: hardware_variety_pack_electronic_crimp_housing_header_2_5_mm_jst_xh_cubby_box
+id_no_size: electronic_crimp_housing_header_2_5_mm_jst_xh_cubby_box
+id_no_type: variety_pack_electronic_crimp_housing_header_2_5_mm_jst_xh_cubby_box
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_variety_pack_electronic_crimp_housing_header_2_5_mm_jst_xh_cubby_box
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_variety_pack_electronic_crimp_housing_header_2_5_mm_jst_xh_cubby_box
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_variety_pack_electronic_crimp_housing_header_2_5_mm_jst_xh_cubby_box
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_hardware_variety_pack_electronic_crimp_housing_header_2_5_mm_jst_xh_cubby_box](none)<br>[](none)<br>[Category
+    Hardware Variety Pack Electronic Crimp Housing Header 2 5 Mm Jst Xh Cubby Box](none)<br><br>'
+markdown_short: '[category_hardware_variety_pack_electronic_crimp_housing_header_2_5_mm_jst_xh_cubby_box](none)<br><br>'
+md5: 819bb559d9a04f078ceff1d663291ad4
+md5_10: 819bb559d9
+md5_10_upper: 819BB559D9
+md5_5: 819bb
+md5_5_upper: 819BB
+md5_6: 819bb5
+md5_6_alpha: 5220l
+md5_6_alpha_upper: 5220L
+md5_6_upper: 819BB5
+name: Category Hardware Variety Pack Electronic Crimp Housing Header 2 5 Mm Jst Xh
+    Cubby Box
+name_no_class: Hardware Variety Pack Electronic Crimp Housing Header 2 5 Mm Jst Xh
+    Cubby Box
+name_no_size: Electronic Crimp Housing Header 2 5 Mm Jst Xh Cubby Box
+name_no_size_short: Electronic Crimp Housing Header 2 5 Mm Jst Xh Cubby Box
+name_no_type: Variety Pack Electronic Crimp Housing Header 2 5 Mm Jst Xh Cubby Box
+oomp_key: oomp_category_hardware_variety_pack_electronic_crimp_housing_header_2_5_mm_jst_xh_cubby_box
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryhardware
+size: variety_pack
+size_capital: Variety Pack
+size_first_letter: v
+size_first_letter_upper: V
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: VARIETY_PACK
+type: hardware
+type_capital: Hardware
+type_first_letter: h
+type_first_letter_upper: H
+type_upper: HARDWARE

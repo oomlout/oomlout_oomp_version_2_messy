@@ -1,0 +1,86 @@
+classification: remote_control
+classification_capital: Remote Control
+classification_first_letter: r
+classification_first_letter_upper: R
+classification_upper: REMOTE_CONTROL
+color: car_style_grip_black
+color_capital: Car Style Grip Black
+color_first_letter: c
+color_first_letter_upper: C
+color_upper: CAR_STYLE_GRIP_BLACK
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: kit_retail_packaging
+description_main_capital: Kit Retail Packaging
+description_main_first_letter: k
+description_main_first_letter_upper: K
+description_main_upper: KIT_RETAIL_PACKAGING
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'C '
+description_or_color_upper: 'C '
+directory: parts/remote_control_transmitter_receiver_kit_2_4_ghz_4_channel_car_style_grip_black_kit_retail_packaging_aliexpress_91803g_vt
+distributors: []
+id: remote_control_transmitter_receiver_kit_2_4_ghz_4_channel_car_style_grip_black_kit_retail_packaging_aliexpress_91803g_vt
+id_no_class: transmitter_receiver_kit_2_4_ghz_4_channel_car_style_grip_black_kit_retail_packaging_aliexpress_91803g_vt
+id_no_size: car_style_grip_black_kit_retail_packaging_aliexpress_91803g_vt
+id_no_type: 2_4_ghz_4_channel_car_style_grip_black_kit_retail_packaging_aliexpress_91803g_vt
+link_distributor_aliexpress: https://www.aliexpress.com/item/32985435030.html
+link_distributor_amazon: https://www.amazon.co.uk/dp/B08MQ4GK2B
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/remote_control_transmitter_receiver_kit_2_4_ghz_4_channel_car_style_grip_black_kit_retail_packaging_aliexpress_91803g_vt
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/remote_control_transmitter_receiver_kit_2_4_ghz_4_channel_car_style_grip_black_kit_retail_packaging_aliexpress_91803g_vt
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/remote_control_transmitter_receiver_kit_2_4_ghz_4_channel_car_style_grip_black_kit_retail_packaging_aliexpress_91803g_vt
+manufacturer: aliexpress
+manufacturer_capital: Aliexpress
+manufacturer_first_letter: a
+manufacturer_first_letter_upper: A
+manufacturer_upper: ALIEXPRESS
+manufacturers: []
+markdown_full: '[remote_control_transmitter_receiver_kit_2_4_ghz_4_channel_car_style_grip_black_kit_retail_packaging_aliexpress_91803g_vt](none)<br>[](none)<br>[Remote
+    Control Transmitter Receiver Kit 2 4 Ghz 4 Channel Car Style Grip Black Kit Retail
+    Packaging Aliexpress 91803G Vt](none)<br><br>'
+markdown_short: '[remote_control_transmitter_receiver_kit_2_4_ghz_4_channel_car_style_grip_black_kit_retail_packaging_aliexpress_91803g_vt](none)<br><br>'
+md5: 8a2b899d0d2f6d51f1499cdd0aa64bd3
+md5_10: 8a2b899d0d
+md5_10_upper: 8A2B899D0D
+md5_5: 8a2b8
+md5_5_upper: 8A2B8
+md5_6: 8a2b89
+md5_6_alpha: 5e2yx
+md5_6_alpha_upper: 5E2YX
+md5_6_upper: 8A2B89
+name: Remote Control Transmitter Receiver Kit 2 4 Ghz 4 Channel Car Style Grip Black
+    Kit Retail Packaging Aliexpress 91803G Vt
+name_no_class: Transmitter Receiver Kit 2 4 Ghz 4 Channel Car Style Grip Black Kit
+    Retail Packaging Aliexpress 91803G Vt
+name_no_size: Car Style Grip Black Kit Retail Packaging Aliexpress 91803G Vt
+name_no_size_short: Car Style Grip Black Kit Retail Packaging Aliexpress 91803G Vt
+name_no_type: 2 4 Ghz 4 Channel Car Style Grip Black Kit Retail Packaging Aliexpress
+    91803G Vt
+oomp_key: oomp_remote_control_transmitter_receiver_kit_2_4_ghz_4_channel_car_style_grip_black_kit_retail_packaging_aliexpress_91803g_vt
+part_number: 91803g_vt
+part_number_capital: 91803G Vt
+part_number_distributor_aliexpress: '32985435030'
+part_number_distributor_amazon: B08MQ4GK2B
+part_number_exact: 91803G-VT
+part_number_first_letter: '9'
+part_number_first_letter_upper: '9'
+part_number_upper: 91803G_VT
+short_code: ''
+short_code_upper: ''
+short_name: Transmitter Kit 4 Channel
+size: 2_4_ghz_4_channel
+size_capital: 2.4 Ghz 4 Channel
+size_first_letter: '2'
+size_first_letter_upper: '2'
+size_only_numbers: '244'
+size_only_numbers_no_zeros: '244'
+size_upper: 2_4_GHZ_4_CHANNEL
+type: transmitter_receiver_kit
+type_capital: Transmitter Receiver Kit
+type_first_letter: t
+type_first_letter_upper: T
+type_upper: TRANSMITTER_RECEIVER_KIT

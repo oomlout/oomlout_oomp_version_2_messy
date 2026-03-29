@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: m2
+color_capital: M2
+color_first_letter: m
+color_first_letter_upper: M
+color_upper: M2
+description: category_hardware
+description_extra: old
+description_extra_capital: Old
+description_extra_first_letter: o
+description_extra_first_letter_upper: O
+description_extra_upper: OLD
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'M '
+description_or_color_upper: 'M '
+directory: parts/category_hardware_screw_socket_cap_low_head_ultra_m2_old
+distributors: []
+filter: ''
+from_yaml: false
+id: category_hardware_screw_socket_cap_low_head_ultra_m2_old
+id_no_class: hardware_screw_socket_cap_low_head_ultra_m2_old
+id_no_size: m2_old
+id_no_type: screw_socket_cap_low_head_ultra_m2_old
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_screw_socket_cap_low_head_ultra_m2_old
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_screw_socket_cap_low_head_ultra_m2_old
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_screw_socket_cap_low_head_ultra_m2_old
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_hardware_screw_socket_cap_low_head_ultra_m2_old](none)<br>[](none)<br>[Category
+    Hardware Screw Socket Cap Low Head Ultra M2 Old](none)<br><br>'
+markdown_short: '[category_hardware_screw_socket_cap_low_head_ultra_m2_old](none)<br><br>'
+md5: 2ab718563c165b4b7ceb91951e9a1990
+md5_10: 2ab718563c
+md5_10_upper: 2AB718563C
+md5_5: 2ab71
+md5_5_upper: 2AB71
+md5_6: 2ab718
+md5_6_alpha: 1o00o
+md5_6_alpha_upper: 1O00O
+md5_6_upper: 2AB718
+name: Category Hardware Screw Socket Cap Low Head Ultra M2 Old
+name_no_class: Hardware Screw Socket Cap Low Head Ultra M2 Old
+name_no_size: M2 Old
+name_no_size_short: M2 Old
+name_no_type: Screw Socket Cap Low Head Ultra M2 Old
+oomp_key: oomp_category_hardware_screw_socket_cap_low_head_ultra_m2_old
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryhardware
+size: screw_socket_cap_low_head_ultra
+size_capital: Screw Socket Cap Low Head Ultra
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SCREW_SOCKET_CAP_LOW_HEAD_ULTRA
+type: hardware
+type_capital: Hardware
+type_first_letter: h
+type_first_letter_upper: H
+type_upper: HARDWARE

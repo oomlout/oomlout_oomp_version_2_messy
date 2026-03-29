@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: usb_micro
+color_capital: Usb Micro
+color_first_letter: u
+color_first_letter_upper: U
+color_upper: USB_MICRO
+description: category_electronic
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'U '
+description_or_color_upper: 'U '
+directory: parts/category_electronic_socket_usb_micro
+distributors: []
+filter: ''
+from_yaml: false
+id: category_electronic_socket_usb_micro
+id_no_class: electronic_socket_usb_micro
+id_no_size: usb_micro
+id_no_type: socket_usb_micro
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_socket_usb_micro
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_socket_usb_micro
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_socket_usb_micro
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_electronic_socket_usb_micro](none)<br>[](none)<br>[Category
+    Electronic Socket Usb Micro](none)<br><br>'
+markdown_short: '[category_electronic_socket_usb_micro](none)<br><br>'
+md5: 9f2a636ece9bedf41b7fa9b41c326be2
+md5_10: 9f2a636ece
+md5_10_upper: 9F2A636ECE
+md5_5: 9f2a6
+md5_5_upper: 9F2A6
+md5_6: 9f2a63
+md5_6_alpha: 67ko3
+md5_6_alpha_upper: 67KO3
+md5_6_upper: 9F2A63
+name: Category Electronic Socket Usb Micro
+name_no_class: Electronic Socket Usb Micro
+name_no_size: Usb Micro
+name_no_size_short: Usb Micro
+name_no_type: Socket Usb Micro
+oomp_key: oomp_category_electronic_socket_usb_micro
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryelectronic
+size: socket
+size_capital: Socket
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SOCKET
+type: electronic
+type_capital: Electronic
+type_first_letter: e
+type_first_letter_upper: E
+type_upper: ELECTRONIC

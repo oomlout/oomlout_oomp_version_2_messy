@@ -1,0 +1,78 @@
+classification: food
+classification_capital: Food
+classification_first_letter: f
+classification_first_letter_upper: F
+classification_upper: FOOD
+color: ingredient
+color_capital: Ingredient
+color_first_letter: i
+color_first_letter_upper: I
+color_upper: INGREDIENT
+description_extra: tin_400_ml
+description_extra_capital: Tin 400 Ml
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TIN_400_ML
+description_main: coconut_milk
+description_main_capital: Coconut Milk
+description_main_first_letter: c
+description_main_first_letter_upper: C
+description_main_upper: COCONUT_MILK
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'I '
+description_or_color_upper: 'I '
+directory: parts/food_pantry_ingredient_coconut_milk_tin_400_ml
+distributors: []
+filter: ''
+from_yaml: false
+id: food_pantry_ingredient_coconut_milk_tin_400_ml
+id_no_class: pantry_ingredient_coconut_milk_tin_400_ml
+id_no_size: ingredientcoconutmilktin400ml
+id_no_type: ingredient_coconut_milk_tin_400_ml
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_pantry_ingredient_coconut_milk_tin_400_ml
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_pantry_ingredient_coconut_milk_tin_400_ml
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_pantry_ingredient_coconut_milk_tin_400_ml
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[food_pantry_ingredient_coconut_milk_tin_400_ml](none)<br>[](none)<br>[Food
+    Pantry Ingredient Coconut Milk Tin 400 Ml](none)<br><br>'
+markdown_short: '[food_pantry_ingredient_coconut_milk_tin_400_ml](none)<br><br>'
+md5: 898d8ffec4631f842a49eb8fb9479c3f
+md5_10: 898d8ffec4
+md5_10_upper: 898D8FFEC4
+md5_5: 898d8
+md5_5_upper: 898D8
+md5_6: 898d8f
+md5_6_alpha: 5d7rj
+md5_6_alpha_upper: 5D7RJ
+md5_6_upper: 898D8F
+name: Food Pantry Ingredient Coconut Milk Tin 400 Ml
+name_no_class: Pantry Ingredient Coconut Milk Tin 400 Ml
+name_no_size: Ingredientcoconutmilktin400Ml
+name_no_size_short: Ingredientcoconutmilktin400Ml
+name_no_type: Ingredient Coconut Milk Tin 400 Ml
+oomp_key: oomp_food_pantry_ingredient_coconut_milk_tin_400_ml
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: pantry
+type_capital: Pantry
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PANTRY

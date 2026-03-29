@@ -1,0 +1,77 @@
+classification: robot_vacuum
+classification_capital: Robot Vacuum
+classification_first_letter: r
+classification_first_letter_upper: R
+classification_upper: ROBOT_VACUUM
+color: sub_assembly
+color_capital: Sub Assembly
+color_first_letter: s
+color_first_letter_upper: S
+color_upper: SUB_ASSEMBLY
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: caster_wheel
+description_main_capital: Caster Wheel
+description_main_first_letter: c
+description_main_first_letter_upper: C
+description_main_upper: CASTER_WHEEL
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'S '
+description_or_color_upper: 'S '
+directory: parts/robot_vacuum_part_robot_vacuum_roomba_500_series_sub_assembly_caster_wheel
+distributors: []
+id: robot_vacuum_part_robot_vacuum_roomba_500_series_sub_assembly_caster_wheel
+id_no_class: part_roomba_500_series_sub_assembly_caster_wheel
+id_no_size: roomba_500_series_sub_assembly_caster_wheel
+id_no_type: roomba_500_series_sub_assembly_caster_wheel
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/robot_vacuum_part_robot_vacuum_roomba_500_series_sub_assembly_caster_wheel
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/robot_vacuum_part_robot_vacuum_roomba_500_series_sub_assembly_caster_wheel
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/robot_vacuum_part_robot_vacuum_roomba_500_series_sub_assembly_caster_wheel
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[robot_vacuum_part_robot_vacuum_roomba_500_series_sub_assembly_caster_wheel](none)<br>[](none)<br>[Robot
+    Vacuum Part Robot Vacuum Roomba 500 Series Sub Assembly Caster Wheel](none)<br><br>'
+markdown_short: '[robot_vacuum_part_robot_vacuum_roomba_500_series_sub_assembly_caster_wheel](none)<br><br>'
+md5: 12492820134e23541b15956761cc3079
+md5_10: '1249282013'
+md5_10_upper: '1249282013'
+md5_5: '12492'
+md5_5_upper: '12492'
+md5_6: '124928'
+md5_6_alpha: poo8
+md5_6_alpha_upper: POO8
+md5_6_upper: '124928'
+name: Robot Vacuum Part Robot Vacuum Roomba 500 Series Sub Assembly Caster Wheel
+name_no_class: Part Roomba 500 Series Sub Assembly Caster Wheel
+name_no_size: Roomba 500 Series Sub Assembly Caster Wheel
+name_no_size_short: Roomba 500 Series Sub Assembly Caster Wheel
+name_no_type: Roomba 500 Series Sub Assembly Caster Wheel
+oomp_key: oomp_robot_vacuum_part_robot_vacuum_roomba_500_series_sub_assembly_caster_wheel
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Roomba 500 Caster Wheel
+size: robot_vacuum_roomba_500_series
+size_capital: Robot Vacuum Roomba 500 Series
+size_first_letter: r
+size_first_letter_upper: R
+size_only_numbers: '500'
+size_only_numbers_no_zeros: '5'
+size_upper: ROBOT_VACUUM_ROOMBA_500_SERIES
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

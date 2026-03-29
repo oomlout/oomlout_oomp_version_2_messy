@@ -1,0 +1,80 @@
+classification: vinyl
+classification_capital: Vinyl
+classification_first_letter: v
+classification_first_letter_upper: V
+classification_upper: VINYL
+color: orange_matte
+color_capital: Orange Matte
+color_first_letter: o
+color_first_letter_upper: O
+color_upper: ORANGE_MATTE
+description_extra: a4_210_mm_width_297_mm_height
+description_extra_capital: A4.210 mm Width 297 mm Height
+description_extra_first_letter: a
+description_extra_first_letter_upper: A
+description_extra_upper: A4_210_MM_WIDTH_297_MM_HEIGHT
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'O '
+description_or_color_upper: 'O '
+directory: parts/vinyl_orange_matte_a4_210_mm_width_297_mm_height
+distributors: []
+filter: ''
+from_yaml: false
+height: 297 mm
+id: vinyl_orange_matte_a4_210_mm_width_297_mm_height
+id_no_class: orange_matte_a4_210_mm_width_297_mm_height
+id_no_size: orangemattea4210mmwidth297mmheight
+id_no_type: orangemattea4210mmwidth297mmheight
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/vinyl_orange_matte_a4_210_mm_width_297_mm_height
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/vinyl_orange_matte_a4_210_mm_width_297_mm_height
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/vinyl_orange_matte_a4_210_mm_width_297_mm_height
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[vinyl_orange_matte_a4_210_mm_width_297_mm_height](none)<br>[](none)<br>[Vinyl
+    Orange Matte A4 210 Mm Width 297 Mm Height](none)<br><br>'
+markdown_short: '[vinyl_orange_matte_a4_210_mm_width_297_mm_height](none)<br><br>'
+md5: 0b8689254f79a8b58b7368b16842dc45
+md5_10: 0b8689254f
+md5_10_upper: 0B8689254F
+md5_5: 0b868
+md5_5_upper: 0B868
+md5_6: 0b8689
+md5_6_alpha: g6tl
+md5_6_alpha_upper: G6TL
+md5_6_upper: 0B8689
+name: Vinyl Orange Matte A4 210 Mm Width 297 Mm Height
+name_no_class: Orange Matte A4 210 Mm Width 297 Mm Height
+name_no_size: Orangemattea4210Mmwidth297Mmheight
+name_no_size_short: Orangemattea4210Mmwidth297Mmheight
+name_no_type: Orangemattea4210Mmwidth297Mmheight
+oomp_key: oomp_vinyl_orange_matte_a4_210_mm_width_297_mm_height
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: ''
+type_capital: ''
+type_first_letter: ''
+type_first_letter_upper: ''
+type_upper: ''
+width: 210 mm

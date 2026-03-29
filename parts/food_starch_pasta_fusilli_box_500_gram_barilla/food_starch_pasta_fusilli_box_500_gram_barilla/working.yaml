@@ -1,0 +1,80 @@
+classification: food
+classification_capital: Food
+classification_first_letter: f
+classification_first_letter_upper: F
+classification_upper: FOOD
+color: fusilli
+color_capital: Fusilli
+color_first_letter: f
+color_first_letter_upper: F
+color_upper: FUSILLI
+description: pasta_fusilli
+description_extra: box_500_gram
+description_extra_capital: Box 500 Gram
+description_extra_first_letter: b
+description_extra_first_letter_upper: B
+description_extra_upper: BOX_500_GRAM
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'F '
+description_or_color_upper: 'F '
+directory: parts/food_starch_pasta_fusilli_box_500_gram_barilla
+distributors: []
+filter: ''
+from_yaml: false
+id: food_starch_pasta_fusilli_box_500_gram_barilla
+id_no_class: starch_pasta_fusilli_box_500_gram_barilla
+id_no_size: fusilli_box_500_gram_barilla
+id_no_type: pasta_fusilli_box_500_gram_barilla
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_pasta_fusilli_box_500_gram_barilla
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_pasta_fusilli_box_500_gram_barilla
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_pasta_fusilli_box_500_gram_barilla
+manufacturer: barilla
+manufacturer_capital: Barilla
+manufacturer_first_letter: b
+manufacturer_first_letter_upper: B
+manufacturer_upper: BARILLA
+manufacturers: []
+markdown_full: '[food_starch_pasta_fusilli_box_500_gram_barilla](none)<br>[](none)<br>[Food
+    Starch Pasta Fusilli Box 500 Gram Barilla](none)<br><br>'
+markdown_short: '[food_starch_pasta_fusilli_box_500_gram_barilla](none)<br><br>'
+md5: ba8016f6e2d621c18a27be881751e0ee
+md5_10: ba8016f6e2
+md5_10_upper: BA8016F6E2
+md5_5: ba801
+md5_5_upper: BA801
+md5_6: ba8016
+md5_6_alpha: 79yxi
+md5_6_alpha_upper: 79YXI
+md5_6_upper: BA8016
+name: Food Starch Pasta Fusilli Box 500 Gram Barilla
+name_no_class: Starch Pasta Fusilli Box 500 Gram Barilla
+name_no_size: Fusilli Box 500 Gram Barilla
+name_no_size_short: Fusilli Box 500 Gram Barilla
+name_no_type: Pasta Fusilli Box 500 Gram Barilla
+name_short: Pasta Fusilli
+oomp_key: oomp_food_starch_pasta_fusilli_box_500_gram_barilla
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: pasta
+size_capital: Pasta
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PASTA
+type: starch
+type_capital: Starch
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: STARCH

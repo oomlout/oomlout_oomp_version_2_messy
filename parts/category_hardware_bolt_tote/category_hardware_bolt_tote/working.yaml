@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_hardware
+description_extra: tote
+description_extra_capital: Tote
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TOTE
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_hardware_bolt_tote
+distributors: []
+filter: ''
+from_yaml: false
+id: category_hardware_bolt_tote
+id_no_class: hardware_bolt_tote
+id_no_size: tote
+id_no_type: bolt_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_bolt_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_bolt_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_bolt_tote
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_hardware_bolt_tote](none)<br>[](none)<br>[Category Hardware
+    Bolt Tote](none)<br><br>'
+markdown_short: '[category_hardware_bolt_tote](none)<br><br>'
+md5: 020d0c159ac2710d6f08e44442080a64
+md5_10: 020d0c159a
+md5_10_upper: 020D0C159A
+md5_5: 020d0
+md5_5_upper: 020D0
+md5_6: 020d0c
+md5_6_alpha: 2vpo
+md5_6_alpha_upper: 2VPO
+md5_6_upper: 020D0C
+name: Category Hardware Bolt Tote
+name_no_class: Hardware Bolt Tote
+name_no_size: Tote
+name_no_size_short: Tote
+name_no_type: Bolt Tote
+oomp_key: oomp_category_hardware_bolt_tote
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryhardware
+size: bolt
+size_capital: Bolt
+size_first_letter: b
+size_first_letter_upper: B
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: BOLT
+type: hardware
+type_capital: Hardware
+type_first_letter: h
+type_first_letter_upper: H
+type_upper: HARDWARE

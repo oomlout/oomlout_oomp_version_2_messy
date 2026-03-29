@@ -1,0 +1,81 @@
+classification: food
+classification_capital: Food
+classification_first_letter: f
+classification_first_letter_upper: F
+classification_upper: FOOD
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: M&S Soft Tortilla Wraps
+description_extra: soft
+description_extra_capital: Soft
+description_extra_first_letter: s
+description_extra_first_letter_upper: S
+description_extra_upper: SOFT
+description_main: tortilla_wrap
+description_main_capital: Tortilla Wrap
+description_main_first_letter: t
+description_main_first_letter_upper: T
+description_main_upper: TORTILLA_WRAP
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/food_bakery_tortilla_wrap_soft
+distributors: []
+filter: ''
+from_yaml: false
+id: food_bakery_tortilla_wrap_soft
+id_no_class: bakery_tortilla_wrap_soft
+id_no_size: tortillawrapsoft
+id_no_type: tortilla_wrap_soft
+link_distributor_ocado: https://www.ocado.com/search?entry=511143011
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_bakery_tortilla_wrap_soft
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_bakery_tortilla_wrap_soft
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_bakery_tortilla_wrap_soft
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[food_bakery_tortilla_wrap_soft](none)<br>[](none)<br>[Food Bakery
+    Tortilla Wrap Soft](none)<br><br>'
+markdown_short: '[food_bakery_tortilla_wrap_soft](none)<br><br>'
+md5: a8d8cc61cf7ad46971f9ab99d29aa7d7
+md5_10: a8d8cc61cf
+md5_10_upper: A8D8CC61CF
+md5_5: a8d8c
+md5_5_upper: A8D8C
+md5_6: a8d8cc
+md5_6_alpha: 6l68c
+md5_6_alpha_upper: 6L68C
+md5_6_upper: A8D8CC
+name: Food Bakery Tortilla Wrap Soft
+name_no_class: Bakery Tortilla Wrap Soft
+name_no_size: Tortillawrapsoft
+name_no_size_short: Tortillawrapsoft
+name_no_type: Tortilla Wrap Soft
+oomp_key: oomp_food_bakery_tortilla_wrap_soft
+part_number: ''
+part_number_capital: ''
+part_number_distributor_ocado: '511143011'
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: bakery
+type_capital: Bakery
+type_first_letter: b
+type_first_letter_upper: B
+type_upper: BAKERY

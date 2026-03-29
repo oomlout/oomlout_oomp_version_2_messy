@@ -1,0 +1,83 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: 17_mm_diameter_160_mm_depth
+color_capital: 17 mm Diameter 160 mm Depth
+color_first_letter: '1'
+color_first_letter_upper: '1'
+color_upper: 17_MM_DIAMETER_160_MM_DEPTH
+description: category_tool
+description_extra: cubby_box
+description_extra_capital: Cubby Box
+description_extra_first_letter: c
+description_extra_first_letter_upper: C
+description_extra_upper: CUBBY_BOX
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: '1 '
+description_or_color_upper: '1 '
+directory: parts/category_tool_screwdriver_precision_powered_17_mm_diameter_160_mm_depth_cubby_box
+distributors: []
+filter: ''
+from_yaml: false
+id: category_tool_screwdriver_precision_powered_17_mm_diameter_160_mm_depth_cubby_box
+id_no_class: tool_screwdriver_precision_powered_17_mm_diameter_160_mm_depth_cubby_box
+id_no_size: 17_mm_diameter_160_mm_depth_cubby_box
+id_no_type: screwdriver_precision_powered_17_mm_diameter_160_mm_depth_cubby_box
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_screwdriver_precision_powered_17_mm_diameter_160_mm_depth_cubby_box
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_screwdriver_precision_powered_17_mm_diameter_160_mm_depth_cubby_box
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_screwdriver_precision_powered_17_mm_diameter_160_mm_depth_cubby_box
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_tool_screwdriver_precision_powered_17_mm_diameter_160_mm_depth_cubby_box](none)<br>[](none)<br>[Category
+    Tool Screwdriver Precision Powered 17 Mm Diameter 160 Mm Depth Cubby Box](none)<br><br>'
+markdown_short: '[category_tool_screwdriver_precision_powered_17_mm_diameter_160_mm_depth_cubby_box](none)<br><br>'
+md5: 4fd202d4a6f2663d61eea71d60fa2f7f
+md5_10: 4fd202d4a6
+md5_10_upper: 4FD202D4A6
+md5_5: 4fd20
+md5_5_upper: 4FD20
+md5_6: 4fd202
+md5_6_alpha: 344ci
+md5_6_alpha_upper: 344CI
+md5_6_upper: 4FD202
+name: Category Tool Screwdriver Precision Powered 17 Mm Diameter 160 Mm Depth Cubby
+    Box
+name_no_class: Tool Screwdriver Precision Powered 17 Mm Diameter 160 Mm Depth Cubby
+    Box
+name_no_size: 17 Mm Diameter 160 Mm Depth Cubby Box
+name_no_size_short: 17 Mm Diameter 160 Mm Depth Cubby Box
+name_no_type: Screwdriver Precision Powered 17 Mm Diameter 160 Mm Depth Cubby Box
+oomp_key: oomp_category_tool_screwdriver_precision_powered_17_mm_diameter_160_mm_depth_cubby_box
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorytool
+size: screwdriver_precision_powered
+size_capital: Screwdriver Precision Powered
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SCREWDRIVER_PRECISION_POWERED
+type: tool
+type_capital: Tool
+type_first_letter: t
+type_first_letter_upper: T
+type_upper: TOOL

@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: a5
+color_capital: A5
+color_first_letter: a
+color_first_letter_upper: A
+color_upper: A5
+description: category_stationery
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'A '
+description_or_color_upper: 'A '
+directory: parts/category_stationery_notebook_a5
+distributors: []
+filter: ''
+from_yaml: false
+id: category_stationery_notebook_a5
+id_no_class: stationery_notebook_a5
+id_no_size: a5
+id_no_type: notebook_a5
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_stationery_notebook_a5
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_stationery_notebook_a5
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_stationery_notebook_a5
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_stationery_notebook_a5](none)<br>[](none)<br>[Category Stationery
+    Notebook A5](none)<br><br>'
+markdown_short: '[category_stationery_notebook_a5](none)<br><br>'
+md5: 8f09e6c6ca898b449caaef67cb3caa19
+md5_10: 8f09e6c6ca
+md5_10_upper: 8F09E6C6CA
+md5_5: 8f09e
+md5_5_upper: 8F09E
+md5_6: 8f09e6
+md5_6_alpha: 5kx5y
+md5_6_alpha_upper: 5KX5Y
+md5_6_upper: 8F09E6
+name: Category Stationery Notebook A5
+name_no_class: Stationery Notebook A5
+name_no_size: A5
+name_no_size_short: A5
+name_no_type: Notebook A5
+oomp_key: oomp_category_stationery_notebook_a5
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorystationery
+size: notebook
+size_capital: Notebook
+size_first_letter: n
+size_first_letter_upper: N
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: NOTEBOOK
+type: stationery
+type_capital: Stationery
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: STATIONERY

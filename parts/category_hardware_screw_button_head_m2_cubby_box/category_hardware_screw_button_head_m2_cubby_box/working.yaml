@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: m2
+color_capital: M2
+color_first_letter: m
+color_first_letter_upper: M
+color_upper: M2
+description: category_hardware
+description_extra: cubby_box
+description_extra_capital: Cubby Box
+description_extra_first_letter: c
+description_extra_first_letter_upper: C
+description_extra_upper: CUBBY_BOX
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'M '
+description_or_color_upper: 'M '
+directory: parts/category_hardware_screw_button_head_m2_cubby_box
+distributors: []
+filter: ''
+from_yaml: false
+id: category_hardware_screw_button_head_m2_cubby_box
+id_no_class: hardware_screw_button_head_m2_cubby_box
+id_no_size: m2_cubby_box
+id_no_type: screw_button_head_m2_cubby_box
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_screw_button_head_m2_cubby_box
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_screw_button_head_m2_cubby_box
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_screw_button_head_m2_cubby_box
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_hardware_screw_button_head_m2_cubby_box](none)<br>[](none)<br>[Category
+    Hardware Screw Button Head M2 Cubby Box](none)<br><br>'
+markdown_short: '[category_hardware_screw_button_head_m2_cubby_box](none)<br><br>'
+md5: c1adac90a3936e049e83ec5d4cc55de5
+md5_10: c1adac90a3
+md5_10_upper: C1ADAC90A3
+md5_5: c1ada
+md5_5_upper: C1ADA
+md5_6: c1adac
+md5_6_alpha: 7k1ws
+md5_6_alpha_upper: 7K1WS
+md5_6_upper: C1ADAC
+name: Category Hardware Screw Button Head M2 Cubby Box
+name_no_class: Hardware Screw Button Head M2 Cubby Box
+name_no_size: M2 Cubby Box
+name_no_size_short: M2 Cubby Box
+name_no_type: Screw Button Head M2 Cubby Box
+oomp_key: oomp_category_hardware_screw_button_head_m2_cubby_box
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryhardware
+size: screw_button_head
+size_capital: Screw Button Head
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SCREW_BUTTON_HEAD
+type: hardware
+type_capital: Hardware
+type_first_letter: h
+type_first_letter_upper: H
+type_upper: HARDWARE

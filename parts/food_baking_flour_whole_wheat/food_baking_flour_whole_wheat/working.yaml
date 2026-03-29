@@ -1,0 +1,80 @@
+classification: food
+classification_capital: Food
+classification_first_letter: f
+classification_first_letter_upper: F
+classification_upper: FOOD
+color: whole_wheat
+color_capital: Whole Wheat
+color_first_letter: w
+color_first_letter_upper: W
+color_upper: WHOLE_WHEAT
+description: flour_whole_wheat
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'W '
+description_or_color_upper: 'W '
+directory: parts/food_baking_flour_whole_wheat
+distributors: []
+filter: ''
+from_yaml: false
+id: food_baking_flour_whole_wheat
+id_no_class: baking_flour_whole_wheat
+id_no_size: whole_wheat
+id_no_type: flour_whole_wheat
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_baking_flour_whole_wheat
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_baking_flour_whole_wheat
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_baking_flour_whole_wheat
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[food_baking_flour_whole_wheat](none)<br>[](none)<br>[Food Baking
+    Flour Whole Wheat](none)<br><br>'
+markdown_short: '[food_baking_flour_whole_wheat](none)<br><br>'
+md5: bad8ba209877610a350ad8df5928be2a
+md5_10: bad8ba2098
+md5_10_upper: BAD8BA2098
+md5_5: bad8b
+md5_5_upper: BAD8B
+md5_6: bad8ba
+md5_6_alpha: 7agfu
+md5_6_alpha_upper: 7AGFU
+md5_6_upper: BAD8BA
+name: Food Baking Flour Whole Wheat
+name_no_class: Baking Flour Whole Wheat
+name_no_size: Whole Wheat
+name_no_size_short: Whole Wheat
+name_no_type: Flour Whole Wheat
+name_short: Flour Whole Wheat
+oomp_key: oomp_food_baking_flour_whole_wheat
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: flour
+size_capital: Flour
+size_first_letter: f
+size_first_letter_upper: F
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: FLOUR
+type: baking
+type_capital: Baking
+type_first_letter: b
+type_first_letter_upper: B
+type_upper: BAKING

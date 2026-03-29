@@ -1,0 +1,80 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_scent
+description_extra: to_sort
+description_extra_capital: To Sort
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TO_SORT
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_scent_to_sort
+distributors: []
+filter: ''
+from_yaml: false
+id: category_scent_to_sort
+id_no_class: scent_to_sort
+id_no_size: tosort
+id_no_type: to_sort
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_scent_to_sort
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_scent_to_sort
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_scent_to_sort
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_scent_to_sort](none)<br>[](none)<br>[Category Scent To Sort](none)<br><br>'
+markdown_short: '[category_scent_to_sort](none)<br><br>'
+md5: 7538d35ea3e921efb0b8a91e9d8c12a9
+md5_10: 7538d35ea3
+md5_10_upper: 7538D35EA3
+md5_5: 7538d
+md5_5_upper: 7538D
+md5_6: 7538d3
+md5_6_alpha: 4kno3
+md5_6_alpha_upper: 4KNO3
+md5_6_upper: 7538D3
+name: Category Scent To Sort
+name_no_class: Scent To Sort
+name_no_size: Tosort
+name_no_size_short: Tosort
+name_no_type: To Sort
+oomp_key: oomp_category_scent_to_sort
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryscent
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: scent
+type_capital: Scent
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: SCENT

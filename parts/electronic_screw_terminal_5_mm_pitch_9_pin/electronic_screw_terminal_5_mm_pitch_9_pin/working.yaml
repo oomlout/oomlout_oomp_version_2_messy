@@ -1,0 +1,78 @@
+classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_upper: ELECTRONIC
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 9_pin
+description_main_capital: 9 Pin
+description_main_first_letter: '9'
+description_main_first_letter_upper: '9'
+description_main_upper: 9_PIN
+description_only_numbers: '9'
+description_only_numbers_short: '9'
+description_or_color: '9'
+description_or_color_upper: '9'
+directory: parts/electronic_screw_terminal_5_mm_pitch_9_pin
+distributors: []
+id: electronic_screw_terminal_5_mm_pitch_9_pin
+id_no_class: screw_terminal_5_mm_pitch_9_pin
+id_no_size: 9_pin
+id_no_type: 5_mm_pitch_9_pin
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_screw_terminal_5_mm_pitch_9_pin
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_screw_terminal_5_mm_pitch_9_pin
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_screw_terminal_5_mm_pitch_9_pin
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[electronic_screw_terminal_5_mm_pitch_9_pin](none)<br>[9p](none)<br>[Electronic
+    Screw Terminal 5 Mm Pitch 9 Pin](none)<br><br>'
+markdown_short: '[electronic_screw_terminal_5_mm_pitch_9_pin](none)<br><br>'
+md5: ce96f6255a480e5460cabf60cb166d3f
+md5_10: ce96f6255a
+md5_10_upper: CE96F6255A
+md5_5: ce96f
+md5_5_upper: CE96F
+md5_6: ce96f6
+md5_6_alpha: 826t2
+md5_6_alpha_upper: 826T2
+md5_6_upper: CE96F6
+name: Electronic Screw Terminal 5 Mm Pitch 9 Pin
+name_no_class: Screw Terminal 5 Mm Pitch 9 Pin
+name_no_size: 9 Pin
+name_no_size_short: 9 Pin
+name_no_type: 5 Mm Pitch 9 Pin
+oomp_key: oomp_electronic_screw_terminal_5_mm_pitch_9_pin
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: 9p
+short_code_upper: 9P
+short_name: ''
+size: 5_mm_pitch
+size_capital: 5 mm Pitch
+size_first_letter: '5'
+size_first_letter_upper: '5'
+size_only_numbers: '5'
+size_only_numbers_no_zeros: '5'
+size_upper: 5_MM_PITCH
+type: screw_terminal
+type_capital: Screw Terminal
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: SCREW_TERMINAL

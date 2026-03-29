@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: 50_8_mm_width_50_8_mm_length
+color_capital: 50 8 mm Width 50 8 mm Length
+color_first_letter: '5'
+color_first_letter_upper: '5'
+color_upper: 50_8_MM_WIDTH_50_8_MM_LENGTH
+description: category_packaging
+description_extra: old
+description_extra_capital: Old
+description_extra_first_letter: o
+description_extra_first_letter_upper: O
+description_extra_upper: OLD
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: '5 '
+description_or_color_upper: '5 '
+directory: parts/category_packaging_label_50_8_mm_width_50_8_mm_length_old
+distributors: []
+filter: ''
+from_yaml: false
+id: category_packaging_label_50_8_mm_width_50_8_mm_length_old
+id_no_class: packaging_label_50_8_mm_width_50_8_mm_length_old
+id_no_size: 50_8_mm_width_50_8_mm_length_old
+id_no_type: label_50_8_mm_width_50_8_mm_length_old
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_packaging_label_50_8_mm_width_50_8_mm_length_old
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_packaging_label_50_8_mm_width_50_8_mm_length_old
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_packaging_label_50_8_mm_width_50_8_mm_length_old
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_packaging_label_50_8_mm_width_50_8_mm_length_old](none)<br>[](none)<br>[Category
+    Packaging Label 50 8 Mm Width 50 8 Mm Length Old](none)<br><br>'
+markdown_short: '[category_packaging_label_50_8_mm_width_50_8_mm_length_old](none)<br><br>'
+md5: 83397df4c588c63e65e8fa0d2da178e8
+md5_10: 83397df4c5
+md5_10_upper: 83397DF4C5
+md5_5: '83397'
+md5_5_upper: '83397'
+md5_6: 83397d
+md5_6_alpha: 54br1
+md5_6_alpha_upper: 54BR1
+md5_6_upper: 83397D
+name: Category Packaging Label 50 8 Mm Width 50 8 Mm Length Old
+name_no_class: Packaging Label 50 8 Mm Width 50 8 Mm Length Old
+name_no_size: 50 8 Mm Width 50 8 Mm Length Old
+name_no_size_short: 50 8 Mm Width 50 8 Mm Length Old
+name_no_type: Label 50 8 Mm Width 50 8 Mm Length Old
+oomp_key: oomp_category_packaging_label_50_8_mm_width_50_8_mm_length_old
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorypackaging
+size: label
+size_capital: Label
+size_first_letter: l
+size_first_letter_upper: L
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: LABEL
+type: packaging
+type_capital: Packaging
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PACKAGING

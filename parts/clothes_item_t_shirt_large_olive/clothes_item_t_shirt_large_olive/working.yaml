@@ -1,0 +1,78 @@
+classification: clothes
+classification_capital: Clothes
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CLOTHES
+color: large
+color_capital: Large
+color_first_letter: l
+color_first_letter_upper: L
+color_upper: LARGE
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: olive
+description_main_capital: Olive
+description_main_first_letter: o
+description_main_first_letter_upper: O
+description_main_upper: OLIVE
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'L '
+description_or_color_upper: 'L '
+directory: parts/clothes_item_t_shirt_large_olive
+distributors: []
+filter: ''
+from_yaml: false
+id: clothes_item_t_shirt_large_olive
+id_no_class: item_t_shirt_large_olive
+id_no_size: large_olive
+id_no_type: t_shirt_large_olive
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_t_shirt_large_olive
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_t_shirt_large_olive
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_t_shirt_large_olive
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[clothes_item_t_shirt_large_olive](none)<br>[](none)<br>[Clothes Item
+    T Shirt Large Olive](none)<br><br>'
+markdown_short: '[clothes_item_t_shirt_large_olive](none)<br><br>'
+md5: 72f3491537d0d1f5e7e121cbbaf44fa4
+md5_10: 72f3491537
+md5_10_upper: 72F3491537
+md5_5: 72f34
+md5_5_upper: 72F34
+md5_6: 72f349
+md5_6_alpha: 4hgsp
+md5_6_alpha_upper: 4HGSP
+md5_6_upper: 72F349
+name: Clothes Item T Shirt Large Olive
+name_no_class: Item T Shirt Large Olive
+name_no_size: Large Olive
+name_no_size_short: Large Olive
+name_no_type: T Shirt Large Olive
+oomp_key: oomp_clothes_item_t_shirt_large_olive
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: t_shirt
+size_capital: T Shirt
+size_first_letter: t
+size_first_letter_upper: T
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: T_SHIRT
+type: item
+type_capital: Item
+type_first_letter: i
+type_first_letter_upper: I
+type_upper: ITEM

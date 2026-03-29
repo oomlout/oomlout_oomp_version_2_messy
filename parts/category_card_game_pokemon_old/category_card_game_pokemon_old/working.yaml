@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_card_game
+description_extra: old
+description_extra_capital: Old
+description_extra_first_letter: o
+description_extra_first_letter_upper: O
+description_extra_upper: OLD
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_card_game_pokemon_old
+distributors: []
+filter: ''
+from_yaml: false
+id: category_card_game_pokemon_old
+id_no_class: card_game_pokemon_old
+id_no_size: old
+id_no_type: pokemon_old
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_card_game_pokemon_old
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_card_game_pokemon_old
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_card_game_pokemon_old
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_card_game_pokemon_old](none)<br>[](none)<br>[Category Card
+    Game Pokemon Old](none)<br><br>'
+markdown_short: '[category_card_game_pokemon_old](none)<br><br>'
+md5: 5f93574c080c3478755782f16a64d647
+md5_10: 5f93574c08
+md5_10_upper: 5F93574C08
+md5_5: 5f935
+md5_5_upper: 5F935
+md5_6: 5f9357
+md5_6_alpha: 3q91z
+md5_6_alpha_upper: 3Q91Z
+md5_6_upper: 5F9357
+name: Category Card Game Pokemon Old
+name_no_class: Card Game Pokemon Old
+name_no_size: Old
+name_no_size_short: Old
+name_no_type: Pokemon Old
+oomp_key: oomp_category_card_game_pokemon_old
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorycardgame
+size: pokemon
+size_capital: Pokemon
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: POKEMON
+type: card_game
+type_capital: Card Game
+type_first_letter: c
+type_first_letter_upper: C
+type_upper: CARD_GAME

@@ -1,0 +1,80 @@
+classification: decorating
+classification_capital: Decorating
+classification_first_letter: d
+classification_first_letter_upper: D
+classification_upper: DECORATING
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: white
+description_extra_capital: White
+description_extra_first_letter: w
+description_extra_first_letter_upper: W
+description_extra_upper: WHITE
+description_main: 500_mm_width_700_mm_height
+description_main_capital: 500 mm Width 700 mm Height
+description_main_first_letter: '5'
+description_main_first_letter_upper: '5'
+description_main_upper: 500_MM_WIDTH_700_MM_HEIGHT
+description_only_numbers: '500700'
+description_only_numbers_short: 501k
+description_or_color: 501k
+description_or_color_upper: 501K
+directory: parts/decorating_picture_frame_ikea_fiskbo_500_mm_width_700_mm_height_white_ikea_603_003_74
+distributors: []
+id: decorating_picture_frame_ikea_fiskbo_500_mm_width_700_mm_height_white_ikea_603_003_74
+id_no_class: picture_frame_ikea_fiskbo_500_mm_width_700_mm_height_white_ikea_603_003_74
+id_no_size: 500_mm_width_700_mm_height_white_ikea_603_003_74
+id_no_type: ikea_fiskbo_500_mm_width_700_mm_height_white_ikea_603_003_74
+link_distributor_ikea: https://www.ikea.com/gb/en/search/?q=603.003.74
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/decorating_picture_frame_ikea_fiskbo_500_mm_width_700_mm_height_white_ikea_603_003_74
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/decorating_picture_frame_ikea_fiskbo_500_mm_width_700_mm_height_white_ikea_603_003_74
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/decorating_picture_frame_ikea_fiskbo_500_mm_width_700_mm_height_white_ikea_603_003_74
+manufacturer: ikea
+manufacturer_capital: Ikea
+manufacturer_first_letter: i
+manufacturer_first_letter_upper: I
+manufacturer_upper: IKEA
+manufacturers: []
+markdown_full: '[decorating_picture_frame_ikea_fiskbo_500_mm_width_700_mm_height_white_ikea_603_003_74](none)<br>[](none)<br>[Decorating
+    Picture Frame Ikea Fiskbo 500 Mm Width 700 Mm Height White Ikea 603 003 74](none)<br><br>'
+markdown_short: '[decorating_picture_frame_ikea_fiskbo_500_mm_width_700_mm_height_white_ikea_603_003_74](none)<br><br>'
+md5: cbb338fce9fafd2e4332135cc1ffd7a1
+md5_10: cbb338fce9
+md5_10_upper: CBB338FCE9
+md5_5: cbb33
+md5_5_upper: CBB33
+md5_6: cbb338
+md5_6_alpha: 7y4oo
+md5_6_alpha_upper: 7Y4OO
+md5_6_upper: CBB338
+name: Decorating Picture Frame Ikea Fiskbo 500 Mm Width 700 Mm Height White Ikea 603
+    003 74
+name_no_class: Picture Frame Ikea Fiskbo 500 Mm Width 700 Mm Height White Ikea 603
+    003 74
+name_no_size: 500 Mm Width 700 Mm Height White Ikea 603 003 74
+name_no_size_short: 500 Mm Width 700 Mm Height White Ikea 603 003 74
+name_no_type: Ikea Fiskbo 500 Mm Width 700 Mm Height White Ikea 603 003 74
+oomp_key: oomp_decorating_picture_frame_ikea_fiskbo_500_mm_width_700_mm_height_white_ikea_603_003_74
+part_number: '603_003_74'
+part_number_capital: 603 003.74
+part_number_exact: 603.003.74
+part_number_first_letter: '6'
+part_number_first_letter_upper: '6'
+part_number_upper: '603_003_74'
+short_code: ''
+short_code_upper: ''
+size: ikea_fiskbo
+size_capital: Ikea Fiskbo
+size_first_letter: i
+size_first_letter_upper: I
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: IKEA_FISKBO
+type: picture_frame
+type_capital: Picture Frame
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PICTURE_FRAME

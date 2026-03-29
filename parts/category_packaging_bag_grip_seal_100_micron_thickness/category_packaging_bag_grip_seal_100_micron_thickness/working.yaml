@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: 100_micron_thickness
+color_capital: 100 Micron Thickness
+color_first_letter: '1'
+color_first_letter_upper: '1'
+color_upper: 100_MICRON_THICKNESS
+description: category_packaging
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: '1 '
+description_or_color_upper: '1 '
+directory: parts/category_packaging_bag_grip_seal_100_micron_thickness
+distributors: []
+filter: ''
+from_yaml: false
+id: category_packaging_bag_grip_seal_100_micron_thickness
+id_no_class: packaging_bag_grip_seal_100_micron_thickness
+id_no_size: 100_micron_thickness
+id_no_type: bag_grip_seal_100_micron_thickness
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_packaging_bag_grip_seal_100_micron_thickness
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_packaging_bag_grip_seal_100_micron_thickness
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_packaging_bag_grip_seal_100_micron_thickness
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_packaging_bag_grip_seal_100_micron_thickness](none)<br>[](none)<br>[Category
+    Packaging Bag Grip Seal 100 Micron Thickness](none)<br><br>'
+markdown_short: '[category_packaging_bag_grip_seal_100_micron_thickness](none)<br><br>'
+md5: d7cd9a56c1d71e9657aba5111a9efb5c
+md5_10: d7cd9a56c1
+md5_10_upper: D7CD9A56C1
+md5_5: d7cd9
+md5_5_upper: D7CD9
+md5_6: d7cd9a
+md5_6_alpha: 8f4pm
+md5_6_alpha_upper: 8F4PM
+md5_6_upper: D7CD9A
+name: Category Packaging Bag Grip Seal 100 Micron Thickness
+name_no_class: Packaging Bag Grip Seal 100 Micron Thickness
+name_no_size: 100 Micron Thickness
+name_no_size_short: 100 Micron Thickness
+name_no_type: Bag Grip Seal 100 Micron Thickness
+oomp_key: oomp_category_packaging_bag_grip_seal_100_micron_thickness
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorypackaging
+size: bag_grip_seal
+size_capital: Bag Grip Seal
+size_first_letter: b
+size_first_letter_upper: B
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: BAG_GRIP_SEAL
+type: packaging
+type_capital: Packaging
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PACKAGING

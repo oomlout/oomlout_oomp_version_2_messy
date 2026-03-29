@@ -1,0 +1,77 @@
+classification: phone
+classification_capital: Phone
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_upper: PHONE
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: 75_mm_width_159_mm_height_9_mm_depth
+description_extra_capital: 75 mm Width 159 mm Height 9 mm Depth
+description_extra_first_letter: '7'
+description_extra_first_letter_upper: '7'
+description_extra_upper: 75_MM_WIDTH_159_MM_HEIGHT_9_MM_DEPTH
+description_main: pixel_6
+description_main_capital: Pixel 6
+description_main_first_letter: p
+description_main_first_letter_upper: P
+description_main_upper: PIXEL_6
+description_only_numbers: '6'
+description_only_numbers_short: '6'
+description_or_color: '6'
+description_or_color_upper: '6'
+directory: parts/phone_android_google_pixel_pixel_6_75_mm_width_159_mm_height_9_mm_depth
+distributors: []
+id: phone_android_google_pixel_pixel_6_75_mm_width_159_mm_height_9_mm_depth
+id_no_class: android_google_pixel_pixel_6_75_mm_width_159_mm_height_9_mm_depth
+id_no_size: pixel_6_75_mm_width_159_mm_height_9_mm_depth
+id_no_type: google_pixel_pixel_6_75_mm_width_159_mm_height_9_mm_depth
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/phone_android_google_pixel_pixel_6_75_mm_width_159_mm_height_9_mm_depth
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/phone_android_google_pixel_pixel_6_75_mm_width_159_mm_height_9_mm_depth
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/phone_android_google_pixel_pixel_6_75_mm_width_159_mm_height_9_mm_depth
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[phone_android_google_pixel_pixel_6_75_mm_width_159_mm_height_9_mm_depth](none)<br>[](none)<br>[Phone
+    Android Google Pixel Pixel 6 75 Mm Width 159 Mm Height 9 Mm Depth](none)<br><br>'
+markdown_short: '[phone_android_google_pixel_pixel_6_75_mm_width_159_mm_height_9_mm_depth](none)<br><br>'
+md5: 3b6b4aca618e119c149914361a87a02d
+md5_10: 3b6b4aca61
+md5_10_upper: 3B6B4ACA61
+md5_5: 3b6b4
+md5_5_upper: 3B6B4
+md5_6: 3b6b4a
+md5_6_alpha: 2bgp6
+md5_6_alpha_upper: 2BGP6
+md5_6_upper: 3B6B4A
+name: Phone Android Google Pixel Pixel 6 75 Mm Width 159 Mm Height 9 Mm Depth
+name_no_class: Android Google Pixel Pixel 6 75 Mm Width 159 Mm Height 9 Mm Depth
+name_no_size: Pixel 6 75 Mm Width 159 Mm Height 9 Mm Depth
+name_no_size_short: Pixel 6 75 Mm Width 159 Mm Height 9 Mm Depth
+name_no_type: Google Pixel Pixel 6 75 Mm Width 159 Mm Height 9 Mm Depth
+oomp_key: oomp_phone_android_google_pixel_pixel_6_75_mm_width_159_mm_height_9_mm_depth
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Google Pixel 6
+size: google_pixel
+size_capital: Google Pixel
+size_first_letter: g
+size_first_letter_upper: G
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: GOOGLE_PIXEL
+type: android
+type_capital: Android
+type_first_letter: a
+type_first_letter_upper: A
+type_upper: ANDROID

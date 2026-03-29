@@ -1,0 +1,80 @@
+classification: food
+classification_capital: Food
+classification_first_letter: f
+classification_first_letter_upper: F
+classification_upper: FOOD
+color: almond_flake
+color_capital: Almond Flake
+color_first_letter: a
+color_first_letter_upper: A
+color_upper: ALMOND_FLAKE
+description: nut_almond_flake
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'A '
+description_or_color_upper: 'A '
+directory: parts/food_baking_nut_almond_flake
+distributors: []
+filter: ''
+from_yaml: false
+id: food_baking_nut_almond_flake
+id_no_class: baking_nut_almond_flake
+id_no_size: almond_flake
+id_no_type: nut_almond_flake
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_baking_nut_almond_flake
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_baking_nut_almond_flake
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_baking_nut_almond_flake
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[food_baking_nut_almond_flake](none)<br>[](none)<br>[Food Baking Nut
+    Almond Flake](none)<br><br>'
+markdown_short: '[food_baking_nut_almond_flake](none)<br><br>'
+md5: 7484b1bfbe1bc458b9a83463b05cf6a2
+md5_10: 7484b1bfbe
+md5_10_upper: 7484B1BFBE
+md5_5: 7484b
+md5_5_upper: 7484B
+md5_6: 7484b1
+md5_6_alpha: 4jo35
+md5_6_alpha_upper: 4JO35
+md5_6_upper: 7484B1
+name: Food Baking Nut Almond Flake
+name_no_class: Baking Nut Almond Flake
+name_no_size: Almond Flake
+name_no_size_short: Almond Flake
+name_no_type: Nut Almond Flake
+name_short: Nut Almond Flake
+oomp_key: oomp_food_baking_nut_almond_flake
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: nut
+size_capital: Nut
+size_first_letter: n
+size_first_letter_upper: N
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: NUT
+type: baking
+type_capital: Baking
+type_first_letter: b
+type_first_letter_upper: B
+type_upper: BAKING

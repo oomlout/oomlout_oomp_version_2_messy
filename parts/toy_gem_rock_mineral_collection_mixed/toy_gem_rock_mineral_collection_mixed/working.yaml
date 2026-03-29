@@ -1,0 +1,77 @@
+classification: toy
+classification_capital: Toy
+classification_first_letter: t
+classification_first_letter_upper: T
+classification_upper: TOY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: collection_mixed
+description_main_capital: Collection Mixed
+description_main_first_letter: c
+description_main_first_letter_upper: C
+description_main_upper: COLLECTION_MIXED
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/toy_gem_rock_mineral_collection_mixed
+distributors: []
+id: toy_gem_rock_mineral_collection_mixed
+id_no_class: gem_rock_mineral_collection_mixed
+id_no_size: collectionmixed
+id_no_type: collection_mixed
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_gem_rock_mineral_collection_mixed
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_gem_rock_mineral_collection_mixed
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_gem_rock_mineral_collection_mixed
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[toy_gem_rock_mineral_collection_mixed](none)<br>[](none)<br>[Toy
+    Gem Rock Mineral Collection Mixed](none)<br><br>'
+markdown_short: '[toy_gem_rock_mineral_collection_mixed](none)<br><br>'
+md5: 67a6163e8385ecb76488a7c7f38f7b4f
+md5_10: 67a6163e83
+md5_10_upper: 67A6163E83
+md5_5: 67a61
+md5_5_upper: 67A61
+md5_6: 67a616
+md5_6_alpha: 41lau
+md5_6_alpha_upper: 41LAU
+md5_6_upper: 67A616
+name: Toy Gem Rock Mineral Collection Mixed
+name_no_class: Gem Rock Mineral Collection Mixed
+name_no_size: Collectionmixed
+name_no_size_short: Collectionmixed
+name_no_type: Collection Mixed
+oomp_key: oomp_toy_gem_rock_mineral_collection_mixed
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: gem_rock_mineral
+type_capital: Gem Rock Mineral
+type_first_letter: g
+type_first_letter_upper: G
+type_upper: GEM_ROCK_MINERAL

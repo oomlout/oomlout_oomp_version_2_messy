@@ -1,0 +1,78 @@
+classification: computer
+classification_capital: Computer
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: COMPUTER
+color: a_to_c
+color_capital: A To C
+color_first_letter: a
+color_first_letter_upper: A
+color_upper: A_TO_C
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: long
+description_main_capital: Long
+description_main_first_letter: l
+description_main_first_letter_upper: L
+description_main_upper: LONG
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'A '
+description_or_color_upper: 'A '
+directory: parts/computer_cable_usb_a_to_c_long
+distributors: []
+filter: ''
+from_yaml: false
+id: computer_cable_usb_a_to_c_long
+id_no_class: cable_usb_a_to_c_long
+id_no_size: a_to_c_long
+id_no_type: usb_a_to_c_long
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_cable_usb_a_to_c_long
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_cable_usb_a_to_c_long
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_cable_usb_a_to_c_long
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[computer_cable_usb_a_to_c_long](none)<br>[](none)<br>[Computer Cable
+    Usb A To C Long](none)<br><br>'
+markdown_short: '[computer_cable_usb_a_to_c_long](none)<br><br>'
+md5: adac7437bd7f89404836688fcc4121c6
+md5_10: adac7437bd
+md5_10_upper: ADAC7437BD
+md5_5: adac7
+md5_5_upper: ADAC7
+md5_6: adac74
+md5_6_alpha: 6ryb8
+md5_6_alpha_upper: 6RYB8
+md5_6_upper: ADAC74
+name: Computer Cable Usb A To C Long
+name_no_class: Cable Usb A To C Long
+name_no_size: A To C Long
+name_no_size_short: A To C Long
+name_no_type: Usb A To C Long
+oomp_key: oomp_computer_cable_usb_a_to_c_long
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: usb
+size_capital: Usb
+size_first_letter: u
+size_first_letter_upper: U
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: USB
+type: cable
+type_capital: Cable
+type_first_letter: c
+type_first_letter_upper: C
+type_upper: CABLE

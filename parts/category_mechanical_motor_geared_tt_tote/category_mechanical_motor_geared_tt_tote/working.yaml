@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: tt
+color_capital: Tt
+color_first_letter: t
+color_first_letter_upper: T
+color_upper: TT
+description: category_mechanical
+description_extra: tote
+description_extra_capital: Tote
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TOTE
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'T '
+description_or_color_upper: 'T '
+directory: parts/category_mechanical_motor_geared_tt_tote
+distributors: []
+filter: ''
+from_yaml: false
+id: category_mechanical_motor_geared_tt_tote
+id_no_class: mechanical_motor_geared_tt_tote
+id_no_size: tt_tote
+id_no_type: motor_geared_tt_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_motor_geared_tt_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_motor_geared_tt_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_motor_geared_tt_tote
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_mechanical_motor_geared_tt_tote](none)<br>[](none)<br>[Category
+    Mechanical Motor Geared Tt Tote](none)<br><br>'
+markdown_short: '[category_mechanical_motor_geared_tt_tote](none)<br><br>'
+md5: 778471b1d5fd63fd7c2695d9dee5babb
+md5_10: 778471b1d5
+md5_10_upper: 778471B1D5
+md5_5: '77847'
+md5_5_upper: '77847'
+md5_6: '778471'
+md5_6_alpha: 4nvqp
+md5_6_alpha_upper: 4NVQP
+md5_6_upper: '778471'
+name: Category Mechanical Motor Geared Tt Tote
+name_no_class: Mechanical Motor Geared Tt Tote
+name_no_size: Tt Tote
+name_no_size_short: Tt Tote
+name_no_type: Motor Geared Tt Tote
+oomp_key: oomp_category_mechanical_motor_geared_tt_tote
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorymechanical
+size: motor_geared
+size_capital: Motor Geared
+size_first_letter: m
+size_first_letter_upper: M
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: MOTOR_GEARED
+type: mechanical
+type_capital: Mechanical
+type_first_letter: m
+type_first_letter_upper: M
+type_upper: MECHANICAL

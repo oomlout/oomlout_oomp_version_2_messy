@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_tool
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_tool_garden_tool
+distributors: []
+filter: ''
+from_yaml: false
+id: category_tool_garden_tool
+id_no_class: tool_garden_tool
+id_no_size: garden_tool
+id_no_type: garden_tool
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_garden_tool
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_garden_tool
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_garden_tool
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_tool_garden_tool](none)<br>[](none)<br>[Category Tool Garden
+    Tool](none)<br><br>'
+markdown_short: '[category_tool_garden_tool](none)<br><br>'
+md5: 7938493d2f55079f1b3516fefca061c5
+md5_10: 7938493d2f
+md5_10_upper: 7938493D2F
+md5_5: '79384'
+md5_5_upper: '79384'
+md5_6: '793849'
+md5_6_alpha: 4q9u1
+md5_6_alpha_upper: 4Q9U1
+md5_6_upper: '793849'
+name: Category Tool Garden Tool
+name_no_class: Tool Garden Tool
+name_no_size: Garden Tool
+name_no_size_short: Garden Tool
+name_no_type: Garden Tool
+oomp_key: oomp_category_tool_garden_tool
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorytool
+size: garden_tool
+size_capital: Garden Tool
+size_first_letter: g
+size_first_letter_upper: G
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: GARDEN_TOOL
+type: tool
+type_capital: Tool
+type_first_letter: t
+type_first_letter_upper: T
+type_upper: TOOL

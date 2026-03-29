@@ -1,0 +1,78 @@
+classification: clothes
+classification_capital: Clothes
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CLOTHES
+color: extra_large
+color_capital: Extra Large
+color_first_letter: e
+color_first_letter_upper: E
+color_upper: EXTRA_LARGE
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: green
+description_main_capital: Green
+description_main_first_letter: g
+description_main_first_letter_upper: G
+description_main_upper: GREEN
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'E '
+description_or_color_upper: 'E '
+directory: parts/clothes_item_sweater_extra_large_green
+distributors: []
+filter: ''
+from_yaml: false
+id: clothes_item_sweater_extra_large_green
+id_no_class: item_sweater_extra_large_green
+id_no_size: extra_large_green
+id_no_type: sweater_extra_large_green
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_sweater_extra_large_green
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_sweater_extra_large_green
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_sweater_extra_large_green
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[clothes_item_sweater_extra_large_green](none)<br>[](none)<br>[Clothes
+    Item Sweater Extra Large Green](none)<br><br>'
+markdown_short: '[clothes_item_sweater_extra_large_green](none)<br><br>'
+md5: eaf44ff3bc084e270855a445ad2a3a09
+md5_10: eaf44ff3bc
+md5_10_upper: EAF44FF3BC
+md5_5: eaf44
+md5_5_upper: EAF44
+md5_6: eaf44f
+md5_6_alpha: 9615b
+md5_6_alpha_upper: 9615B
+md5_6_upper: EAF44F
+name: Clothes Item Sweater Extra Large Green
+name_no_class: Item Sweater Extra Large Green
+name_no_size: Extra Large Green
+name_no_size_short: Extra Large Green
+name_no_type: Sweater Extra Large Green
+oomp_key: oomp_clothes_item_sweater_extra_large_green
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: sweater
+size_capital: Sweater
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SWEATER
+type: item
+type_capital: Item
+type_first_letter: i
+type_first_letter_upper: I
+type_upper: ITEM

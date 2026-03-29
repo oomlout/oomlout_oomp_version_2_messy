@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_household_toy
+description_extra: old
+description_extra_capital: Old
+description_extra_first_letter: o
+description_extra_first_letter_upper: O
+description_extra_upper: OLD
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_household_toy_pretend_kitchen_utensil_old
+distributors: []
+filter: ''
+from_yaml: false
+id: category_household_toy_pretend_kitchen_utensil_old
+id_no_class: household_toy_pretend_kitchen_utensil_old
+id_no_size: old
+id_no_type: pretend_kitchen_utensil_old
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_toy_pretend_kitchen_utensil_old
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_toy_pretend_kitchen_utensil_old
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_toy_pretend_kitchen_utensil_old
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_household_toy_pretend_kitchen_utensil_old](none)<br>[](none)<br>[Category
+    Household Toy Pretend Kitchen Utensil Old](none)<br><br>'
+markdown_short: '[category_household_toy_pretend_kitchen_utensil_old](none)<br><br>'
+md5: 0bd8b6662be89d5c3d168d19e108bbe5
+md5_10: 0bd8b6662b
+md5_10_upper: 0BD8B6662B
+md5_5: 0bd8b
+md5_5_upper: 0BD8B
+md5_6: 0bd8b6
+md5_6_alpha: gn1y
+md5_6_alpha_upper: GN1Y
+md5_6_upper: 0BD8B6
+name: Category Household Toy Pretend Kitchen Utensil Old
+name_no_class: Household Toy Pretend Kitchen Utensil Old
+name_no_size: Old
+name_no_size_short: Old
+name_no_type: Pretend Kitchen Utensil Old
+oomp_key: oomp_category_household_toy_pretend_kitchen_utensil_old
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryhouseholdtoy
+size: pretend_kitchen_utensil
+size_capital: Pretend Kitchen Utensil
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PRETEND_KITCHEN_UTENSIL
+type: household_toy
+type_capital: Household Toy
+type_first_letter: h
+type_first_letter_upper: H
+type_upper: HOUSEHOLD_TOY

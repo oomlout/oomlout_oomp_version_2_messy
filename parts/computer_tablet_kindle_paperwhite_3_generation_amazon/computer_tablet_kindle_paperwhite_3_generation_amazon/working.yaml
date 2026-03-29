@@ -1,0 +1,76 @@
+classification: computer_tablet
+classification_capital: Computer Tablet
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: COMPUTER_TABLET
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 3_generation
+description_main_capital: 3 Generation
+description_main_first_letter: '3'
+description_main_first_letter_upper: '3'
+description_main_upper: 3_GENERATION
+description_only_numbers: '3'
+description_only_numbers_short: '3'
+description_or_color: '3'
+description_or_color_upper: '3'
+directory: parts/computer_tablet_kindle_paperwhite_3_generation_amazon
+distributors: []
+id: computer_tablet_kindle_paperwhite_3_generation_amazon
+id_no_class: kindle_paperwhite_3_generation_amazon
+id_no_size: 3generationamazon
+id_no_type: 3_generation_amazon
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_tablet_kindle_paperwhite_3_generation_amazon
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_tablet_kindle_paperwhite_3_generation_amazon
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_tablet_kindle_paperwhite_3_generation_amazon
+manufacturer: amazon
+manufacturer_capital: Amazon
+manufacturer_first_letter: a
+manufacturer_first_letter_upper: A
+manufacturer_upper: AMAZON
+manufacturers: []
+markdown_full: '[computer_tablet_kindle_paperwhite_3_generation_amazon](none)<br>[](none)<br>[Computer
+    Tablet Kindle Paperwhite 3 Generation Amazon](none)<br><br>'
+markdown_short: '[computer_tablet_kindle_paperwhite_3_generation_amazon](none)<br><br>'
+md5: 8f70f3d2323504caefeb2f945c3c71a1
+md5_10: 8f70f3d232
+md5_10_upper: 8F70F3D232
+md5_5: 8f70f
+md5_5_upper: 8F70F
+md5_6: 8f70f3
+md5_6_alpha: 5lhir
+md5_6_alpha_upper: 5LHIR
+md5_6_upper: 8F70F3
+name: Computer Tablet Kindle Paperwhite 3 Generation Amazon
+name_no_class: Kindle Paperwhite 3 Generation Amazon
+name_no_size: 3Generationamazon
+name_no_size_short: 3Generationamazon
+name_no_type: 3 Generation Amazon
+oomp_key: oomp_computer_tablet_kindle_paperwhite_3_generation_amazon
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: kindle_paperwhite
+type_capital: Kindle Paperwhite
+type_first_letter: k
+type_first_letter_upper: K
+type_upper: KINDLE_PAPERWHITE

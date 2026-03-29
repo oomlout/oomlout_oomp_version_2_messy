@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_aluminium_extrusion
+description_extra: cubby_box
+description_extra_capital: Cubby Box
+description_extra_first_letter: c
+description_extra_first_letter_upper: C
+description_extra_upper: CUBBY_BOX
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_aluminium_extrusion_2020_cubby_box
+distributors: []
+filter: ''
+from_yaml: false
+id: category_aluminium_extrusion_2020_cubby_box
+id_no_class: aluminium_extrusion_2020_cubby_box
+id_no_size: cubby_box
+id_no_type: 2020_cubby_box
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_aluminium_extrusion_2020_cubby_box
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_aluminium_extrusion_2020_cubby_box
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_aluminium_extrusion_2020_cubby_box
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_aluminium_extrusion_2020_cubby_box](none)<br>[](none)<br>[Category
+    Aluminium Extrusion 2020 Cubby Box](none)<br><br>'
+markdown_short: '[category_aluminium_extrusion_2020_cubby_box](none)<br><br>'
+md5: 8e15bc48dfc28277c6e814f8a1721af6
+md5_10: 8e15bc48df
+md5_10_upper: 8E15BC48DF
+md5_5: 8e15b
+md5_5_upper: 8E15B
+md5_6: 8e15bc
+md5_6_alpha: 5jkxo
+md5_6_alpha_upper: 5JKXO
+md5_6_upper: 8E15BC
+name: Category Aluminium Extrusion 2020 Cubby Box
+name_no_class: Aluminium Extrusion 2020 Cubby Box
+name_no_size: Cubby Box
+name_no_size_short: Cubby Box
+name_no_type: 2020 Cubby Box
+oomp_key: oomp_category_aluminium_extrusion_2020_cubby_box
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryaluminiumextrusion
+size: '2020'
+size_capital: '2020'
+size_first_letter: '2'
+size_first_letter_upper: '2'
+size_only_numbers: '2020'
+size_only_numbers_no_zeros: '22'
+size_upper: '2020'
+type: aluminium_extrusion
+type_capital: Aluminium Extrusion
+type_first_letter: a
+type_first_letter_upper: A
+type_upper: ALUMINIUM_EXTRUSION

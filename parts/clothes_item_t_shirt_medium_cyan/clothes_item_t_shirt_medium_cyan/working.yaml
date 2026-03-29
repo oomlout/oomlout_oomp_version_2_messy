@@ -1,0 +1,78 @@
+classification: clothes
+classification_capital: Clothes
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CLOTHES
+color: medium
+color_capital: Medium
+color_first_letter: m
+color_first_letter_upper: M
+color_upper: MEDIUM
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: cyan
+description_main_capital: Cyan
+description_main_first_letter: c
+description_main_first_letter_upper: C
+description_main_upper: CYAN
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'M '
+description_or_color_upper: 'M '
+directory: parts/clothes_item_t_shirt_medium_cyan
+distributors: []
+filter: ''
+from_yaml: false
+id: clothes_item_t_shirt_medium_cyan
+id_no_class: item_t_shirt_medium_cyan
+id_no_size: medium_cyan
+id_no_type: t_shirt_medium_cyan
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_t_shirt_medium_cyan
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_t_shirt_medium_cyan
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_t_shirt_medium_cyan
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[clothes_item_t_shirt_medium_cyan](none)<br>[](none)<br>[Clothes Item
+    T Shirt Medium Cyan](none)<br><br>'
+markdown_short: '[clothes_item_t_shirt_medium_cyan](none)<br><br>'
+md5: bd4130051e06003e75e7cf8d599d88f3
+md5_10: bd4130051e
+md5_10_upper: BD4130051E
+md5_5: bd413
+md5_5_upper: BD413
+md5_6: bd4130
+md5_6_alpha: 7du7k
+md5_6_alpha_upper: 7DU7K
+md5_6_upper: BD4130
+name: Clothes Item T Shirt Medium Cyan
+name_no_class: Item T Shirt Medium Cyan
+name_no_size: Medium Cyan
+name_no_size_short: Medium Cyan
+name_no_type: T Shirt Medium Cyan
+oomp_key: oomp_clothes_item_t_shirt_medium_cyan
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: t_shirt
+size_capital: T Shirt
+size_first_letter: t
+size_first_letter_upper: T
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: T_SHIRT
+type: item
+type_capital: Item
+type_first_letter: i
+type_first_letter_upper: I
+type_upper: ITEM

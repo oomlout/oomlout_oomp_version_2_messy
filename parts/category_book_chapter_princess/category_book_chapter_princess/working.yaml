@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: princess
+color_capital: Princess
+color_first_letter: p
+color_first_letter_upper: P
+color_upper: PRINCESS
+description: category_book
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'P '
+description_or_color_upper: 'P '
+directory: parts/category_book_chapter_princess
+distributors: []
+filter: ''
+from_yaml: false
+id: category_book_chapter_princess
+id_no_class: book_chapter_princess
+id_no_size: princess
+id_no_type: chapter_princess
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_book_chapter_princess
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_book_chapter_princess
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_book_chapter_princess
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_book_chapter_princess](none)<br>[](none)<br>[Category Book
+    Chapter Princess](none)<br><br>'
+markdown_short: '[category_book_chapter_princess](none)<br><br>'
+md5: fafe9d0dd9ee07fe4da353e63cf53d21
+md5_10: fafe9d0dd9
+md5_10_upper: FAFE9D0DD9
+md5_5: fafe9
+md5_5_upper: FAFE9
+md5_6: fafe9d
+md5_6_alpha: 9sk9p
+md5_6_alpha_upper: 9SK9P
+md5_6_upper: FAFE9D
+name: Category Book Chapter Princess
+name_no_class: Book Chapter Princess
+name_no_size: Princess
+name_no_size_short: Princess
+name_no_type: Chapter Princess
+oomp_key: oomp_category_book_chapter_princess
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorybook
+size: chapter
+size_capital: Chapter
+size_first_letter: c
+size_first_letter_upper: C
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: CHAPTER
+type: book
+type_capital: Book
+type_first_letter: b
+type_first_letter_upper: B
+type_upper: BOOK

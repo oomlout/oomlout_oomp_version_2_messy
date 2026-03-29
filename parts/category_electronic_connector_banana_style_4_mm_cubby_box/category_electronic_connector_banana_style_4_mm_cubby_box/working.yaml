@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: banana_style_4_mm
+color_capital: Banana Style 4 mm
+color_first_letter: b
+color_first_letter_upper: B
+color_upper: BANANA_STYLE_4_MM
+description: category_electronic
+description_extra: cubby_box
+description_extra_capital: Cubby Box
+description_extra_first_letter: c
+description_extra_first_letter_upper: C
+description_extra_upper: CUBBY_BOX
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'B '
+description_or_color_upper: 'B '
+directory: parts/category_electronic_connector_banana_style_4_mm_cubby_box
+distributors: []
+filter: ''
+from_yaml: false
+id: category_electronic_connector_banana_style_4_mm_cubby_box
+id_no_class: electronic_connector_banana_style_4_mm_cubby_box
+id_no_size: banana_style_4_mm_cubby_box
+id_no_type: connector_banana_style_4_mm_cubby_box
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_connector_banana_style_4_mm_cubby_box
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_connector_banana_style_4_mm_cubby_box
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_connector_banana_style_4_mm_cubby_box
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_electronic_connector_banana_style_4_mm_cubby_box](none)<br>[](none)<br>[Category
+    Electronic Connector Banana Style 4 Mm Cubby Box](none)<br><br>'
+markdown_short: '[category_electronic_connector_banana_style_4_mm_cubby_box](none)<br><br>'
+md5: 35439a6ffa5706326b415a823c2f1f08
+md5_10: 35439a6ffa
+md5_10_upper: 35439A6FFA
+md5_5: '35439'
+md5_5_upper: '35439'
+md5_6: 35439a
+md5_6_alpha: 22tga
+md5_6_alpha_upper: 22TGA
+md5_6_upper: 35439A
+name: Category Electronic Connector Banana Style 4 Mm Cubby Box
+name_no_class: Electronic Connector Banana Style 4 Mm Cubby Box
+name_no_size: Banana Style 4 Mm Cubby Box
+name_no_size_short: Banana Style 4 Mm Cubby Box
+name_no_type: Connector Banana Style 4 Mm Cubby Box
+oomp_key: oomp_category_electronic_connector_banana_style_4_mm_cubby_box
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryelectronic
+size: connector
+size_capital: Connector
+size_first_letter: c
+size_first_letter_upper: C
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: CONNECTOR
+type: electronic
+type_capital: Electronic
+type_first_letter: e
+type_first_letter_upper: E
+type_upper: ELECTRONIC

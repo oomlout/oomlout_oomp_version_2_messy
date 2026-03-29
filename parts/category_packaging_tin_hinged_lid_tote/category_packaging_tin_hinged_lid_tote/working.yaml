@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_packaging
+description_extra: tote
+description_extra_capital: Tote
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TOTE
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_packaging_tin_hinged_lid_tote
+distributors: []
+filter: ''
+from_yaml: false
+id: category_packaging_tin_hinged_lid_tote
+id_no_class: packaging_tin_hinged_lid_tote
+id_no_size: tote
+id_no_type: tin_hinged_lid_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_packaging_tin_hinged_lid_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_packaging_tin_hinged_lid_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_packaging_tin_hinged_lid_tote
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_packaging_tin_hinged_lid_tote](none)<br>[](none)<br>[Category
+    Packaging Tin Hinged Lid Tote](none)<br><br>'
+markdown_short: '[category_packaging_tin_hinged_lid_tote](none)<br><br>'
+md5: 30f757edd71f2b6089c4f3a2799f4d1f
+md5_10: 30f757edd7
+md5_10_upper: 30F757EDD7
+md5_5: 30f75
+md5_5_upper: 30F75
+md5_6: 30f757
+md5_6_alpha: 1ws47
+md5_6_alpha_upper: 1WS47
+md5_6_upper: 30F757
+name: Category Packaging Tin Hinged Lid Tote
+name_no_class: Packaging Tin Hinged Lid Tote
+name_no_size: Tote
+name_no_size_short: Tote
+name_no_type: Tin Hinged Lid Tote
+oomp_key: oomp_category_packaging_tin_hinged_lid_tote
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorypackaging
+size: tin_hinged_lid
+size_capital: Tin Hinged Lid
+size_first_letter: t
+size_first_letter_upper: T
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: TIN_HINGED_LID
+type: packaging
+type_capital: Packaging
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PACKAGING

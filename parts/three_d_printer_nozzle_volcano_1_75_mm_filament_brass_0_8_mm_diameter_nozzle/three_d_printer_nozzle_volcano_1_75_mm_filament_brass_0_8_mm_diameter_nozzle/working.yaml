@@ -1,0 +1,76 @@
+classification: three_d_printer
+classification_capital: Three D Printer
+classification_first_letter: t
+classification_first_letter_upper: T
+classification_upper: THREE_D_PRINTER
+color: brass
+color_capital: Brass
+color_first_letter: b
+color_first_letter_upper: B
+color_upper: BRASS
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 0_8_mm_diameter_nozzle
+description_main_capital: 0 8 mm Diameter Nozzle
+description_main_first_letter: '0'
+description_main_first_letter_upper: '0'
+description_main_upper: 0_8_MM_DIAMETER_NOZZLE
+description_only_numbers: 08
+description_only_numbers_short: '8'
+description_or_color: B8
+description_or_color_upper: B8
+directory: parts/three_d_printer_nozzle_volcano_1_75_mm_filament_brass_0_8_mm_diameter_nozzle
+distributors: []
+id: three_d_printer_nozzle_volcano_1_75_mm_filament_brass_0_8_mm_diameter_nozzle
+id_no_class: nozzle_volcano_1_75_mm_filament_brass_0_8_mm_diameter_nozzle
+id_no_size: brass_0_8_mm_diameter_nozzle
+id_no_type: volcano_1_75_mm_filament_brass_0_8_mm_diameter_nozzle
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/three_d_printer_nozzle_volcano_1_75_mm_filament_brass_0_8_mm_diameter_nozzle
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/three_d_printer_nozzle_volcano_1_75_mm_filament_brass_0_8_mm_diameter_nozzle
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/three_d_printer_nozzle_volcano_1_75_mm_filament_brass_0_8_mm_diameter_nozzle
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[three_d_printer_nozzle_volcano_1_75_mm_filament_brass_0_8_mm_diameter_nozzle](none)<br>[](none)<br>[Three
+    D Printer Nozzle Volcano 1 75 Mm Filament Brass 0 8 Mm Diameter Nozzle](none)<br><br>'
+markdown_short: '[three_d_printer_nozzle_volcano_1_75_mm_filament_brass_0_8_mm_diameter_nozzle](none)<br><br>'
+md5: 381df86cbd87ea6efaac383394c0e009
+md5_10: 381df86cbd
+md5_10_upper: 381DF86CBD
+md5_5: 381df
+md5_5_upper: 381DF
+md5_6: 381df8
+md5_6_alpha: 26tq0
+md5_6_alpha_upper: 26TQ0
+md5_6_upper: 381DF8
+name: Three D Printer Nozzle Volcano 1 75 Mm Filament Brass 0 8 Mm Diameter Nozzle
+name_no_class: Nozzle Volcano 1 75 Mm Filament Brass 0 8 Mm Diameter Nozzle
+name_no_size: Brass 0 8 Mm Diameter Nozzle
+name_no_size_short: Brass 0 8 Mm Diameter Nozzle
+name_no_type: Volcano 1 75 Mm Filament Brass 0 8 Mm Diameter Nozzle
+oomp_key: oomp_three_d_printer_nozzle_volcano_1_75_mm_filament_brass_0_8_mm_diameter_nozzle
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: volcano_1_75_mm_filament
+size_capital: Volcano 1.75 mm Filament
+size_first_letter: v
+size_first_letter_upper: V
+size_only_numbers: '175'
+size_only_numbers_no_zeros: '175'
+size_upper: VOLCANO_1_75_MM_FILAMENT
+type: nozzle
+type_capital: Nozzle
+type_first_letter: n
+type_first_letter_upper: N
+type_upper: NOZZLE

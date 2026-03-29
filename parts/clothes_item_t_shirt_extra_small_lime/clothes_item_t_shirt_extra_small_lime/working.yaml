@@ -1,0 +1,78 @@
+classification: clothes
+classification_capital: Clothes
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CLOTHES
+color: extra_small
+color_capital: Extra Small
+color_first_letter: e
+color_first_letter_upper: E
+color_upper: EXTRA_SMALL
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: lime
+description_main_capital: Lime
+description_main_first_letter: l
+description_main_first_letter_upper: L
+description_main_upper: LIME
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'E '
+description_or_color_upper: 'E '
+directory: parts/clothes_item_t_shirt_extra_small_lime
+distributors: []
+filter: ''
+from_yaml: false
+id: clothes_item_t_shirt_extra_small_lime
+id_no_class: item_t_shirt_extra_small_lime
+id_no_size: extra_small_lime
+id_no_type: t_shirt_extra_small_lime
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_t_shirt_extra_small_lime
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_t_shirt_extra_small_lime
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_t_shirt_extra_small_lime
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[clothes_item_t_shirt_extra_small_lime](none)<br>[](none)<br>[Clothes
+    Item T Shirt Extra Small Lime](none)<br><br>'
+markdown_short: '[clothes_item_t_shirt_extra_small_lime](none)<br><br>'
+md5: e8e1f529920acff5a532a7519dbbfcff
+md5_10: e8e1f52992
+md5_10_upper: E8E1F52992
+md5_5: e8e1f
+md5_5_upper: E8E1F
+md5_6: e8e1f5
+md5_6_alpha: 934dx
+md5_6_alpha_upper: 934DX
+md5_6_upper: E8E1F5
+name: Clothes Item T Shirt Extra Small Lime
+name_no_class: Item T Shirt Extra Small Lime
+name_no_size: Extra Small Lime
+name_no_size_short: Extra Small Lime
+name_no_type: T Shirt Extra Small Lime
+oomp_key: oomp_clothes_item_t_shirt_extra_small_lime
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: t_shirt
+size_capital: T Shirt
+size_first_letter: t
+size_first_letter_upper: T
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: T_SHIRT
+type: item
+type_capital: Item
+type_first_letter: i
+type_first_letter_upper: I
+type_upper: ITEM

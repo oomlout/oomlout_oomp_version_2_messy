@@ -1,0 +1,77 @@
+classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_upper: ELECTRONIC
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: socket
+description_extra_capital: Socket
+description_extra_first_letter: s
+description_extra_first_letter_upper: S
+description_extra_upper: SOCKET
+description_main: 5_pin
+description_main_capital: 5 Pin
+description_main_first_letter: '5'
+description_main_first_letter_upper: '5'
+description_main_upper: 5_PIN
+description_only_numbers: '5'
+description_only_numbers_short: '5'
+description_or_color: '5'
+description_or_color_upper: '5'
+directory: parts/electronic_crimp_housing_2_5_mm_jst_xh_5_pin_socket
+distributors: []
+id: electronic_crimp_housing_2_5_mm_jst_xh_5_pin_socket
+id_no_class: crimp_housing_2_5_mm_jst_xh_5_pin_socket
+id_no_size: 5_pin_socket
+id_no_type: 2_5_mm_jst_xh_5_pin_socket
+kicad_reference: CONN
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_crimp_housing_2_5_mm_jst_xh_5_pin_socket
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_crimp_housing_2_5_mm_jst_xh_5_pin_socket
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_crimp_housing_2_5_mm_jst_xh_5_pin_socket
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[electronic_crimp_housing_2_5_mm_jst_xh_5_pin_socket](none)<br>[chjxh5p](none)<br>[Electronic
+    Crimp Housing 2 5 Mm Jst Xh 5 Pin Socket](none)<br><br>'
+markdown_short: '[electronic_crimp_housing_2_5_mm_jst_xh_5_pin_socket](none)<br><br>'
+md5: 0495bf55f1313fda049d72fa3a3167a4
+md5_10: 0495bf55f1
+md5_10_upper: 0495BF55F1
+md5_5: 0495b
+md5_5_upper: 0495B
+md5_6: 0495bf
+md5_6_alpha: 6fun
+md5_6_alpha_upper: 6FUN
+md5_6_upper: 0495BF
+name: Electronic Crimp Housing 2 5 Mm Jst Xh 5 Pin Socket
+name_no_class: Crimp Housing 2 5 Mm Jst Xh 5 Pin Socket
+name_no_size: 5 Pin Socket
+name_no_size_short: 5 Pin Socket
+name_no_type: 2 5 Mm Jst Xh 5 Pin Socket
+oomp_key: oomp_electronic_crimp_housing_2_5_mm_jst_xh_5_pin_socket
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: chjxh5p
+short_code_upper: CHJXH5P
+size: 2_5_mm_jst_xh
+size_capital: 2.5 mm Jst Xh
+size_first_letter: '2'
+size_first_letter_upper: '2'
+size_only_numbers: '25'
+size_only_numbers_no_zeros: '25'
+size_upper: 2_5_MM_JST_XH
+type: crimp_housing
+type_capital: Crimp Housing
+type_first_letter: c
+type_first_letter_upper: C
+type_upper: CRIMP_HOUSING

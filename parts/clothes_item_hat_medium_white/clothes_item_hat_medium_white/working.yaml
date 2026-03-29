@@ -1,0 +1,78 @@
+classification: clothes
+classification_capital: Clothes
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CLOTHES
+color: medium
+color_capital: Medium
+color_first_letter: m
+color_first_letter_upper: M
+color_upper: MEDIUM
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: white
+description_main_capital: White
+description_main_first_letter: w
+description_main_first_letter_upper: W
+description_main_upper: WHITE
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'M '
+description_or_color_upper: 'M '
+directory: parts/clothes_item_hat_medium_white
+distributors: []
+filter: ''
+from_yaml: false
+id: clothes_item_hat_medium_white
+id_no_class: item_hat_medium_white
+id_no_size: medium_white
+id_no_type: hat_medium_white
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_hat_medium_white
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_hat_medium_white
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_hat_medium_white
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[clothes_item_hat_medium_white](none)<br>[](none)<br>[Clothes Item
+    Hat Medium White](none)<br><br>'
+markdown_short: '[clothes_item_hat_medium_white](none)<br><br>'
+md5: 3ea94842dbeb0fd8dc8889c8de474c41
+md5_10: 3ea94842db
+md5_10_upper: 3EA94842DB
+md5_5: 3ea94
+md5_5_upper: 3EA94
+md5_6: 3ea948
+md5_6_alpha: 2g0nc
+md5_6_alpha_upper: 2G0NC
+md5_6_upper: 3EA948
+name: Clothes Item Hat Medium White
+name_no_class: Item Hat Medium White
+name_no_size: Medium White
+name_no_size_short: Medium White
+name_no_type: Hat Medium White
+oomp_key: oomp_clothes_item_hat_medium_white
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: hat
+size_capital: Hat
+size_first_letter: h
+size_first_letter_upper: H
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: HAT
+type: item
+type_capital: Item
+type_first_letter: i
+type_first_letter_upper: I
+type_upper: ITEM

@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: lacey
+color_capital: Lacey
+color_first_letter: l
+color_first_letter_upper: L
+color_upper: LACEY
+description: category_craft
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'L '
+description_or_color_upper: 'L '
+directory: parts/category_craft_ribbon_lacey
+distributors: []
+filter: ''
+from_yaml: false
+id: category_craft_ribbon_lacey
+id_no_class: craft_ribbon_lacey
+id_no_size: lacey
+id_no_type: ribbon_lacey
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_craft_ribbon_lacey
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_craft_ribbon_lacey
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_craft_ribbon_lacey
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_craft_ribbon_lacey](none)<br>[](none)<br>[Category Craft
+    Ribbon Lacey](none)<br><br>'
+markdown_short: '[category_craft_ribbon_lacey](none)<br><br>'
+md5: e56bf616121ce641346a388c0bd38560
+md5_10: e56bf61612
+md5_10_upper: E56BF61612
+md5_5: e56bf
+md5_5_upper: E56BF
+md5_6: e56bf6
+md5_6_alpha: 8y9di
+md5_6_alpha_upper: 8Y9DI
+md5_6_upper: E56BF6
+name: Category Craft Ribbon Lacey
+name_no_class: Craft Ribbon Lacey
+name_no_size: Lacey
+name_no_size_short: Lacey
+name_no_type: Ribbon Lacey
+oomp_key: oomp_category_craft_ribbon_lacey
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorycraft
+size: ribbon
+size_capital: Ribbon
+size_first_letter: r
+size_first_letter_upper: R
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: RIBBON
+type: craft
+type_capital: Craft
+type_first_letter: c
+type_first_letter_upper: C
+type_upper: CRAFT

@@ -1,0 +1,78 @@
+classification: computer
+classification_capital: Computer
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: COMPUTER
+color: a_to_micro
+color_capital: A To Micro
+color_first_letter: a
+color_first_letter_upper: A
+color_upper: A_TO_MICRO
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'A '
+description_or_color_upper: 'A '
+directory: parts/computer_cable_usb_a_to_micro
+distributors: []
+filter: ''
+from_yaml: false
+id: computer_cable_usb_a_to_micro
+id_no_class: cable_usb_a_to_micro
+id_no_size: a_to_micro
+id_no_type: usb_a_to_micro
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_cable_usb_a_to_micro
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_cable_usb_a_to_micro
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_cable_usb_a_to_micro
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[computer_cable_usb_a_to_micro](none)<br>[](none)<br>[Computer Cable
+    Usb A To Micro](none)<br><br>'
+markdown_short: '[computer_cable_usb_a_to_micro](none)<br><br>'
+md5: 7ba77572d07a4a9ccaad3454c777a7b8
+md5_10: 7ba77572d0
+md5_10_upper: 7BA77572D0
+md5_5: 7ba77
+md5_5_upper: 7BA77
+md5_6: 7ba775
+md5_6_alpha: 4toxh
+md5_6_alpha_upper: 4TOXH
+md5_6_upper: 7BA775
+name: Computer Cable Usb A To Micro
+name_no_class: Cable Usb A To Micro
+name_no_size: A To Micro
+name_no_size_short: A To Micro
+name_no_type: Usb A To Micro
+oomp_key: oomp_computer_cable_usb_a_to_micro
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: usb
+size_capital: Usb
+size_first_letter: u
+size_first_letter_upper: U
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: USB
+type: cable
+type_capital: Cable
+type_first_letter: c
+type_first_letter_upper: C
+type_upper: CABLE

@@ -1,0 +1,79 @@
+classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_upper: ELECTRONIC
+color: gray
+color_capital: Gray
+color_first_letter: g
+color_first_letter_upper: G
+color_upper: GRAY
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 15_mm_length
+description_main_capital: 15 mm Length
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_upper: 15_MM_LENGTH
+description_only_numbers: '15'
+description_only_numbers_short: '15'
+description_or_color: G15
+description_or_color_upper: G15
+directory: parts/electronic_heatshrink_2_to_1_shrink_ratio_101_6_mm_internal_diameter_gray_15_mm_length
+distributors: []
+id: electronic_heatshrink_2_to_1_shrink_ratio_101_6_mm_internal_diameter_gray_15_mm_length
+id_no_class: heatshrink_2_to_1_shrink_ratio_101_6_mm_internal_diameter_gray_15_mm_length
+id_no_size: gray_15_mm_length
+id_no_type: 101_6_mm_internal_diameter_gray_15_mm_length
+kicad_reference: ''
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_101_6_mm_internal_diameter_gray_15_mm_length
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_101_6_mm_internal_diameter_gray_15_mm_length
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_101_6_mm_internal_diameter_gray_15_mm_length
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[electronic_heatshrink_2_to_1_shrink_ratio_101_6_mm_internal_diameter_gray_15_mm_length](none)<br>[gr15](none)<br>[Electronic
+    Heatshrink 2 To 1 Shrink Ratio 101 6 Mm Internal Diameter Gray 15 Mm Length](none)<br><br>'
+markdown_short: '[electronic_heatshrink_2_to_1_shrink_ratio_101_6_mm_internal_diameter_gray_15_mm_length](none)<br><br>'
+md5: 3769e6657391b466cc45d06f04aeddcb
+md5_10: 3769e66573
+md5_10_upper: 3769E66573
+md5_5: 3769e
+md5_5_upper: 3769E
+md5_6: 3769e6
+md5_6_alpha: 25u5i
+md5_6_alpha_upper: 25U5I
+md5_6_upper: 3769E6
+name: Electronic Heatshrink 2 To 1 Shrink Ratio 101 6 Mm Internal Diameter Gray 15
+    Mm Length
+name_no_class: Heatshrink 2 To 1 Shrink Ratio 101 6 Mm Internal Diameter Gray 15 Mm
+    Length
+name_no_size: Gray 15 Mm Length
+name_no_size_short: Gray 15 Mm Length
+name_no_type: 101 6 Mm Internal Diameter Gray 15 Mm Length
+oomp_key: oomp_electronic_heatshrink_2_to_1_shrink_ratio_101_6_mm_internal_diameter_gray_15_mm_length
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: gr15
+short_code_upper: GR15
+size: 101_6_mm_internal_diameter
+size_capital: 101.6 mm Internal Diameter
+size_first_letter: '1'
+size_first_letter_upper: '1'
+size_only_numbers: '1016'
+size_only_numbers_no_zeros: '116'
+size_upper: 101_6_MM_INTERNAL_DIAMETER
+type: heatshrink_2_to_1_shrink_ratio
+type_capital: Heatshrink 2 To 1 Shrink Ratio
+type_first_letter: h
+type_first_letter_upper: H
+type_upper: HEATSHRINK_2_TO_1_SHRINK_RATIO

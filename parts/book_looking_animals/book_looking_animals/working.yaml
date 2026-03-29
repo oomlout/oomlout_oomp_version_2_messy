@@ -1,0 +1,77 @@
+classification: book
+classification_capital: Book
+classification_first_letter: b
+classification_first_letter_upper: B
+classification_upper: BOOK
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/book_looking_animals
+distributors: []
+filter: ''
+from_yaml: false
+id: book_looking_animals
+id_no_class: looking_animals
+id_no_size: animals
+id_no_type: animals
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/book_looking_animals
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/book_looking_animals
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/book_looking_animals
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[book_looking_animals](none)<br>[](none)<br>[Book Looking Animals](none)<br><br>'
+markdown_short: '[book_looking_animals](none)<br><br>'
+md5: 505399489cf1f3bba5d2c5e59d24357a
+md5_10: 505399489c
+md5_10_upper: 505399489C
+md5_5: '50539'
+md5_5_upper: '50539'
+md5_6: '505399'
+md5_6_alpha: 34ty1
+md5_6_alpha_upper: 34TY1
+md5_6_upper: '505399'
+name: Book Looking Animals
+name_no_class: Looking Animals
+name_no_size: Animals
+name_no_size_short: Animals
+name_no_type: Animals
+oomp_key: oomp_book_looking_animals
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: animals
+size_capital: Animals
+size_first_letter: a
+size_first_letter_upper: A
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ANIMALS
+type: looking
+type_capital: Looking
+type_first_letter: l
+type_first_letter_upper: L
+type_upper: LOOKING

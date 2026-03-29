@@ -1,0 +1,83 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: 101_6_mm_internal_diameter
+color_capital: 101.6 mm Internal Diameter
+color_first_letter: '1'
+color_first_letter_upper: '1'
+color_upper: 101_6_MM_INTERNAL_DIAMETER
+description: category_electronic
+description_extra: to_sort
+description_extra_capital: To Sort
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TO_SORT
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: '1 '
+description_or_color_upper: '1 '
+directory: parts/category_electronic_heatshrink_2_to_1_shrink_ratio_101_6_mm_internal_diameter_to_sort
+distributors: []
+filter: ''
+from_yaml: false
+id: category_electronic_heatshrink_2_to_1_shrink_ratio_101_6_mm_internal_diameter_to_sort
+id_no_class: electronic_heatshrink_2_to_1_shrink_ratio_101_6_mm_internal_diameter_to_sort
+id_no_size: 101_6_mm_internal_diameter_to_sort
+id_no_type: heatshrink_2_to_1_shrink_ratio_101_6_mm_internal_diameter_to_sort
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_heatshrink_2_to_1_shrink_ratio_101_6_mm_internal_diameter_to_sort
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_heatshrink_2_to_1_shrink_ratio_101_6_mm_internal_diameter_to_sort
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_heatshrink_2_to_1_shrink_ratio_101_6_mm_internal_diameter_to_sort
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_electronic_heatshrink_2_to_1_shrink_ratio_101_6_mm_internal_diameter_to_sort](none)<br>[](none)<br>[Category
+    Electronic Heatshrink 2 To 1 Shrink Ratio 101 6 Mm Internal Diameter To Sort](none)<br><br>'
+markdown_short: '[category_electronic_heatshrink_2_to_1_shrink_ratio_101_6_mm_internal_diameter_to_sort](none)<br><br>'
+md5: ee09cdd5544ca34efc1c45e1b54caec7
+md5_10: ee09cdd554
+md5_10_upper: EE09CDD554
+md5_5: ee09c
+md5_5_upper: EE09C
+md5_6: ee09cd
+md5_6_alpha: 9ad3h
+md5_6_alpha_upper: 9AD3H
+md5_6_upper: EE09CD
+name: Category Electronic Heatshrink 2 To 1 Shrink Ratio 101 6 Mm Internal Diameter
+    To Sort
+name_no_class: Electronic Heatshrink 2 To 1 Shrink Ratio 101 6 Mm Internal Diameter
+    To Sort
+name_no_size: 101 6 Mm Internal Diameter To Sort
+name_no_size_short: 101 6 Mm Internal Diameter To Sort
+name_no_type: Heatshrink 2 To 1 Shrink Ratio 101 6 Mm Internal Diameter To Sort
+oomp_key: oomp_category_electronic_heatshrink_2_to_1_shrink_ratio_101_6_mm_internal_diameter_to_sort
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryelectronic
+size: heatshrink_2_to_1_shrink_ratio
+size_capital: Heatshrink 2 To 1 Shrink Ratio
+size_first_letter: h
+size_first_letter_upper: H
+size_only_numbers: '21'
+size_only_numbers_no_zeros: '21'
+size_upper: HEATSHRINK_2_TO_1_SHRINK_RATIO
+type: electronic
+type_capital: Electronic
+type_first_letter: e
+type_first_letter_upper: E
+type_upper: ELECTRONIC

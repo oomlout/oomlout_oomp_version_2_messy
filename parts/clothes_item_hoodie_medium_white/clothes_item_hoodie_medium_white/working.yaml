@@ -1,0 +1,78 @@
+classification: clothes
+classification_capital: Clothes
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CLOTHES
+color: medium
+color_capital: Medium
+color_first_letter: m
+color_first_letter_upper: M
+color_upper: MEDIUM
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: white
+description_main_capital: White
+description_main_first_letter: w
+description_main_first_letter_upper: W
+description_main_upper: WHITE
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'M '
+description_or_color_upper: 'M '
+directory: parts/clothes_item_hoodie_medium_white
+distributors: []
+filter: ''
+from_yaml: false
+id: clothes_item_hoodie_medium_white
+id_no_class: item_hoodie_medium_white
+id_no_size: medium_white
+id_no_type: hoodie_medium_white
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_hoodie_medium_white
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_hoodie_medium_white
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_hoodie_medium_white
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[clothes_item_hoodie_medium_white](none)<br>[](none)<br>[Clothes Item
+    Hoodie Medium White](none)<br><br>'
+markdown_short: '[clothes_item_hoodie_medium_white](none)<br><br>'
+md5: c897f7c82f3f516d2de5a53b2e0b82cd
+md5_10: c897f7c82f
+md5_10_upper: C897F7C82F
+md5_5: c897f
+md5_5_upper: C897F
+md5_6: c897f7
+md5_6_alpha: 7trlj
+md5_6_alpha_upper: 7TRLJ
+md5_6_upper: C897F7
+name: Clothes Item Hoodie Medium White
+name_no_class: Item Hoodie Medium White
+name_no_size: Medium White
+name_no_size_short: Medium White
+name_no_type: Hoodie Medium White
+oomp_key: oomp_clothes_item_hoodie_medium_white
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: hoodie
+size_capital: Hoodie
+size_first_letter: h
+size_first_letter_upper: H
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: HOODIE
+type: item
+type_capital: Item
+type_first_letter: i
+type_first_letter_upper: I
+type_upper: ITEM

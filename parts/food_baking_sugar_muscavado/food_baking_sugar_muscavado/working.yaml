@@ -1,0 +1,80 @@
+classification: food
+classification_capital: Food
+classification_first_letter: f
+classification_first_letter_upper: F
+classification_upper: FOOD
+color: muscavado
+color_capital: Muscavado
+color_first_letter: m
+color_first_letter_upper: M
+color_upper: MUSCAVADO
+description: sugar_muscavado
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'M '
+description_or_color_upper: 'M '
+directory: parts/food_baking_sugar_muscavado
+distributors: []
+filter: ''
+from_yaml: false
+id: food_baking_sugar_muscavado
+id_no_class: baking_sugar_muscavado
+id_no_size: muscavado
+id_no_type: sugar_muscavado
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_baking_sugar_muscavado
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_baking_sugar_muscavado
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_baking_sugar_muscavado
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[food_baking_sugar_muscavado](none)<br>[](none)<br>[Food Baking Sugar
+    Muscavado](none)<br><br>'
+markdown_short: '[food_baking_sugar_muscavado](none)<br><br>'
+md5: 399cd619d6ff168f622a1b178cde7fdc
+md5_10: 399cd619d6
+md5_10_upper: 399CD619D6
+md5_5: 399cd
+md5_5_upper: 399CD
+md5_6: 399cd6
+md5_6_alpha: 28xcm
+md5_6_alpha_upper: 28XCM
+md5_6_upper: 399CD6
+name: Food Baking Sugar Muscavado
+name_no_class: Baking Sugar Muscavado
+name_no_size: Muscavado
+name_no_size_short: Muscavado
+name_no_type: Sugar Muscavado
+name_short: Sugar Muscavado
+oomp_key: oomp_food_baking_sugar_muscavado
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: sugar
+size_capital: Sugar
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SUGAR
+type: baking
+type_capital: Baking
+type_first_letter: b
+type_first_letter_upper: B
+type_upper: BAKING

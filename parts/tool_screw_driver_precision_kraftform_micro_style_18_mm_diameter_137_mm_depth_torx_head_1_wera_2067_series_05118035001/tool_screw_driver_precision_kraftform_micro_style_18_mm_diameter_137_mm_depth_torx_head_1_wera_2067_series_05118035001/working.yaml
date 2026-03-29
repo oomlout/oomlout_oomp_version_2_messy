@@ -1,0 +1,82 @@
+classification: tool
+classification_capital: Tool
+classification_first_letter: t
+classification_first_letter_upper: T
+classification_upper: TOOL
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: torx_head_1
+description_main_capital: Torx Head 1
+description_main_first_letter: t
+description_main_first_letter_upper: T
+description_main_upper: TORX_HEAD_1
+description_only_numbers: '1'
+description_only_numbers_short: '1'
+description_or_color: '1'
+description_or_color_upper: '1'
+directory: parts/tool_screw_driver_precision_kraftform_micro_style_18_mm_diameter_137_mm_depth_torx_head_1_wera_2067_series_05118035001
+distributors: []
+filter: ''
+from_yaml: false
+id: tool_screw_driver_precision_kraftform_micro_style_18_mm_diameter_137_mm_depth_torx_head_1_wera_2067_series_05118035001
+id_no_class: screw_driver_precision_kraftform_micro_style_18_mm_diameter_137_mm_depth_torx_head_1_wera_2067_series_05118035001
+id_no_size: torx_head_1_wera_2067_series_05118035001
+id_no_type: kraftform_micro_style_18_mm_diameter_137_mm_depth_torx_head_1_wera_2067_series_05118035001
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_screw_driver_precision_kraftform_micro_style_18_mm_diameter_137_mm_depth_torx_head_1_wera_2067_series_05118035001
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_screw_driver_precision_kraftform_micro_style_18_mm_diameter_137_mm_depth_torx_head_1_wera_2067_series_05118035001
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_screw_driver_precision_kraftform_micro_style_18_mm_diameter_137_mm_depth_torx_head_1_wera_2067_series_05118035001
+manufacturer: wera
+manufacturer_capital: Wera
+manufacturer_first_letter: w
+manufacturer_first_letter_upper: W
+manufacturer_upper: WERA
+manufacturers: []
+markdown_full: '[tool_screw_driver_precision_kraftform_micro_style_18_mm_diameter_137_mm_depth_torx_head_1_wera_2067_series_05118035001](none)<br>[](none)<br>[Tool
+    Screw Driver Precision Kraftform Micro Style 18 Mm Diameter 137 Mm Depth Torx
+    Head 1 Wera 2067 Series 05118035001](none)<br><br>'
+markdown_short: '[tool_screw_driver_precision_kraftform_micro_style_18_mm_diameter_137_mm_depth_torx_head_1_wera_2067_series_05118035001](none)<br><br>'
+md5: 8ee72a230a3678b622bab327693b9025
+md5_10: 8ee72a230a
+md5_10_upper: 8EE72A230A
+md5_5: 8ee72
+md5_5_upper: 8EE72
+md5_6: 8ee72a
+md5_6_alpha: 5kqay
+md5_6_alpha_upper: 5KQAY
+md5_6_upper: 8EE72A
+name: Tool Screw Driver Precision Kraftform Micro Style 18 Mm Diameter 137 Mm Depth
+    Torx Head 1 Wera 2067 Series 05118035001
+name_no_class: Screw Driver Precision Kraftform Micro Style 18 Mm Diameter 137 Mm
+    Depth Torx Head 1 Wera 2067 Series 05118035001
+name_no_size: Torx Head 1 Wera 2067 Series 05118035001
+name_no_size_short: Torx Head 1 Wera 2067 Series 05118035001
+name_no_type: Kraftform Micro Style 18 Mm Diameter 137 Mm Depth Torx Head 1 Wera 2067
+    Series 05118035001
+oomp_key: oomp_tool_screw_driver_precision_kraftform_micro_style_18_mm_diameter_137_mm_depth_torx_head_1_wera_2067_series_05118035001
+part_number: 2067_series_05118035001
+part_number_capital: 2067 Series 05118035001
+part_number_first_letter: '2'
+part_number_first_letter_upper: '2'
+part_number_upper: 2067_SERIES_05118035001
+short_code: ''
+short_code_upper: ''
+size: kraftform_micro_style_18_mm_diameter_137_mm_depth
+size_capital: Kraftform Micro Style 18 mm Diameter 137 mm Depth
+size_first_letter: k
+size_first_letter_upper: K
+size_only_numbers: '18137'
+size_only_numbers_no_zeros: '18137'
+size_upper: KRAFTFORM_MICRO_STYLE_18_MM_DIAMETER_137_MM_DEPTH
+type: screw_driver_precision
+type_capital: Screw Driver Precision
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: SCREW_DRIVER_PRECISION

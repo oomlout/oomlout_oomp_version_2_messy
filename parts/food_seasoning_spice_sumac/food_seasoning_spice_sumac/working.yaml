@@ -1,0 +1,80 @@
+classification: food
+classification_capital: Food
+classification_first_letter: f
+classification_first_letter_upper: F
+classification_upper: FOOD
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: sumac
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: sumac
+description_main_capital: Sumac
+description_main_first_letter: s
+description_main_first_letter_upper: S
+description_main_upper: SUMAC
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/food_seasoning_spice_sumac
+distributors: []
+filter: ''
+from_yaml: false
+id: food_seasoning_spice_sumac
+id_no_class: seasoning_spice_sumac
+id_no_size: sumac
+id_no_type: spice_sumac
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_spice_sumac
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_spice_sumac
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_spice_sumac
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[food_seasoning_spice_sumac](none)<br>[](none)<br>[Food Seasoning
+    Spice Sumac](none)<br><br>'
+markdown_short: '[food_seasoning_spice_sumac](none)<br><br>'
+md5: 4b0b15788c66ca611c1ba27c800a66ce
+md5_10: 4b0b15788c
+md5_10_upper: 4B0B15788C
+md5_5: 4b0b1
+md5_5_upper: 4B0B1
+md5_6: 4b0b15
+md5_6_alpha: 2xes5
+md5_6_alpha_upper: 2XES5
+md5_6_upper: 4B0B15
+name: Food Seasoning Spice Sumac
+name_no_class: Seasoning Spice Sumac
+name_no_size: Sumac
+name_no_size_short: Sumac
+name_no_type: Spice Sumac
+name_short: Sumac
+oomp_key: oomp_food_seasoning_spice_sumac
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: spice
+size_capital: Spice
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SPICE
+type: seasoning
+type_capital: Seasoning
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: SEASONING

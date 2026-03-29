@@ -1,0 +1,78 @@
+classification: clothes
+classification_capital: Clothes
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CLOTHES
+color: medium
+color_capital: Medium
+color_first_letter: m
+color_first_letter_upper: M
+color_upper: MEDIUM
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: brown
+description_main_capital: Brown
+description_main_first_letter: b
+description_main_first_letter_upper: B
+description_main_upper: BROWN
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'M '
+description_or_color_upper: 'M '
+directory: parts/clothes_item_coat_medium_brown
+distributors: []
+filter: ''
+from_yaml: false
+id: clothes_item_coat_medium_brown
+id_no_class: item_coat_medium_brown
+id_no_size: medium_brown
+id_no_type: coat_medium_brown
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_coat_medium_brown
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_coat_medium_brown
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_coat_medium_brown
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[clothes_item_coat_medium_brown](none)<br>[](none)<br>[Clothes Item
+    Coat Medium Brown](none)<br><br>'
+markdown_short: '[clothes_item_coat_medium_brown](none)<br><br>'
+md5: 68e438cb768e2d52b08d4dc84f01fad0
+md5_10: 68e438cb76
+md5_10_upper: 68E438CB76
+md5_5: 68e43
+md5_5_upper: 68E43
+md5_6: 68e438
+md5_6_alpha: 43c54
+md5_6_alpha_upper: 43C54
+md5_6_upper: 68E438
+name: Clothes Item Coat Medium Brown
+name_no_class: Item Coat Medium Brown
+name_no_size: Medium Brown
+name_no_size_short: Medium Brown
+name_no_type: Coat Medium Brown
+oomp_key: oomp_clothes_item_coat_medium_brown
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: coat
+size_capital: Coat
+size_first_letter: c
+size_first_letter_upper: C
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: COAT
+type: item
+type_capital: Item
+type_first_letter: i
+type_first_letter_upper: I
+type_upper: ITEM

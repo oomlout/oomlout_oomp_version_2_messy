@@ -1,0 +1,80 @@
+classification: food
+classification_capital: Food
+classification_first_letter: f
+classification_first_letter_upper: F
+classification_upper: FOOD
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: Ocado Broccoli
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: broccoli
+description_main_capital: Broccoli
+description_main_first_letter: b
+description_main_first_letter_upper: B
+description_main_upper: BROCCOLI
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/food_vegetable_broccoli
+distributors: []
+filter: ''
+from_yaml: false
+id: food_vegetable_broccoli
+id_no_class: vegetable_broccoli
+id_no_size: broccoli
+id_no_type: broccoli
+link_distributor_ocado: https://www.ocado.com/search?entry=59106011
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_vegetable_broccoli
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_vegetable_broccoli
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_vegetable_broccoli
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[food_vegetable_broccoli](none)<br>[](none)<br>[Food Vegetable Broccoli](none)<br><br>'
+markdown_short: '[food_vegetable_broccoli](none)<br><br>'
+md5: c2d910ea8d2d150e3f30fa7bb90bbedb
+md5_10: c2d910ea8d
+md5_10_upper: C2D910EA8D
+md5_5: c2d91
+md5_5_upper: C2D91
+md5_6: c2d910
+md5_6_alpha: 7lp1s
+md5_6_alpha_upper: 7LP1S
+md5_6_upper: C2D910
+name: Food Vegetable Broccoli
+name_no_class: Vegetable Broccoli
+name_no_size: Broccoli
+name_no_size_short: Broccoli
+name_no_type: Broccoli
+oomp_key: oomp_food_vegetable_broccoli
+part_number: ''
+part_number_capital: ''
+part_number_distributor_ocado: '59106011'
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: vegetable
+type_capital: Vegetable
+type_first_letter: v
+type_first_letter_upper: V
+type_upper: VEGETABLE

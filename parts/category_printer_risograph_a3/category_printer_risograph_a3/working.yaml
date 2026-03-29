@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: a3
+color_capital: A3
+color_first_letter: a
+color_first_letter_upper: A
+color_upper: A3
+description: category_printer
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'A '
+description_or_color_upper: 'A '
+directory: parts/category_printer_risograph_a3
+distributors: []
+filter: ''
+from_yaml: false
+id: category_printer_risograph_a3
+id_no_class: printer_risograph_a3
+id_no_size: a3
+id_no_type: risograph_a3
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_printer_risograph_a3
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_printer_risograph_a3
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_printer_risograph_a3
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_printer_risograph_a3](none)<br>[](none)<br>[Category Printer
+    Risograph A3](none)<br><br>'
+markdown_short: '[category_printer_risograph_a3](none)<br><br>'
+md5: 13040c484498449e09a74143b4cc6fd7
+md5_10: 13040c4844
+md5_10_upper: 13040C4844
+md5_5: '13040'
+md5_5_upper: '13040'
+md5_6: 13040c
+md5_6_alpha: qpl8
+md5_6_alpha_upper: QPL8
+md5_6_upper: 13040C
+name: Category Printer Risograph A3
+name_no_class: Printer Risograph A3
+name_no_size: A3
+name_no_size_short: A3
+name_no_type: Risograph A3
+oomp_key: oomp_category_printer_risograph_a3
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryprinter
+size: risograph
+size_capital: Risograph
+size_first_letter: r
+size_first_letter_upper: R
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: RISOGRAPH
+type: printer
+type_capital: Printer
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PRINTER

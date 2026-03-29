@@ -1,0 +1,78 @@
+classification: clothes
+classification_capital: Clothes
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CLOTHES
+color: small
+color_capital: Small
+color_first_letter: s
+color_first_letter_upper: S
+color_upper: SMALL
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: olive
+description_main_capital: Olive
+description_main_first_letter: o
+description_main_first_letter_upper: O
+description_main_upper: OLIVE
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'S '
+description_or_color_upper: 'S '
+directory: parts/clothes_item_underwear_small_olive
+distributors: []
+filter: ''
+from_yaml: false
+id: clothes_item_underwear_small_olive
+id_no_class: item_underwear_small_olive
+id_no_size: small_olive
+id_no_type: underwear_small_olive
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_underwear_small_olive
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_underwear_small_olive
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_underwear_small_olive
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[clothes_item_underwear_small_olive](none)<br>[](none)<br>[Clothes
+    Item Underwear Small Olive](none)<br><br>'
+markdown_short: '[clothes_item_underwear_small_olive](none)<br><br>'
+md5: 611547371043e4f883e644d846ef4ed9
+md5_10: '6115473710'
+md5_10_upper: '6115473710'
+md5_5: '61154'
+md5_5_upper: '61154'
+md5_6: '611547'
+md5_6_alpha: 3sdaf
+md5_6_alpha_upper: 3SDAF
+md5_6_upper: '611547'
+name: Clothes Item Underwear Small Olive
+name_no_class: Item Underwear Small Olive
+name_no_size: Small Olive
+name_no_size_short: Small Olive
+name_no_type: Underwear Small Olive
+oomp_key: oomp_clothes_item_underwear_small_olive
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: underwear
+size_capital: Underwear
+size_first_letter: u
+size_first_letter_upper: U
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: UNDERWEAR
+type: item
+type_capital: Item
+type_first_letter: i
+type_first_letter_upper: I
+type_upper: ITEM

@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_exercise_equipment
+description_extra: tote
+description_extra_capital: Tote
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TOTE
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_exercise_equipment_bike_stationary_tote
+distributors: []
+filter: ''
+from_yaml: false
+id: category_exercise_equipment_bike_stationary_tote
+id_no_class: exercise_equipment_bike_stationary_tote
+id_no_size: tote
+id_no_type: bike_stationary_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_exercise_equipment_bike_stationary_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_exercise_equipment_bike_stationary_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_exercise_equipment_bike_stationary_tote
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_exercise_equipment_bike_stationary_tote](none)<br>[](none)<br>[Category
+    Exercise Equipment Bike Stationary Tote](none)<br><br>'
+markdown_short: '[category_exercise_equipment_bike_stationary_tote](none)<br><br>'
+md5: d10c7245970fe31d499534d2845573c7
+md5_10: d10c724597
+md5_10_upper: D10C724597
+md5_5: d10c7
+md5_5_upper: D10C7
+md5_6: d10c72
+md5_6_alpha: 85n5e
+md5_6_alpha_upper: 85N5E
+md5_6_upper: D10C72
+name: Category Exercise Equipment Bike Stationary Tote
+name_no_class: Exercise Equipment Bike Stationary Tote
+name_no_size: Tote
+name_no_size_short: Tote
+name_no_type: Bike Stationary Tote
+oomp_key: oomp_category_exercise_equipment_bike_stationary_tote
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryexerciseequipment
+size: bike_stationary
+size_capital: Bike Stationary
+size_first_letter: b
+size_first_letter_upper: B
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: BIKE_STATIONARY
+type: exercise_equipment
+type_capital: Exercise Equipment
+type_first_letter: e
+type_first_letter_upper: E
+type_upper: EXERCISE_EQUIPMENT

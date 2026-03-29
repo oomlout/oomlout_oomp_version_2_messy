@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ikea_oftast
+color_capital: Ikea Oftast
+color_first_letter: i
+color_first_letter_upper: I
+color_upper: IKEA_OFTAST
+description: category_dish
+description_extra: old
+description_extra_capital: Old
+description_extra_first_letter: o
+description_extra_first_letter_upper: O
+description_extra_upper: OLD
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'I '
+description_or_color_upper: 'I '
+directory: parts/category_dish_ikea_oftast_old
+distributors: []
+filter: ''
+from_yaml: false
+id: category_dish_ikea_oftast_old
+id_no_class: dish_ikea_oftast_old
+id_no_size: ikeaoftastold
+id_no_type: ikea_oftast_old
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_dish_ikea_oftast_old
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_dish_ikea_oftast_old
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_dish_ikea_oftast_old
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_dish_ikea_oftast_old](none)<br>[](none)<br>[Category Dish
+    Ikea Oftast Old](none)<br><br>'
+markdown_short: '[category_dish_ikea_oftast_old](none)<br><br>'
+md5: e89f83b07ae7815d5c0f17907854bee0
+md5_10: e89f83b07a
+md5_10_upper: E89F83B07A
+md5_5: e89f8
+md5_5_upper: E89F8
+md5_6: e89f83
+md5_6_alpha: 92r9f
+md5_6_alpha_upper: 92R9F
+md5_6_upper: E89F83
+name: Category Dish Ikea Oftast Old
+name_no_class: Dish Ikea Oftast Old
+name_no_size: Ikeaoftastold
+name_no_size_short: Ikeaoftastold
+name_no_type: Ikea Oftast Old
+oomp_key: oomp_category_dish_ikea_oftast_old
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorydish
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: dish
+type_capital: Dish
+type_first_letter: d
+type_first_letter_upper: D
+type_upper: DISH

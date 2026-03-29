@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: pyrex
+color_capital: Pyrex
+color_first_letter: p
+color_first_letter_upper: P
+color_upper: PYREX
+description: category_dish
+description_extra: cubby_box
+description_extra_capital: Cubby Box
+description_extra_first_letter: c
+description_extra_first_letter_upper: C
+description_extra_upper: CUBBY_BOX
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'P '
+description_or_color_upper: 'P '
+directory: parts/category_dish_baking_pyrex_cubby_box
+distributors: []
+filter: ''
+from_yaml: false
+id: category_dish_baking_pyrex_cubby_box
+id_no_class: dish_baking_pyrex_cubby_box
+id_no_size: pyrex_cubby_box
+id_no_type: baking_pyrex_cubby_box
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_dish_baking_pyrex_cubby_box
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_dish_baking_pyrex_cubby_box
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_dish_baking_pyrex_cubby_box
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_dish_baking_pyrex_cubby_box](none)<br>[](none)<br>[Category
+    Dish Baking Pyrex Cubby Box](none)<br><br>'
+markdown_short: '[category_dish_baking_pyrex_cubby_box](none)<br><br>'
+md5: 0a24c30606f04893bf6f1c280e66790d
+md5_10: 0a24c30606
+md5_10_upper: 0A24C30606
+md5_5: 0a24c
+md5_5_upper: 0A24C
+md5_6: 0a24c3
+md5_6_alpha: e8xv
+md5_6_alpha_upper: E8XV
+md5_6_upper: 0A24C3
+name: Category Dish Baking Pyrex Cubby Box
+name_no_class: Dish Baking Pyrex Cubby Box
+name_no_size: Pyrex Cubby Box
+name_no_size_short: Pyrex Cubby Box
+name_no_type: Baking Pyrex Cubby Box
+oomp_key: oomp_category_dish_baking_pyrex_cubby_box
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorydish
+size: baking
+size_capital: Baking
+size_first_letter: b
+size_first_letter_upper: B
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: BAKING
+type: dish
+type_capital: Dish
+type_first_letter: d
+type_first_letter_upper: D
+type_upper: DISH

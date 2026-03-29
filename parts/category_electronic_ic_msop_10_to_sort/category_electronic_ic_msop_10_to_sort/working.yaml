@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: msop_10
+color_capital: Msop 10
+color_first_letter: m
+color_first_letter_upper: M
+color_upper: MSOP_10
+description: category_electronic
+description_extra: to_sort
+description_extra_capital: To Sort
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TO_SORT
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'M '
+description_or_color_upper: 'M '
+directory: parts/category_electronic_ic_msop_10_to_sort
+distributors: []
+filter: ''
+from_yaml: false
+id: category_electronic_ic_msop_10_to_sort
+id_no_class: electronic_ic_msop_10_to_sort
+id_no_size: msop_10_to_sort
+id_no_type: ic_msop_10_to_sort
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_ic_msop_10_to_sort
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_ic_msop_10_to_sort
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_ic_msop_10_to_sort
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_electronic_ic_msop_10_to_sort](none)<br>[](none)<br>[Category
+    Electronic Ic Msop 10 To Sort](none)<br><br>'
+markdown_short: '[category_electronic_ic_msop_10_to_sort](none)<br><br>'
+md5: 1986b32b1d64ddd003179de9ed09786e
+md5_10: 1986b32b1d
+md5_10_upper: 1986B32B1D
+md5_5: 1986b
+md5_5_upper: 1986B
+md5_6: 1986b3
+md5_6_alpha: zusz
+md5_6_alpha_upper: ZUSZ
+md5_6_upper: 1986B3
+name: Category Electronic Ic Msop 10 To Sort
+name_no_class: Electronic Ic Msop 10 To Sort
+name_no_size: Msop 10 To Sort
+name_no_size_short: Msop 10 To Sort
+name_no_type: Ic Msop 10 To Sort
+oomp_key: oomp_category_electronic_ic_msop_10_to_sort
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryelectronic
+size: ic
+size_capital: Ic
+size_first_letter: i
+size_first_letter_upper: I
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: IC
+type: electronic
+type_capital: Electronic
+type_first_letter: e
+type_first_letter_upper: E
+type_upper: ELECTRONIC

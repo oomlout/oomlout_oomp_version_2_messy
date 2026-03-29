@@ -1,0 +1,78 @@
+classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_upper: ELECTRONIC
+color: adapter_screw_terminal
+color_capital: Adapter Screw Terminal
+color_first_letter: a
+color_first_letter_upper: A
+color_upper: ADAPTER_SCREW_TERMINAL
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: to_usb_type_a_plug
+description_main_capital: To Usb Type A Plug
+description_main_first_letter: t
+description_main_first_letter_upper: T
+description_main_upper: TO_USB_TYPE_A_PLUG
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'A '
+description_or_color_upper: 'A '
+directory: parts/electronic_wire_cable_adapter_adapter_screw_terminal_to_usb_type_a_plug
+distributors: []
+filter: ''
+from_yaml: false
+id: electronic_wire_cable_adapter_adapter_screw_terminal_to_usb_type_a_plug
+id_no_class: wire_cable_adapter_adapter_screw_terminal_to_usb_type_a_plug
+id_no_size: screw_terminal_to_usb_type_a_plug
+id_no_type: adapter_adapter_screw_terminal_to_usb_type_a_plug
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_wire_cable_adapter_adapter_screw_terminal_to_usb_type_a_plug
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_wire_cable_adapter_adapter_screw_terminal_to_usb_type_a_plug
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_wire_cable_adapter_adapter_screw_terminal_to_usb_type_a_plug
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[electronic_wire_cable_adapter_adapter_screw_terminal_to_usb_type_a_plug](none)<br>[](none)<br>[Electronic
+    Wire Cable Adapter Adapter Screw Terminal To Usb Type A Plug](none)<br><br>'
+markdown_short: '[electronic_wire_cable_adapter_adapter_screw_terminal_to_usb_type_a_plug](none)<br><br>'
+md5: 52ae8444bd0976f73327ad864dd81f12
+md5_10: 52ae8444bd
+md5_10_upper: 52AE8444BD
+md5_5: 52ae8
+md5_5_upper: 52AE8
+md5_6: 52ae84
+md5_6_alpha: 3851g
+md5_6_alpha_upper: 3851G
+md5_6_upper: 52AE84
+name: Electronic Wire Cable Adapter Adapter Screw Terminal To Usb Type A Plug
+name_no_class: Wire Cable Adapter Adapter Screw Terminal To Usb Type A Plug
+name_no_size: Screw Terminal To Usb Type A Plug
+name_no_size_short: Screw Terminal To Usb Type A Plug
+name_no_type: Adapter Adapter Screw Terminal To Usb Type A Plug
+oomp_key: oomp_electronic_wire_cable_adapter_adapter_screw_terminal_to_usb_type_a_plug
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: adapter
+size_capital: Adapter
+size_first_letter: a
+size_first_letter_upper: A
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ADAPTER
+type: wire_cable
+type_capital: Wire Cable
+type_first_letter: w
+type_first_letter_upper: W
+type_upper: WIRE_CABLE

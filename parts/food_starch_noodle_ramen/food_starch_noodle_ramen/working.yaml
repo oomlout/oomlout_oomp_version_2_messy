@@ -1,0 +1,80 @@
+classification: food
+classification_capital: Food
+classification_first_letter: f
+classification_first_letter_upper: F
+classification_upper: FOOD
+color: ramen
+color_capital: Ramen
+color_first_letter: r
+color_first_letter_upper: R
+color_upper: RAMEN
+description: noodle_ramen
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'R '
+description_or_color_upper: 'R '
+directory: parts/food_starch_noodle_ramen
+distributors: []
+filter: ''
+from_yaml: false
+id: food_starch_noodle_ramen
+id_no_class: starch_noodle_ramen
+id_no_size: ramen
+id_no_type: noodle_ramen
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_noodle_ramen
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_noodle_ramen
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_noodle_ramen
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[food_starch_noodle_ramen](none)<br>[](none)<br>[Food Starch Noodle
+    Ramen](none)<br><br>'
+markdown_short: '[food_starch_noodle_ramen](none)<br><br>'
+md5: 2160abc7e367312b2fa1b20b96247366
+md5_10: 2160abc7e3
+md5_10_upper: 2160ABC7E3
+md5_5: 2160a
+md5_5_upper: 2160A
+md5_6: 2160ab
+md5_6_alpha: 1avu3
+md5_6_alpha_upper: 1AVU3
+md5_6_upper: 2160AB
+name: Food Starch Noodle Ramen
+name_no_class: Starch Noodle Ramen
+name_no_size: Ramen
+name_no_size_short: Ramen
+name_no_type: Noodle Ramen
+name_short: Noodle ramen
+oomp_key: oomp_food_starch_noodle_ramen
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: noodle
+size_capital: Noodle
+size_first_letter: n
+size_first_letter_upper: N
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: NOODLE
+type: starch
+type_capital: Starch
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: STARCH

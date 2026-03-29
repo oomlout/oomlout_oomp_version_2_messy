@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: 1_mm_jst_sh
+color_capital: 1 mm Jst Sh
+color_first_letter: '1'
+color_first_letter_upper: '1'
+color_upper: 1_MM_JST_SH
+description: category_electronic
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: '1 '
+description_or_color_upper: '1 '
+directory: parts/category_electronic_header_1_mm_jst_sh
+distributors: []
+filter: ''
+from_yaml: false
+id: category_electronic_header_1_mm_jst_sh
+id_no_class: electronic_header_1_mm_jst_sh
+id_no_size: 1_mm_jst_sh
+id_no_type: header_1_mm_jst_sh
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_header_1_mm_jst_sh
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_header_1_mm_jst_sh
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_header_1_mm_jst_sh
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_electronic_header_1_mm_jst_sh](none)<br>[](none)<br>[Category
+    Electronic Header 1 Mm Jst Sh](none)<br><br>'
+markdown_short: '[category_electronic_header_1_mm_jst_sh](none)<br><br>'
+md5: c370c02243cd704a37ba265704f71dc8
+md5_10: c370c02243
+md5_10_upper: C370C02243
+md5_5: c370c
+md5_5_upper: C370C
+md5_6: c370c0
+md5_6_alpha: 7mj0g
+md5_6_alpha_upper: 7MJ0G
+md5_6_upper: C370C0
+name: Category Electronic Header 1 Mm Jst Sh
+name_no_class: Electronic Header 1 Mm Jst Sh
+name_no_size: 1 Mm Jst Sh
+name_no_size_short: 1 Mm Jst Sh
+name_no_type: Header 1 Mm Jst Sh
+oomp_key: oomp_category_electronic_header_1_mm_jst_sh
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryelectronic
+size: header
+size_capital: Header
+size_first_letter: h
+size_first_letter_upper: H
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: HEADER
+type: electronic
+type_capital: Electronic
+type_first_letter: e
+type_first_letter_upper: E
+type_upper: ELECTRONIC

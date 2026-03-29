@@ -1,0 +1,78 @@
+classification: book
+classification_capital: Book
+classification_first_letter: b
+classification_first_letter_upper: B
+classification_upper: BOOK
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/book_looking_foreign_language
+distributors: []
+filter: ''
+from_yaml: false
+id: book_looking_foreign_language
+id_no_class: looking_foreign_language
+id_no_size: foreign_language
+id_no_type: foreign_language
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/book_looking_foreign_language
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/book_looking_foreign_language
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/book_looking_foreign_language
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[book_looking_foreign_language](none)<br>[](none)<br>[Book Looking
+    Foreign Language](none)<br><br>'
+markdown_short: '[book_looking_foreign_language](none)<br><br>'
+md5: 2f526d831d245822bb3bed1222a394a6
+md5_10: 2f526d831d
+md5_10_upper: 2F526D831D
+md5_5: 2f526
+md5_5_upper: 2F526
+md5_6: 2f526d
+md5_6_alpha: 1ugz1
+md5_6_alpha_upper: 1UGZ1
+md5_6_upper: 2F526D
+name: Book Looking Foreign Language
+name_no_class: Looking Foreign Language
+name_no_size: Foreign Language
+name_no_size_short: Foreign Language
+name_no_type: Foreign Language
+oomp_key: oomp_book_looking_foreign_language
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: foreign_language
+size_capital: Foreign Language
+size_first_letter: f
+size_first_letter_upper: F
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: FOREIGN_LANGUAGE
+type: looking
+type_capital: Looking
+type_first_letter: l
+type_first_letter_upper: L
+type_upper: LOOKING

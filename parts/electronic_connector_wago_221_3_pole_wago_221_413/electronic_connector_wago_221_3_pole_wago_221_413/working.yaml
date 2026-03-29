@@ -1,0 +1,82 @@
+classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_upper: ELECTRONIC
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: 3_pole
+description_extra_capital: 3 Pole
+description_extra_first_letter: '3'
+description_extra_first_letter_upper: '3'
+description_extra_upper: 3_POLE
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/electronic_connector_wago_221_3_pole_wago_221_413
+distributor_screwfix: 2803R
+distributor_screwfix_link: https://www.screwfix.com/p/2803r
+distributors: []
+filter: ''
+from_yaml: false
+id: electronic_connector_wago_221_3_pole_wago_221_413
+id_no_class: connector_wago_221_3_pole_wago_221_413
+id_no_size: 3_pole_413
+id_no_type: wago_221_3_pole_wago_221_413
+kicad_reference: L
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_connector_wago_221_3_pole_wago_221_413
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_connector_wago_221_3_pole_wago_221_413
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_connector_wago_221_3_pole_wago_221_413
+manufacturer: wago
+manufacturer_capital: Wago
+manufacturer_first_letter: w
+manufacturer_first_letter_upper: W
+manufacturer_upper: WAGO
+manufacturers: []
+markdown_full: '[electronic_connector_wago_221_3_pole_wago_221_413](none)<br>[conw221](none)<br>[Electronic
+    Connector Wago 221 3 Pole Wago 221 413](none)<br><br>'
+markdown_short: '[electronic_connector_wago_221_3_pole_wago_221_413](none)<br><br>'
+md5: f945a23a77aec6b50bce780c733615ba
+md5_10: f945a23a77
+md5_10_upper: F945A23A77
+md5_5: f945a
+md5_5_upper: F945A
+md5_6: f945a2
+md5_6_alpha: 9q55u
+md5_6_alpha_upper: 9Q55U
+md5_6_upper: F945A2
+name: Electronic Connector Wago 221 3 Pole Wago 221 413
+name_no_class: Connector Wago 221 3 Pole Wago 221 413
+name_no_size: 3 Pole 413
+name_no_size_short: 3 Pole 413
+name_no_type: Wago 221 3 Pole Wago 221 413
+oomp_key: oomp_electronic_connector_wago_221_3_pole_wago_221_413
+part_number: '221_413'
+part_number_capital: '221.413'
+part_number_exact: 221-413
+part_number_first_letter: '2'
+part_number_first_letter_upper: '2'
+part_number_upper: '221_413'
+short_code: conw221
+short_code_upper: CONW221
+size: wago_221
+size_capital: Wago 221
+size_first_letter: w
+size_first_letter_upper: W
+size_only_numbers: '221'
+size_only_numbers_no_zeros: '221'
+size_upper: WAGO_221
+type: connector
+type_capital: Connector
+type_first_letter: c
+type_first_letter_upper: C
+type_upper: CONNECTOR

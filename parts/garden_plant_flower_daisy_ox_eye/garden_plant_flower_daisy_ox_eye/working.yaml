@@ -1,0 +1,79 @@
+classification: garden
+classification_capital: Garden
+classification_first_letter: g
+classification_first_letter_upper: G
+classification_upper: GARDEN
+color: daisy
+color_capital: Daisy
+color_first_letter: d
+color_first_letter_upper: D
+color_upper: DAISY
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ox_eye
+description_main_capital: Ox Eye
+description_main_first_letter: o
+description_main_first_letter_upper: O
+description_main_upper: OX_EYE
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'D '
+description_or_color_upper: 'D '
+directory: parts/garden_plant_flower_daisy_ox_eye
+distributor_sutton_seeds: '142036'
+distributors: []
+id: garden_plant_flower_daisy_ox_eye
+id_no_class: plant_flower_daisy_ox_eye
+id_no_size: daisy_ox_eye
+id_no_type: flower_daisy_ox_eye
+link_distributor_sutton_seeds: https://www.suttons.co.uk/oxeye-daisy-seeds_mh-53149
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/garden_plant_flower_daisy_ox_eye
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/garden_plant_flower_daisy_ox_eye
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/garden_plant_flower_daisy_ox_eye
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[garden_plant_flower_daisy_ox_eye](none)<br>[](none)<br>[Garden Plant
+    Flower Daisy Ox Eye](none)<br><br>'
+markdown_short: '[garden_plant_flower_daisy_ox_eye](none)<br><br>'
+md5: c09f9aa887511a16513dd03fb2a8dcec
+md5_10: c09f9aa887
+md5_10_upper: C09F9AA887
+md5_5: c09f9
+md5_5_upper: C09F9
+md5_6: c09f9a
+md5_6_alpha: 7ikka
+md5_6_alpha_upper: 7IKKA
+md5_6_upper: C09F9A
+name: Garden Plant Flower Daisy Ox Eye
+name_no_class: Plant Flower Daisy Ox Eye
+name_no_size: Daisy Ox Eye
+name_no_size_short: Daisy Ox Eye
+name_no_type: Flower Daisy Ox Eye
+oomp_key: oomp_garden_plant_flower_daisy_ox_eye
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: flower
+size_capital: Flower
+size_first_letter: f
+size_first_letter_upper: F
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: FLOWER
+type: plant
+type_capital: Plant
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PLANT

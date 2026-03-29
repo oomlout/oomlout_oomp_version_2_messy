@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: tree
+color_capital: Tree
+color_first_letter: t
+color_first_letter_upper: T
+color_upper: TREE
+description: category_garden
+description_extra: cubby_box
+description_extra_capital: Cubby Box
+description_extra_first_letter: c
+description_extra_first_letter_upper: C
+description_extra_upper: CUBBY_BOX
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'T '
+description_or_color_upper: 'T '
+directory: parts/category_garden_plant_tree_cubby_box
+distributors: []
+filter: ''
+from_yaml: false
+id: category_garden_plant_tree_cubby_box
+id_no_class: garden_plant_tree_cubby_box
+id_no_size: tree_cubby_box
+id_no_type: plant_tree_cubby_box
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_garden_plant_tree_cubby_box
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_garden_plant_tree_cubby_box
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_garden_plant_tree_cubby_box
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_garden_plant_tree_cubby_box](none)<br>[](none)<br>[Category
+    Garden Plant Tree Cubby Box](none)<br><br>'
+markdown_short: '[category_garden_plant_tree_cubby_box](none)<br><br>'
+md5: d53f8f8e2c297b70c69c24c59b11fbe1
+md5_10: d53f8f8e2c
+md5_10_upper: D53F8F8E2C
+md5_5: d53f8
+md5_5_upper: D53F8
+md5_6: d53f8f
+md5_6_alpha: 8bjin
+md5_6_alpha_upper: 8BJIN
+md5_6_upper: D53F8F
+name: Category Garden Plant Tree Cubby Box
+name_no_class: Garden Plant Tree Cubby Box
+name_no_size: Tree Cubby Box
+name_no_size_short: Tree Cubby Box
+name_no_type: Plant Tree Cubby Box
+oomp_key: oomp_category_garden_plant_tree_cubby_box
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorygarden
+size: plant
+size_capital: Plant
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PLANT
+type: garden
+type_capital: Garden
+type_first_letter: g
+type_first_letter_upper: G
+type_upper: GARDEN

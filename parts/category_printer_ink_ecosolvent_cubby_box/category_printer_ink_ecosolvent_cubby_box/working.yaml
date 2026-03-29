@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ecosolvent
+color_capital: Ecosolvent
+color_first_letter: e
+color_first_letter_upper: E
+color_upper: ECOSOLVENT
+description: category_printer
+description_extra: cubby_box
+description_extra_capital: Cubby Box
+description_extra_first_letter: c
+description_extra_first_letter_upper: C
+description_extra_upper: CUBBY_BOX
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'E '
+description_or_color_upper: 'E '
+directory: parts/category_printer_ink_ecosolvent_cubby_box
+distributors: []
+filter: ''
+from_yaml: false
+id: category_printer_ink_ecosolvent_cubby_box
+id_no_class: printer_ink_ecosolvent_cubby_box
+id_no_size: ecosolvent_cubby_box
+id_no_type: ink_ecosolvent_cubby_box
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_printer_ink_ecosolvent_cubby_box
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_printer_ink_ecosolvent_cubby_box
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_printer_ink_ecosolvent_cubby_box
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_printer_ink_ecosolvent_cubby_box](none)<br>[](none)<br>[Category
+    Printer Ink Ecosolvent Cubby Box](none)<br><br>'
+markdown_short: '[category_printer_ink_ecosolvent_cubby_box](none)<br><br>'
+md5: 6cd5fa14d80217b42bea8bd7a105b5e5
+md5_10: 6cd5fa14d8
+md5_10_upper: 6CD5FA14D8
+md5_5: 6cd5f
+md5_5_upper: 6CD5F
+md5_6: 6cd5fa
+md5_6_alpha: 48vlm
+md5_6_alpha_upper: 48VLM
+md5_6_upper: 6CD5FA
+name: Category Printer Ink Ecosolvent Cubby Box
+name_no_class: Printer Ink Ecosolvent Cubby Box
+name_no_size: Ecosolvent Cubby Box
+name_no_size_short: Ecosolvent Cubby Box
+name_no_type: Ink Ecosolvent Cubby Box
+oomp_key: oomp_category_printer_ink_ecosolvent_cubby_box
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryprinter
+size: ink
+size_capital: Ink
+size_first_letter: i
+size_first_letter_upper: I
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: INK
+type: printer
+type_capital: Printer
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PRINTER

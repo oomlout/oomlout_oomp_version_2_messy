@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: math
+color_capital: Math
+color_first_letter: m
+color_first_letter_upper: M
+color_upper: MATH
+description: category_book
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'M '
+description_or_color_upper: 'M '
+directory: parts/category_book_activity_math
+distributors: []
+filter: ''
+from_yaml: false
+id: category_book_activity_math
+id_no_class: book_activity_math
+id_no_size: math
+id_no_type: activity_math
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_book_activity_math
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_book_activity_math
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_book_activity_math
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_book_activity_math](none)<br>[](none)<br>[Category Book
+    Activity Math](none)<br><br>'
+markdown_short: '[category_book_activity_math](none)<br><br>'
+md5: bdf2f1ec66e2470fb92ca9cb8bb054c8
+md5_10: bdf2f1ec66
+md5_10_upper: BDF2F1EC66
+md5_5: bdf2f
+md5_5_upper: BDF2F
+md5_6: bdf2f1
+md5_6_alpha: 7etbl
+md5_6_alpha_upper: 7ETBL
+md5_6_upper: BDF2F1
+name: Category Book Activity Math
+name_no_class: Book Activity Math
+name_no_size: Math
+name_no_size_short: Math
+name_no_type: Activity Math
+oomp_key: oomp_category_book_activity_math
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorybook
+size: activity
+size_capital: Activity
+size_first_letter: a
+size_first_letter_upper: A
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ACTIVITY
+type: book
+type_capital: Book
+type_first_letter: b
+type_first_letter_upper: B
+type_upper: BOOK

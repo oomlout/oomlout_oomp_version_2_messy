@@ -1,0 +1,80 @@
+classification: food
+classification_capital: Food
+classification_first_letter: f
+classification_first_letter_upper: F
+classification_upper: FOOD
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: salt sea
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: salt_sea
+description_main_capital: Salt Sea
+description_main_first_letter: s
+description_main_first_letter_upper: S
+description_main_upper: SALT_SEA
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/food_seasoning_salt_and_pepper_salt_sea
+distributors: []
+filter: ''
+from_yaml: false
+id: food_seasoning_salt_and_pepper_salt_sea
+id_no_class: seasoning_salt_and_pepper_salt_sea
+id_no_size: salt_sea
+id_no_type: salt_and_pepper_salt_sea
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_salt_and_pepper_salt_sea
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_salt_and_pepper_salt_sea
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_salt_and_pepper_salt_sea
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[food_seasoning_salt_and_pepper_salt_sea](none)<br>[](none)<br>[Food
+    Seasoning Salt And Pepper Salt Sea](none)<br><br>'
+markdown_short: '[food_seasoning_salt_and_pepper_salt_sea](none)<br><br>'
+md5: 70c0c069d6c73d0d6fc9dcdcf2e7bd5b
+md5_10: 70c0c069d6
+md5_10_upper: 70C0C069D6
+md5_5: 70c0c
+md5_5_upper: 70C0C
+md5_6: 70c0c0
+md5_6_alpha: 4edog
+md5_6_alpha_upper: 4EDOG
+md5_6_upper: 70C0C0
+name: Food Seasoning Salt And Pepper Salt Sea
+name_no_class: Seasoning Salt And Pepper Salt Sea
+name_no_size: Salt Sea
+name_no_size_short: Salt Sea
+name_no_type: Salt And Pepper Salt Sea
+name_short: Salt Sea
+oomp_key: oomp_food_seasoning_salt_and_pepper_salt_sea
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: salt_and_pepper
+size_capital: Salt And Pepper
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SALT_AND_PEPPER
+type: seasoning
+type_capital: Seasoning
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: SEASONING

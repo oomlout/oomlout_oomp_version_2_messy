@@ -1,0 +1,75 @@
+classification: archive
+classification_capital: Archive
+classification_first_letter: a
+classification_first_letter_upper: A
+classification_upper: ARCHIVE
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: mixed
+description_main_capital: Mixed
+description_main_first_letter: m
+description_main_first_letter_upper: M
+description_main_upper: MIXED
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/archive_family_mixed
+distributors: []
+id: archive_family_mixed
+id_no_class: family_mixed
+id_no_size: mixed
+id_no_type: mixed
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/archive_family_mixed
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/archive_family_mixed
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/archive_family_mixed
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[archive_family_mixed](none)<br>[](none)<br>[Archive Family Mixed](none)<br><br>'
+markdown_short: '[archive_family_mixed](none)<br><br>'
+md5: 74cb8a0851b2076f85d1786b743902bb
+md5_10: 74cb8a0851
+md5_10_upper: 74CB8A0851
+md5_5: 74cb8
+md5_5_upper: 74CB8
+md5_6: 74cb8a
+md5_6_alpha: 4k22y
+md5_6_alpha_upper: 4K22Y
+md5_6_upper: 74CB8A
+name: Archive Family Mixed
+name_no_class: Family Mixed
+name_no_size: Mixed
+name_no_size_short: Mixed
+name_no_type: Mixed
+oomp_key: oomp_archive_family_mixed
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: family
+type_capital: Family
+type_first_letter: f
+type_first_letter_upper: F
+type_upper: FAMILY

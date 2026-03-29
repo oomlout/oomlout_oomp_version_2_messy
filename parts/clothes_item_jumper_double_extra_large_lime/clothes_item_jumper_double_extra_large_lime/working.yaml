@@ -1,0 +1,78 @@
+classification: clothes
+classification_capital: Clothes
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CLOTHES
+color: double_extra_large
+color_capital: Double Extra Large
+color_first_letter: d
+color_first_letter_upper: D
+color_upper: DOUBLE_EXTRA_LARGE
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: lime
+description_main_capital: Lime
+description_main_first_letter: l
+description_main_first_letter_upper: L
+description_main_upper: LIME
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'D '
+description_or_color_upper: 'D '
+directory: parts/clothes_item_jumper_double_extra_large_lime
+distributors: []
+filter: ''
+from_yaml: false
+id: clothes_item_jumper_double_extra_large_lime
+id_no_class: item_jumper_double_extra_large_lime
+id_no_size: double_extra_large_lime
+id_no_type: jumper_double_extra_large_lime
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_jumper_double_extra_large_lime
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_jumper_double_extra_large_lime
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_jumper_double_extra_large_lime
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[clothes_item_jumper_double_extra_large_lime](none)<br>[](none)<br>[Clothes
+    Item Jumper Double Extra Large Lime](none)<br><br>'
+markdown_short: '[clothes_item_jumper_double_extra_large_lime](none)<br><br>'
+md5: 93c5b4eb28142b49419600f4a4176e06
+md5_10: 93c5b4eb28
+md5_10_upper: 93C5B4EB28
+md5_5: 93c5b
+md5_5_upper: 93C5B
+md5_6: 93c5b4
+md5_6_alpha: 5rkj8
+md5_6_alpha_upper: 5RKJ8
+md5_6_upper: 93C5B4
+name: Clothes Item Jumper Double Extra Large Lime
+name_no_class: Item Jumper Double Extra Large Lime
+name_no_size: Double Extra Large Lime
+name_no_size_short: Double Extra Large Lime
+name_no_type: Jumper Double Extra Large Lime
+oomp_key: oomp_clothes_item_jumper_double_extra_large_lime
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: jumper
+size_capital: Jumper
+size_first_letter: j
+size_first_letter_upper: J
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: JUMPER
+type: item
+type_capital: Item
+type_first_letter: i
+type_first_letter_upper: I
+type_upper: ITEM

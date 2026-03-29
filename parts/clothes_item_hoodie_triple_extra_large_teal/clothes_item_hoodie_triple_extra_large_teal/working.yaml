@@ -1,0 +1,78 @@
+classification: clothes
+classification_capital: Clothes
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CLOTHES
+color: triple_extra_large
+color_capital: Triple Extra Large
+color_first_letter: t
+color_first_letter_upper: T
+color_upper: TRIPLE_EXTRA_LARGE
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: teal
+description_main_capital: Teal
+description_main_first_letter: t
+description_main_first_letter_upper: T
+description_main_upper: TEAL
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'T '
+description_or_color_upper: 'T '
+directory: parts/clothes_item_hoodie_triple_extra_large_teal
+distributors: []
+filter: ''
+from_yaml: false
+id: clothes_item_hoodie_triple_extra_large_teal
+id_no_class: item_hoodie_triple_extra_large_teal
+id_no_size: triple_extra_large_teal
+id_no_type: hoodie_triple_extra_large_teal
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_hoodie_triple_extra_large_teal
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_hoodie_triple_extra_large_teal
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_hoodie_triple_extra_large_teal
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[clothes_item_hoodie_triple_extra_large_teal](none)<br>[](none)<br>[Clothes
+    Item Hoodie Triple Extra Large Teal](none)<br><br>'
+markdown_short: '[clothes_item_hoodie_triple_extra_large_teal](none)<br><br>'
+md5: ee1a97b8b1ca6f453cb79867d3f70720
+md5_10: ee1a97b8b1
+md5_10_upper: EE1A97B8B1
+md5_5: ee1a9
+md5_5_upper: EE1A9
+md5_6: ee1a97
+md5_6_alpha: 9agev
+md5_6_alpha_upper: 9AGEV
+md5_6_upper: EE1A97
+name: Clothes Item Hoodie Triple Extra Large Teal
+name_no_class: Item Hoodie Triple Extra Large Teal
+name_no_size: Triple Extra Large Teal
+name_no_size_short: Triple Extra Large Teal
+name_no_type: Hoodie Triple Extra Large Teal
+oomp_key: oomp_clothes_item_hoodie_triple_extra_large_teal
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: hoodie
+size_capital: Hoodie
+size_first_letter: h
+size_first_letter_upper: H
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: HOODIE
+type: item
+type_capital: Item
+type_first_letter: i
+type_first_letter_upper: I
+type_upper: ITEM

@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_packaging
+description_extra: tote
+description_extra_capital: Tote
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TOTE
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_packaging_bag_grip_seal_tote
+distributors: []
+filter: ''
+from_yaml: false
+id: category_packaging_bag_grip_seal_tote
+id_no_class: packaging_bag_grip_seal_tote
+id_no_size: tote
+id_no_type: bag_grip_seal_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_packaging_bag_grip_seal_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_packaging_bag_grip_seal_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_packaging_bag_grip_seal_tote
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_packaging_bag_grip_seal_tote](none)<br>[](none)<br>[Category
+    Packaging Bag Grip Seal Tote](none)<br><br>'
+markdown_short: '[category_packaging_bag_grip_seal_tote](none)<br><br>'
+md5: 9ed31f0695b7cf969e81ab03d742fc05
+md5_10: 9ed31f0695
+md5_10_upper: 9ED31F0695
+md5_5: 9ed31
+md5_5_upper: 9ED31
+md5_6: 9ed31f
+md5_6_alpha: 673fj
+md5_6_alpha_upper: 673FJ
+md5_6_upper: 9ED31F
+name: Category Packaging Bag Grip Seal Tote
+name_no_class: Packaging Bag Grip Seal Tote
+name_no_size: Tote
+name_no_size_short: Tote
+name_no_type: Bag Grip Seal Tote
+oomp_key: oomp_category_packaging_bag_grip_seal_tote
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorypackaging
+size: bag_grip_seal
+size_capital: Bag Grip Seal
+size_first_letter: b
+size_first_letter_upper: B
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: BAG_GRIP_SEAL
+type: packaging
+type_capital: Packaging
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PACKAGING

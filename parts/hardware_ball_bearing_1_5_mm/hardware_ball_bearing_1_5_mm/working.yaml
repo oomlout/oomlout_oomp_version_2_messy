@@ -1,0 +1,76 @@
+classification: hardware
+classification_capital: Hardware
+classification_first_letter: h
+classification_first_letter_upper: H
+classification_upper: HARDWARE
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/hardware_ball_bearing_1_5_mm
+distributors: []
+id: hardware_ball_bearing_1_5_mm
+id_no_class: ball_bearing_1_5_mm
+id_no_size: 1_5_mm
+id_no_type: 1_5_mm
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_ball_bearing_1_5_mm
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_ball_bearing_1_5_mm
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_ball_bearing_1_5_mm
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[hardware_ball_bearing_1_5_mm](none)<br>[](none)<br>[Hardware Ball
+    Bearing 1 5 Mm](none)<br><br>'
+markdown_short: '[hardware_ball_bearing_1_5_mm](none)<br><br>'
+md5: 39a8909b34555fbeac301bd93a91c801
+md5_10: 39a8909b34
+md5_10_upper: 39A8909B34
+md5_5: 39a89
+md5_5_upper: 39A89
+md5_6: 39a890
+md5_6_alpha: 28zo0
+md5_6_alpha_upper: 28ZO0
+md5_6_upper: 39A890
+name: Hardware Ball Bearing 1 5 Mm
+name_no_class: Ball Bearing 1 5 Mm
+name_no_size: 1 5 Mm
+name_no_size_short: 1 5 Mm
+name_no_type: 1 5 Mm
+oomp_key: oomp_hardware_ball_bearing_1_5_mm
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: 1_5_mm
+size_capital: 1.5 mm
+size_first_letter: '1'
+size_first_letter_upper: '1'
+size_only_numbers: '15'
+size_only_numbers_no_zeros: '15'
+size_upper: 1_5_MM
+type: ball_bearing
+type_capital: Ball Bearing
+type_first_letter: b
+type_first_letter_upper: B
+type_upper: BALL_BEARING

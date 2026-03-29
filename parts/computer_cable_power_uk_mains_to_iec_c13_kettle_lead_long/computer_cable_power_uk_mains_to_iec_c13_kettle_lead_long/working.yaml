@@ -1,0 +1,78 @@
+classification: computer
+classification_capital: Computer
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: COMPUTER
+color: uk_mains_to_iec_c13_kettle_lead
+color_capital: Uk Mains To Iec C13 Kettle Lead
+color_first_letter: u
+color_first_letter_upper: U
+color_upper: UK_MAINS_TO_IEC_C13_KETTLE_LEAD
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: long
+description_main_capital: Long
+description_main_first_letter: l
+description_main_first_letter_upper: L
+description_main_upper: LONG
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'U '
+description_or_color_upper: 'U '
+directory: parts/computer_cable_power_uk_mains_to_iec_c13_kettle_lead_long
+distributors: []
+filter: ''
+from_yaml: false
+id: computer_cable_power_uk_mains_to_iec_c13_kettle_lead_long
+id_no_class: cable_power_uk_mains_to_iec_c13_kettle_lead_long
+id_no_size: uk_mains_to_iec_c13_kettle_lead_long
+id_no_type: power_uk_mains_to_iec_c13_kettle_lead_long
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_cable_power_uk_mains_to_iec_c13_kettle_lead_long
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_cable_power_uk_mains_to_iec_c13_kettle_lead_long
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_cable_power_uk_mains_to_iec_c13_kettle_lead_long
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[computer_cable_power_uk_mains_to_iec_c13_kettle_lead_long](none)<br>[](none)<br>[Computer
+    Cable Power Uk Mains To Iec C13 Kettle Lead Long](none)<br><br>'
+markdown_short: '[computer_cable_power_uk_mains_to_iec_c13_kettle_lead_long](none)<br><br>'
+md5: 3a5a70aec20aeb3cabdafedbc24047af
+md5_10: 3a5a70aec2
+md5_10_upper: 3A5A70AEC2
+md5_5: 3a5a7
+md5_5_upper: 3A5A7
+md5_6: 3a5a70
+md5_6_alpha: 29ysw
+md5_6_alpha_upper: 29YSW
+md5_6_upper: 3A5A70
+name: Computer Cable Power Uk Mains To Iec C13 Kettle Lead Long
+name_no_class: Cable Power Uk Mains To Iec C13 Kettle Lead Long
+name_no_size: Uk Mains To Iec C13 Kettle Lead Long
+name_no_size_short: Uk Mains To Iec C13 Kettle Lead Long
+name_no_type: Power Uk Mains To Iec C13 Kettle Lead Long
+oomp_key: oomp_computer_cable_power_uk_mains_to_iec_c13_kettle_lead_long
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: power
+size_capital: Power
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: POWER
+type: cable
+type_capital: Cable
+type_first_letter: c
+type_first_letter_upper: C
+type_upper: CABLE

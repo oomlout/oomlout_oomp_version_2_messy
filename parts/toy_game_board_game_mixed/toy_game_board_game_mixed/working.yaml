@@ -1,0 +1,76 @@
+classification: toy
+classification_capital: Toy
+classification_first_letter: t
+classification_first_letter_upper: T
+classification_upper: TOY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: board_game_mixed
+description_main_capital: Board Game Mixed
+description_main_first_letter: b
+description_main_first_letter_upper: B
+description_main_upper: BOARD_GAME_MIXED
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/toy_game_board_game_mixed
+distributors: []
+id: toy_game_board_game_mixed
+id_no_class: game_board_game_mixed
+id_no_size: boardmixed
+id_no_type: board_mixed
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_game_board_game_mixed
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_game_board_game_mixed
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_game_board_game_mixed
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[toy_game_board_game_mixed](none)<br>[](none)<br>[Toy Game Board Game
+    Mixed](none)<br><br>'
+markdown_short: '[toy_game_board_game_mixed](none)<br><br>'
+md5: 3f6f75b85fab5438793a026bafa08878
+md5_10: 3f6f75b85f
+md5_10_upper: 3F6F75B85F
+md5_5: 3f6f7
+md5_5_upper: 3F6F7
+md5_6: 3f6f75
+md5_6_alpha: 2h3sl
+md5_6_alpha_upper: 2H3SL
+md5_6_upper: 3F6F75
+name: Toy Game Board Game Mixed
+name_no_class: Game Board Game Mixed
+name_no_size: Boardmixed
+name_no_size_short: Boardmixed
+name_no_type: Board Mixed
+oomp_key: oomp_toy_game_board_game_mixed
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: game
+type_capital: Game
+type_first_letter: g
+type_first_letter_upper: G
+type_upper: GAME

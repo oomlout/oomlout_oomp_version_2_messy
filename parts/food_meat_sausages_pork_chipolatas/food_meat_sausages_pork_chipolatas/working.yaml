@@ -1,0 +1,81 @@
+classification: food
+classification_capital: Food
+classification_first_letter: f
+classification_first_letter_upper: F
+classification_upper: FOOD
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: M&S Select Farms British 12 Pork Chipolatas
+description_extra: pork_chipolatas
+description_extra_capital: Pork Chipolatas
+description_extra_first_letter: p
+description_extra_first_letter_upper: P
+description_extra_upper: PORK_CHIPOLATAS
+description_main: sausages
+description_main_capital: Sausages
+description_main_first_letter: s
+description_main_first_letter_upper: S
+description_main_upper: SAUSAGES
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/food_meat_sausages_pork_chipolatas
+distributors: []
+filter: ''
+from_yaml: false
+id: food_meat_sausages_pork_chipolatas
+id_no_class: meat_sausages_pork_chipolatas
+id_no_size: sausagesporkchipolatas
+id_no_type: sausages_pork_chipolatas
+link_distributor_ocado: https://www.ocado.com/search?entry=523896011
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_meat_sausages_pork_chipolatas
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_meat_sausages_pork_chipolatas
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_meat_sausages_pork_chipolatas
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[food_meat_sausages_pork_chipolatas](none)<br>[](none)<br>[Food Meat
+    Sausages Pork Chipolatas](none)<br><br>'
+markdown_short: '[food_meat_sausages_pork_chipolatas](none)<br><br>'
+md5: cc21dc7399269f8623b6562320e32f61
+md5_10: cc21dc7399
+md5_10_upper: CC21DC7399
+md5_5: cc21d
+md5_5_upper: CC21D
+md5_6: cc21dc
+md5_6_alpha: 7yqjg
+md5_6_alpha_upper: 7YQJG
+md5_6_upper: CC21DC
+name: Food Meat Sausages Pork Chipolatas
+name_no_class: Meat Sausages Pork Chipolatas
+name_no_size: Sausagesporkchipolatas
+name_no_size_short: Sausagesporkchipolatas
+name_no_type: Sausages Pork Chipolatas
+oomp_key: oomp_food_meat_sausages_pork_chipolatas
+part_number: ''
+part_number_capital: ''
+part_number_distributor_ocado: '523896011'
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: meat
+type_capital: Meat
+type_first_letter: m
+type_first_letter_upper: M
+type_upper: MEAT

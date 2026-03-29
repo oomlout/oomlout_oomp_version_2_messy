@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_hardware
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_hardware_hook_picture_hanging
+distributors: []
+filter: ''
+from_yaml: false
+id: category_hardware_hook_picture_hanging
+id_no_class: hardware_hook_picture_hanging
+id_no_size: hook_picture_hanging
+id_no_type: hook_picture_hanging
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_hook_picture_hanging
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_hook_picture_hanging
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_hook_picture_hanging
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_hardware_hook_picture_hanging](none)<br>[](none)<br>[Category
+    Hardware Hook Picture Hanging](none)<br><br>'
+markdown_short: '[category_hardware_hook_picture_hanging](none)<br><br>'
+md5: 69c2dc6b1a23f413da4eecd8156b3b73
+md5_10: 69c2dc6b1a
+md5_10_upper: 69C2DC6B1A
+md5_5: 69c2d
+md5_5_upper: 69C2D
+md5_6: 69c2dc
+md5_6_alpha: 44k4c
+md5_6_alpha_upper: 44K4C
+md5_6_upper: 69C2DC
+name: Category Hardware Hook Picture Hanging
+name_no_class: Hardware Hook Picture Hanging
+name_no_size: Hook Picture Hanging
+name_no_size_short: Hook Picture Hanging
+name_no_type: Hook Picture Hanging
+oomp_key: oomp_category_hardware_hook_picture_hanging
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryhardware
+size: hook_picture_hanging
+size_capital: Hook Picture Hanging
+size_first_letter: h
+size_first_letter_upper: H
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: HOOK_PICTURE_HANGING
+type: hardware
+type_capital: Hardware
+type_first_letter: h
+type_first_letter_upper: H
+type_upper: HARDWARE

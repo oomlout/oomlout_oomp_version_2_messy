@@ -1,0 +1,79 @@
+classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_upper: ELECTRONIC
+color: white
+color_capital: White
+color_first_letter: w
+color_first_letter_upper: W
+color_upper: WHITE
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 25_mm_length
+description_main_capital: 25 mm Length
+description_main_first_letter: '2'
+description_main_first_letter_upper: '2'
+description_main_upper: 25_MM_LENGTH
+description_only_numbers: '25'
+description_only_numbers_short: '25'
+description_or_color: W25
+description_or_color_upper: W25
+directory: parts/electronic_heatshrink_2_to_1_shrink_ratio_12_7_mm_internal_diameter_white_25_mm_length
+distributors: []
+id: electronic_heatshrink_2_to_1_shrink_ratio_12_7_mm_internal_diameter_white_25_mm_length
+id_no_class: heatshrink_2_to_1_shrink_ratio_12_7_mm_internal_diameter_white_25_mm_length
+id_no_size: white_25_mm_length
+id_no_type: 12_7_mm_internal_diameter_white_25_mm_length
+kicad_reference: ''
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_12_7_mm_internal_diameter_white_25_mm_length
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_12_7_mm_internal_diameter_white_25_mm_length
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_12_7_mm_internal_diameter_white_25_mm_length
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[electronic_heatshrink_2_to_1_shrink_ratio_12_7_mm_internal_diameter_white_25_mm_length](none)<br>[w25](none)<br>[Electronic
+    Heatshrink 2 To 1 Shrink Ratio 12 7 Mm Internal Diameter White 25 Mm Length](none)<br><br>'
+markdown_short: '[electronic_heatshrink_2_to_1_shrink_ratio_12_7_mm_internal_diameter_white_25_mm_length](none)<br><br>'
+md5: eaa0f4342a087c452da1b1a65f0612bb
+md5_10: eaa0f4342a
+md5_10_upper: EAA0F4342A
+md5_5: eaa0f
+md5_5_upper: EAA0F
+md5_6: eaa0f4
+md5_6_alpha: 95kok
+md5_6_alpha_upper: 95KOK
+md5_6_upper: EAA0F4
+name: Electronic Heatshrink 2 To 1 Shrink Ratio 12 7 Mm Internal Diameter White 25
+    Mm Length
+name_no_class: Heatshrink 2 To 1 Shrink Ratio 12 7 Mm Internal Diameter White 25 Mm
+    Length
+name_no_size: White 25 Mm Length
+name_no_size_short: White 25 Mm Length
+name_no_type: 12 7 Mm Internal Diameter White 25 Mm Length
+oomp_key: oomp_electronic_heatshrink_2_to_1_shrink_ratio_12_7_mm_internal_diameter_white_25_mm_length
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: w25
+short_code_upper: W25
+size: 12_7_mm_internal_diameter
+size_capital: 12.7 mm Internal Diameter
+size_first_letter: '1'
+size_first_letter_upper: '1'
+size_only_numbers: '127'
+size_only_numbers_no_zeros: '127'
+size_upper: 12_7_MM_INTERNAL_DIAMETER
+type: heatshrink_2_to_1_shrink_ratio
+type_capital: Heatshrink 2 To 1 Shrink Ratio
+type_first_letter: h
+type_first_letter_upper: H
+type_upper: HEATSHRINK_2_TO_1_SHRINK_RATIO

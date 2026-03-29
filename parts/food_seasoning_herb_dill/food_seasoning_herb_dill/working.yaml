@@ -1,0 +1,80 @@
+classification: food
+classification_capital: Food
+classification_first_letter: f
+classification_first_letter_upper: F
+classification_upper: FOOD
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: dill
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: dill
+description_main_capital: Dill
+description_main_first_letter: d
+description_main_first_letter_upper: D
+description_main_upper: DILL
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/food_seasoning_herb_dill
+distributors: []
+filter: ''
+from_yaml: false
+id: food_seasoning_herb_dill
+id_no_class: seasoning_herb_dill
+id_no_size: dill
+id_no_type: herb_dill
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_herb_dill
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_herb_dill
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_herb_dill
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[food_seasoning_herb_dill](none)<br>[](none)<br>[Food Seasoning Herb
+    Dill](none)<br><br>'
+markdown_short: '[food_seasoning_herb_dill](none)<br><br>'
+md5: 6abe615d9697015ecb1732d3ec3803f5
+md5_10: 6abe615d96
+md5_10_upper: 6ABE615D96
+md5_5: 6abe6
+md5_5_upper: 6ABE6
+md5_6: 6abe61
+md5_6_alpha: 45xsx
+md5_6_alpha_upper: 45XSX
+md5_6_upper: 6ABE61
+name: Food Seasoning Herb Dill
+name_no_class: Seasoning Herb Dill
+name_no_size: Dill
+name_no_size_short: Dill
+name_no_type: Herb Dill
+name_short: Dill
+oomp_key: oomp_food_seasoning_herb_dill
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: herb
+size_capital: Herb
+size_first_letter: h
+size_first_letter_upper: H
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: HERB
+type: seasoning
+type_capital: Seasoning
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: SEASONING

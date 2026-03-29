@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_card_trading
+description_extra: cubby_box
+description_extra_capital: Cubby Box
+description_extra_first_letter: c
+description_extra_first_letter_upper: C
+description_extra_upper: CUBBY_BOX
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_card_trading_sport_hockey_cubby_box
+distributors: []
+filter: ''
+from_yaml: false
+id: category_card_trading_sport_hockey_cubby_box
+id_no_class: card_trading_sport_hockey_cubby_box
+id_no_size: cubby_box
+id_no_type: sport_hockey_cubby_box
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_card_trading_sport_hockey_cubby_box
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_card_trading_sport_hockey_cubby_box
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_card_trading_sport_hockey_cubby_box
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_card_trading_sport_hockey_cubby_box](none)<br>[](none)<br>[Category
+    Card Trading Sport Hockey Cubby Box](none)<br><br>'
+markdown_short: '[category_card_trading_sport_hockey_cubby_box](none)<br><br>'
+md5: 1b3321fecc942793109a081c208bf079
+md5_10: 1b3321fecc
+md5_10_upper: 1B3321FECC
+md5_5: 1b332
+md5_5_upper: 1B332
+md5_6: 1b3321
+md5_6_alpha: 127fl
+md5_6_alpha_upper: 127FL
+md5_6_upper: 1B3321
+name: Category Card Trading Sport Hockey Cubby Box
+name_no_class: Card Trading Sport Hockey Cubby Box
+name_no_size: Cubby Box
+name_no_size_short: Cubby Box
+name_no_type: Sport Hockey Cubby Box
+oomp_key: oomp_category_card_trading_sport_hockey_cubby_box
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorycardtrading
+size: sport_hockey
+size_capital: Sport Hockey
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SPORT_HOCKEY
+type: card_trading
+type_capital: Card Trading
+type_first_letter: c
+type_first_letter_upper: C
+type_upper: CARD_TRADING

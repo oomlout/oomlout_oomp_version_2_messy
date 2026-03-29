@@ -1,0 +1,80 @@
+classification: food
+classification_capital: Food
+classification_first_letter: f
+classification_first_letter_upper: F
+classification_upper: FOOD
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: Ocado Bananas
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: banana
+description_main_capital: Banana
+description_main_first_letter: b
+description_main_first_letter_upper: B
+description_main_upper: BANANA
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/food_fruit_bunch_banana
+distributors: []
+filter: ''
+from_yaml: false
+id: food_fruit_bunch_banana
+id_no_class: fruit_bunch_banana
+id_no_size: banana
+id_no_type: bunch_banana
+link_distributor_ocado: https://www.ocado.com/search?entry=44855011
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_fruit_bunch_banana
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_fruit_bunch_banana
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_fruit_bunch_banana
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[food_fruit_bunch_banana](none)<br>[](none)<br>[Food Fruit Bunch Banana](none)<br><br>'
+markdown_short: '[food_fruit_bunch_banana](none)<br><br>'
+md5: 050038fe24aa0eb3390188425ef95cf6
+md5_10: 050038fe24
+md5_10_upper: 050038FE24
+md5_5: '05003'
+md5_5_upper: '05003'
+md5_6: 050038
+md5_6_alpha: 70vs
+md5_6_alpha_upper: 70VS
+md5_6_upper: 050038
+name: Food Fruit Bunch Banana
+name_no_class: Fruit Bunch Banana
+name_no_size: Banana
+name_no_size_short: Banana
+name_no_type: Bunch Banana
+oomp_key: oomp_food_fruit_bunch_banana
+part_number: ''
+part_number_capital: ''
+part_number_distributor_ocado: '44855011'
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: bunch
+size_capital: Bunch
+size_first_letter: b
+size_first_letter_upper: B
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: BUNCH
+type: fruit
+type_capital: Fruit
+type_first_letter: f
+type_first_letter_upper: F
+type_upper: FRUIT

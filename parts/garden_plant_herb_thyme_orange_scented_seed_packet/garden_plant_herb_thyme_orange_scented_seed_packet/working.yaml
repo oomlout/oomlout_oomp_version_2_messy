@@ -1,0 +1,79 @@
+classification: garden
+classification_capital: Garden
+classification_first_letter: g
+classification_first_letter_upper: G
+classification_upper: GARDEN
+color: thyme
+color_capital: Thyme
+color_first_letter: t
+color_first_letter_upper: T
+color_upper: THYME
+description_extra: seed_packet
+description_extra_capital: Seed Packet
+description_extra_first_letter: s
+description_extra_first_letter_upper: S
+description_extra_upper: SEED_PACKET
+description_main: orange_scented
+description_main_capital: Orange Scented
+description_main_first_letter: o
+description_main_first_letter_upper: O
+description_main_upper: ORANGE_SCENTED
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'T '
+description_or_color_upper: 'T '
+directory: parts/garden_plant_herb_thyme_orange_scented_seed_packet
+distributor_sutton_seeds: '142002'
+distributors: []
+id: garden_plant_herb_thyme_orange_scented_seed_packet
+id_no_class: plant_herb_thyme_orange_scented_seed_packet
+id_no_size: thyme_orange_scented_seed_packet
+id_no_type: herb_thyme_orange_scented_seed_packet
+link_distributor_sutton_seeds: https://www.suttons.co.uk/SUSGWE184/thyme-orange-scented-seeds-for-pollinators_mh-52305
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/garden_plant_herb_thyme_orange_scented_seed_packet
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/garden_plant_herb_thyme_orange_scented_seed_packet
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/garden_plant_herb_thyme_orange_scented_seed_packet
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[garden_plant_herb_thyme_orange_scented_seed_packet](none)<br>[](none)<br>[Garden
+    Plant Herb Thyme Orange Scented Seed Packet](none)<br><br>'
+markdown_short: '[garden_plant_herb_thyme_orange_scented_seed_packet](none)<br><br>'
+md5: 02947ffcf4c8d4bc5d8cd098c126a3c3
+md5_10: 02947ffcf4
+md5_10_upper: 02947FFCF4
+md5_5: 02947
+md5_5_upper: 02947
+md5_6: 02947f
+md5_6_alpha: 3mgv
+md5_6_alpha_upper: 3MGV
+md5_6_upper: 02947F
+name: Garden Plant Herb Thyme Orange Scented Seed Packet
+name_no_class: Plant Herb Thyme Orange Scented Seed Packet
+name_no_size: Thyme Orange Scented Seed Packet
+name_no_size_short: Thyme Orange Scented Seed Packet
+name_no_type: Herb Thyme Orange Scented Seed Packet
+oomp_key: oomp_garden_plant_herb_thyme_orange_scented_seed_packet
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: herb
+size_capital: Herb
+size_first_letter: h
+size_first_letter_upper: H
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: HERB
+type: plant
+type_capital: Plant
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PLANT

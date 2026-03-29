@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_book
+description_extra: tote
+description_extra_capital: Tote
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TOTE
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_book_picture_tote
+distributors: []
+filter: ''
+from_yaml: false
+id: category_book_picture_tote
+id_no_class: book_picture_tote
+id_no_size: tote
+id_no_type: picture_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_book_picture_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_book_picture_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_book_picture_tote
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_book_picture_tote](none)<br>[](none)<br>[Category Book Picture
+    Tote](none)<br><br>'
+markdown_short: '[category_book_picture_tote](none)<br><br>'
+md5: f58eede83ecaba5fe69f497c24386a31
+md5_10: f58eede83e
+md5_10_upper: F58EEDE83E
+md5_5: f58ee
+md5_5_upper: F58EE
+md5_6: f58eed
+md5_6_alpha: 9kxd9
+md5_6_alpha_upper: 9KXD9
+md5_6_upper: F58EED
+name: Category Book Picture Tote
+name_no_class: Book Picture Tote
+name_no_size: Tote
+name_no_size_short: Tote
+name_no_type: Picture Tote
+oomp_key: oomp_category_book_picture_tote
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorybook
+size: picture
+size_capital: Picture
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PICTURE
+type: book
+type_capital: Book
+type_first_letter: b
+type_first_letter_upper: B
+type_upper: BOOK

@@ -1,0 +1,80 @@
+classification: food
+classification_capital: Food
+classification_first_letter: f
+classification_first_letter_upper: F
+classification_upper: FOOD
+color: macaroni
+color_capital: Macaroni
+color_first_letter: m
+color_first_letter_upper: M
+color_upper: MACARONI
+description: pasta_macaroni
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'M '
+description_or_color_upper: 'M '
+directory: parts/food_starch_pasta_macaroni
+distributors: []
+filter: ''
+from_yaml: false
+id: food_starch_pasta_macaroni
+id_no_class: starch_pasta_macaroni
+id_no_size: macaroni
+id_no_type: pasta_macaroni
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_pasta_macaroni
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_pasta_macaroni
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_pasta_macaroni
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[food_starch_pasta_macaroni](none)<br>[](none)<br>[Food Starch Pasta
+    Macaroni](none)<br><br>'
+markdown_short: '[food_starch_pasta_macaroni](none)<br><br>'
+md5: e3b710ef255bce18807eb8ebb1bc77da
+md5_10: e3b710ef25
+md5_10_upper: E3B710EF25
+md5_5: e3b71
+md5_5_upper: E3B71
+md5_6: e3b710
+md5_6_alpha: 8vv2o
+md5_6_alpha_upper: 8VV2O
+md5_6_upper: E3B710
+name: Food Starch Pasta Macaroni
+name_no_class: Starch Pasta Macaroni
+name_no_size: Macaroni
+name_no_size_short: Macaroni
+name_no_type: Pasta Macaroni
+name_short: Pasta Macaroni
+oomp_key: oomp_food_starch_pasta_macaroni
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: pasta
+size_capital: Pasta
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PASTA
+type: starch
+type_capital: Starch
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: STARCH

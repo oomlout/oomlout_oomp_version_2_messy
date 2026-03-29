@@ -1,0 +1,80 @@
+classification: decorating
+classification_capital: Decorating
+classification_first_letter: d
+classification_first_letter_upper: D
+classification_upper: DECORATING
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: white
+description_extra_capital: White
+description_extra_first_letter: w
+description_extra_first_letter_upper: W
+description_extra_upper: WHITE
+description_main: 610_mm_width_910_mm_height
+description_main_capital: 610 mm Width 910 mm Height
+description_main_first_letter: '6'
+description_main_first_letter_upper: '6'
+description_main_upper: 610_MM_WIDTH_910_MM_HEIGHT
+description_only_numbers: '610910'
+description_only_numbers_short: 611k
+description_or_color: 611k
+description_or_color_upper: 611K
+directory: parts/decorating_picture_frame_ikea_knopppang_610_mm_width_910_mm_height_white_ikea_104_296_52
+distributors: []
+id: decorating_picture_frame_ikea_knopppang_610_mm_width_910_mm_height_white_ikea_104_296_52
+id_no_class: picture_frame_ikea_knopppang_610_mm_width_910_mm_height_white_ikea_104_296_52
+id_no_size: 610_mm_width_910_mm_height_white_ikea_104_296_52
+id_no_type: ikea_knopppang_610_mm_width_910_mm_height_white_ikea_104_296_52
+link_distributor_ikea: https://www.ikea.com/gb/en/search/?q=104.296.52
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/decorating_picture_frame_ikea_knopppang_610_mm_width_910_mm_height_white_ikea_104_296_52
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/decorating_picture_frame_ikea_knopppang_610_mm_width_910_mm_height_white_ikea_104_296_52
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/decorating_picture_frame_ikea_knopppang_610_mm_width_910_mm_height_white_ikea_104_296_52
+manufacturer: ikea
+manufacturer_capital: Ikea
+manufacturer_first_letter: i
+manufacturer_first_letter_upper: I
+manufacturer_upper: IKEA
+manufacturers: []
+markdown_full: '[decorating_picture_frame_ikea_knopppang_610_mm_width_910_mm_height_white_ikea_104_296_52](none)<br>[](none)<br>[Decorating
+    Picture Frame Ikea Knopppang 610 Mm Width 910 Mm Height White Ikea 104 296 52](none)<br><br>'
+markdown_short: '[decorating_picture_frame_ikea_knopppang_610_mm_width_910_mm_height_white_ikea_104_296_52](none)<br><br>'
+md5: 45da2e381e4422503ca11d724bb02252
+md5_10: 45da2e381e
+md5_10_upper: 45DA2E381E
+md5_5: 45da2
+md5_5_upper: 45DA2
+md5_6: 45da2e
+md5_6_alpha: 2q4a6
+md5_6_alpha_upper: 2Q4A6
+md5_6_upper: 45DA2E
+name: Decorating Picture Frame Ikea Knopppang 610 Mm Width 910 Mm Height White Ikea
+    104 296 52
+name_no_class: Picture Frame Ikea Knopppang 610 Mm Width 910 Mm Height White Ikea
+    104 296 52
+name_no_size: 610 Mm Width 910 Mm Height White Ikea 104 296 52
+name_no_size_short: 610 Mm Width 910 Mm Height White Ikea 104 296 52
+name_no_type: Ikea Knopppang 610 Mm Width 910 Mm Height White Ikea 104 296 52
+oomp_key: oomp_decorating_picture_frame_ikea_knopppang_610_mm_width_910_mm_height_white_ikea_104_296_52
+part_number: '104_296_52'
+part_number_capital: 104.296.52
+part_number_exact: 104.296.52
+part_number_first_letter: '1'
+part_number_first_letter_upper: '1'
+part_number_upper: '104_296_52'
+short_code: ''
+short_code_upper: ''
+size: ikea_knopppang
+size_capital: Ikea Knopppang
+size_first_letter: i
+size_first_letter_upper: I
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: IKEA_KNOPPPANG
+type: picture_frame
+type_capital: Picture Frame
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PICTURE_FRAME

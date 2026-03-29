@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: 18_volt_dewalt_xr
+color_capital: 18 Volt Dewalt Xr
+color_first_letter: '1'
+color_first_letter_upper: '1'
+color_upper: 18_VOLT_DEWALT_XR
+description: category_tool
+description_extra: old
+description_extra_capital: Old
+description_extra_first_letter: o
+description_extra_first_letter_upper: O
+description_extra_upper: OLD
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: '1 '
+description_or_color_upper: '1 '
+directory: parts/category_tool_drill_hammer_18_volt_dewalt_xr_old
+distributors: []
+filter: ''
+from_yaml: false
+id: category_tool_drill_hammer_18_volt_dewalt_xr_old
+id_no_class: tool_drill_hammer_18_volt_dewalt_xr_old
+id_no_size: 18_volt_dewalt_xr_old
+id_no_type: drill_hammer_18_volt_dewalt_xr_old
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_drill_hammer_18_volt_dewalt_xr_old
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_drill_hammer_18_volt_dewalt_xr_old
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_drill_hammer_18_volt_dewalt_xr_old
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_tool_drill_hammer_18_volt_dewalt_xr_old](none)<br>[](none)<br>[Category
+    Tool Drill Hammer 18 Volt Dewalt Xr Old](none)<br><br>'
+markdown_short: '[category_tool_drill_hammer_18_volt_dewalt_xr_old](none)<br><br>'
+md5: deac655ef659536c80e96c4ed72b20c5
+md5_10: deac655ef6
+md5_10_upper: DEAC655EF6
+md5_5: deac6
+md5_5_upper: DEAC6
+md5_6: deac65
+md5_6_alpha: 8os4l
+md5_6_alpha_upper: 8OS4L
+md5_6_upper: DEAC65
+name: Category Tool Drill Hammer 18 Volt Dewalt Xr Old
+name_no_class: Tool Drill Hammer 18 Volt Dewalt Xr Old
+name_no_size: 18 Volt Dewalt Xr Old
+name_no_size_short: 18 Volt Dewalt Xr Old
+name_no_type: Drill Hammer 18 Volt Dewalt Xr Old
+oomp_key: oomp_category_tool_drill_hammer_18_volt_dewalt_xr_old
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorytool
+size: drill_hammer
+size_capital: Drill Hammer
+size_first_letter: d
+size_first_letter_upper: D
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: DRILL_HAMMER
+type: tool
+type_capital: Tool
+type_first_letter: t
+type_first_letter_upper: T
+type_upper: TOOL

@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_video_game_console
+description_extra: to_sort
+description_extra_capital: To Sort
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TO_SORT
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_video_game_console_nintendo_64_to_sort
+distributors: []
+filter: ''
+from_yaml: false
+id: category_video_game_console_nintendo_64_to_sort
+id_no_class: video_game_console_nintendo_64_to_sort
+id_no_size: to_sort
+id_no_type: nintendo_64_to_sort
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_video_game_console_nintendo_64_to_sort
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_video_game_console_nintendo_64_to_sort
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_video_game_console_nintendo_64_to_sort
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_video_game_console_nintendo_64_to_sort](none)<br>[](none)<br>[Category
+    Video Game Console Nintendo 64 To Sort](none)<br><br>'
+markdown_short: '[category_video_game_console_nintendo_64_to_sort](none)<br><br>'
+md5: c5684a9df46f0e1fff87a54cfaac7a1f
+md5_10: c5684a9df4
+md5_10_upper: C5684A9DF4
+md5_5: c5684
+md5_5_upper: C5684
+md5_6: c5684a
+md5_6_alpha: 7pah6
+md5_6_alpha_upper: 7PAH6
+md5_6_upper: C5684A
+name: Category Video Game Console Nintendo 64 To Sort
+name_no_class: Video Game Console Nintendo 64 To Sort
+name_no_size: To Sort
+name_no_size_short: To Sort
+name_no_type: Nintendo 64 To Sort
+oomp_key: oomp_category_video_game_console_nintendo_64_to_sort
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryvideogameconsole
+size: nintendo_64
+size_capital: Nintendo 64
+size_first_letter: n
+size_first_letter_upper: N
+size_only_numbers: '64'
+size_only_numbers_no_zeros: '64'
+size_upper: NINTENDO_64
+type: video_game_console
+type_capital: Video Game Console
+type_first_letter: v
+type_first_letter_upper: V
+type_upper: VIDEO_GAME_CONSOLE

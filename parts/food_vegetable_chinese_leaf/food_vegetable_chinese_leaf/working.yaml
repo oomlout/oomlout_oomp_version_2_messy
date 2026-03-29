@@ -1,0 +1,81 @@
+classification: food
+classification_capital: Food
+classification_first_letter: f
+classification_first_letter_upper: F
+classification_upper: FOOD
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: M&S Chinese Leaf
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: chinese_leaf
+description_main_capital: Chinese Leaf
+description_main_first_letter: c
+description_main_first_letter_upper: C
+description_main_upper: CHINESE_LEAF
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/food_vegetable_chinese_leaf
+distributors: []
+filter: ''
+from_yaml: false
+id: food_vegetable_chinese_leaf
+id_no_class: vegetable_chinese_leaf
+id_no_size: chineseleaf
+id_no_type: chinese_leaf
+link_distributor_ocado: https://www.ocado.com/search?entry=527614011
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_vegetable_chinese_leaf
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_vegetable_chinese_leaf
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_vegetable_chinese_leaf
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[food_vegetable_chinese_leaf](none)<br>[](none)<br>[Food Vegetable
+    Chinese Leaf](none)<br><br>'
+markdown_short: '[food_vegetable_chinese_leaf](none)<br><br>'
+md5: cd5391986c918a3750f905a335b394b3
+md5_10: cd5391986c
+md5_10_upper: CD5391986C
+md5_5: cd539
+md5_5_upper: CD539
+md5_6: cd5391
+md5_6_alpha: 80exd
+md5_6_alpha_upper: 80EXD
+md5_6_upper: CD5391
+name: Food Vegetable Chinese Leaf
+name_no_class: Vegetable Chinese Leaf
+name_no_size: Chineseleaf
+name_no_size_short: Chineseleaf
+name_no_type: Chinese Leaf
+oomp_key: oomp_food_vegetable_chinese_leaf
+part_number: ''
+part_number_capital: ''
+part_number_distributor_ocado: '527614011'
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: vegetable
+type_capital: Vegetable
+type_first_letter: v
+type_first_letter_upper: V
+type_upper: VEGETABLE

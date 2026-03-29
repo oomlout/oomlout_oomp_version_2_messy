@@ -1,0 +1,77 @@
+classification: robot_vacuum
+classification_capital: Robot Vacuum
+classification_first_letter: r
+classification_first_letter_upper: R
+classification_upper: ROBOT_VACUUM
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/robot_vacuum_roomba_520
+distributors: []
+id: robot_vacuum_roomba_520
+id_no_class: roomba_520
+id_no_size: roomba520
+id_no_type: roomba520
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/robot_vacuum_roomba_520
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/robot_vacuum_roomba_520
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/robot_vacuum_roomba_520
+manufacturer: roomba
+manufacturer_capital: Roomba
+manufacturer_first_letter: r
+manufacturer_first_letter_upper: R
+manufacturer_upper: ROOMBA
+manufacturers: []
+markdown_full: '[robot_vacuum_roomba_520](none)<br>[](none)<br>[Robot Vacuum Roomba
+    520](none)<br><br>'
+markdown_short: '[robot_vacuum_roomba_520](none)<br><br>'
+md5: 4ca52d5f42b0547f717675142e296dc4
+md5_10: 4ca52d5f42
+md5_10_upper: 4CA52D5F42
+md5_5: 4ca52
+md5_5_upper: 4CA52
+md5_6: 4ca52d
+md5_6_alpha: 2znsd
+md5_6_alpha_upper: 2ZNSD
+md5_6_upper: 4CA52D
+name: Robot Vacuum Roomba 520
+name_no_class: Roomba 520
+name_no_size: Roomba520
+name_no_size_short: Roomba520
+name_no_type: Roomba520
+oomp_key: oomp_robot_vacuum_roomba_520
+part_number: '520'
+part_number_capital: '520'
+part_number_first_letter: '5'
+part_number_first_letter_upper: '5'
+part_number_upper: '520'
+short_code: ''
+short_code_upper: ''
+short_name: Roomba 520
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: ''
+type_capital: ''
+type_first_letter: ''
+type_first_letter_upper: ''
+type_upper: ''

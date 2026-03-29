@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: thread
+color_capital: Thread
+color_first_letter: t
+color_first_letter_upper: T
+color_upper: THREAD
+description: category_craft
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'T '
+description_or_color_upper: 'T '
+directory: parts/category_craft_embroidery_thread
+distributors: []
+filter: ''
+from_yaml: false
+id: category_craft_embroidery_thread
+id_no_class: craft_embroidery_thread
+id_no_size: thread
+id_no_type: embroidery_thread
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_craft_embroidery_thread
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_craft_embroidery_thread
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_craft_embroidery_thread
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_craft_embroidery_thread](none)<br>[](none)<br>[Category
+    Craft Embroidery Thread](none)<br><br>'
+markdown_short: '[category_craft_embroidery_thread](none)<br><br>'
+md5: 7a7f640d61c58b4a52300d194bfe41c5
+md5_10: 7a7f640d61
+md5_10_upper: 7A7F640D61
+md5_5: 7a7f6
+md5_5_upper: 7A7F6
+md5_6: 7a7f64
+md5_6_alpha: 4s2g4
+md5_6_alpha_upper: 4S2G4
+md5_6_upper: 7A7F64
+name: Category Craft Embroidery Thread
+name_no_class: Craft Embroidery Thread
+name_no_size: Thread
+name_no_size_short: Thread
+name_no_type: Embroidery Thread
+oomp_key: oomp_category_craft_embroidery_thread
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorycraft
+size: embroidery
+size_capital: Embroidery
+size_first_letter: e
+size_first_letter_upper: E
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: EMBROIDERY
+type: craft
+type_capital: Craft
+type_first_letter: c
+type_first_letter_upper: C
+type_upper: CRAFT

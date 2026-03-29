@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: 6_3_mm_diameter_7_7_mm_tall
+color_capital: 6.3 mm Diameter 7.7 mm Tall
+color_first_letter: '6'
+color_first_letter_upper: '6'
+color_upper: 6_3_MM_DIAMETER_7_7_MM_TALL
+description: category_electronic
+description_extra: cubby_box
+description_extra_capital: Cubby Box
+description_extra_first_letter: c
+description_extra_first_letter_upper: C
+description_extra_upper: CUBBY_BOX
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: '6 '
+description_or_color_upper: '6 '
+directory: parts/category_electronic_capacitor_6_3_mm_diameter_7_7_mm_tall_cubby_box
+distributors: []
+filter: ''
+from_yaml: false
+id: category_electronic_capacitor_6_3_mm_diameter_7_7_mm_tall_cubby_box
+id_no_class: electronic_capacitor_6_3_mm_diameter_7_7_mm_tall_cubby_box
+id_no_size: 6_3_mm_diameter_7_7_mm_tall_cubby_box
+id_no_type: capacitor_6_3_mm_diameter_7_7_mm_tall_cubby_box
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_capacitor_6_3_mm_diameter_7_7_mm_tall_cubby_box
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_capacitor_6_3_mm_diameter_7_7_mm_tall_cubby_box
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_capacitor_6_3_mm_diameter_7_7_mm_tall_cubby_box
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_electronic_capacitor_6_3_mm_diameter_7_7_mm_tall_cubby_box](none)<br>[](none)<br>[Category
+    Electronic Capacitor 6 3 Mm Diameter 7 7 Mm Tall Cubby Box](none)<br><br>'
+markdown_short: '[category_electronic_capacitor_6_3_mm_diameter_7_7_mm_tall_cubby_box](none)<br><br>'
+md5: 7924cbfa799f039070021ff344d0a85f
+md5_10: 7924cbfa79
+md5_10_upper: 7924CBFA79
+md5_5: 7924c
+md5_5_upper: 7924C
+md5_6: 7924cb
+md5_6_alpha: 4q5zf
+md5_6_alpha_upper: 4Q5ZF
+md5_6_upper: 7924CB
+name: Category Electronic Capacitor 6 3 Mm Diameter 7 7 Mm Tall Cubby Box
+name_no_class: Electronic Capacitor 6 3 Mm Diameter 7 7 Mm Tall Cubby Box
+name_no_size: 6 3 Mm Diameter 7 7 Mm Tall Cubby Box
+name_no_size_short: 6 3 Mm Diameter 7 7 Mm Tall Cubby Box
+name_no_type: Capacitor 6 3 Mm Diameter 7 7 Mm Tall Cubby Box
+oomp_key: oomp_category_electronic_capacitor_6_3_mm_diameter_7_7_mm_tall_cubby_box
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryelectronic
+size: capacitor
+size_capital: Capacitor
+size_first_letter: c
+size_first_letter_upper: C
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: CAPACITOR
+type: electronic
+type_capital: Electronic
+type_first_letter: e
+type_first_letter_upper: E
+type_upper: ELECTRONIC

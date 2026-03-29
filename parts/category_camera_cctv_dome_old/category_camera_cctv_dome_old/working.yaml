@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_camera
+description_extra: old
+description_extra_capital: Old
+description_extra_first_letter: o
+description_extra_first_letter_upper: O
+description_extra_upper: OLD
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_camera_cctv_dome_old
+distributors: []
+filter: ''
+from_yaml: false
+id: category_camera_cctv_dome_old
+id_no_class: camera_cctv_dome_old
+id_no_size: old
+id_no_type: cctv_dome_old
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_camera_cctv_dome_old
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_camera_cctv_dome_old
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_camera_cctv_dome_old
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_camera_cctv_dome_old](none)<br>[](none)<br>[Category Camera
+    Cctv Dome Old](none)<br><br>'
+markdown_short: '[category_camera_cctv_dome_old](none)<br><br>'
+md5: faac58263a3503a2cabaf09383d7d60c
+md5_10: faac58263a
+md5_10_upper: FAAC58263A
+md5_5: faac5
+md5_5_upper: FAAC5
+md5_6: faac58
+md5_6_alpha: 9s40o
+md5_6_alpha_upper: 9S40O
+md5_6_upper: FAAC58
+name: Category Camera Cctv Dome Old
+name_no_class: Camera Cctv Dome Old
+name_no_size: Old
+name_no_size_short: Old
+name_no_type: Cctv Dome Old
+oomp_key: oomp_category_camera_cctv_dome_old
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorycamera
+size: cctv_dome
+size_capital: Cctv Dome
+size_first_letter: c
+size_first_letter_upper: C
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: CCTV_DOME
+type: camera
+type_capital: Camera
+type_first_letter: c
+type_first_letter_upper: C
+type_upper: CAMERA

@@ -1,0 +1,77 @@
+classification: book
+classification_capital: Book
+classification_first_letter: b
+classification_first_letter_upper: B
+classification_upper: BOOK
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/book_activity_drawing
+distributors: []
+filter: ''
+from_yaml: false
+id: book_activity_drawing
+id_no_class: activity_drawing
+id_no_size: drawing
+id_no_type: drawing
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/book_activity_drawing
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/book_activity_drawing
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/book_activity_drawing
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[book_activity_drawing](none)<br>[](none)<br>[Book Activity Drawing](none)<br><br>'
+markdown_short: '[book_activity_drawing](none)<br><br>'
+md5: 4728029dcf8dd4e375c5f7b2fee301b8
+md5_10: 4728029dcf
+md5_10_upper: 4728029DCF
+md5_5: '47280'
+md5_5_upper: '47280'
+md5_6: '472802'
+md5_6_alpha: 2ry82
+md5_6_alpha_upper: 2RY82
+md5_6_upper: '472802'
+name: Book Activity Drawing
+name_no_class: Activity Drawing
+name_no_size: Drawing
+name_no_size_short: Drawing
+name_no_type: Drawing
+oomp_key: oomp_book_activity_drawing
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: drawing
+size_capital: Drawing
+size_first_letter: d
+size_first_letter_upper: D
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: DRAWING
+type: activity
+type_capital: Activity
+type_first_letter: a
+type_first_letter_upper: A
+type_upper: ACTIVITY

@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_decorating
+description_extra: to_sort
+description_extra_capital: To Sort
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TO_SORT
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_decorating_to_sort
+distributors: []
+filter: ''
+from_yaml: false
+id: category_decorating_to_sort
+id_no_class: decorating_to_sort
+id_no_size: tosort
+id_no_type: to_sort
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_decorating_to_sort
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_decorating_to_sort
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_decorating_to_sort
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_decorating_to_sort](none)<br>[](none)<br>[Category Decorating
+    To Sort](none)<br><br>'
+markdown_short: '[category_decorating_to_sort](none)<br><br>'
+md5: ba0ee10b65e37e6e79ef5649499a8b33
+md5_10: ba0ee10b65
+md5_10_upper: BA0EE10B65
+md5_5: ba0ee
+md5_5_upper: BA0EE
+md5_6: ba0ee1
+md5_6_alpha: 79ckh
+md5_6_alpha_upper: 79CKH
+md5_6_upper: BA0EE1
+name: Category Decorating To Sort
+name_no_class: Decorating To Sort
+name_no_size: Tosort
+name_no_size_short: Tosort
+name_no_type: To Sort
+oomp_key: oomp_category_decorating_to_sort
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorydecorating
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: decorating
+type_capital: Decorating
+type_first_letter: d
+type_first_letter_upper: D
+type_upper: DECORATING

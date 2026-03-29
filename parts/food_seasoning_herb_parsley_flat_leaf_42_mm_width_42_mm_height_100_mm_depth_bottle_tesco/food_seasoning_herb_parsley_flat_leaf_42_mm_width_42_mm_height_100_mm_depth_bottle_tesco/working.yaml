@@ -1,0 +1,85 @@
+classification: food
+classification_capital: Food
+classification_first_letter: f
+classification_first_letter_upper: F
+classification_upper: FOOD
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: parsley flat leaf
+description_extra: 42_mm_width_42_mm_height_100_mm_depth_bottle
+description_extra_capital: 42 mm Width 42 mm Height 100 mm Depth Bottle
+description_extra_first_letter: '4'
+description_extra_first_letter_upper: '4'
+description_extra_upper: 42_MM_WIDTH_42_MM_HEIGHT_100_MM_DEPTH_BOTTLE
+description_main: parsley_flat_leaf
+description_main_capital: Parsley Flat Leaf
+description_main_first_letter: p
+description_main_first_letter_upper: P
+description_main_upper: PARSLEY_FLAT_LEAF
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/food_seasoning_herb_parsley_flat_leaf_42_mm_width_42_mm_height_100_mm_depth_bottle_tesco
+distributors: []
+filter: ''
+from_yaml: false
+id: food_seasoning_herb_parsley_flat_leaf_42_mm_width_42_mm_height_100_mm_depth_bottle_tesco
+id_no_class: seasoning_herb_parsley_flat_leaf_42_mm_width_42_mm_height_100_mm_depth_bottle_tesco
+id_no_size: parsley_flat_leaf_42_mm_width_42_mm_height_100_mm_depth_bottle_tesco
+id_no_type: herb_parsley_flat_leaf_42_mm_width_42_mm_height_100_mm_depth_bottle_tesco
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_herb_parsley_flat_leaf_42_mm_width_42_mm_height_100_mm_depth_bottle_tesco
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_herb_parsley_flat_leaf_42_mm_width_42_mm_height_100_mm_depth_bottle_tesco
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_herb_parsley_flat_leaf_42_mm_width_42_mm_height_100_mm_depth_bottle_tesco
+manufacturer: tesco
+manufacturer_capital: Tesco
+manufacturer_first_letter: t
+manufacturer_first_letter_upper: T
+manufacturer_upper: TESCO
+manufacturers: []
+markdown_full: '[food_seasoning_herb_parsley_flat_leaf_42_mm_width_42_mm_height_100_mm_depth_bottle_tesco](none)<br>[](none)<br>[Food
+    Seasoning Herb Parsley Flat Leaf 42 Mm Width 42 Mm Height 100 Mm Depth Bottle
+    Tesco](none)<br><br>'
+markdown_short: '[food_seasoning_herb_parsley_flat_leaf_42_mm_width_42_mm_height_100_mm_depth_bottle_tesco](none)<br><br>'
+md5: 5407230738a36aca66ad745447065a62
+md5_10: '5407230738'
+md5_10_upper: '5407230738'
+md5_5: '54072'
+md5_5_upper: '54072'
+md5_6: '540723'
+md5_6_alpha: 3a143
+md5_6_alpha_upper: 3A143
+md5_6_upper: '540723'
+name: Food Seasoning Herb Parsley Flat Leaf 42 Mm Width 42 Mm Height 100 Mm Depth
+    Bottle Tesco
+name_no_class: Seasoning Herb Parsley Flat Leaf 42 Mm Width 42 Mm Height 100 Mm Depth
+    Bottle Tesco
+name_no_size: Parsley Flat Leaf 42 Mm Width 42 Mm Height 100 Mm Depth Bottle Tesco
+name_no_size_short: Parsley Flat Leaf 42 Mm Width 42 Mm Height 100 Mm Depth Bottle
+    Tesco
+name_no_type: Herb Parsley Flat Leaf 42 Mm Width 42 Mm Height 100 Mm Depth Bottle
+    Tesco
+name_short: Parsley Flat Leaf
+oomp_key: oomp_food_seasoning_herb_parsley_flat_leaf_42_mm_width_42_mm_height_100_mm_depth_bottle_tesco
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: herb
+size_capital: Herb
+size_first_letter: h
+size_first_letter_upper: H
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: HERB
+type: seasoning
+type_capital: Seasoning
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: SEASONING

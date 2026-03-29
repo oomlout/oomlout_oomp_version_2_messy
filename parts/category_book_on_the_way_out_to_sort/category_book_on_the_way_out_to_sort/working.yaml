@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_book
+description_extra: to_sort
+description_extra_capital: To Sort
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TO_SORT
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_book_on_the_way_out_to_sort
+distributors: []
+filter: ''
+from_yaml: false
+id: category_book_on_the_way_out_to_sort
+id_no_class: book_on_the_way_out_to_sort
+id_no_size: to_sort
+id_no_type: on_the_way_out_to_sort
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_book_on_the_way_out_to_sort
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_book_on_the_way_out_to_sort
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_book_on_the_way_out_to_sort
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_book_on_the_way_out_to_sort](none)<br>[](none)<br>[Category
+    Book On The Way Out To Sort](none)<br><br>'
+markdown_short: '[category_book_on_the_way_out_to_sort](none)<br><br>'
+md5: 51245a5907893689cbc29bac01d639ce
+md5_10: 51245a5907
+md5_10_upper: 51245A5907
+md5_5: '51245'
+md5_5_upper: '51245'
+md5_6: 51245a
+md5_6_alpha: 35z6i
+md5_6_alpha_upper: 35Z6I
+md5_6_upper: 51245A
+name: Category Book On The Way Out To Sort
+name_no_class: Book On The Way Out To Sort
+name_no_size: To Sort
+name_no_size_short: To Sort
+name_no_type: On The Way Out To Sort
+oomp_key: oomp_category_book_on_the_way_out_to_sort
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorybook
+size: on_the_way_out
+size_capital: On The Way Out
+size_first_letter: o
+size_first_letter_upper: O
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ON_THE_WAY_OUT
+type: book
+type_capital: Book
+type_first_letter: b
+type_first_letter_upper: B
+type_upper: BOOK

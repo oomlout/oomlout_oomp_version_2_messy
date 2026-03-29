@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: medium
+color_capital: Medium
+color_first_letter: m
+color_first_letter_upper: M
+color_upper: MEDIUM
+description: category_toy
+description_extra: to_sort
+description_extra_capital: To Sort
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TO_SORT
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'M '
+description_or_color_upper: 'M '
+directory: parts/category_toy_figurine_medium_to_sort
+distributors: []
+filter: ''
+from_yaml: false
+id: category_toy_figurine_medium_to_sort
+id_no_class: toy_figurine_medium_to_sort
+id_no_size: medium_to_sort
+id_no_type: figurine_medium_to_sort
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_toy_figurine_medium_to_sort
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_toy_figurine_medium_to_sort
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_toy_figurine_medium_to_sort
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_toy_figurine_medium_to_sort](none)<br>[](none)<br>[Category
+    Toy Figurine Medium To Sort](none)<br><br>'
+markdown_short: '[category_toy_figurine_medium_to_sort](none)<br><br>'
+md5: e26c70f04381c83aeffe7dda66925014
+md5_10: e26c70f043
+md5_10_upper: E26C70F043
+md5_5: e26c7
+md5_5_upper: E26C7
+md5_6: e26c70
+md5_6_alpha: 8u1rk
+md5_6_alpha_upper: 8U1RK
+md5_6_upper: E26C70
+name: Category Toy Figurine Medium To Sort
+name_no_class: Toy Figurine Medium To Sort
+name_no_size: Medium To Sort
+name_no_size_short: Medium To Sort
+name_no_type: Figurine Medium To Sort
+oomp_key: oomp_category_toy_figurine_medium_to_sort
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorytoy
+size: figurine
+size_capital: Figurine
+size_first_letter: f
+size_first_letter_upper: F
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: FIGURINE
+type: toy
+type_capital: Toy
+type_first_letter: t
+type_first_letter_upper: T
+type_upper: TOY

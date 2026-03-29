@@ -1,0 +1,77 @@
+classification: hardware
+classification_capital: Hardware
+classification_first_letter: h
+classification_first_letter_upper: H
+classification_upper: HARDWARE
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/hardware_ziptie_medium
+distributors: []
+filter: ''
+from_yaml: false
+id: hardware_ziptie_medium
+id_no_class: ziptie_medium
+id_no_size: medium
+id_no_type: medium
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_ziptie_medium
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_ziptie_medium
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_ziptie_medium
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[hardware_ziptie_medium](none)<br>[](none)<br>[Hardware Ziptie Medium](none)<br><br>'
+markdown_short: '[hardware_ziptie_medium](none)<br><br>'
+md5: 7fd064edb5d5099e9bc15af71fef0a52
+md5_10: 7fd064edb5
+md5_10_upper: 7FD064EDB5
+md5_5: 7fd06
+md5_5_upper: 7FD06
+md5_6: 7fd064
+md5_6_alpha: 4zjac
+md5_6_alpha_upper: 4ZJAC
+md5_6_upper: 7FD064
+name: Hardware Ziptie Medium
+name_no_class: Ziptie Medium
+name_no_size: Medium
+name_no_size_short: Medium
+name_no_type: Medium
+oomp_key: oomp_hardware_ziptie_medium
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: medium
+size_capital: Medium
+size_first_letter: m
+size_first_letter_upper: M
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: MEDIUM
+type: ziptie
+type_capital: Ziptie
+type_first_letter: z
+type_first_letter_upper: Z
+type_upper: ZIPTIE

@@ -1,0 +1,83 @@
+classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_upper: ELECTRONIC
+color: green
+color_capital: Green
+color_first_letter: g
+color_first_letter_upper: G
+color_upper: GREEN
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 38_mm_length
+description_main_capital: 38 mm Length
+description_main_first_letter: '3'
+description_main_first_letter_upper: '3'
+description_main_upper: 38_MM_LENGTH
+description_only_numbers: '38'
+description_only_numbers_short: '38'
+description_or_color: G38
+description_or_color_upper: G38
+directory: parts/electronic_led_filament_3_volt_green_38_mm_length
+distributors: []
+filter: ''
+from_yaml: false
+id: electronic_led_filament_3_volt_green_38_mm_length
+id_no_class: led_filament_3_volt_green_38_mm_length
+id_no_size: green_38_mm_length
+id_no_type: filament_3_volt_green_38_mm_length
+link_distributor_adafruit: https://www.adafruit.com/product/5509
+link_distributor_aliexpress: https://www.aliexpress.com/item/1005006222719149.html
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_filament_3_volt_green_38_mm_length
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_filament_3_volt_green_38_mm_length
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_filament_3_volt_green_38_mm_length
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[electronic_led_filament_3_volt_green_38_mm_length](none)<br>[lg38](none)<br>[Electronic
+    Led Filament 3 Volt Green 38 Mm Length](none)<br><br>'
+markdown_short: '[electronic_led_filament_3_volt_green_38_mm_length](none)<br><br>'
+md5: 172c70a870d2a52e300c16b1be6fc272
+md5_10: 172c70a870
+md5_10_upper: 172C70A870
+md5_5: 172c7
+md5_5_upper: 172C7
+md5_6: 172c70
+md5_6_alpha: wju8
+md5_6_alpha_upper: WJU8
+md5_6_upper: 172C70
+name: Electronic Led Filament 3 Volt Green 38 Mm Length
+name_no_class: Led Filament 3 Volt Green 38 Mm Length
+name_no_size: Green 38 Mm Length
+name_no_size_short: Green 38 Mm Length
+name_no_type: Filament 3 Volt Green 38 Mm Length
+oomp_key: oomp_electronic_led_filament_3_volt_green_38_mm_length
+part_number: ''
+part_number_capital: ''
+part_number_distriubutor_adafruit: '5509'
+part_number_distriubutor_aliexpress: '1005006222719149'
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: lg38
+short_code_upper: LG38
+short_name: Filament 3 Volt Green38 Mm Length Led
+size: filament_3_volt
+size_capital: Filament 3 Volt
+size_first_letter: f
+size_first_letter_upper: F
+size_only_numbers: '3'
+size_only_numbers_no_zeros: '3'
+size_upper: FILAMENT_3_VOLT
+type: led
+type_capital: Led
+type_first_letter: l
+type_first_letter_upper: L
+type_upper: LED

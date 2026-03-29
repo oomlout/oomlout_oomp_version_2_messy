@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_electronic
+description_extra: tote
+description_extra_capital: Tote
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TOTE
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_electronic_crimp_bootlace_ferrule_tote
+distributors: []
+filter: ''
+from_yaml: false
+id: category_electronic_crimp_bootlace_ferrule_tote
+id_no_class: electronic_crimp_bootlace_ferrule_tote
+id_no_size: tote
+id_no_type: crimp_bootlace_ferrule_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_crimp_bootlace_ferrule_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_crimp_bootlace_ferrule_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_crimp_bootlace_ferrule_tote
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_electronic_crimp_bootlace_ferrule_tote](none)<br>[](none)<br>[Category
+    Electronic Crimp Bootlace Ferrule Tote](none)<br><br>'
+markdown_short: '[category_electronic_crimp_bootlace_ferrule_tote](none)<br><br>'
+md5: f6fc67765cb6d132e16547e3d28b1683
+md5_10: f6fc67765c
+md5_10_upper: F6FC67765C
+md5_5: f6fc6
+md5_5_upper: F6FC6
+md5_6: f6fc67
+md5_6_alpha: 9mxk7
+md5_6_alpha_upper: 9MXK7
+md5_6_upper: F6FC67
+name: Category Electronic Crimp Bootlace Ferrule Tote
+name_no_class: Electronic Crimp Bootlace Ferrule Tote
+name_no_size: Tote
+name_no_size_short: Tote
+name_no_type: Crimp Bootlace Ferrule Tote
+oomp_key: oomp_category_electronic_crimp_bootlace_ferrule_tote
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryelectronic
+size: crimp_bootlace_ferrule
+size_capital: Crimp Bootlace Ferrule
+size_first_letter: c
+size_first_letter_upper: C
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: CRIMP_BOOTLACE_FERRULE
+type: electronic
+type_capital: Electronic
+type_first_letter: e
+type_first_letter_upper: E
+type_upper: ELECTRONIC

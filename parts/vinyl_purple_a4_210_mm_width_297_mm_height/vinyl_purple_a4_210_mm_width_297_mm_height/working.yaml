@@ -1,0 +1,80 @@
+classification: vinyl
+classification_capital: Vinyl
+classification_first_letter: v
+classification_first_letter_upper: V
+classification_upper: VINYL
+color: purple
+color_capital: Purple
+color_first_letter: p
+color_first_letter_upper: P
+color_upper: PURPLE
+description_extra: a4_210_mm_width_297_mm_height
+description_extra_capital: A4.210 mm Width 297 mm Height
+description_extra_first_letter: a
+description_extra_first_letter_upper: A
+description_extra_upper: A4_210_MM_WIDTH_297_MM_HEIGHT
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'P '
+description_or_color_upper: 'P '
+directory: parts/vinyl_purple_a4_210_mm_width_297_mm_height
+distributors: []
+filter: ''
+from_yaml: false
+height: 297 mm
+id: vinyl_purple_a4_210_mm_width_297_mm_height
+id_no_class: purple_a4_210_mm_width_297_mm_height
+id_no_size: purplea4210mmwidth297mmheight
+id_no_type: purplea4210mmwidth297mmheight
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/vinyl_purple_a4_210_mm_width_297_mm_height
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/vinyl_purple_a4_210_mm_width_297_mm_height
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/vinyl_purple_a4_210_mm_width_297_mm_height
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[vinyl_purple_a4_210_mm_width_297_mm_height](none)<br>[v](none)<br>[Vinyl
+    Purple A4 210 Mm Width 297 Mm Height](none)<br><br>'
+markdown_short: '[vinyl_purple_a4_210_mm_width_297_mm_height](none)<br><br>'
+md5: 47092cf0326eb24aabe1eccabe1f7997
+md5_10: 47092cf032
+md5_10_upper: 47092CF032
+md5_5: '47092'
+md5_5_upper: '47092'
+md5_6: 47092c
+md5_6_alpha: 2rs4s
+md5_6_alpha_upper: 2RS4S
+md5_6_upper: 47092C
+name: Vinyl Purple A4 210 Mm Width 297 Mm Height
+name_no_class: Purple A4 210 Mm Width 297 Mm Height
+name_no_size: Purplea4210Mmwidth297Mmheight
+name_no_size_short: Purplea4210Mmwidth297Mmheight
+name_no_type: Purplea4210Mmwidth297Mmheight
+oomp_key: oomp_vinyl_purple_a4_210_mm_width_297_mm_height
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: v
+short_code_upper: V
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: ''
+type_capital: ''
+type_first_letter: ''
+type_first_letter_upper: ''
+type_upper: ''
+width: 210 mm

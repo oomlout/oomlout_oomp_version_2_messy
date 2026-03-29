@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_sheet_stock
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_sheet_stock_plywood
+distributors: []
+filter: ''
+from_yaml: false
+id: category_sheet_stock_plywood
+id_no_class: sheet_stock_plywood
+id_no_size: plywood
+id_no_type: plywood
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_sheet_stock_plywood
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_sheet_stock_plywood
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_sheet_stock_plywood
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_sheet_stock_plywood](none)<br>[](none)<br>[Category Sheet
+    Stock Plywood](none)<br><br>'
+markdown_short: '[category_sheet_stock_plywood](none)<br><br>'
+md5: 7f99cbe6fff20db2d7637e8a025e2926
+md5_10: 7f99cbe6ff
+md5_10_upper: 7F99CBE6FF
+md5_5: 7f99c
+md5_5_upper: 7F99C
+md5_6: 7f99cb
+md5_6_alpha: 4z8i3
+md5_6_alpha_upper: 4Z8I3
+md5_6_upper: 7F99CB
+name: Category Sheet Stock Plywood
+name_no_class: Sheet Stock Plywood
+name_no_size: Plywood
+name_no_size_short: Plywood
+name_no_type: Plywood
+oomp_key: oomp_category_sheet_stock_plywood
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorysheetstock
+size: plywood
+size_capital: Plywood
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PLYWOOD
+type: sheet_stock
+type_capital: Sheet Stock
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: SHEET_STOCK

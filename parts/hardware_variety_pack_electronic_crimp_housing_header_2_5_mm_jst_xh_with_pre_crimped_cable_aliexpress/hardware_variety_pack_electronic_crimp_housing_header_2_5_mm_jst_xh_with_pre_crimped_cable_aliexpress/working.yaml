@@ -1,0 +1,87 @@
+classification: hardware
+classification_capital: Hardware
+classification_first_letter: h
+classification_first_letter_upper: H
+classification_upper: HARDWARE
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: with_pre_crimped_cable
+description_main_capital: With Pre Crimped Cable
+description_main_first_letter: w
+description_main_first_letter_upper: W
+description_main_upper: WITH_PRE_CRIMPED_CABLE
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/hardware_variety_pack_electronic_crimp_housing_header_2_5_mm_jst_xh_with_pre_crimped_cable_aliexpress
+distributors: []
+filter: ''
+from_yaml: false
+id: hardware_variety_pack_electronic_crimp_housing_header_2_5_mm_jst_xh_with_pre_crimped_cable_aliexpress
+id_no_class: variety_pack_electronic_crimp_housing_header_2_5_mm_jst_xh_with_pre_crimped_cable_aliexpress
+id_no_size: with_pre_crimped_cable_aliexpress
+id_no_type: electronic_crimp_housing_header_2_5_mm_jst_xh_with_pre_crimped_cable_aliexpress
+kicad_reference: ''
+link_aliepress: https://www.aliexpress.com/item/1005006126557275.html
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_variety_pack_electronic_crimp_housing_header_2_5_mm_jst_xh_with_pre_crimped_cable_aliexpress
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_variety_pack_electronic_crimp_housing_header_2_5_mm_jst_xh_with_pre_crimped_cable_aliexpress
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_variety_pack_electronic_crimp_housing_header_2_5_mm_jst_xh_with_pre_crimped_cable_aliexpress
+manufacturer: aliexpress
+manufacturer_capital: Aliexpress
+manufacturer_first_letter: a
+manufacturer_first_letter_upper: A
+manufacturer_upper: ALIEXPRESS
+manufacturers: []
+markdown_full: '[hardware_variety_pack_electronic_crimp_housing_header_2_5_mm_jst_xh_with_pre_crimped_cable_aliexpress](none)<br>[](none)<br>[Hardware
+    Variety Pack Electronic Crimp Housing Header 2 5 Mm Jst Xh With Pre Crimped Cable
+    Aliexpress](none)<br><br>'
+markdown_short: '[hardware_variety_pack_electronic_crimp_housing_header_2_5_mm_jst_xh_with_pre_crimped_cable_aliexpress](none)<br><br>'
+md5: 8a8932b4d3789d9ffb8165dbc7545cda
+md5_10: 8a8932b4d3
+md5_10_upper: 8A8932B4D3
+md5_5: 8a893
+md5_5_upper: 8A893
+md5_6: 8a8932
+md5_6_alpha: 5elgy
+md5_6_alpha_upper: 5ELGY
+md5_6_upper: 8A8932
+name: Hardware Variety Pack Electronic Crimp Housing Header 2 5 Mm Jst Xh With Pre
+    Crimped Cable Aliexpress
+name_no_class: Variety Pack Electronic Crimp Housing Header 2 5 Mm Jst Xh With Pre
+    Crimped Cable Aliexpress
+name_no_size: With Pre Crimped Cable Aliexpress
+name_no_size_short: With Pre Crimped Cable Aliexpress
+name_no_type: Electronic Crimp Housing Header 2 5 Mm Jst Xh With Pre Crimped Cable
+    Aliexpress
+oomp_key: oomp_hardware_variety_pack_electronic_crimp_housing_header_2_5_mm_jst_xh_with_pre_crimped_cable_aliexpress
+part_number: ''
+part_number_capital: ''
+part_number_distributor_aliexpress: '1005006126557275'
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+search_term_aliexpress: 2.54mm XH Connector Socket Kit with Pre-Crimped Cable Wire
+    2/3/4/5/6/7 Pin Housing JST Adapter Cable Male and Female Compatible
+short_code: ''
+short_code_upper: ''
+size: electronic_crimp_housing_header_2_5_mm_jst_xh
+size_capital: Electronic Crimp Housing Header 2.5 mm Jst Xh
+size_first_letter: e
+size_first_letter_upper: E
+size_only_numbers: '25'
+size_only_numbers_no_zeros: '25'
+size_upper: ELECTRONIC_CRIMP_HOUSING_HEADER_2_5_MM_JST_XH
+type: variety_pack
+type_capital: Variety Pack
+type_first_letter: v
+type_first_letter_upper: V
+type_upper: VARIETY_PACK

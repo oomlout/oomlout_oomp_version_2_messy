@@ -1,0 +1,76 @@
+classification: video_game_console
+classification_capital: Video Game Console
+classification_first_letter: v
+classification_first_letter_upper: V
+classification_upper: VIDEO_GAME_CONSOLE
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: console
+description_main_capital: Console
+description_main_first_letter: c
+description_main_first_letter_upper: C
+description_main_upper: CONSOLE
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/video_game_console_nintendo_entertainment_system_console
+distributors: []
+id: video_game_console_nintendo_entertainment_system_console
+id_no_class: nintendo_entertainment_system_console
+id_no_size: console
+id_no_type: console
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/video_game_console_nintendo_entertainment_system_console
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/video_game_console_nintendo_entertainment_system_console
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/video_game_console_nintendo_entertainment_system_console
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[video_game_console_nintendo_entertainment_system_console](none)<br>[](none)<br>[Video
+    Game Console Nintendo Entertainment System Console](none)<br><br>'
+markdown_short: '[video_game_console_nintendo_entertainment_system_console](none)<br><br>'
+md5: 65aff37aa2e9af85c42a3669410c6a7e
+md5_10: 65aff37aa2
+md5_10_upper: 65AFF37AA2
+md5_5: 65aff
+md5_5_upper: 65AFF
+md5_6: 65aff3
+md5_6_alpha: 3yu43
+md5_6_alpha_upper: 3YU43
+md5_6_upper: 65AFF3
+name: Video Game Console Nintendo Entertainment System Console
+name_no_class: Nintendo Entertainment System Console
+name_no_size: Console
+name_no_size_short: Console
+name_no_type: Console
+oomp_key: oomp_video_game_console_nintendo_entertainment_system_console
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: nintendo_entertainment_system
+type_capital: Nintendo Entertainment System
+type_first_letter: n
+type_first_letter_upper: N
+type_upper: NINTENDO_ENTERTAINMENT_SYSTEM

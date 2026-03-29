@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_card_game
+description_extra: old
+description_extra_capital: Old
+description_extra_first_letter: o
+description_extra_first_letter_upper: O
+description_extra_upper: OLD
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_card_game_magic_the_gathering_old
+distributors: []
+filter: ''
+from_yaml: false
+id: category_card_game_magic_the_gathering_old
+id_no_class: card_game_magic_the_gathering_old
+id_no_size: old
+id_no_type: magic_the_gathering_old
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_card_game_magic_the_gathering_old
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_card_game_magic_the_gathering_old
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_card_game_magic_the_gathering_old
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_card_game_magic_the_gathering_old](none)<br>[](none)<br>[Category
+    Card Game Magic The Gathering Old](none)<br><br>'
+markdown_short: '[category_card_game_magic_the_gathering_old](none)<br><br>'
+md5: 185722d3ce6756dbe0b427e693beec42
+md5_10: 185722d3ce
+md5_10_upper: 185722D3CE
+md5_5: '18572'
+md5_5_upper: '18572'
+md5_6: '185722'
+md5_6_alpha: y6ua
+md5_6_alpha_upper: Y6UA
+md5_6_upper: '185722'
+name: Category Card Game Magic The Gathering Old
+name_no_class: Card Game Magic The Gathering Old
+name_no_size: Old
+name_no_size_short: Old
+name_no_type: Magic The Gathering Old
+oomp_key: oomp_category_card_game_magic_the_gathering_old
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorycardgame
+size: magic_the_gathering
+size_capital: Magic The Gathering
+size_first_letter: m
+size_first_letter_upper: M
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: MAGIC_THE_GATHERING
+type: card_game
+type_capital: Card Game
+type_first_letter: c
+type_first_letter_upper: C
+type_upper: CARD_GAME

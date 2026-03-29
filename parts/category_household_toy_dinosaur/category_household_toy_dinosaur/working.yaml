@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_household_toy
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_household_toy_dinosaur
+distributors: []
+filter: ''
+from_yaml: false
+id: category_household_toy_dinosaur
+id_no_class: household_toy_dinosaur
+id_no_size: dinosaur
+id_no_type: dinosaur
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_toy_dinosaur
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_toy_dinosaur
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_toy_dinosaur
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_household_toy_dinosaur](none)<br>[](none)<br>[Category Household
+    Toy Dinosaur](none)<br><br>'
+markdown_short: '[category_household_toy_dinosaur](none)<br><br>'
+md5: 5a7ded5cf863fede94d29a16829d0b1a
+md5_10: 5a7ded5cf8
+md5_10_upper: 5A7DED5CF8
+md5_5: 5a7de
+md5_5_upper: 5A7DE
+md5_6: 5a7ded
+md5_6_alpha: 3j3zh
+md5_6_alpha_upper: 3J3ZH
+md5_6_upper: 5A7DED
+name: Category Household Toy Dinosaur
+name_no_class: Household Toy Dinosaur
+name_no_size: Dinosaur
+name_no_size_short: Dinosaur
+name_no_type: Dinosaur
+oomp_key: oomp_category_household_toy_dinosaur
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryhouseholdtoy
+size: dinosaur
+size_capital: Dinosaur
+size_first_letter: d
+size_first_letter_upper: D
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: DINOSAUR
+type: household_toy
+type_capital: Household Toy
+type_first_letter: h
+type_first_letter_upper: H
+type_upper: HOUSEHOLD_TOY

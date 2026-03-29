@@ -1,0 +1,81 @@
+classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_upper: ELECTRONIC
+color: pink
+color_capital: Pink
+color_first_letter: p
+color_first_letter_upper: P
+color_upper: PINK
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 5000_mm_length
+description_main_capital: 5000 mm Length
+description_main_first_letter: '5'
+description_main_first_letter_upper: '5'
+description_main_upper: 5000_MM_LENGTH
+description_only_numbers: '5000'
+description_only_numbers_short: 5k
+description_or_color: P5k
+description_or_color_upper: P5K
+directory: parts/electronic_led_strip_12_volt_8_mm_width_pink_5000_mm_length
+distributors: []
+filter: ''
+from_yaml: false
+id: electronic_led_strip_12_volt_8_mm_width_pink_5000_mm_length
+id_no_class: led_strip_12_volt_8_mm_width_pink_5000_mm_length
+id_no_size: pink_5000_mm_length
+id_no_type: strip_12_volt_8_mm_width_pink_5000_mm_length
+link_distributor_aliexpress: https://www.aliexpress.com/item/1005007532172895.html
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_strip_12_volt_8_mm_width_pink_5000_mm_length
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_strip_12_volt_8_mm_width_pink_5000_mm_length
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_strip_12_volt_8_mm_width_pink_5000_mm_length
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[electronic_led_strip_12_volt_8_mm_width_pink_5000_mm_length](none)<br>[lp](none)<br>[Electronic
+    Led Strip 12 Volt 8 Mm Width Pink 5000 Mm Length](none)<br><br>'
+markdown_short: '[electronic_led_strip_12_volt_8_mm_width_pink_5000_mm_length](none)<br><br>'
+md5: 26e199738028699cb66c20942cc4509b
+md5_10: 26e1997380
+md5_10_upper: 26E1997380
+md5_5: 26e19
+md5_5_upper: 26E19
+md5_6: 26e199
+md5_6_alpha: 1im55
+md5_6_alpha_upper: 1IM55
+md5_6_upper: 26E199
+name: Electronic Led Strip 12 Volt 8 Mm Width Pink 5000 Mm Length
+name_no_class: Led Strip 12 Volt 8 Mm Width Pink 5000 Mm Length
+name_no_size: Pink 5000 Mm Length
+name_no_size_short: Pink 5k Mm Length
+name_no_type: Strip 12 Volt 8 Mm Width Pink 5000 Mm Length
+oomp_key: oomp_electronic_led_strip_12_volt_8_mm_width_pink_5000_mm_length
+part_number: ''
+part_number_capital: ''
+part_number_distriubutor_aliexpress: '1005007532172895'
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: lp
+short_code_upper: LP
+short_name: Strip 12 Volt 8 Mm Width Pink5000 Mm Length Led
+size: strip_12_volt_8_mm_width
+size_capital: Strip 12 Volt 8 mm Width
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: '128'
+size_only_numbers_no_zeros: '128'
+size_upper: STRIP_12_VOLT_8_MM_WIDTH
+type: led
+type_capital: Led
+type_first_letter: l
+type_first_letter_upper: L
+type_upper: LED

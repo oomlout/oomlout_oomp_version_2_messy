@@ -1,0 +1,78 @@
+classification: clothes
+classification_capital: Clothes
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CLOTHES
+color: double_extra_large
+color_capital: Double Extra Large
+color_first_letter: d
+color_first_letter_upper: D
+color_upper: DOUBLE_EXTRA_LARGE
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: orange
+description_main_capital: Orange
+description_main_first_letter: o
+description_main_first_letter_upper: O
+description_main_upper: ORANGE
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'D '
+description_or_color_upper: 'D '
+directory: parts/clothes_item_pants_double_extra_large_orange
+distributors: []
+filter: ''
+from_yaml: false
+id: clothes_item_pants_double_extra_large_orange
+id_no_class: item_pants_double_extra_large_orange
+id_no_size: double_extra_large_orange
+id_no_type: pants_double_extra_large_orange
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_pants_double_extra_large_orange
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_pants_double_extra_large_orange
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_pants_double_extra_large_orange
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[clothes_item_pants_double_extra_large_orange](none)<br>[](none)<br>[Clothes
+    Item Pants Double Extra Large Orange](none)<br><br>'
+markdown_short: '[clothes_item_pants_double_extra_large_orange](none)<br><br>'
+md5: b25dd5cbe33006d20a5194d7c93f4844
+md5_10: b25dd5cbe3
+md5_10_upper: B25DD5CBE3
+md5_5: b25dd
+md5_5_upper: B25DD
+md5_6: b25dd5
+md5_6_alpha: 6yjmd
+md5_6_alpha_upper: 6YJMD
+md5_6_upper: B25DD5
+name: Clothes Item Pants Double Extra Large Orange
+name_no_class: Item Pants Double Extra Large Orange
+name_no_size: Double Extra Large Orange
+name_no_size_short: Double Extra Large Orange
+name_no_type: Pants Double Extra Large Orange
+oomp_key: oomp_clothes_item_pants_double_extra_large_orange
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: pants
+size_capital: Pants
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PANTS
+type: item
+type_capital: Item
+type_first_letter: i
+type_first_letter_upper: I
+type_upper: ITEM

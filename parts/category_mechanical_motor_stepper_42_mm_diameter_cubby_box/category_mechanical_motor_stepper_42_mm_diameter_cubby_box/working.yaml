@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: 42_mm_diameter
+color_capital: 42 mm Diameter
+color_first_letter: '4'
+color_first_letter_upper: '4'
+color_upper: 42_MM_DIAMETER
+description: category_mechanical
+description_extra: cubby_box
+description_extra_capital: Cubby Box
+description_extra_first_letter: c
+description_extra_first_letter_upper: C
+description_extra_upper: CUBBY_BOX
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: '4 '
+description_or_color_upper: '4 '
+directory: parts/category_mechanical_motor_stepper_42_mm_diameter_cubby_box
+distributors: []
+filter: ''
+from_yaml: false
+id: category_mechanical_motor_stepper_42_mm_diameter_cubby_box
+id_no_class: mechanical_motor_stepper_42_mm_diameter_cubby_box
+id_no_size: 42_mm_diameter_cubby_box
+id_no_type: motor_stepper_42_mm_diameter_cubby_box
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_motor_stepper_42_mm_diameter_cubby_box
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_motor_stepper_42_mm_diameter_cubby_box
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_motor_stepper_42_mm_diameter_cubby_box
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_mechanical_motor_stepper_42_mm_diameter_cubby_box](none)<br>[](none)<br>[Category
+    Mechanical Motor Stepper 42 Mm Diameter Cubby Box](none)<br><br>'
+markdown_short: '[category_mechanical_motor_stepper_42_mm_diameter_cubby_box](none)<br><br>'
+md5: a130bb64369a89b0d62dffb4663954b2
+md5_10: a130bb6436
+md5_10_upper: A130BB6436
+md5_5: a130b
+md5_5_upper: A130B
+md5_6: a130bb
+md5_6_alpha: 6af23
+md5_6_alpha_upper: 6AF23
+md5_6_upper: A130BB
+name: Category Mechanical Motor Stepper 42 Mm Diameter Cubby Box
+name_no_class: Mechanical Motor Stepper 42 Mm Diameter Cubby Box
+name_no_size: 42 Mm Diameter Cubby Box
+name_no_size_short: 42 Mm Diameter Cubby Box
+name_no_type: Motor Stepper 42 Mm Diameter Cubby Box
+oomp_key: oomp_category_mechanical_motor_stepper_42_mm_diameter_cubby_box
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorymechanical
+size: motor_stepper
+size_capital: Motor Stepper
+size_first_letter: m
+size_first_letter_upper: M
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: MOTOR_STEPPER
+type: mechanical
+type_capital: Mechanical
+type_first_letter: m
+type_first_letter_upper: M
+type_upper: MECHANICAL

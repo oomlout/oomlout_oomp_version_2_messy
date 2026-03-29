@@ -1,0 +1,78 @@
+classification: sheet_stock
+classification_capital: Sheet Stock
+classification_first_letter: s
+classification_first_letter_upper: S
+classification_upper: SHEET_STOCK
+color: blue
+color_capital: Blue
+color_first_letter: b
+color_first_letter_upper: B
+color_upper: BLUE
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 600_mm_width_400_mm_height
+description_main_capital: 600 mm Width 400 mm Height
+description_main_first_letter: '6'
+description_main_first_letter_upper: '6'
+description_main_upper: 600_MM_WIDTH_400_MM_HEIGHT
+description_only_numbers: '600400'
+description_only_numbers_short: 600k
+description_or_color: B600k
+description_or_color_upper: B600K
+directory: parts/sheet_stock_acrylic_6mm_depth_blue_600_mm_width_400_mm_height_perspex
+distributors: []
+filter: ''
+from_yaml: false
+id: sheet_stock_acrylic_6mm_depth_blue_600_mm_width_400_mm_height_perspex
+id_no_class: acrylic_6mm_depth_blue_600_mm_width_400_mm_height_perspex
+id_no_size: blue_600_mm_width_400_mm_height_perspex
+id_no_type: 6mm_depth_blue_600_mm_width_400_mm_height_perspex
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/sheet_stock_acrylic_6mm_depth_blue_600_mm_width_400_mm_height_perspex
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/sheet_stock_acrylic_6mm_depth_blue_600_mm_width_400_mm_height_perspex
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/sheet_stock_acrylic_6mm_depth_blue_600_mm_width_400_mm_height_perspex
+manufacturer: perspex
+manufacturer_capital: Perspex
+manufacturer_first_letter: p
+manufacturer_first_letter_upper: P
+manufacturer_upper: PERSPEX
+manufacturers: []
+markdown_full: '[sheet_stock_acrylic_6mm_depth_blue_600_mm_width_400_mm_height_perspex](none)<br>[l](none)<br>[Sheet
+    Stock Acrylic 6Mm Depth Blue 600 Mm Width 400 Mm Height Perspex](none)<br><br>'
+markdown_short: '[sheet_stock_acrylic_6mm_depth_blue_600_mm_width_400_mm_height_perspex](none)<br><br>'
+md5: a7be12dc548bf9ae5c618732fdd47caf
+md5_10: a7be12dc54
+md5_10_upper: A7BE12DC54
+md5_5: a7be1
+md5_5_upper: A7BE1
+md5_6: a7be12
+md5_6_alpha: 6jmdu
+md5_6_alpha_upper: 6JMDU
+md5_6_upper: A7BE12
+name: Sheet Stock Acrylic 6Mm Depth Blue 600 Mm Width 400 Mm Height Perspex
+name_no_class: Acrylic 6Mm Depth Blue 600 Mm Width 400 Mm Height Perspex
+name_no_size: Blue 600 Mm Width 400 Mm Height Perspex
+name_no_size_short: Blue 600 Mm Width 400 Mm Height Perspex
+name_no_type: 6Mm Depth Blue 600 Mm Width 400 Mm Height Perspex
+oomp_key: oomp_sheet_stock_acrylic_6mm_depth_blue_600_mm_width_400_mm_height_perspex
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: l
+short_code_upper: L
+size: 6mm_depth
+size_capital: 6mm Depth
+size_first_letter: '6'
+size_first_letter_upper: '6'
+size_only_numbers: '6'
+size_only_numbers_no_zeros: '6'
+size_upper: 6MM_DEPTH
+type: acrylic
+type_capital: Acrylic
+type_first_letter: a
+type_first_letter_upper: A
+type_upper: ACRYLIC

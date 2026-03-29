@@ -1,0 +1,83 @@
+classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_upper: ELECTRONIC
+color: blue
+color_capital: Blue
+color_first_letter: b
+color_first_letter_upper: B
+color_upper: BLUE
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 185_mm_length
+description_main_capital: 185 mm Length
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_upper: 185_MM_LENGTH
+description_only_numbers: '185'
+description_only_numbers_short: '185'
+description_or_color: B185
+description_or_color_upper: B185
+directory: parts/electronic_led_filament_3_volt_blue_185_mm_length
+distributors: []
+filter: ''
+from_yaml: false
+id: electronic_led_filament_3_volt_blue_185_mm_length
+id_no_class: led_filament_3_volt_blue_185_mm_length
+id_no_size: blue_185_mm_length
+id_no_type: filament_3_volt_blue_185_mm_length
+link_distributor_adafruit: https://www.adafruit.com/product/5509
+link_distributor_aliexpress: https://www.aliexpress.com/item/1005006222719149.html
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_filament_3_volt_blue_185_mm_length
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_filament_3_volt_blue_185_mm_length
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_filament_3_volt_blue_185_mm_length
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[electronic_led_filament_3_volt_blue_185_mm_length](none)<br>[ll](none)<br>[Electronic
+    Led Filament 3 Volt Blue 185 Mm Length](none)<br><br>'
+markdown_short: '[electronic_led_filament_3_volt_blue_185_mm_length](none)<br><br>'
+md5: 854eae36a0180de14f6c601a3e1a5ea8
+md5_10: 854eae36a0
+md5_10_upper: 854EAE36A0
+md5_5: 854ea
+md5_5_upper: 854EA
+md5_6: 854eae
+md5_6_alpha: 5792m
+md5_6_alpha_upper: 5792M
+md5_6_upper: 854EAE
+name: Electronic Led Filament 3 Volt Blue 185 Mm Length
+name_no_class: Led Filament 3 Volt Blue 185 Mm Length
+name_no_size: Blue 185 Mm Length
+name_no_size_short: Blue 185 Mm Length
+name_no_type: Filament 3 Volt Blue 185 Mm Length
+oomp_key: oomp_electronic_led_filament_3_volt_blue_185_mm_length
+part_number: ''
+part_number_capital: ''
+part_number_distriubutor_adafruit: '5509'
+part_number_distriubutor_aliexpress: '1005006222719149'
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ll
+short_code_upper: LL
+short_name: Filament 3 Volt Blue185 Mm Length Led
+size: filament_3_volt
+size_capital: Filament 3 Volt
+size_first_letter: f
+size_first_letter_upper: F
+size_only_numbers: '3'
+size_only_numbers_no_zeros: '3'
+size_upper: FILAMENT_3_VOLT
+type: led
+type_capital: Led
+type_first_letter: l
+type_first_letter_upper: L
+type_upper: LED

@@ -1,0 +1,83 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: 169_mm_width_130_mm_height_18_mm_depth_350_ml
+color_capital: 169 mm Width 130 mm Height 18 mm Depth 350 Ml
+color_first_letter: '1'
+color_first_letter_upper: '1'
+color_upper: 169_MM_WIDTH_130_MM_HEIGHT_18_MM_DEPTH_350_ML
+description: category_packaging
+description_extra: tote
+description_extra_capital: Tote
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TOTE
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: '1 '
+description_or_color_upper: '1 '
+directory: parts/category_packaging_tin_hinged_lid_169_mm_width_130_mm_height_18_mm_depth_350_ml_tote
+distributors: []
+filter: ''
+from_yaml: false
+id: category_packaging_tin_hinged_lid_169_mm_width_130_mm_height_18_mm_depth_350_ml_tote
+id_no_class: packaging_tin_hinged_lid_169_mm_width_130_mm_height_18_mm_depth_350_ml_tote
+id_no_size: 169_mm_width_130_mm_height_18_mm_depth_350_ml_tote
+id_no_type: tin_hinged_lid_169_mm_width_130_mm_height_18_mm_depth_350_ml_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_packaging_tin_hinged_lid_169_mm_width_130_mm_height_18_mm_depth_350_ml_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_packaging_tin_hinged_lid_169_mm_width_130_mm_height_18_mm_depth_350_ml_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_packaging_tin_hinged_lid_169_mm_width_130_mm_height_18_mm_depth_350_ml_tote
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_packaging_tin_hinged_lid_169_mm_width_130_mm_height_18_mm_depth_350_ml_tote](none)<br>[](none)<br>[Category
+    Packaging Tin Hinged Lid 169 Mm Width 130 Mm Height 18 Mm Depth 350 Ml Tote](none)<br><br>'
+markdown_short: '[category_packaging_tin_hinged_lid_169_mm_width_130_mm_height_18_mm_depth_350_ml_tote](none)<br><br>'
+md5: 8a430981ff7c0bfcc857d2f811575424
+md5_10: 8a430981ff
+md5_10_upper: 8A430981FF
+md5_5: 8a430
+md5_5_upper: 8A430
+md5_6: 8a4309
+md5_6_alpha: 5e7m1
+md5_6_alpha_upper: 5E7M1
+md5_6_upper: 8A4309
+name: Category Packaging Tin Hinged Lid 169 Mm Width 130 Mm Height 18 Mm Depth 350
+    Ml Tote
+name_no_class: Packaging Tin Hinged Lid 169 Mm Width 130 Mm Height 18 Mm Depth 350
+    Ml Tote
+name_no_size: 169 Mm Width 130 Mm Height 18 Mm Depth 350 Ml Tote
+name_no_size_short: 169 Mm Width 130 Mm Height 18 Mm Depth 350 Ml Tote
+name_no_type: Tin Hinged Lid 169 Mm Width 130 Mm Height 18 Mm Depth 350 Ml Tote
+oomp_key: oomp_category_packaging_tin_hinged_lid_169_mm_width_130_mm_height_18_mm_depth_350_ml_tote
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorypackaging
+size: tin_hinged_lid
+size_capital: Tin Hinged Lid
+size_first_letter: t
+size_first_letter_upper: T
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: TIN_HINGED_LID
+type: packaging
+type_capital: Packaging
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PACKAGING

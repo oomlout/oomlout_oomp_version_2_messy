@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: 0_55_mm_diameter_wire
+color_capital: 0 55 mm Diameter Wire
+color_first_letter: '0'
+color_first_letter_upper: '0'
+color_upper: 0_55_MM_DIAMETER_WIRE
+description: category_electronic
+description_extra: tote
+description_extra_capital: Tote
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TOTE
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: '0 '
+description_or_color_upper: '0 '
+directory: parts/category_electronic_crimp_bootlace_ferrule_0_55_mm_diameter_wire_tote
+distributors: []
+filter: ''
+from_yaml: false
+id: category_electronic_crimp_bootlace_ferrule_0_55_mm_diameter_wire_tote
+id_no_class: electronic_crimp_bootlace_ferrule_0_55_mm_diameter_wire_tote
+id_no_size: 0_55_mm_diameter_wire_tote
+id_no_type: crimp_bootlace_ferrule_0_55_mm_diameter_wire_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_crimp_bootlace_ferrule_0_55_mm_diameter_wire_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_crimp_bootlace_ferrule_0_55_mm_diameter_wire_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_crimp_bootlace_ferrule_0_55_mm_diameter_wire_tote
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_electronic_crimp_bootlace_ferrule_0_55_mm_diameter_wire_tote](none)<br>[](none)<br>[Category
+    Electronic Crimp Bootlace Ferrule 0 55 Mm Diameter Wire Tote](none)<br><br>'
+markdown_short: '[category_electronic_crimp_bootlace_ferrule_0_55_mm_diameter_wire_tote](none)<br><br>'
+md5: aa6ebf207a480ba4e1ce229bcf65bb11
+md5_10: aa6ebf207a
+md5_10_upper: AA6EBF207A
+md5_5: aa6eb
+md5_5_upper: AA6EB
+md5_6: aa6ebf
+md5_6_alpha: 6nef3
+md5_6_alpha_upper: 6NEF3
+md5_6_upper: AA6EBF
+name: Category Electronic Crimp Bootlace Ferrule 0 55 Mm Diameter Wire Tote
+name_no_class: Electronic Crimp Bootlace Ferrule 0 55 Mm Diameter Wire Tote
+name_no_size: 0 55 Mm Diameter Wire Tote
+name_no_size_short: 0 55 Mm Diameter Wire Tote
+name_no_type: Crimp Bootlace Ferrule 0 55 Mm Diameter Wire Tote
+oomp_key: oomp_category_electronic_crimp_bootlace_ferrule_0_55_mm_diameter_wire_tote
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryelectronic
+size: crimp_bootlace_ferrule
+size_capital: Crimp Bootlace Ferrule
+size_first_letter: c
+size_first_letter_upper: C
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: CRIMP_BOOTLACE_FERRULE
+type: electronic
+type_capital: Electronic
+type_first_letter: e
+type_first_letter_upper: E
+type_upper: ELECTRONIC

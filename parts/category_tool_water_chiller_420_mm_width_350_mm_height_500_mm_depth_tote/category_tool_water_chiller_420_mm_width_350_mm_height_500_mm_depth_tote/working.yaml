@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: 420_mm_width_350_mm_height_500_mm_depth
+color_capital: 420 mm Width 350 mm Height 500 mm Depth
+color_first_letter: '4'
+color_first_letter_upper: '4'
+color_upper: 420_MM_WIDTH_350_MM_HEIGHT_500_MM_DEPTH
+description: category_tool
+description_extra: tote
+description_extra_capital: Tote
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TOTE
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: '4 '
+description_or_color_upper: '4 '
+directory: parts/category_tool_water_chiller_420_mm_width_350_mm_height_500_mm_depth_tote
+distributors: []
+filter: ''
+from_yaml: false
+id: category_tool_water_chiller_420_mm_width_350_mm_height_500_mm_depth_tote
+id_no_class: tool_water_chiller_420_mm_width_350_mm_height_500_mm_depth_tote
+id_no_size: 420_mm_width_350_mm_height_500_mm_depth_tote
+id_no_type: water_chiller_420_mm_width_350_mm_height_500_mm_depth_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_water_chiller_420_mm_width_350_mm_height_500_mm_depth_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_water_chiller_420_mm_width_350_mm_height_500_mm_depth_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_water_chiller_420_mm_width_350_mm_height_500_mm_depth_tote
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_tool_water_chiller_420_mm_width_350_mm_height_500_mm_depth_tote](none)<br>[](none)<br>[Category
+    Tool Water Chiller 420 Mm Width 350 Mm Height 500 Mm Depth Tote](none)<br><br>'
+markdown_short: '[category_tool_water_chiller_420_mm_width_350_mm_height_500_mm_depth_tote](none)<br><br>'
+md5: 468912a476ce25e372169e20465a883e
+md5_10: 468912a476
+md5_10_upper: 468912A476
+md5_5: '46891'
+md5_5_upper: '46891'
+md5_6: '468912'
+md5_6_alpha: 2r2tu
+md5_6_alpha_upper: 2R2TU
+md5_6_upper: '468912'
+name: Category Tool Water Chiller 420 Mm Width 350 Mm Height 500 Mm Depth Tote
+name_no_class: Tool Water Chiller 420 Mm Width 350 Mm Height 500 Mm Depth Tote
+name_no_size: 420 Mm Width 350 Mm Height 500 Mm Depth Tote
+name_no_size_short: 420 Mm Width 350 Mm Height 500 Mm Depth Tote
+name_no_type: Water Chiller 420 Mm Width 350 Mm Height 500 Mm Depth Tote
+oomp_key: oomp_category_tool_water_chiller_420_mm_width_350_mm_height_500_mm_depth_tote
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorytool
+size: water_chiller
+size_capital: Water Chiller
+size_first_letter: w
+size_first_letter_upper: W
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: WATER_CHILLER
+type: tool
+type_capital: Tool
+type_first_letter: t
+type_first_letter_upper: T
+type_upper: TOOL

@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_mechanical
+description_extra: tote
+description_extra_capital: Tote
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TOTE
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_mechanical_solenoid_tote
+distributors: []
+filter: ''
+from_yaml: false
+id: category_mechanical_solenoid_tote
+id_no_class: mechanical_solenoid_tote
+id_no_size: tote
+id_no_type: solenoid_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_solenoid_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_solenoid_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_solenoid_tote
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_mechanical_solenoid_tote](none)<br>[](none)<br>[Category
+    Mechanical Solenoid Tote](none)<br><br>'
+markdown_short: '[category_mechanical_solenoid_tote](none)<br><br>'
+md5: ff60d2e467a97c925b25ec7ec5bf2ac7
+md5_10: ff60d2e467
+md5_10_upper: FF60D2E467
+md5_5: ff60d
+md5_5_upper: FF60D
+md5_6: ff60d2
+md5_6_alpha: 9ypxu
+md5_6_alpha_upper: 9YPXU
+md5_6_upper: FF60D2
+name: Category Mechanical Solenoid Tote
+name_no_class: Mechanical Solenoid Tote
+name_no_size: Tote
+name_no_size_short: Tote
+name_no_type: Solenoid Tote
+oomp_key: oomp_category_mechanical_solenoid_tote
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorymechanical
+size: solenoid
+size_capital: Solenoid
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SOLENOID
+type: mechanical
+type_capital: Mechanical
+type_first_letter: m
+type_first_letter_upper: M
+type_upper: MECHANICAL

@@ -1,0 +1,80 @@
+classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_upper: ELECTRONIC
+color: rainbow_color
+color_capital: Rainbow Color
+color_first_letter: r
+color_first_letter_upper: R
+color_upper: RAINBOW_COLOR
+description_extra: 200_mm_length
+description_extra_capital: 200 mm Length
+description_extra_first_letter: '2'
+description_extra_first_letter_upper: '2'
+description_extra_upper: 200_MM_LENGTH
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'R '
+description_or_color_upper: 'R '
+directory: parts/electronic_prototyping_jumper_wire_2_54_mm_dupont_plug_to_plug_rainbow_color_200_mm_length
+distributors: []
+filter: ''
+from_yaml: false
+id: electronic_prototyping_jumper_wire_2_54_mm_dupont_plug_to_plug_rainbow_color_200_mm_length
+id_no_class: prototyping_jumper_wire_2_54_mm_dupont_plug_to_plug_rainbow_color_200_mm_length
+id_no_size: rainbow_color_200_mm_length
+id_no_type: 2_54_mm_dupont_plug_to_plug_rainbow_color_200_mm_length
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_prototyping_jumper_wire_2_54_mm_dupont_plug_to_plug_rainbow_color_200_mm_length
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_prototyping_jumper_wire_2_54_mm_dupont_plug_to_plug_rainbow_color_200_mm_length
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_prototyping_jumper_wire_2_54_mm_dupont_plug_to_plug_rainbow_color_200_mm_length
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[electronic_prototyping_jumper_wire_2_54_mm_dupont_plug_to_plug_rainbow_color_200_mm_length](none)<br>[](none)<br>[Electronic
+    Prototyping Jumper Wire 2 54 Mm Dupont Plug To Plug Rainbow Color 200 Mm Length](none)<br><br>'
+markdown_short: '[electronic_prototyping_jumper_wire_2_54_mm_dupont_plug_to_plug_rainbow_color_200_mm_length](none)<br><br>'
+md5: 6fb213e472debaa9cf8035e135552e79
+md5_10: 6fb213e472
+md5_10_upper: 6FB213E472
+md5_5: 6fb21
+md5_5_upper: 6FB21
+md5_6: 6fb213
+md5_6_alpha: 4cw7n
+md5_6_alpha_upper: 4CW7N
+md5_6_upper: 6FB213
+name: Electronic Prototyping Jumper Wire 2 54 Mm Dupont Plug To Plug Rainbow Color
+    200 Mm Length
+name_no_class: Prototyping Jumper Wire 2 54 Mm Dupont Plug To Plug Rainbow Color 200
+    Mm Length
+name_no_size: Rainbow Color 200 Mm Length
+name_no_size_short: Rainbow Color 200 Mm Length
+name_no_type: 2 54 Mm Dupont Plug To Plug Rainbow Color 200 Mm Length
+oomp_key: oomp_electronic_prototyping_jumper_wire_2_54_mm_dupont_plug_to_plug_rainbow_color_200_mm_length
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: 2_54_mm_dupont_plug_to_plug
+size_capital: 2.54 mm Dupont Plug To Plug
+size_first_letter: '2'
+size_first_letter_upper: '2'
+size_only_numbers: '254'
+size_only_numbers_no_zeros: '254'
+size_upper: 2_54_MM_DUPONT_PLUG_TO_PLUG
+type: prototyping_jumper_wire
+type_capital: Prototyping Jumper Wire
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PROTOTYPING_JUMPER_WIRE

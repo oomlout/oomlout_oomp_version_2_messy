@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: noodle
+color_capital: Noodle
+color_first_letter: n
+color_first_letter_upper: N
+color_upper: NOODLE
+description: category_food
+description_extra: tote
+description_extra_capital: Tote
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TOTE
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'N '
+description_or_color_upper: 'N '
+directory: parts/category_food_starch_noodle_tote
+distributors: []
+filter: ''
+from_yaml: false
+id: category_food_starch_noodle_tote
+id_no_class: food_starch_noodle_tote
+id_no_size: noodle_tote
+id_no_type: starch_noodle_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_starch_noodle_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_starch_noodle_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_starch_noodle_tote
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_food_starch_noodle_tote](none)<br>[](none)<br>[Category
+    Food Starch Noodle Tote](none)<br><br>'
+markdown_short: '[category_food_starch_noodle_tote](none)<br><br>'
+md5: e368122215df7a13c08887a5d1e9b7e4
+md5_10: e368122215
+md5_10_upper: E368122215
+md5_5: e3681
+md5_5_upper: E3681
+md5_6: e36812
+md5_6_alpha: 8vfgy
+md5_6_alpha_upper: 8VFGY
+md5_6_upper: E36812
+name: Category Food Starch Noodle Tote
+name_no_class: Food Starch Noodle Tote
+name_no_size: Noodle Tote
+name_no_size_short: Noodle Tote
+name_no_type: Starch Noodle Tote
+oomp_key: oomp_category_food_starch_noodle_tote
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryfood
+size: starch
+size_capital: Starch
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: STARCH
+type: food
+type_capital: Food
+type_first_letter: f
+type_first_letter_upper: F
+type_upper: FOOD

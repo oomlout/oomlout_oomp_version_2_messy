@@ -1,0 +1,81 @@
+classification: hardware
+classification_capital: Hardware
+classification_first_letter: h
+classification_first_letter_upper: H
+classification_upper: HARDWARE
+color: m3_donut
+color_capital: M3 Donut
+color_first_letter: m
+color_first_letter_upper: M
+color_upper: M3_DONUT
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 5_mm_diameter_1_mm_hole_diameter_1_5_mm_depth
+description_main_capital: 5 mm Diameter 1 mm Hole Diameter 1.5 mm Depth
+description_main_first_letter: '5'
+description_main_first_letter_upper: '5'
+description_main_upper: 5_MM_DIAMETER_1_MM_HOLE_DIAMETER_1_5_MM_DEPTH
+description_only_numbers: '5115'
+description_only_numbers_short: 5k1
+description_or_color: M5k1
+description_or_color_upper: M5K1
+diameter: 5
+directory: parts/hardware_magnet_donut_m3_donut_5_mm_diameter_1_mm_hole_diameter_1_5_mm_depth
+distributors: []
+filter: ''
+from_yaml: false
+hole_diameter: 1
+id: hardware_magnet_donut_m3_donut_5_mm_diameter_1_mm_hole_diameter_1_5_mm_depth
+id_no_class: magnet_donut_m3_donut_5_mm_diameter_1_mm_hole_diameter_1_5_mm_depth
+id_no_size: m3_5_mm_diameter_1_mm_hole_diameter_1_5_mm_depth
+id_no_type: donut_m3_donut_5_mm_diameter_1_mm_hole_diameter_1_5_mm_depth
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_magnet_donut_m3_donut_5_mm_diameter_1_mm_hole_diameter_1_5_mm_depth
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_magnet_donut_m3_donut_5_mm_diameter_1_mm_hole_diameter_1_5_mm_depth
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_magnet_donut_m3_donut_5_mm_diameter_1_mm_hole_diameter_1_5_mm_depth
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[hardware_magnet_donut_m3_donut_5_mm_diameter_1_mm_hole_diameter_1_5_mm_depth](none)<br>[](none)<br>[Hardware
+    Magnet Donut M3 Donut 5 Mm Diameter 1 Mm Hole Diameter 1 5 Mm Depth](none)<br><br>'
+markdown_short: '[hardware_magnet_donut_m3_donut_5_mm_diameter_1_mm_hole_diameter_1_5_mm_depth](none)<br><br>'
+md5: c9fcd1734157b2686bfa1dedfda177fd
+md5_10: c9fcd17341
+md5_10_upper: C9FCD17341
+md5_5: c9fcd
+md5_5_upper: C9FCD
+md5_6: c9fcd1
+md5_6_alpha: 7vq35
+md5_6_alpha_upper: 7VQ35
+md5_6_upper: C9FCD1
+name: Hardware Magnet Donut M3 Donut 5 Mm Diameter 1 Mm Hole Diameter 1 5 Mm Depth
+name_no_class: Magnet Donut M3 Donut 5 Mm Diameter 1 Mm Hole Diameter 1 5 Mm Depth
+name_no_size: M3 5 Mm Diameter 1 Mm Hole Diameter 1 5 Mm Depth
+name_no_size_short: M3 5 Mm Diameter 1 Mm Hole Diameter 1 5 Mm Depth
+name_no_type: Donut M3 Donut 5 Mm Diameter 1 Mm Hole Diameter 1 5 Mm Depth
+oomp_key: oomp_hardware_magnet_donut_m3_donut_5_mm_diameter_1_mm_hole_diameter_1_5_mm_depth
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: donut
+size_capital: Donut
+size_first_letter: d
+size_first_letter_upper: D
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: DONUT
+thickness: 1.5
+type: magnet
+type_capital: Magnet
+type_first_letter: m
+type_first_letter_upper: M
+type_upper: MAGNET

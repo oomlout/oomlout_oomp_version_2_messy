@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: microsoft_surface
+color_capital: Microsoft Surface
+color_first_letter: m
+color_first_letter_upper: M
+color_upper: MICROSOFT_SURFACE
+description: category_computer
+description_extra: cubby_box
+description_extra_capital: Cubby Box
+description_extra_first_letter: c
+description_extra_first_letter_upper: C
+description_extra_upper: CUBBY_BOX
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'M '
+description_or_color_upper: 'M '
+directory: parts/category_computer_docking_station_microsoft_surface_cubby_box
+distributors: []
+filter: ''
+from_yaml: false
+id: category_computer_docking_station_microsoft_surface_cubby_box
+id_no_class: computer_docking_station_microsoft_surface_cubby_box
+id_no_size: microsoft_surface_cubby_box
+id_no_type: docking_station_microsoft_surface_cubby_box
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_docking_station_microsoft_surface_cubby_box
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_docking_station_microsoft_surface_cubby_box
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_docking_station_microsoft_surface_cubby_box
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_computer_docking_station_microsoft_surface_cubby_box](none)<br>[](none)<br>[Category
+    Computer Docking Station Microsoft Surface Cubby Box](none)<br><br>'
+markdown_short: '[category_computer_docking_station_microsoft_surface_cubby_box](none)<br><br>'
+md5: ca0cca3bcc5bea7fb817478f3e619e22
+md5_10: ca0cca3bcc
+md5_10_upper: CA0CCA3BCC
+md5_5: ca0cc
+md5_5_upper: CA0CC
+md5_6: ca0cca
+md5_6_alpha: 7vt8q
+md5_6_alpha_upper: 7VT8Q
+md5_6_upper: CA0CCA
+name: Category Computer Docking Station Microsoft Surface Cubby Box
+name_no_class: Computer Docking Station Microsoft Surface Cubby Box
+name_no_size: Microsoft Surface Cubby Box
+name_no_size_short: Microsoft Surface Cubby Box
+name_no_type: Docking Station Microsoft Surface Cubby Box
+oomp_key: oomp_category_computer_docking_station_microsoft_surface_cubby_box
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorycomputer
+size: docking_station
+size_capital: Docking Station
+size_first_letter: d
+size_first_letter_upper: D
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: DOCKING_STATION
+type: computer
+type_capital: Computer
+type_first_letter: c
+type_first_letter_upper: C
+type_upper: COMPUTER

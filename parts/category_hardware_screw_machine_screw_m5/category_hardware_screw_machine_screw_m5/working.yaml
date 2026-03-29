@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: m5
+color_capital: M5
+color_first_letter: m
+color_first_letter_upper: M
+color_upper: M5
+description: category_hardware
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'M '
+description_or_color_upper: 'M '
+directory: parts/category_hardware_screw_machine_screw_m5
+distributors: []
+filter: ''
+from_yaml: false
+id: category_hardware_screw_machine_screw_m5
+id_no_class: hardware_screw_machine_screw_m5
+id_no_size: m5
+id_no_type: screw_machine_screw_m5
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_screw_machine_screw_m5
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_screw_machine_screw_m5
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_screw_machine_screw_m5
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_hardware_screw_machine_screw_m5](none)<br>[](none)<br>[Category
+    Hardware Screw Machine Screw M5](none)<br><br>'
+markdown_short: '[category_hardware_screw_machine_screw_m5](none)<br><br>'
+md5: d7b57bea7f4316db07487b32dd805d0a
+md5_10: d7b57bea7f
+md5_10_upper: D7B57BEA7F
+md5_5: d7b57
+md5_5_upper: D7B57
+md5_6: d7b57b
+md5_6_alpha: 8ezy3
+md5_6_alpha_upper: 8EZY3
+md5_6_upper: D7B57B
+name: Category Hardware Screw Machine Screw M5
+name_no_class: Hardware Screw Machine Screw M5
+name_no_size: M5
+name_no_size_short: M5
+name_no_type: Screw Machine Screw M5
+oomp_key: oomp_category_hardware_screw_machine_screw_m5
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryhardware
+size: screw_machine_screw
+size_capital: Screw Machine Screw
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SCREW_MACHINE_SCREW
+type: hardware
+type_capital: Hardware
+type_first_letter: h
+type_first_letter_upper: H
+type_upper: HARDWARE

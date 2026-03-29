@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_household_toy
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_household_toy
+distributors: []
+filter: ''
+from_yaml: false
+id: category_household_toy
+id_no_class: household_toy
+id_no_size: householdtoy
+id_no_type: household_toy
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_toy
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_toy
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_toy
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_household_toy](none)<br>[](none)<br>[Category Household
+    Toy](none)<br><br>'
+markdown_short: '[category_household_toy](none)<br><br>'
+md5: fd8e0af35976edf633913abe7ff46bd5
+md5_10: fd8e0af359
+md5_10_upper: FD8E0AF359
+md5_5: fd8e0
+md5_5_upper: FD8E0
+md5_6: fd8e0a
+md5_6_alpha: 9w5qi
+md5_6_alpha_upper: 9W5QI
+md5_6_upper: FD8E0A
+name: Category Household Toy
+name_no_class: Household Toy
+name_no_size: Householdtoy
+name_no_size_short: Householdtoy
+name_no_type: Household Toy
+oomp_key: oomp_category_household_toy
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryhouseholdtoy
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: household_toy
+type_capital: Household Toy
+type_first_letter: h
+type_first_letter_upper: H
+type_upper: HOUSEHOLD_TOY

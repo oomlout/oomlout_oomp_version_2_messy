@@ -1,0 +1,81 @@
+classification: food
+classification_capital: Food
+classification_first_letter: f
+classification_first_letter_upper: F
+classification_upper: FOOD
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: coriander
+description_extra: 42_mm_width_42_mm_height_100_mm_depth_bottle
+description_extra_capital: 42 mm Width 42 mm Height 100 mm Depth Bottle
+description_extra_first_letter: '4'
+description_extra_first_letter_upper: '4'
+description_extra_upper: 42_MM_WIDTH_42_MM_HEIGHT_100_MM_DEPTH_BOTTLE
+description_main: coriander
+description_main_capital: Coriander
+description_main_first_letter: c
+description_main_first_letter_upper: C
+description_main_upper: CORIANDER
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/food_seasoning_herb_coriander_42_mm_width_42_mm_height_100_mm_depth_bottle_tesco
+distributors: []
+filter: ''
+from_yaml: false
+id: food_seasoning_herb_coriander_42_mm_width_42_mm_height_100_mm_depth_bottle_tesco
+id_no_class: seasoning_herb_coriander_42_mm_width_42_mm_height_100_mm_depth_bottle_tesco
+id_no_size: coriander_42_mm_width_42_mm_height_100_mm_depth_bottle_tesco
+id_no_type: herb_coriander_42_mm_width_42_mm_height_100_mm_depth_bottle_tesco
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_herb_coriander_42_mm_width_42_mm_height_100_mm_depth_bottle_tesco
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_herb_coriander_42_mm_width_42_mm_height_100_mm_depth_bottle_tesco
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_herb_coriander_42_mm_width_42_mm_height_100_mm_depth_bottle_tesco
+manufacturer: tesco
+manufacturer_capital: Tesco
+manufacturer_first_letter: t
+manufacturer_first_letter_upper: T
+manufacturer_upper: TESCO
+manufacturers: []
+markdown_full: '[food_seasoning_herb_coriander_42_mm_width_42_mm_height_100_mm_depth_bottle_tesco](none)<br>[](none)<br>[Food
+    Seasoning Herb Coriander 42 Mm Width 42 Mm Height 100 Mm Depth Bottle Tesco](none)<br><br>'
+markdown_short: '[food_seasoning_herb_coriander_42_mm_width_42_mm_height_100_mm_depth_bottle_tesco](none)<br><br>'
+md5: a9420a7d7633f26471260d27c5b80752
+md5_10: a9420a7d76
+md5_10_upper: A9420A7D76
+md5_5: a9420
+md5_5_upper: A9420
+md5_6: a9420a
+md5_6_alpha: 6lr0q
+md5_6_alpha_upper: 6LR0Q
+md5_6_upper: A9420A
+name: Food Seasoning Herb Coriander 42 Mm Width 42 Mm Height 100 Mm Depth Bottle Tesco
+name_no_class: Seasoning Herb Coriander 42 Mm Width 42 Mm Height 100 Mm Depth Bottle
+    Tesco
+name_no_size: Coriander 42 Mm Width 42 Mm Height 100 Mm Depth Bottle Tesco
+name_no_size_short: Coriander 42 Mm Width 42 Mm Height 100 Mm Depth Bottle Tesco
+name_no_type: Herb Coriander 42 Mm Width 42 Mm Height 100 Mm Depth Bottle Tesco
+name_short: Coriander
+oomp_key: oomp_food_seasoning_herb_coriander_42_mm_width_42_mm_height_100_mm_depth_bottle_tesco
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: herb
+size_capital: Herb
+size_first_letter: h
+size_first_letter_upper: H
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: HERB
+type: seasoning
+type_capital: Seasoning
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: SEASONING

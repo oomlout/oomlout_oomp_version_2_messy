@@ -1,0 +1,78 @@
+classification: sheet_stock
+classification_capital: Sheet Stock
+classification_first_letter: s
+classification_first_letter_upper: S
+classification_upper: SHEET_STOCK
+color: black
+color_capital: Black
+color_first_letter: b
+color_first_letter_upper: B
+color_upper: BLACK
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'B '
+description_or_color_upper: 'B '
+directory: parts/sheet_stock_acrylic_3mm_depth_black
+distributors: []
+filter: ''
+from_yaml: false
+id: sheet_stock_acrylic_3mm_depth_black
+id_no_class: acrylic_3mm_depth_black
+id_no_size: black
+id_no_type: 3mm_depth_black
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/sheet_stock_acrylic_3mm_depth_black
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/sheet_stock_acrylic_3mm_depth_black
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/sheet_stock_acrylic_3mm_depth_black
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[sheet_stock_acrylic_3mm_depth_black](none)<br>[b](none)<br>[Sheet
+    Stock Acrylic 3Mm Depth Black](none)<br><br>'
+markdown_short: '[sheet_stock_acrylic_3mm_depth_black](none)<br><br>'
+md5: bb0eac78508a776b171581d652e5511d
+md5_10: bb0eac7850
+md5_10_upper: BB0EAC7850
+md5_5: bb0ea
+md5_5_upper: BB0EA
+md5_6: bb0eac
+md5_6_alpha: 7ar3g
+md5_6_alpha_upper: 7AR3G
+md5_6_upper: BB0EAC
+name: Sheet Stock Acrylic 3Mm Depth Black
+name_no_class: Acrylic 3Mm Depth Black
+name_no_size: Black
+name_no_size_short: Black
+name_no_type: 3Mm Depth Black
+oomp_key: oomp_sheet_stock_acrylic_3mm_depth_black
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: b
+short_code_upper: B
+size: 3mm_depth
+size_capital: 3mm Depth
+size_first_letter: '3'
+size_first_letter_upper: '3'
+size_only_numbers: '3'
+size_only_numbers_no_zeros: '3'
+size_upper: 3MM_DEPTH
+type: acrylic
+type_capital: Acrylic
+type_first_letter: a
+type_first_letter_upper: A
+type_upper: ACRYLIC

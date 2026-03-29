@@ -1,0 +1,81 @@
+classification: electronic_consumer
+classification_capital: Electronic Consumer
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_upper: ELECTRONIC_CONSUMER
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 91_5_mm_width_59_mm_height_29_5_mm_depth
+description_main_capital: 91.5 mm Width 59 mm Height 29.5 mm Depth
+description_main_first_letter: '9'
+description_main_first_letter_upper: '9'
+description_main_upper: 91_5_MM_WIDTH_59_MM_HEIGHT_29_5_MM_DEPTH
+description_only_numbers: '91559295'
+description_only_numbers_short: 9M1
+description_or_color: 9M1
+description_or_color_upper: 9M1
+directory: parts/electronic_consumer_charger_usb_4_port_91_5_mm_width_59_mm_height_29_5_mm_depth_ravpower_rp_pc024
+distributors: []
+id: electronic_consumer_charger_usb_4_port_91_5_mm_width_59_mm_height_29_5_mm_depth_ravpower_rp_pc024
+id_no_class: charger_usb_4_port_91_5_mm_width_59_mm_height_29_5_mm_depth_ravpower_rp_pc024
+id_no_size: 91_5_mm_width_59_mm_height_29_5_mm_depth_ravpower_rp_pc024
+id_no_type: 4_port_91_5_mm_width_59_mm_height_29_5_mm_depth_ravpower_rp_pc024
+link_distributor_ravpower: https://cdn.shopify.com/s/files/1/0257/5656/5579/files/RP-PC024_User_Manual.pdf?28651
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_consumer_charger_usb_4_port_91_5_mm_width_59_mm_height_29_5_mm_depth_ravpower_rp_pc024
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_consumer_charger_usb_4_port_91_5_mm_width_59_mm_height_29_5_mm_depth_ravpower_rp_pc024
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_consumer_charger_usb_4_port_91_5_mm_width_59_mm_height_29_5_mm_depth_ravpower_rp_pc024
+manufacturer: ravpower
+manufacturer_capital: Ravpower
+manufacturer_first_letter: r
+manufacturer_first_letter_upper: R
+manufacturer_upper: RAVPOWER
+manufacturers: []
+markdown_full: '[electronic_consumer_charger_usb_4_port_91_5_mm_width_59_mm_height_29_5_mm_depth_ravpower_rp_pc024](none)<br>[](none)<br>[Electronic
+    Consumer Charger Usb 4 Port 91 5 Mm Width 59 Mm Height 29 5 Mm Depth Ravpower
+    Rp Pc024](none)<br><br>'
+markdown_short: '[electronic_consumer_charger_usb_4_port_91_5_mm_width_59_mm_height_29_5_mm_depth_ravpower_rp_pc024](none)<br><br>'
+md5: d95754c26b85c97336b57b51e33e23f9
+md5_10: d95754c26b
+md5_10_upper: D95754C26B
+md5_5: d9575
+md5_5_upper: D9575
+md5_6: d95754
+md5_6_alpha: 8hahg
+md5_6_alpha_upper: 8HAHG
+md5_6_upper: D95754
+name: Electronic Consumer Charger Usb 4 Port 91 5 Mm Width 59 Mm Height 29 5 Mm Depth
+    Ravpower Rp Pc024
+name_no_class: Charger Usb 4 Port 91 5 Mm Width 59 Mm Height 29 5 Mm Depth Ravpower
+    Rp Pc024
+name_no_size: 91 5 Mm Width 59 Mm Height 29 5 Mm Depth Ravpower Rp Pc024
+name_no_size_short: 91 5 Mm Width 59 Mm Height 29 5 Mm Depth Ravpower Rp Pc024
+name_no_type: 4 Port 91 5 Mm Width 59 Mm Height 29 5 Mm Depth Ravpower Rp Pc024
+oomp_key: oomp_electronic_consumer_charger_usb_4_port_91_5_mm_width_59_mm_height_29_5_mm_depth_ravpower_rp_pc024
+part_number: rp_pc024
+part_number_capital: Rp Pc024
+part_number_exact: RP-PC024
+part_number_first_letter: r
+part_number_first_letter_upper: R
+part_number_upper: RP_PC024
+short_code: ''
+short_code_upper: ''
+size: 4_port
+size_capital: 4 Port
+size_first_letter: '4'
+size_first_letter_upper: '4'
+size_only_numbers: '4'
+size_only_numbers_no_zeros: '4'
+size_upper: 4_PORT
+type: charger_usb
+type_capital: Charger Usb
+type_first_letter: c
+type_first_letter_upper: C
+type_upper: CHARGER_USB

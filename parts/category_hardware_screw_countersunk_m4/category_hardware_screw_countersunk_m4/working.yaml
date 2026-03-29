@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: m4
+color_capital: M4
+color_first_letter: m
+color_first_letter_upper: M
+color_upper: M4
+description: category_hardware
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'M '
+description_or_color_upper: 'M '
+directory: parts/category_hardware_screw_countersunk_m4
+distributors: []
+filter: ''
+from_yaml: false
+id: category_hardware_screw_countersunk_m4
+id_no_class: hardware_screw_countersunk_m4
+id_no_size: m4
+id_no_type: screw_countersunk_m4
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_screw_countersunk_m4
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_screw_countersunk_m4
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_screw_countersunk_m4
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_hardware_screw_countersunk_m4](none)<br>[](none)<br>[Category
+    Hardware Screw Countersunk M4](none)<br><br>'
+markdown_short: '[category_hardware_screw_countersunk_m4](none)<br><br>'
+md5: bf6a4da8b9f3723d68ec32057feab743
+md5_10: bf6a4da8b9
+md5_10_upper: BF6A4DA8B9
+md5_5: bf6a4
+md5_5_upper: BF6A4
+md5_6: bf6a4d
+md5_6_alpha: 7gvgt
+md5_6_alpha_upper: 7GVGT
+md5_6_upper: BF6A4D
+name: Category Hardware Screw Countersunk M4
+name_no_class: Hardware Screw Countersunk M4
+name_no_size: M4
+name_no_size_short: M4
+name_no_type: Screw Countersunk M4
+oomp_key: oomp_category_hardware_screw_countersunk_m4
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryhardware
+size: screw_countersunk
+size_capital: Screw Countersunk
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SCREW_COUNTERSUNK
+type: hardware
+type_capital: Hardware
+type_first_letter: h
+type_first_letter_upper: H
+type_upper: HARDWARE

@@ -1,0 +1,79 @@
+classification: garden
+classification_capital: Garden
+classification_first_letter: g
+classification_first_letter_upper: G
+classification_upper: GARDEN
+color: sweet_pea
+color_capital: Sweet Pea
+color_first_letter: s
+color_first_letter_upper: S
+color_upper: SWEET_PEA
+description_extra: seed_packet
+description_extra_capital: Seed Packet
+description_extra_first_letter: s
+description_extra_first_letter_upper: S
+description_extra_upper: SEED_PACKET
+description_main: scentsational_mix
+description_main_capital: Scentsational Mix
+description_main_first_letter: s
+description_main_first_letter_upper: S
+description_main_upper: SCENTSATIONAL_MIX
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'S '
+description_or_color_upper: 'S '
+directory: parts/garden_plant_flower_sweet_pea_scentsational_mix_seed_packet
+distributor_sutton_seeds: '133275'
+distributors: []
+id: garden_plant_flower_sweet_pea_scentsational_mix_seed_packet
+id_no_class: plant_flower_sweet_pea_scentsational_mix_seed_packet
+id_no_size: sweet_pea_scentsational_mix_seed_packet
+id_no_type: flower_sweet_pea_scentsational_mix_seed_packet
+link_distributor_sutton_seeds: https://www.suttons.co.uk/SUSGWE348/sweet-pea-scentsational-mix-seeds_mh13761
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/garden_plant_flower_sweet_pea_scentsational_mix_seed_packet
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/garden_plant_flower_sweet_pea_scentsational_mix_seed_packet
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/garden_plant_flower_sweet_pea_scentsational_mix_seed_packet
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[garden_plant_flower_sweet_pea_scentsational_mix_seed_packet](none)<br>[](none)<br>[Garden
+    Plant Flower Sweet Pea Scentsational Mix Seed Packet](none)<br><br>'
+markdown_short: '[garden_plant_flower_sweet_pea_scentsational_mix_seed_packet](none)<br><br>'
+md5: 0c2bffb0d0d1a9b209fdcee8c8c8aa17
+md5_10: 0c2bffb0d0
+md5_10_upper: 0C2BFFB0D0
+md5_5: 0c2bf
+md5_5_upper: 0C2BF
+md5_6: 0c2bff
+md5_6_alpha: h3i7
+md5_6_alpha_upper: H3I7
+md5_6_upper: 0C2BFF
+name: Garden Plant Flower Sweet Pea Scentsational Mix Seed Packet
+name_no_class: Plant Flower Sweet Pea Scentsational Mix Seed Packet
+name_no_size: Sweet Pea Scentsational Mix Seed Packet
+name_no_size_short: Sweet Pea Scentsational Mix Seed Packet
+name_no_type: Flower Sweet Pea Scentsational Mix Seed Packet
+oomp_key: oomp_garden_plant_flower_sweet_pea_scentsational_mix_seed_packet
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: flower
+size_capital: Flower
+size_first_letter: f
+size_first_letter_upper: F
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: FLOWER
+type: plant
+type_capital: Plant
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PLANT

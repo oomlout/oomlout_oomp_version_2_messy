@@ -1,0 +1,81 @@
+classification: paper
+classification_capital: Paper
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_upper: PAPER
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/paper_envelope_c4_size_324_mm_width_229_mm_height_fits_a4_sheet
+distributors: []
+filter: ''
+from_yaml: false
+height: 229 mm
+id: paper_envelope_c4_size_324_mm_width_229_mm_height_fits_a4_sheet
+id_no_class: envelope_c4_size_324_mm_width_229_mm_height_fits_a4_sheet
+id_no_size: c4_size_324_mm_width_229_mm_height_fits_a4_sheet
+id_no_type: c4_size_324_mm_width_229_mm_height_fits_a4_sheet
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_envelope_c4_size_324_mm_width_229_mm_height_fits_a4_sheet
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_envelope_c4_size_324_mm_width_229_mm_height_fits_a4_sheet
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_envelope_c4_size_324_mm_width_229_mm_height_fits_a4_sheet
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[paper_envelope_c4_size_324_mm_width_229_mm_height_fits_a4_sheet](none)<br>[](none)<br>[Paper
+    Envelope C4 Size 324 Mm Width 229 Mm Height Fits A4 Sheet](none)<br><br>'
+markdown_short: '[paper_envelope_c4_size_324_mm_width_229_mm_height_fits_a4_sheet](none)<br><br>'
+md5: 5745b77375d625826d33087a8fac30fd
+md5_10: 5745b77375
+md5_10_upper: 5745B77375
+md5_5: 5745b
+md5_5_upper: 5745B
+md5_6: 5745b7
+md5_6_alpha: 3el6f
+md5_6_alpha_upper: 3EL6F
+md5_6_upper: 5745B7
+name: Paper Envelope C4 Size 324 Mm Width 229 Mm Height Fits A4 Sheet
+name_no_class: Envelope C4 Size 324 Mm Width 229 Mm Height Fits A4 Sheet
+name_no_size: C4 Size 324 Mm Width 229 Mm Height Fits A4 Sheet
+name_no_size_short: C4 Size 324 Mm Width 229 Mm Height Fits A4 Sheet
+name_no_type: C4 Size 324 Mm Width 229 Mm Height Fits A4 Sheet
+oomp_key: oomp_paper_envelope_c4_size_324_mm_width_229_mm_height_fits_a4_sheet
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: C4 Envelope
+size: c4_size_324_mm_width_229_mm_height_fits_a4_sheet
+size_capital: C4 Size 324 mm Width 229 mm Height Fits A4 Sheet
+size_first_letter: c
+size_first_letter_upper: C
+size_only_numbers: '43242294'
+size_only_numbers_no_zeros: '43242294'
+size_upper: C4_SIZE_324_MM_WIDTH_229_MM_HEIGHT_FITS_A4_SHEET
+type: envelope
+type_capital: Envelope
+type_first_letter: e
+type_first_letter_upper: E
+type_upper: ENVELOPE
+width: 324 mm

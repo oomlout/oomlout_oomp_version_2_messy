@@ -1,0 +1,80 @@
+classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_upper: ELECTRONIC
+color: blue
+color_capital: Blue
+color_first_letter: b
+color_first_letter_upper: B
+color_upper: BLUE
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: tint
+description_main_capital: Tint
+description_main_first_letter: t
+description_main_first_letter_upper: T
+description_main_upper: TINT
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'B '
+description_or_color_upper: 'B '
+directory: parts/electronic_led_3_mm_blue_tint
+distributors: []
+filter: ''
+from_yaml: false
+id: electronic_led_3_mm_blue_tint
+id_no_class: led_3_mm_blue_tint
+id_no_size: blue_tint
+id_no_type: 3_mm_blue_tint
+kicad_reference: L
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_3_mm_blue_tint
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_3_mm_blue_tint
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_3_mm_blue_tint
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[electronic_led_3_mm_blue_tint](none)<br>[l3l](none)<br>[Electronic
+    Led 3 Mm Blue Tint](none)<br><br>'
+markdown_short: '[electronic_led_3_mm_blue_tint](none)<br><br>'
+md5: 89f236bf3542b3d51cae07b06d8d7c9b
+md5_10: 89f236bf35
+md5_10_upper: 89F236BF35
+md5_5: 89f23
+md5_5_upper: 89F23
+md5_6: 89f236
+md5_6_alpha: 5drna
+md5_6_alpha_upper: 5DRNA
+md5_6_upper: 89F236
+name: Electronic Led 3 Mm Blue Tint
+name_no_class: Led 3 Mm Blue Tint
+name_no_size: Blue Tint
+name_no_size_short: Blue Tint
+name_no_type: 3 Mm Blue Tint
+oomp_key: oomp_electronic_led_3_mm_blue_tint
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: l3l
+short_code_upper: L3L
+short_name: 3 Mm Bluetint Led
+size: 3_mm
+size_capital: 3 mm
+size_first_letter: '3'
+size_first_letter_upper: '3'
+size_only_numbers: '3'
+size_only_numbers_no_zeros: '3'
+size_upper: 3_MM
+type: led
+type_capital: Led
+type_first_letter: l
+type_first_letter_upper: L
+type_upper: LED

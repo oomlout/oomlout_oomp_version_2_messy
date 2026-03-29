@@ -1,0 +1,78 @@
+classification: clothes
+classification_capital: Clothes
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CLOTHES
+color: double_extra_large
+color_capital: Double Extra Large
+color_first_letter: d
+color_first_letter_upper: D
+color_upper: DOUBLE_EXTRA_LARGE
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: teal
+description_main_capital: Teal
+description_main_first_letter: t
+description_main_first_letter_upper: T
+description_main_upper: TEAL
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'D '
+description_or_color_upper: 'D '
+directory: parts/clothes_item_coat_double_extra_large_teal
+distributors: []
+filter: ''
+from_yaml: false
+id: clothes_item_coat_double_extra_large_teal
+id_no_class: item_coat_double_extra_large_teal
+id_no_size: double_extra_large_teal
+id_no_type: coat_double_extra_large_teal
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_coat_double_extra_large_teal
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_coat_double_extra_large_teal
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_coat_double_extra_large_teal
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[clothes_item_coat_double_extra_large_teal](none)<br>[](none)<br>[Clothes
+    Item Coat Double Extra Large Teal](none)<br><br>'
+markdown_short: '[clothes_item_coat_double_extra_large_teal](none)<br><br>'
+md5: 9e2c8d07bca21257aa11967d8d0601e6
+md5_10: 9e2c8d07bc
+md5_10_upper: 9E2C8D07BC
+md5_5: 9e2c8
+md5_5_upper: 9E2C8
+md5_6: 9e2c8d
+md5_6_alpha: 666j1
+md5_6_alpha_upper: 666J1
+md5_6_upper: 9E2C8D
+name: Clothes Item Coat Double Extra Large Teal
+name_no_class: Item Coat Double Extra Large Teal
+name_no_size: Double Extra Large Teal
+name_no_size_short: Double Extra Large Teal
+name_no_type: Coat Double Extra Large Teal
+oomp_key: oomp_clothes_item_coat_double_extra_large_teal
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: coat
+size_capital: Coat
+size_first_letter: c
+size_first_letter_upper: C
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: COAT
+type: item
+type_capital: Item
+type_first_letter: i
+type_first_letter_upper: I
+type_upper: ITEM

@@ -1,0 +1,83 @@
+classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_upper: ELECTRONIC
+color: red
+color_capital: Red
+color_first_letter: r
+color_first_letter_upper: R
+color_upper: RED
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 80_mm_length
+description_main_capital: 80 mm Length
+description_main_first_letter: '8'
+description_main_first_letter_upper: '8'
+description_main_upper: 80_MM_LENGTH
+description_only_numbers: '80'
+description_only_numbers_short: '80'
+description_or_color: R80
+description_or_color_upper: R80
+directory: parts/electronic_led_filament_3_volt_red_80_mm_length
+distributors: []
+filter: ''
+from_yaml: false
+id: electronic_led_filament_3_volt_red_80_mm_length
+id_no_class: led_filament_3_volt_red_80_mm_length
+id_no_size: red_80_mm_length
+id_no_type: filament_3_volt_red_80_mm_length
+link_distributor_adafruit: https://www.adafruit.com/product/5509
+link_distributor_aliexpress: https://www.aliexpress.com/item/1005006222719149.html
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_filament_3_volt_red_80_mm_length
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_filament_3_volt_red_80_mm_length
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_filament_3_volt_red_80_mm_length
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[electronic_led_filament_3_volt_red_80_mm_length](none)<br>[lr80](none)<br>[Electronic
+    Led Filament 3 Volt Red 80 Mm Length](none)<br><br>'
+markdown_short: '[electronic_led_filament_3_volt_red_80_mm_length](none)<br><br>'
+md5: a4d6ccb69c1bf283b0c0eeec6e135845
+md5_10: a4d6ccb69c
+md5_10_upper: A4D6CCB69C
+md5_5: a4d6c
+md5_5_upper: A4D6C
+md5_6: a4d6cc
+md5_6_alpha: 6fjkc
+md5_6_alpha_upper: 6FJKC
+md5_6_upper: A4D6CC
+name: Electronic Led Filament 3 Volt Red 80 Mm Length
+name_no_class: Led Filament 3 Volt Red 80 Mm Length
+name_no_size: Red 80 Mm Length
+name_no_size_short: Red 80 Mm Length
+name_no_type: Filament 3 Volt Red 80 Mm Length
+oomp_key: oomp_electronic_led_filament_3_volt_red_80_mm_length
+part_number: ''
+part_number_capital: ''
+part_number_distriubutor_adafruit: '5509'
+part_number_distriubutor_aliexpress: '1005006222719149'
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: lr80
+short_code_upper: LR80
+short_name: Filament 3 Volt Red80 Mm Length Led
+size: filament_3_volt
+size_capital: Filament 3 Volt
+size_first_letter: f
+size_first_letter_upper: F
+size_only_numbers: '3'
+size_only_numbers_no_zeros: '3'
+size_upper: FILAMENT_3_VOLT
+type: led
+type_capital: Led
+type_first_letter: l
+type_first_letter_upper: L
+type_upper: LED

@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ikea_hemnes
+color_capital: Ikea Hemnes
+color_first_letter: i
+color_first_letter_upper: I
+color_upper: IKEA_HEMNES
+description: category_furniture
+description_extra: old
+description_extra_capital: Old
+description_extra_first_letter: o
+description_extra_first_letter_upper: O
+description_extra_upper: OLD
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'I '
+description_or_color_upper: 'I '
+directory: parts/category_furniture_shoe_cabinet_ikea_hemnes_old
+distributors: []
+filter: ''
+from_yaml: false
+id: category_furniture_shoe_cabinet_ikea_hemnes_old
+id_no_class: furniture_shoe_cabinet_ikea_hemnes_old
+id_no_size: ikea_hemnes_old
+id_no_type: shoe_cabinet_ikea_hemnes_old
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_furniture_shoe_cabinet_ikea_hemnes_old
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_furniture_shoe_cabinet_ikea_hemnes_old
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_furniture_shoe_cabinet_ikea_hemnes_old
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_furniture_shoe_cabinet_ikea_hemnes_old](none)<br>[](none)<br>[Category
+    Furniture Shoe Cabinet Ikea Hemnes Old](none)<br><br>'
+markdown_short: '[category_furniture_shoe_cabinet_ikea_hemnes_old](none)<br><br>'
+md5: 9d3cf6d082179c1746a889d5ed63ea6f
+md5_10: 9d3cf6d082
+md5_10_upper: 9D3CF6D082
+md5_5: 9d3cf
+md5_5_upper: 9D3CF
+md5_6: 9d3cf6
+md5_6_alpha: 64v7a
+md5_6_alpha_upper: 64V7A
+md5_6_upper: 9D3CF6
+name: Category Furniture Shoe Cabinet Ikea Hemnes Old
+name_no_class: Furniture Shoe Cabinet Ikea Hemnes Old
+name_no_size: Ikea Hemnes Old
+name_no_size_short: Ikea Hemnes Old
+name_no_type: Shoe Cabinet Ikea Hemnes Old
+oomp_key: oomp_category_furniture_shoe_cabinet_ikea_hemnes_old
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryfurniture
+size: shoe_cabinet
+size_capital: Shoe Cabinet
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SHOE_CABINET
+type: furniture
+type_capital: Furniture
+type_first_letter: f
+type_first_letter_upper: F
+type_upper: FURNITURE

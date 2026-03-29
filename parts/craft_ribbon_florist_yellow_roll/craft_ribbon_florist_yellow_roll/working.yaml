@@ -1,0 +1,77 @@
+classification: craft
+classification_capital: Craft
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CRAFT
+color: yellow
+color_capital: Yellow
+color_first_letter: y
+color_first_letter_upper: Y
+color_upper: YELLOW
+description_extra: roll
+description_extra_capital: Roll
+description_extra_first_letter: r
+description_extra_first_letter_upper: R
+description_extra_upper: ROLL
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'Y '
+description_or_color_upper: 'Y '
+directory: parts/craft_ribbon_florist_yellow_roll
+distributors: []
+id: craft_ribbon_florist_yellow_roll
+id_no_class: ribbon_florist_yellow_roll
+id_no_size: yellow_roll
+id_no_type: florist_yellow_roll
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/craft_ribbon_florist_yellow_roll
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/craft_ribbon_florist_yellow_roll
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/craft_ribbon_florist_yellow_roll
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[craft_ribbon_florist_yellow_roll](none)<br>[y](none)<br>[Craft Ribbon
+    Florist Yellow Roll](none)<br><br>'
+markdown_short: '[craft_ribbon_florist_yellow_roll](none)<br><br>'
+md5: 572d40a72aab0396bd6367e584083817
+md5_10: 572d40a72a
+md5_10_upper: 572D40A72A
+md5_5: 572d4
+md5_5_upper: 572D4
+md5_6: 572d40
+md5_6_alpha: 3egcg
+md5_6_alpha_upper: 3EGCG
+md5_6_upper: 572D40
+name: Craft Ribbon Florist Yellow Roll
+name_no_class: Ribbon Florist Yellow Roll
+name_no_size: Yellow Roll
+name_no_size_short: Yellow Roll
+name_no_type: Florist Yellow Roll
+oomp_key: oomp_craft_ribbon_florist_yellow_roll
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: y
+short_code_upper: Y
+short_name: ''
+size: florist
+size_capital: Florist
+size_first_letter: f
+size_first_letter_upper: F
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: FLORIST
+type: ribbon
+type_capital: Ribbon
+type_first_letter: r
+type_first_letter_upper: R
+type_upper: RIBBON

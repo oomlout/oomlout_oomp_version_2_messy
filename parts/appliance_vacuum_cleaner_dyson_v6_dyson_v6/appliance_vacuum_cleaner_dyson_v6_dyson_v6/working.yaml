@@ -1,0 +1,76 @@
+classification: appliance
+classification_capital: Appliance
+classification_first_letter: a
+classification_first_letter_upper: A
+classification_upper: APPLIANCE
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/appliance_vacuum_cleaner_dyson_v6_dyson_v6
+distributors: []
+id: appliance_vacuum_cleaner_dyson_v6_dyson_v6
+id_no_class: vacuum_cleaner_dyson_v6_dyson_v6
+id_no_size: dyson_v6
+id_no_type: dyson_v6_dyson_v6
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/appliance_vacuum_cleaner_dyson_v6_dyson_v6
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/appliance_vacuum_cleaner_dyson_v6_dyson_v6
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/appliance_vacuum_cleaner_dyson_v6_dyson_v6
+manufacturer: dyson
+manufacturer_capital: Dyson
+manufacturer_first_letter: d
+manufacturer_first_letter_upper: D
+manufacturer_upper: DYSON
+manufacturers: []
+markdown_full: '[appliance_vacuum_cleaner_dyson_v6_dyson_v6](none)<br>[](none)<br>[Appliance
+    Vacuum Cleaner Dyson V6 Dyson V6](none)<br><br>'
+markdown_short: '[appliance_vacuum_cleaner_dyson_v6_dyson_v6](none)<br><br>'
+md5: 5b17eeb50c6dc714e1a996626ebc0690
+md5_10: 5b17eeb50c
+md5_10_upper: 5B17EEB50C
+md5_5: 5b17e
+md5_5_upper: 5B17E
+md5_6: 5b17ee
+md5_6_alpha: 3jyem
+md5_6_alpha_upper: 3JYEM
+md5_6_upper: 5B17EE
+name: Appliance Vacuum Cleaner Dyson V6 Dyson V6
+name_no_class: Vacuum Cleaner Dyson V6 Dyson V6
+name_no_size: Dyson V6
+name_no_size_short: Dyson V6
+name_no_type: Dyson V6 Dyson V6
+oomp_key: oomp_appliance_vacuum_cleaner_dyson_v6_dyson_v6
+part_number: v6
+part_number_capital: V6
+part_number_first_letter: v
+part_number_first_letter_upper: V
+part_number_upper: V6
+short_code: ''
+short_code_upper: ''
+size: dyson_v6
+size_capital: Dyson V6
+size_first_letter: d
+size_first_letter_upper: D
+size_only_numbers: '6'
+size_only_numbers_no_zeros: '6'
+size_upper: DYSON_V6
+type: vacuum_cleaner
+type_capital: Vacuum Cleaner
+type_first_letter: v
+type_first_letter_upper: V
+type_upper: VACUUM_CLEANER

@@ -1,0 +1,75 @@
+classification: archive
+classification_capital: Archive
+classification_first_letter: a
+classification_first_letter_upper: A
+classification_upper: ARCHIVE
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: mixed
+description_main_capital: Mixed
+description_main_first_letter: m
+description_main_first_letter_upper: M
+description_main_upper: MIXED
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/archive_money_mixed
+distributors: []
+id: archive_money_mixed
+id_no_class: money_mixed
+id_no_size: mixed
+id_no_type: mixed
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/archive_money_mixed
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/archive_money_mixed
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/archive_money_mixed
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[archive_money_mixed](none)<br>[](none)<br>[Archive Money Mixed](none)<br><br>'
+markdown_short: '[archive_money_mixed](none)<br><br>'
+md5: b3631fef71047ce60aba0a2e3113be33
+md5_10: b3631fef71
+md5_10_upper: B3631FEF71
+md5_5: b3631
+md5_5_upper: B3631
+md5_6: b3631f
+md5_6_alpha: 6zz8f
+md5_6_alpha_upper: 6ZZ8F
+md5_6_upper: B3631F
+name: Archive Money Mixed
+name_no_class: Money Mixed
+name_no_size: Mixed
+name_no_size_short: Mixed
+name_no_type: Mixed
+oomp_key: oomp_archive_money_mixed
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: money
+type_capital: Money
+type_first_letter: m
+type_first_letter_upper: M
+type_upper: MONEY

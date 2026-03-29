@@ -1,0 +1,79 @@
+classification: stationery
+classification_capital: Stationery
+classification_first_letter: s
+classification_first_letter_upper: S
+classification_upper: STATIONERY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: orange
+description_main_capital: Orange
+description_main_first_letter: o
+description_main_first_letter_upper: O
+description_main_upper: ORANGE
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/stationery_pen_ballpoint_clicky_12_mm_diameter_140_mm_length_acroball_style_orange_uniball
+distributors: []
+id: stationery_pen_ballpoint_clicky_12_mm_diameter_140_mm_length_acroball_style_orange_uniball
+id_no_class: pen_ballpoint_clicky_12_mm_diameter_140_mm_length_acroball_style_orange_uniball
+id_no_size: orange_uniball
+id_no_type: 12_mm_diameter_140_mm_length_acroball_style_orange_uniball
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_pen_ballpoint_clicky_12_mm_diameter_140_mm_length_acroball_style_orange_uniball
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_pen_ballpoint_clicky_12_mm_diameter_140_mm_length_acroball_style_orange_uniball
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_pen_ballpoint_clicky_12_mm_diameter_140_mm_length_acroball_style_orange_uniball
+manufacturer: uniball
+manufacturer_capital: Uniball
+manufacturer_first_letter: u
+manufacturer_first_letter_upper: U
+manufacturer_upper: UNIBALL
+manufacturers: []
+markdown_full: '[stationery_pen_ballpoint_clicky_12_mm_diameter_140_mm_length_acroball_style_orange_uniball](none)<br>[](none)<br>[Stationery
+    Pen Ballpoint Clicky 12 Mm Diameter 140 Mm Length Acroball Style Orange Uniball](none)<br><br>'
+markdown_short: '[stationery_pen_ballpoint_clicky_12_mm_diameter_140_mm_length_acroball_style_orange_uniball](none)<br><br>'
+md5: ac190cc9e3cc91b3d24515c7503489aa
+md5_10: ac190cc9e3
+md5_10_upper: AC190CC9E3
+md5_5: ac190
+md5_5_upper: AC190
+md5_6: ac190c
+md5_6_alpha: 6pqmk
+md5_6_alpha_upper: 6PQMK
+md5_6_upper: AC190C
+name: Stationery Pen Ballpoint Clicky 12 Mm Diameter 140 Mm Length Acroball Style
+    Orange Uniball
+name_no_class: Pen Ballpoint Clicky 12 Mm Diameter 140 Mm Length Acroball Style Orange
+    Uniball
+name_no_size: Orange Uniball
+name_no_size_short: Orange Uniball
+name_no_type: 12 Mm Diameter 140 Mm Length Acroball Style Orange Uniball
+oomp_key: oomp_stationery_pen_ballpoint_clicky_12_mm_diameter_140_mm_length_acroball_style_orange_uniball
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: 12_mm_diameter_140_mm_length_acroball_style
+size_capital: 12 mm Diameter 140 mm Length Acroball Style
+size_first_letter: '1'
+size_first_letter_upper: '1'
+size_only_numbers: '12140'
+size_only_numbers_no_zeros: '1214'
+size_upper: 12_MM_DIAMETER_140_MM_LENGTH_ACROBALL_STYLE
+type: pen_ballpoint_clicky
+type_capital: Pen Ballpoint Clicky
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PEN_BALLPOINT_CLICKY

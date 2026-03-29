@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: go2
+color_capital: Go2
+color_first_letter: g
+color_first_letter_upper: G
+color_upper: GO2
+description: category_robot_dog
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'G '
+description_or_color_upper: 'G '
+directory: parts/category_robot_dog_unitree_go2
+distributors: []
+filter: ''
+from_yaml: false
+id: category_robot_dog_unitree_go2
+id_no_class: robot_dog_unitree_go2
+id_no_size: go2
+id_no_type: unitree_go2
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_robot_dog_unitree_go2
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_robot_dog_unitree_go2
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_robot_dog_unitree_go2
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_robot_dog_unitree_go2](none)<br>[](none)<br>[Category Robot
+    Dog Unitree Go2](none)<br><br>'
+markdown_short: '[category_robot_dog_unitree_go2](none)<br><br>'
+md5: 2b5297d6044023c8fe781b01bf91f4b2
+md5_10: 2b5297d604
+md5_10_upper: 2B5297D604
+md5_5: 2b529
+md5_5_upper: 2B529
+md5_6: 2b5297
+md5_6_alpha: 1ouqf
+md5_6_alpha_upper: 1OUQF
+md5_6_upper: 2B5297
+name: Category Robot Dog Unitree Go2
+name_no_class: Robot Dog Unitree Go2
+name_no_size: Go2
+name_no_size_short: Go2
+name_no_type: Unitree Go2
+oomp_key: oomp_category_robot_dog_unitree_go2
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryrobotdog
+size: unitree
+size_capital: Unitree
+size_first_letter: u
+size_first_letter_upper: U
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: UNITREE
+type: robot_dog
+type_capital: Robot Dog
+type_first_letter: r
+type_first_letter_upper: R
+type_upper: ROBOT_DOG

@@ -1,0 +1,80 @@
+classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_upper: ELECTRONIC
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/electronic_led_10_mm
+distributors: []
+filter: ''
+from_yaml: false
+id: electronic_led_10_mm
+id_no_class: led_10_mm
+id_no_size: 10_mm
+id_no_type: 10_mm
+kicad_reference: L
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_10_mm
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_10_mm
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_10_mm
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[electronic_led_10_mm](none)<br>[l10](none)<br>[Electronic Led 10
+    Mm](none)<br><br>'
+markdown_short: '[electronic_led_10_mm](none)<br><br>'
+md5: bab4a73f335cebcc40b339010dc83b72
+md5_10: bab4a73f33
+md5_10_upper: BAB4A73F33
+md5_5: bab4a
+md5_5_upper: BAB4A
+md5_6: bab4a7
+md5_6_alpha: 7a9bb
+md5_6_alpha_upper: 7A9BB
+md5_6_upper: BAB4A7
+name: Electronic Led 10 Mm
+name_no_class: Led 10 Mm
+name_no_size: 10 Mm
+name_no_size_short: 10 Mm
+name_no_type: 10 Mm
+oomp_key: oomp_electronic_led_10_mm
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: l10
+short_code_upper: L10
+short_name: 10 Mm Led
+size: 10_mm
+size_capital: 10 mm
+size_first_letter: '1'
+size_first_letter_upper: '1'
+size_only_numbers: '10'
+size_only_numbers_no_zeros: '1'
+size_upper: 10_MM
+type: led
+type_capital: Led
+type_first_letter: l
+type_first_letter_upper: L
+type_upper: LED

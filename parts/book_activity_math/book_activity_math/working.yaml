@@ -1,0 +1,77 @@
+classification: book
+classification_capital: Book
+classification_first_letter: b
+classification_first_letter_upper: B
+classification_upper: BOOK
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/book_activity_math
+distributors: []
+filter: ''
+from_yaml: false
+id: book_activity_math
+id_no_class: activity_math
+id_no_size: math
+id_no_type: math
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/book_activity_math
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/book_activity_math
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/book_activity_math
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[book_activity_math](none)<br>[](none)<br>[Book Activity Math](none)<br><br>'
+markdown_short: '[book_activity_math](none)<br><br>'
+md5: f631d89bf69da403f36889a4f729f0f8
+md5_10: f631d89bf6
+md5_10_upper: F631D89BF6
+md5_5: f631d
+md5_5_upper: F631D
+md5_6: f631d8
+md5_6_alpha: 9ltjs
+md5_6_alpha_upper: 9LTJS
+md5_6_upper: F631D8
+name: Book Activity Math
+name_no_class: Activity Math
+name_no_size: Math
+name_no_size_short: Math
+name_no_type: Math
+oomp_key: oomp_book_activity_math
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: math
+size_capital: Math
+size_first_letter: m
+size_first_letter_upper: M
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: MATH
+type: activity
+type_capital: Activity
+type_first_letter: a
+type_first_letter_upper: A
+type_upper: ACTIVITY

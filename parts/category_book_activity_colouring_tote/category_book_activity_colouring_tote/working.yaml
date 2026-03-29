@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: colouring
+color_capital: Colouring
+color_first_letter: c
+color_first_letter_upper: C
+color_upper: COLOURING
+description: category_book
+description_extra: tote
+description_extra_capital: Tote
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TOTE
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'C '
+description_or_color_upper: 'C '
+directory: parts/category_book_activity_colouring_tote
+distributors: []
+filter: ''
+from_yaml: false
+id: category_book_activity_colouring_tote
+id_no_class: book_activity_colouring_tote
+id_no_size: colouring_tote
+id_no_type: activity_colouring_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_book_activity_colouring_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_book_activity_colouring_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_book_activity_colouring_tote
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_book_activity_colouring_tote](none)<br>[](none)<br>[Category
+    Book Activity Colouring Tote](none)<br><br>'
+markdown_short: '[category_book_activity_colouring_tote](none)<br><br>'
+md5: f6de6c77fcfaac41e8be0dd547c2879e
+md5_10: f6de6c77fc
+md5_10_upper: F6DE6C77FC
+md5_5: f6de6
+md5_5_upper: F6DE6
+md5_6: f6de6c
+md5_6_alpha: 9mrn0
+md5_6_alpha_upper: 9MRN0
+md5_6_upper: F6DE6C
+name: Category Book Activity Colouring Tote
+name_no_class: Book Activity Colouring Tote
+name_no_size: Colouring Tote
+name_no_size_short: Colouring Tote
+name_no_type: Activity Colouring Tote
+oomp_key: oomp_category_book_activity_colouring_tote
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorybook
+size: activity
+size_capital: Activity
+size_first_letter: a
+size_first_letter_upper: A
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ACTIVITY
+type: book
+type_capital: Book
+type_first_letter: b
+type_first_letter_upper: B
+type_upper: BOOK

@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: jumper
+color_capital: Jumper
+color_first_letter: j
+color_first_letter_upper: J
+color_upper: JUMPER
+description: category_clothes
+description_extra: cubby_box
+description_extra_capital: Cubby Box
+description_extra_first_letter: c
+description_extra_first_letter_upper: C
+description_extra_upper: CUBBY_BOX
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'J '
+description_or_color_upper: 'J '
+directory: parts/category_clothes_item_jumper_cubby_box
+distributors: []
+filter: ''
+from_yaml: false
+id: category_clothes_item_jumper_cubby_box
+id_no_class: clothes_item_jumper_cubby_box
+id_no_size: jumper_cubby_box
+id_no_type: item_jumper_cubby_box
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_clothes_item_jumper_cubby_box
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_clothes_item_jumper_cubby_box
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_clothes_item_jumper_cubby_box
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_clothes_item_jumper_cubby_box](none)<br>[](none)<br>[Category
+    Clothes Item Jumper Cubby Box](none)<br><br>'
+markdown_short: '[category_clothes_item_jumper_cubby_box](none)<br><br>'
+md5: 09ccc5b3ef89658062e63d7bb4e41bfa
+md5_10: 09ccc5b3ef
+md5_10_upper: 09CCC5B3EF
+md5_5: 09ccc
+md5_5_upper: 09CCC
+md5_6: 09ccc5
+md5_6_alpha: drk5
+md5_6_alpha_upper: DRK5
+md5_6_upper: 09CCC5
+name: Category Clothes Item Jumper Cubby Box
+name_no_class: Clothes Item Jumper Cubby Box
+name_no_size: Jumper Cubby Box
+name_no_size_short: Jumper Cubby Box
+name_no_type: Item Jumper Cubby Box
+oomp_key: oomp_category_clothes_item_jumper_cubby_box
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryclothes
+size: item
+size_capital: Item
+size_first_letter: i
+size_first_letter_upper: I
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ITEM
+type: clothes
+type_capital: Clothes
+type_first_letter: c
+type_first_letter_upper: C
+type_upper: CLOTHES

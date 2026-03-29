@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: flour
+color_capital: Flour
+color_first_letter: f
+color_first_letter_upper: F
+color_upper: FLOUR
+description: category_food
+description_extra: to_sort
+description_extra_capital: To Sort
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TO_SORT
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'F '
+description_or_color_upper: 'F '
+directory: parts/category_food_baking_flour_to_sort
+distributors: []
+filter: ''
+from_yaml: false
+id: category_food_baking_flour_to_sort
+id_no_class: food_baking_flour_to_sort
+id_no_size: flour_to_sort
+id_no_type: baking_flour_to_sort
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_baking_flour_to_sort
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_baking_flour_to_sort
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_baking_flour_to_sort
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_food_baking_flour_to_sort](none)<br>[](none)<br>[Category
+    Food Baking Flour To Sort](none)<br><br>'
+markdown_short: '[category_food_baking_flour_to_sort](none)<br><br>'
+md5: 7e803fb0ef14be10c3b093843ec6d560
+md5_10: 7e803fb0ef
+md5_10_upper: 7E803FB0EF
+md5_5: 7e803
+md5_5_upper: 7E803
+md5_6: 7e803f
+md5_6_alpha: 4xovz
+md5_6_alpha_upper: 4XOVZ
+md5_6_upper: 7E803F
+name: Category Food Baking Flour To Sort
+name_no_class: Food Baking Flour To Sort
+name_no_size: Flour To Sort
+name_no_size_short: Flour To Sort
+name_no_type: Baking Flour To Sort
+oomp_key: oomp_category_food_baking_flour_to_sort
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryfood
+size: baking
+size_capital: Baking
+size_first_letter: b
+size_first_letter_upper: B
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: BAKING
+type: food
+type_capital: Food
+type_first_letter: f
+type_first_letter_upper: F
+type_upper: FOOD

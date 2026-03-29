@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: couscous
+color_capital: Couscous
+color_first_letter: c
+color_first_letter_upper: C
+color_upper: COUSCOUS
+description: category_food
+description_extra: tote
+description_extra_capital: Tote
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TOTE
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'C '
+description_or_color_upper: 'C '
+directory: parts/category_food_starch_couscous_tote
+distributors: []
+filter: ''
+from_yaml: false
+id: category_food_starch_couscous_tote
+id_no_class: food_starch_couscous_tote
+id_no_size: couscous_tote
+id_no_type: starch_couscous_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_starch_couscous_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_starch_couscous_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_starch_couscous_tote
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_food_starch_couscous_tote](none)<br>[](none)<br>[Category
+    Food Starch Couscous Tote](none)<br><br>'
+markdown_short: '[category_food_starch_couscous_tote](none)<br><br>'
+md5: dad52dbfcc75e67e1e2e1b351c30e5be
+md5_10: dad52dbfcc
+md5_10_upper: DAD52DBFCC
+md5_5: dad52
+md5_5_upper: DAD52
+md5_6: dad52d
+md5_6_alpha: 8jdwt
+md5_6_alpha_upper: 8JDWT
+md5_6_upper: DAD52D
+name: Category Food Starch Couscous Tote
+name_no_class: Food Starch Couscous Tote
+name_no_size: Couscous Tote
+name_no_size_short: Couscous Tote
+name_no_type: Starch Couscous Tote
+oomp_key: oomp_category_food_starch_couscous_tote
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryfood
+size: starch
+size_capital: Starch
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: STARCH
+type: food
+type_capital: Food
+type_first_letter: f
+type_first_letter_upper: F
+type_upper: FOOD

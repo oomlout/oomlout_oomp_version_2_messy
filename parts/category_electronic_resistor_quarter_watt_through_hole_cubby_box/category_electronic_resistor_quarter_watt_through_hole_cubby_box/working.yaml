@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: quarter_watt_through_hole
+color_capital: Quarter Watt Through Hole
+color_first_letter: q
+color_first_letter_upper: Q
+color_upper: QUARTER_WATT_THROUGH_HOLE
+description: category_electronic
+description_extra: cubby_box
+description_extra_capital: Cubby Box
+description_extra_first_letter: c
+description_extra_first_letter_upper: C
+description_extra_upper: CUBBY_BOX
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'Q '
+description_or_color_upper: 'Q '
+directory: parts/category_electronic_resistor_quarter_watt_through_hole_cubby_box
+distributors: []
+filter: ''
+from_yaml: false
+id: category_electronic_resistor_quarter_watt_through_hole_cubby_box
+id_no_class: electronic_resistor_quarter_watt_through_hole_cubby_box
+id_no_size: quarter_watt_through_hole_cubby_box
+id_no_type: resistor_quarter_watt_through_hole_cubby_box
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_resistor_quarter_watt_through_hole_cubby_box
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_resistor_quarter_watt_through_hole_cubby_box
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_resistor_quarter_watt_through_hole_cubby_box
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_electronic_resistor_quarter_watt_through_hole_cubby_box](none)<br>[](none)<br>[Category
+    Electronic Resistor Quarter Watt Through Hole Cubby Box](none)<br><br>'
+markdown_short: '[category_electronic_resistor_quarter_watt_through_hole_cubby_box](none)<br><br>'
+md5: f916bab81519810d8fea2105ff92dee6
+md5_10: f916bab815
+md5_10_upper: F916BAB815
+md5_5: f916b
+md5_5_upper: F916B
+md5_6: f916ba
+md5_6_alpha: 9pvwa
+md5_6_alpha_upper: 9PVWA
+md5_6_upper: F916BA
+name: Category Electronic Resistor Quarter Watt Through Hole Cubby Box
+name_no_class: Electronic Resistor Quarter Watt Through Hole Cubby Box
+name_no_size: Quarter Watt Through Hole Cubby Box
+name_no_size_short: Quarter Watt Through Hole Cubby Box
+name_no_type: Resistor Quarter Watt Through Hole Cubby Box
+oomp_key: oomp_category_electronic_resistor_quarter_watt_through_hole_cubby_box
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryelectronic
+size: resistor
+size_capital: Resistor
+size_first_letter: r
+size_first_letter_upper: R
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: RESISTOR
+type: electronic
+type_capital: Electronic
+type_first_letter: e
+type_first_letter_upper: E
+type_upper: ELECTRONIC

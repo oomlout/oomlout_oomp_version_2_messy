@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: crimp_housing_1_mm_jst_sh_4_pin_socket
+color_capital: Crimp Housing 1 mm Jst Sh 4 Pin Socket
+color_first_letter: c
+color_first_letter_upper: C
+color_upper: CRIMP_HOUSING_1_MM_JST_SH_4_PIN_SOCKET
+description: category_electronic
+description_extra: tote
+description_extra_capital: Tote
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TOTE
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'C '
+description_or_color_upper: 'C '
+directory: parts/category_electronic_wire_pigtail_crimp_housing_1_mm_jst_sh_4_pin_socket_tote
+distributors: []
+filter: ''
+from_yaml: false
+id: category_electronic_wire_pigtail_crimp_housing_1_mm_jst_sh_4_pin_socket_tote
+id_no_class: electronic_wire_pigtail_crimp_housing_1_mm_jst_sh_4_pin_socket_tote
+id_no_size: crimp_housing_1_mm_jst_sh_4_pin_socket_tote
+id_no_type: wire_pigtail_crimp_housing_1_mm_jst_sh_4_pin_socket_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_wire_pigtail_crimp_housing_1_mm_jst_sh_4_pin_socket_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_wire_pigtail_crimp_housing_1_mm_jst_sh_4_pin_socket_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_wire_pigtail_crimp_housing_1_mm_jst_sh_4_pin_socket_tote
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_electronic_wire_pigtail_crimp_housing_1_mm_jst_sh_4_pin_socket_tote](none)<br>[](none)<br>[Category
+    Electronic Wire Pigtail Crimp Housing 1 Mm Jst Sh 4 Pin Socket Tote](none)<br><br>'
+markdown_short: '[category_electronic_wire_pigtail_crimp_housing_1_mm_jst_sh_4_pin_socket_tote](none)<br><br>'
+md5: 7993ff70b8b8d8265968fdc1a7e37b2a
+md5_10: 7993ff70b8
+md5_10_upper: 7993FF70B8
+md5_5: 7993f
+md5_5_upper: 7993F
+md5_6: 7993ff
+md5_6_alpha: 4qry7
+md5_6_alpha_upper: 4QRY7
+md5_6_upper: 7993FF
+name: Category Electronic Wire Pigtail Crimp Housing 1 Mm Jst Sh 4 Pin Socket Tote
+name_no_class: Electronic Wire Pigtail Crimp Housing 1 Mm Jst Sh 4 Pin Socket Tote
+name_no_size: Crimp Housing 1 Mm Jst Sh 4 Pin Socket Tote
+name_no_size_short: Crimp Housing 1 Mm Jst Sh 4 Pin Socket Tote
+name_no_type: Wire Pigtail Crimp Housing 1 Mm Jst Sh 4 Pin Socket Tote
+oomp_key: oomp_category_electronic_wire_pigtail_crimp_housing_1_mm_jst_sh_4_pin_socket_tote
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryelectronic
+size: wire_pigtail
+size_capital: Wire Pigtail
+size_first_letter: w
+size_first_letter_upper: W
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: WIRE_PIGTAIL
+type: electronic
+type_capital: Electronic
+type_first_letter: e
+type_first_letter_upper: E
+type_upper: ELECTRONIC

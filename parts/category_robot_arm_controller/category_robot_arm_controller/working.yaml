@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_robot_arm_controller
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_robot_arm_controller
+distributors: []
+filter: ''
+from_yaml: false
+id: category_robot_arm_controller
+id_no_class: robot_arm_controller
+id_no_size: robotarmcontroller
+id_no_type: robot_arm_controller
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_robot_arm_controller
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_robot_arm_controller
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_robot_arm_controller
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_robot_arm_controller](none)<br>[](none)<br>[Category Robot
+    Arm Controller](none)<br><br>'
+markdown_short: '[category_robot_arm_controller](none)<br><br>'
+md5: a21cda17659dafde8db87c478c79b968
+md5_10: a21cda1765
+md5_10_upper: A21CDA1765
+md5_5: a21cd
+md5_5_upper: A21CD
+md5_6: a21cda
+md5_6_alpha: 6bpp6
+md5_6_alpha_upper: 6BPP6
+md5_6_upper: A21CDA
+name: Category Robot Arm Controller
+name_no_class: Robot Arm Controller
+name_no_size: Robotarmcontroller
+name_no_size_short: Robotarmcontroller
+name_no_type: Robot Arm Controller
+oomp_key: oomp_category_robot_arm_controller
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryrobotarmcontroller
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: robot_arm_controller
+type_capital: Robot Arm Controller
+type_first_letter: r
+type_first_letter_upper: R
+type_upper: ROBOT_ARM_CONTROLLER

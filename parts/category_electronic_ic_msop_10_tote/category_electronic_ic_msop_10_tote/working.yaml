@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: msop_10
+color_capital: Msop 10
+color_first_letter: m
+color_first_letter_upper: M
+color_upper: MSOP_10
+description: category_electronic
+description_extra: tote
+description_extra_capital: Tote
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TOTE
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'M '
+description_or_color_upper: 'M '
+directory: parts/category_electronic_ic_msop_10_tote
+distributors: []
+filter: ''
+from_yaml: false
+id: category_electronic_ic_msop_10_tote
+id_no_class: electronic_ic_msop_10_tote
+id_no_size: msop_10_tote
+id_no_type: ic_msop_10_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_ic_msop_10_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_ic_msop_10_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_ic_msop_10_tote
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_electronic_ic_msop_10_tote](none)<br>[](none)<br>[Category
+    Electronic Ic Msop 10 Tote](none)<br><br>'
+markdown_short: '[category_electronic_ic_msop_10_tote](none)<br><br>'
+md5: d453d286e880aa0015fab2723ea4f12a
+md5_10: d453d286e8
+md5_10_upper: D453D286E8
+md5_5: d453d
+md5_5_upper: D453D
+md5_6: d453d2
+md5_6_alpha: 8a8ya
+md5_6_alpha_upper: 8A8YA
+md5_6_upper: D453D2
+name: Category Electronic Ic Msop 10 Tote
+name_no_class: Electronic Ic Msop 10 Tote
+name_no_size: Msop 10 Tote
+name_no_size_short: Msop 10 Tote
+name_no_type: Ic Msop 10 Tote
+oomp_key: oomp_category_electronic_ic_msop_10_tote
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryelectronic
+size: ic
+size_capital: Ic
+size_first_letter: i
+size_first_letter_upper: I
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: IC
+type: electronic
+type_capital: Electronic
+type_first_letter: e
+type_first_letter_upper: E
+type_upper: ELECTRONIC

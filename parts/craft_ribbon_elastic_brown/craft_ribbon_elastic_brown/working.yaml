@@ -1,0 +1,77 @@
+classification: craft
+classification_capital: Craft
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CRAFT
+color: brown
+color_capital: Brown
+color_first_letter: b
+color_first_letter_upper: B
+color_upper: BROWN
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'B '
+description_or_color_upper: 'B '
+directory: parts/craft_ribbon_elastic_brown
+distributors: []
+id: craft_ribbon_elastic_brown
+id_no_class: ribbon_elastic_brown
+id_no_size: brown
+id_no_type: elastic_brown
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/craft_ribbon_elastic_brown
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/craft_ribbon_elastic_brown
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/craft_ribbon_elastic_brown
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[craft_ribbon_elastic_brown](none)<br>[br](none)<br>[Craft Ribbon
+    Elastic Brown](none)<br><br>'
+markdown_short: '[craft_ribbon_elastic_brown](none)<br><br>'
+md5: 61b9388f6a6efab03008453eaae8516d
+md5_10: 61b9388f6a
+md5_10_upper: 61B9388F6A
+md5_5: 61b93
+md5_5_upper: 61B93
+md5_6: 61b938
+md5_6_alpha: 3t9o8
+md5_6_alpha_upper: 3T9O8
+md5_6_upper: 61B938
+name: Craft Ribbon Elastic Brown
+name_no_class: Ribbon Elastic Brown
+name_no_size: Brown
+name_no_size_short: Brown
+name_no_type: Elastic Brown
+oomp_key: oomp_craft_ribbon_elastic_brown
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: br
+short_code_upper: BR
+short_name: ''
+size: elastic
+size_capital: Elastic
+size_first_letter: e
+size_first_letter_upper: E
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ELASTIC
+type: ribbon
+type_capital: Ribbon
+type_first_letter: r
+type_first_letter_upper: R
+type_upper: RIBBON

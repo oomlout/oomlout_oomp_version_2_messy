@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: duplo
+color_capital: Duplo
+color_first_letter: d
+color_first_letter_upper: D
+color_upper: DUPLO
+description: category_toy
+description_extra: tote
+description_extra_capital: Tote
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TOTE
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'D '
+description_or_color_upper: 'D '
+directory: parts/category_toy_building_duplo_tote
+distributors: []
+filter: ''
+from_yaml: false
+id: category_toy_building_duplo_tote
+id_no_class: toy_building_duplo_tote
+id_no_size: duplo_tote
+id_no_type: building_duplo_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_toy_building_duplo_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_toy_building_duplo_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_toy_building_duplo_tote
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_toy_building_duplo_tote](none)<br>[](none)<br>[Category
+    Toy Building Duplo Tote](none)<br><br>'
+markdown_short: '[category_toy_building_duplo_tote](none)<br><br>'
+md5: 0fbdb799c89645df759d0f5dfcd5a063
+md5_10: 0fbdb799c8
+md5_10_upper: 0FBDB799C8
+md5_5: 0fbdb
+md5_5_upper: 0FBDB
+md5_6: 0fbdb7
+md5_6_alpha: m3zr
+md5_6_alpha_upper: M3ZR
+md5_6_upper: 0FBDB7
+name: Category Toy Building Duplo Tote
+name_no_class: Toy Building Duplo Tote
+name_no_size: Duplo Tote
+name_no_size_short: Duplo Tote
+name_no_type: Building Duplo Tote
+oomp_key: oomp_category_toy_building_duplo_tote
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorytoy
+size: building
+size_capital: Building
+size_first_letter: b
+size_first_letter_upper: B
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: BUILDING
+type: toy
+type_capital: Toy
+type_first_letter: t
+type_first_letter_upper: T
+type_upper: TOY

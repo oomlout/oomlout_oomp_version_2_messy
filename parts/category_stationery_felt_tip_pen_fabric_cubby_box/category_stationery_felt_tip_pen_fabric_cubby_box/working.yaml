@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_stationery
+description_extra: cubby_box
+description_extra_capital: Cubby Box
+description_extra_first_letter: c
+description_extra_first_letter_upper: C
+description_extra_upper: CUBBY_BOX
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_stationery_felt_tip_pen_fabric_cubby_box
+distributors: []
+filter: ''
+from_yaml: false
+id: category_stationery_felt_tip_pen_fabric_cubby_box
+id_no_class: stationery_felt_tip_pen_fabric_cubby_box
+id_no_size: cubby_box
+id_no_type: felt_tip_pen_fabric_cubby_box
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_stationery_felt_tip_pen_fabric_cubby_box
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_stationery_felt_tip_pen_fabric_cubby_box
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_stationery_felt_tip_pen_fabric_cubby_box
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_stationery_felt_tip_pen_fabric_cubby_box](none)<br>[](none)<br>[Category
+    Stationery Felt Tip Pen Fabric Cubby Box](none)<br><br>'
+markdown_short: '[category_stationery_felt_tip_pen_fabric_cubby_box](none)<br><br>'
+md5: 4d67e50712336dbe363cdf862a28dd31
+md5_10: 4d67e50712
+md5_10_upper: 4D67E50712
+md5_5: 4d67e
+md5_5_upper: 4D67E
+md5_6: 4d67e5
+md5_6_alpha: 30q91
+md5_6_alpha_upper: 30Q91
+md5_6_upper: 4D67E5
+name: Category Stationery Felt Tip Pen Fabric Cubby Box
+name_no_class: Stationery Felt Tip Pen Fabric Cubby Box
+name_no_size: Cubby Box
+name_no_size_short: Cubby Box
+name_no_type: Felt Tip Pen Fabric Cubby Box
+oomp_key: oomp_category_stationery_felt_tip_pen_fabric_cubby_box
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorystationery
+size: felt_tip_pen_fabric
+size_capital: Felt Tip Pen Fabric
+size_first_letter: f
+size_first_letter_upper: F
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: FELT_TIP_PEN_FABRIC
+type: stationery
+type_capital: Stationery
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: STATIONERY

@@ -1,0 +1,78 @@
+classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_upper: ELECTRONIC
+color: black
+color_capital: Black
+color_first_letter: b
+color_first_letter_upper: B
+color_upper: BLACK
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: banana_plug_plastic_basic
+description_main_capital: Banana Plug Plastic Basic
+description_main_first_letter: b
+description_main_first_letter_upper: B
+description_main_upper: BANANA_PLUG_PLASTIC_BASIC
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'B '
+description_or_color_upper: 'B '
+directory: parts/electronic_connector_banana_style_4_mm_black_banana_plug_plastic_basic
+distributors: []
+filter: ''
+from_yaml: false
+id: electronic_connector_banana_style_4_mm_black_banana_plug_plastic_basic
+id_no_class: connector_banana_style_4_mm_black_banana_plug_plastic_basic
+id_no_size: black_banana_plug_plastic_basic
+id_no_type: banana_style_4_mm_black_banana_plug_plastic_basic
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_connector_banana_style_4_mm_black_banana_plug_plastic_basic
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_connector_banana_style_4_mm_black_banana_plug_plastic_basic
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_connector_banana_style_4_mm_black_banana_plug_plastic_basic
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[electronic_connector_banana_style_4_mm_black_banana_plug_plastic_basic](none)<br>[conb](none)<br>[Electronic
+    Connector Banana Style 4 Mm Black Banana Plug Plastic Basic](none)<br><br>'
+markdown_short: '[electronic_connector_banana_style_4_mm_black_banana_plug_plastic_basic](none)<br><br>'
+md5: 49735e3132217d8a878d5c95a5a1bdf1
+md5_10: 49735e3132
+md5_10_upper: 49735E3132
+md5_5: '49735'
+md5_5_upper: '49735'
+md5_6: 49735e
+md5_6_alpha: 2v68u
+md5_6_alpha_upper: 2V68U
+md5_6_upper: 49735E
+name: Electronic Connector Banana Style 4 Mm Black Banana Plug Plastic Basic
+name_no_class: Connector Banana Style 4 Mm Black Banana Plug Plastic Basic
+name_no_size: Black Banana Plug Plastic Basic
+name_no_size_short: Black Banana Plug Plastic Basic
+name_no_type: Banana Style 4 Mm Black Banana Plug Plastic Basic
+oomp_key: oomp_electronic_connector_banana_style_4_mm_black_banana_plug_plastic_basic
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: conb
+short_code_upper: CONB
+size: banana_style_4_mm
+size_capital: Banana Style 4 mm
+size_first_letter: b
+size_first_letter_upper: B
+size_only_numbers: '4'
+size_only_numbers_no_zeros: '4'
+size_upper: BANANA_STYLE_4_MM
+type: connector
+type_capital: Connector
+type_first_letter: c
+type_first_letter_upper: C
+type_upper: CONNECTOR

@@ -1,0 +1,79 @@
+classification: printer
+classification_capital: Printer
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_upper: PRINTER
+color: ecotank
+color_capital: Ecotank
+color_first_letter: e
+color_first_letter_upper: E
+color_upper: ECOTANK
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: magenta_bottle_65_ml
+description_main_capital: Magenta Bottle 65 Ml
+description_main_first_letter: m
+description_main_first_letter_upper: M
+description_main_upper: MAGENTA_BOTTLE_65_ML
+description_only_numbers: '65'
+description_only_numbers_short: '65'
+description_or_color: E65
+description_or_color_upper: E65
+directory: parts/printer_ink_inkjet_paper_ecotank_magenta_bottle_65_ml_epson_104
+distributor_amazon: B08BXT7Z6J
+distributors: []
+id: printer_ink_inkjet_paper_ecotank_magenta_bottle_65_ml_epson_104
+id_no_class: ink_inkjet_paper_ecotank_magenta_bottle_65_ml_epson_104
+id_no_size: ecotank_magenta_bottle_65_ml_epson_104
+id_no_type: inkjet_paper_ecotank_magenta_bottle_65_ml_epson_104
+link_distributor_amazon: https://www.amazon.co.uk/dp/B08BXT7Z6J
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_ink_inkjet_paper_ecotank_magenta_bottle_65_ml_epson_104
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_ink_inkjet_paper_ecotank_magenta_bottle_65_ml_epson_104
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_ink_inkjet_paper_ecotank_magenta_bottle_65_ml_epson_104
+manufacturer: epson
+manufacturer_capital: Epson
+manufacturer_first_letter: e
+manufacturer_first_letter_upper: E
+manufacturer_upper: EPSON
+manufacturers: []
+markdown_full: '[printer_ink_inkjet_paper_ecotank_magenta_bottle_65_ml_epson_104](none)<br>[](none)<br>[Printer
+    Ink Inkjet Paper Ecotank Magenta Bottle 65 Ml Epson 104](none)<br><br>'
+markdown_short: '[printer_ink_inkjet_paper_ecotank_magenta_bottle_65_ml_epson_104](none)<br><br>'
+md5: 6979662e18a3526de75475ed695d3542
+md5_10: 6979662e18
+md5_10_upper: 6979662E18
+md5_5: '69796'
+md5_5_upper: '69796'
+md5_6: '697966'
+md5_6_alpha: 445ly
+md5_6_alpha_upper: 445LY
+md5_6_upper: '697966'
+name: Printer Ink Inkjet Paper Ecotank Magenta Bottle 65 Ml Epson 104
+name_no_class: Ink Inkjet Paper Ecotank Magenta Bottle 65 Ml Epson 104
+name_no_size: Ecotank Magenta Bottle 65 Ml Epson 104
+name_no_size_short: Ecotank Magenta Bottle 65 Ml Epson 104
+name_no_type: Inkjet Paper Ecotank Magenta Bottle 65 Ml Epson 104
+oomp_key: oomp_printer_ink_inkjet_paper_ecotank_magenta_bottle_65_ml_epson_104
+part_number: '104'
+part_number_capital: '104'
+part_number_exact: '104'
+part_number_first_letter: '1'
+part_number_first_letter_upper: '1'
+part_number_upper: '104'
+short_code: ''
+short_code_upper: ''
+size: inkjet_paper
+size_capital: Inkjet Paper
+size_first_letter: i
+size_first_letter_upper: I
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: INKJET_PAPER
+type: ink
+type_capital: Ink
+type_first_letter: i
+type_first_letter_upper: I
+type_upper: INK

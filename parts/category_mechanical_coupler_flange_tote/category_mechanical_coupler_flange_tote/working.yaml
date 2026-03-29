@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: flange
+color_capital: Flange
+color_first_letter: f
+color_first_letter_upper: F
+color_upper: FLANGE
+description: category_mechanical
+description_extra: tote
+description_extra_capital: Tote
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TOTE
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'F '
+description_or_color_upper: 'F '
+directory: parts/category_mechanical_coupler_flange_tote
+distributors: []
+filter: ''
+from_yaml: false
+id: category_mechanical_coupler_flange_tote
+id_no_class: mechanical_coupler_flange_tote
+id_no_size: flange_tote
+id_no_type: coupler_flange_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_coupler_flange_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_coupler_flange_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_coupler_flange_tote
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_mechanical_coupler_flange_tote](none)<br>[](none)<br>[Category
+    Mechanical Coupler Flange Tote](none)<br><br>'
+markdown_short: '[category_mechanical_coupler_flange_tote](none)<br><br>'
+md5: f5c80ad3d58febfed4415a08af351115
+md5_10: f5c80ad3d5
+md5_10_upper: F5C80AD3D5
+md5_5: f5c80
+md5_5_upper: F5C80
+md5_6: f5c80a
+md5_6_alpha: 9l8ne
+md5_6_alpha_upper: 9L8NE
+md5_6_upper: F5C80A
+name: Category Mechanical Coupler Flange Tote
+name_no_class: Mechanical Coupler Flange Tote
+name_no_size: Flange Tote
+name_no_size_short: Flange Tote
+name_no_type: Coupler Flange Tote
+oomp_key: oomp_category_mechanical_coupler_flange_tote
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorymechanical
+size: coupler
+size_capital: Coupler
+size_first_letter: c
+size_first_letter_upper: C
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: COUPLER
+type: mechanical
+type_capital: Mechanical
+type_first_letter: m
+type_first_letter_upper: M
+type_upper: MECHANICAL

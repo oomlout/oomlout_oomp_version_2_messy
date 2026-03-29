@@ -1,0 +1,80 @@
+classification: vinyl
+classification_capital: Vinyl
+classification_first_letter: v
+classification_first_letter_upper: V
+classification_upper: VINYL
+color: green_matte
+color_capital: Green Matte
+color_first_letter: g
+color_first_letter_upper: G
+color_upper: GREEN_MATTE
+description_extra: a4_210_mm_width_297_mm_height
+description_extra_capital: A4.210 mm Width 297 mm Height
+description_extra_first_letter: a
+description_extra_first_letter_upper: A
+description_extra_upper: A4_210_MM_WIDTH_297_MM_HEIGHT
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'G '
+description_or_color_upper: 'G '
+directory: parts/vinyl_green_matte_a4_210_mm_width_297_mm_height
+distributors: []
+filter: ''
+from_yaml: false
+height: 297 mm
+id: vinyl_green_matte_a4_210_mm_width_297_mm_height
+id_no_class: green_matte_a4_210_mm_width_297_mm_height
+id_no_size: greenmattea4210mmwidth297mmheight
+id_no_type: greenmattea4210mmwidth297mmheight
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/vinyl_green_matte_a4_210_mm_width_297_mm_height
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/vinyl_green_matte_a4_210_mm_width_297_mm_height
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/vinyl_green_matte_a4_210_mm_width_297_mm_height
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[vinyl_green_matte_a4_210_mm_width_297_mm_height](none)<br>[](none)<br>[Vinyl
+    Green Matte A4 210 Mm Width 297 Mm Height](none)<br><br>'
+markdown_short: '[vinyl_green_matte_a4_210_mm_width_297_mm_height](none)<br><br>'
+md5: 254c692accd183b9b14c370efb23639a
+md5_10: 254c692acc
+md5_10_upper: 254C692ACC
+md5_5: 254c6
+md5_5_upper: 254C6
+md5_6: 254c69
+md5_6_alpha: 1ge3t
+md5_6_alpha_upper: 1GE3T
+md5_6_upper: 254C69
+name: Vinyl Green Matte A4 210 Mm Width 297 Mm Height
+name_no_class: Green Matte A4 210 Mm Width 297 Mm Height
+name_no_size: Greenmattea4210Mmwidth297Mmheight
+name_no_size_short: Greenmattea4210Mmwidth297Mmheight
+name_no_type: Greenmattea4210Mmwidth297Mmheight
+oomp_key: oomp_vinyl_green_matte_a4_210_mm_width_297_mm_height
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: ''
+type_capital: ''
+type_first_letter: ''
+type_first_letter_upper: ''
+type_upper: ''
+width: 210 mm

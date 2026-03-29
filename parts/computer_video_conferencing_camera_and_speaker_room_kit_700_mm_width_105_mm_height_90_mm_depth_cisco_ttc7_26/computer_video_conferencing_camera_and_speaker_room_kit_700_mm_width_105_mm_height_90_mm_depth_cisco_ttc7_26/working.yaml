@@ -1,0 +1,84 @@
+classification: computer
+classification_capital: Computer
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: COMPUTER
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: 700_mm_width_105_mm_height_90_mm_depth
+description_extra_capital: 700 mm Width 105 mm Height 90 mm Depth
+description_extra_first_letter: '7'
+description_extra_first_letter_upper: '7'
+description_extra_upper: 700_MM_WIDTH_105_MM_HEIGHT_90_MM_DEPTH
+description_main: room_kit
+description_main_capital: Room Kit
+description_main_first_letter: r
+description_main_first_letter_upper: R
+description_main_upper: ROOM_KIT
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/computer_video_conferencing_camera_and_speaker_room_kit_700_mm_width_105_mm_height_90_mm_depth_cisco_ttc7_26
+distributors: []
+filter: ''
+from_yaml: false
+id: computer_video_conferencing_camera_and_speaker_room_kit_700_mm_width_105_mm_height_90_mm_depth_cisco_ttc7_26
+id_no_class: video_conferencing_camera_and_speaker_room_kit_700_mm_width_105_mm_height_90_mm_depth_cisco_ttc7_26
+id_no_size: room_kit_700_mm_width_105_mm_height_90_mm_depth_cisco_ttc7_26
+id_no_type: camera_and_speaker_room_kit_700_mm_width_105_mm_height_90_mm_depth_cisco_ttc7_26
+link_distributor_cisco: https://www.cisco.com/c/en/us/support/collaboration-endpoints/spark-room-kit/model.html
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_video_conferencing_camera_and_speaker_room_kit_700_mm_width_105_mm_height_90_mm_depth_cisco_ttc7_26
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_video_conferencing_camera_and_speaker_room_kit_700_mm_width_105_mm_height_90_mm_depth_cisco_ttc7_26
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_video_conferencing_camera_and_speaker_room_kit_700_mm_width_105_mm_height_90_mm_depth_cisco_ttc7_26
+manufacturer: cisco
+manufacturer_capital: Cisco
+manufacturer_first_letter: c
+manufacturer_first_letter_upper: C
+manufacturer_upper: CISCO
+manufacturers: []
+markdown_full: '[computer_video_conferencing_camera_and_speaker_room_kit_700_mm_width_105_mm_height_90_mm_depth_cisco_ttc7_26](none)<br>[](none)<br>[Computer
+    Video Conferencing Camera And Speaker Room Kit 700 Mm Width 105 Mm Height 90 Mm
+    Depth Cisco Ttc7 26](none)<br><br>'
+markdown_short: '[computer_video_conferencing_camera_and_speaker_room_kit_700_mm_width_105_mm_height_90_mm_depth_cisco_ttc7_26](none)<br><br>'
+md5: 6a8e472c5a7fcb73ce193b8b7fd5e3e5
+md5_10: 6a8e472c5a
+md5_10_upper: 6A8E472C5A
+md5_5: 6a8e4
+md5_5_upper: 6A8E4
+md5_6: 6a8e47
+md5_6_alpha: 45oav
+md5_6_alpha_upper: 45OAV
+md5_6_upper: 6A8E47
+name: Computer Video Conferencing Camera And Speaker Room Kit 700 Mm Width 105 Mm
+    Height 90 Mm Depth Cisco Ttc7 26
+name_no_class: Video Conferencing Camera And Speaker Room Kit 700 Mm Width 105 Mm
+    Height 90 Mm Depth Cisco Ttc7 26
+name_no_size: Room Kit 700 Mm Width 105 Mm Height 90 Mm Depth Cisco Ttc7 26
+name_no_size_short: Room Kit 700 Mm Width 105 Mm Height 90 Mm Depth Cisco Ttc7 26
+name_no_type: Camera And Speaker Room Kit 700 Mm Width 105 Mm Height 90 Mm Depth Cisco
+    Ttc7 26
+oomp_key: oomp_computer_video_conferencing_camera_and_speaker_room_kit_700_mm_width_105_mm_height_90_mm_depth_cisco_ttc7_26
+part_number: ttc7_26
+part_number_capital: Ttc7.26
+part_number_exact: TTC7-26
+part_number_first_letter: t
+part_number_first_letter_upper: T
+part_number_upper: TTC7_26
+short_code: ''
+short_code_upper: ''
+size: camera_and_speaker
+size_capital: Camera And Speaker
+size_first_letter: c
+size_first_letter_upper: C
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: CAMERA_AND_SPEAKER
+type: video_conferencing
+type_capital: Video Conferencing
+type_first_letter: v
+type_first_letter_upper: V
+type_upper: VIDEO_CONFERENCING

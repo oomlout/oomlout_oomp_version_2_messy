@@ -1,0 +1,78 @@
+classification: clothes
+classification_capital: Clothes
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CLOTHES
+color: extra_small
+color_capital: Extra Small
+color_first_letter: e
+color_first_letter_upper: E
+color_upper: EXTRA_SMALL
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: red
+description_main_capital: Red
+description_main_first_letter: r
+description_main_first_letter_upper: R
+description_main_upper: RED
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'E '
+description_or_color_upper: 'E '
+directory: parts/clothes_item_hoodie_extra_small_red
+distributors: []
+filter: ''
+from_yaml: false
+id: clothes_item_hoodie_extra_small_red
+id_no_class: item_hoodie_extra_small_red
+id_no_size: extra_small_red
+id_no_type: hoodie_extra_small_red
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_hoodie_extra_small_red
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_hoodie_extra_small_red
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_hoodie_extra_small_red
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[clothes_item_hoodie_extra_small_red](none)<br>[](none)<br>[Clothes
+    Item Hoodie Extra Small Red](none)<br><br>'
+markdown_short: '[clothes_item_hoodie_extra_small_red](none)<br><br>'
+md5: b3c21cad0689eb9f685357d1cafe5a1d
+md5_10: b3c21cad06
+md5_10_upper: B3C21CAD06
+md5_5: b3c21
+md5_5_upper: B3C21
+md5_6: b3c21c
+md5_6_alpha: 70hzw
+md5_6_alpha_upper: 70HZW
+md5_6_upper: B3C21C
+name: Clothes Item Hoodie Extra Small Red
+name_no_class: Item Hoodie Extra Small Red
+name_no_size: Extra Small Red
+name_no_size_short: Extra Small Red
+name_no_type: Hoodie Extra Small Red
+oomp_key: oomp_clothes_item_hoodie_extra_small_red
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: hoodie
+size_capital: Hoodie
+size_first_letter: h
+size_first_letter_upper: H
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: HOODIE
+type: item
+type_capital: Item
+type_first_letter: i
+type_first_letter_upper: I
+type_upper: ITEM

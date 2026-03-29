@@ -1,0 +1,83 @@
+classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_upper: ELECTRONIC
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 22_pico_farad
+description_main_capital: 22 Pico Farad
+description_main_first_letter: '2'
+description_main_first_letter_upper: '2'
+description_main_upper: 22_PICO_FARAD
+description_only_numbers: '22'
+description_only_numbers_short: 22pf
+description_or_color: 22pf
+description_or_color_upper: 22PF
+directory: parts/electronic_capacitor_0402_22_pico_farad
+distributors: []
+filter: ''
+from_yaml: false
+id: electronic_capacitor_0402_22_pico_farad
+id_no_class: capacitor_0402_22_pico_farad
+id_no_size: 22_pico_farad
+id_no_type: 0402_22_pico_farad
+kicad_reference: C
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_capacitor_0402_22_pico_farad
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_capacitor_0402_22_pico_farad
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_capacitor_0402_22_pico_farad
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[electronic_capacitor_0402_22_pico_farad](none)<br>[c4pf22](none)<br>[Electronic
+    Capacitor 0402 22 Pico Farad](none)<br><br>'
+markdown_short: '[electronic_capacitor_0402_22_pico_farad](none)<br><br>'
+md5: 8008269b2a82f75ac1033a8691959122
+md5_10: 8008269b2a
+md5_10_upper: 8008269B2A
+md5_5: '80082'
+md5_5_upper: '80082'
+md5_6: '800826'
+md5_6_alpha: 4zuau
+md5_6_alpha_upper: 4ZUAU
+md5_6_upper: '800826'
+name: Electronic Capacitor 0402 22 Pico Farad
+name_no_class: Capacitor 0402 22 Pico Farad
+name_no_size: 22 Pico Farad
+name_no_size_short: 22pf Pico Farad
+name_no_type: 0402 22 Pico Farad
+oomp_key: oomp_electronic_capacitor_0402_22_pico_farad
+package_style: smd_tape
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: c4pf22
+short_code_upper: C4PF22
+size: '0402'
+size_capital: '0402'
+size_first_letter: '0'
+size_first_letter_upper: '0'
+size_only_numbers: '0402'
+size_only_numbers_no_zeros: '42'
+size_upper: '0402'
+smd_tape_depth: 1_5_mm
+smd_tape_pitch: 2_mm
+smd_tape_width: 8_mm
+type: capacitor
+type_capital: Capacitor
+type_first_letter: c
+type_first_letter_upper: C
+type_upper: CAPACITOR

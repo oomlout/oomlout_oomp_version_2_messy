@@ -1,0 +1,78 @@
+classification: sheet_stock
+classification_capital: Sheet Stock
+classification_first_letter: s
+classification_first_letter_upper: S
+classification_upper: SHEET_STOCK
+color: yellow
+color_capital: Yellow
+color_first_letter: y
+color_first_letter_upper: Y
+color_upper: YELLOW
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'Y '
+description_or_color_upper: 'Y '
+directory: parts/sheet_stock_acrylic_3mm_depth_yellow
+distributors: []
+filter: ''
+from_yaml: false
+id: sheet_stock_acrylic_3mm_depth_yellow
+id_no_class: acrylic_3mm_depth_yellow
+id_no_size: yellow
+id_no_type: 3mm_depth_yellow
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/sheet_stock_acrylic_3mm_depth_yellow
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/sheet_stock_acrylic_3mm_depth_yellow
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/sheet_stock_acrylic_3mm_depth_yellow
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[sheet_stock_acrylic_3mm_depth_yellow](none)<br>[y](none)<br>[Sheet
+    Stock Acrylic 3Mm Depth Yellow](none)<br><br>'
+markdown_short: '[sheet_stock_acrylic_3mm_depth_yellow](none)<br><br>'
+md5: cfc24862fee5a3870c20c72327a0201c
+md5_10: cfc24862fe
+md5_10_upper: CFC24862FE
+md5_5: cfc24
+md5_5_upper: CFC24
+md5_6: cfc248
+md5_6_alpha: 83txk
+md5_6_alpha_upper: 83TXK
+md5_6_upper: CFC248
+name: Sheet Stock Acrylic 3Mm Depth Yellow
+name_no_class: Acrylic 3Mm Depth Yellow
+name_no_size: Yellow
+name_no_size_short: Yellow
+name_no_type: 3Mm Depth Yellow
+oomp_key: oomp_sheet_stock_acrylic_3mm_depth_yellow
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: y
+short_code_upper: Y
+size: 3mm_depth
+size_capital: 3mm Depth
+size_first_letter: '3'
+size_first_letter_upper: '3'
+size_only_numbers: '3'
+size_only_numbers_no_zeros: '3'
+size_upper: 3MM_DEPTH
+type: acrylic
+type_capital: Acrylic
+type_first_letter: a
+type_first_letter_upper: A
+type_upper: ACRYLIC

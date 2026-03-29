@@ -1,0 +1,83 @@
+classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_upper: ELECTRONIC
+color: warm_white
+color_capital: Warm White
+color_first_letter: w
+color_first_letter_upper: W
+color_upper: WARM_WHITE
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 80_mm_length
+description_main_capital: 80 mm Length
+description_main_first_letter: '8'
+description_main_first_letter_upper: '8'
+description_main_upper: 80_MM_LENGTH
+description_only_numbers: '80'
+description_only_numbers_short: '80'
+description_or_color: W80
+description_or_color_upper: W80
+directory: parts/electronic_led_filament_3_volt_warm_white_80_mm_length
+distributors: []
+filter: ''
+from_yaml: false
+id: electronic_led_filament_3_volt_warm_white_80_mm_length
+id_no_class: led_filament_3_volt_warm_white_80_mm_length
+id_no_size: warm_white_80_mm_length
+id_no_type: filament_3_volt_warm_white_80_mm_length
+link_distributor_adafruit: https://www.adafruit.com/product/5509
+link_distributor_aliexpress: https://www.aliexpress.com/item/1005006222719149.html
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_filament_3_volt_warm_white_80_mm_length
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_filament_3_volt_warm_white_80_mm_length
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_filament_3_volt_warm_white_80_mm_length
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[electronic_led_filament_3_volt_warm_white_80_mm_length](none)<br>[l80](none)<br>[Electronic
+    Led Filament 3 Volt Warm White 80 Mm Length](none)<br><br>'
+markdown_short: '[electronic_led_filament_3_volt_warm_white_80_mm_length](none)<br><br>'
+md5: 5f97198a5bcd3dd8efe54045ac169343
+md5_10: 5f97198a5b
+md5_10_upper: 5F97198A5B
+md5_5: 5f971
+md5_5_upper: 5F971
+md5_6: 5f9719
+md5_6_alpha: 3q9sp
+md5_6_alpha_upper: 3Q9SP
+md5_6_upper: 5F9719
+name: Electronic Led Filament 3 Volt Warm White 80 Mm Length
+name_no_class: Led Filament 3 Volt Warm White 80 Mm Length
+name_no_size: Warm White 80 Mm Length
+name_no_size_short: Warm White 80 Mm Length
+name_no_type: Filament 3 Volt Warm White 80 Mm Length
+oomp_key: oomp_electronic_led_filament_3_volt_warm_white_80_mm_length
+part_number: ''
+part_number_capital: ''
+part_number_distriubutor_adafruit: '5509'
+part_number_distriubutor_aliexpress: '1005006222719149'
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: l80
+short_code_upper: L80
+short_name: Filament 3 Volt Warm White80 Mm Length Led
+size: filament_3_volt
+size_capital: Filament 3 Volt
+size_first_letter: f
+size_first_letter_upper: F
+size_only_numbers: '3'
+size_only_numbers_no_zeros: '3'
+size_upper: FILAMENT_3_VOLT
+type: led
+type_capital: Led
+type_first_letter: l
+type_first_letter_upper: L
+type_upper: LED

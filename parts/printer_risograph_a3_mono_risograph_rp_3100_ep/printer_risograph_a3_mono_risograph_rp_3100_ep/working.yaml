@@ -1,0 +1,91 @@
+classification: printer
+classification_capital: Printer
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_upper: PRINTER
+color: mono
+color_capital: Mono
+color_first_letter: m
+color_first_letter_upper: M
+color_upper: MONO
+compatible_ink_bottles:
+- risograph_ink
+description_chat_gpt: High-speed A3 mono duplicator with Ethernet and advanced features.
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'M '
+description_or_color_upper: 'M '
+directory: parts/printer_risograph_a3_mono_risograph_rp_3100_ep
+distributors: []
+features:
+- high_speed
+- ethernet
+- advanced_control_panel
+- large_capacity_trays
+id: printer_risograph_a3_mono_risograph_rp_3100_ep
+id_no_class: risograph_a3_mono_risograph_rp_3100_ep
+id_no_size: mono_rp_3100_ep
+id_no_type: a3_mono_rp_3100_ep
+ink_type: soy_based_ink
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_risograph_a3_mono_risograph_rp_3100_ep
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_risograph_a3_mono_risograph_rp_3100_ep
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_risograph_a3_mono_risograph_rp_3100_ep
+manufacturer: risograph
+manufacturer_capital: Risograph
+manufacturer_first_letter: r
+manufacturer_first_letter_upper: R
+manufacturer_upper: RISOGRAPH
+manufacturers: []
+markdown_full: '[printer_risograph_a3_mono_risograph_rp_3100_ep](none)<br>[](none)<br>[Printer
+    Risograph A3 Mono Risograph Rp 3100 Ep](none)<br><br>'
+markdown_short: '[printer_risograph_a3_mono_risograph_rp_3100_ep](none)<br><br>'
+md5: 824f387cccd73d1975ab03053db29c94
+md5_10: 824f387ccc
+md5_10_upper: 824F387CCC
+md5_5: 824f3
+md5_5_upper: 824F3
+md5_6: 824f38
+md5_6_alpha: 531h4
+md5_6_alpha_upper: 531H4
+md5_6_upper: 824F38
+name: Printer Risograph A3 Mono Risograph Rp 3100 Ep
+name_no_class: Risograph A3 Mono Risograph Rp 3100 Ep
+name_no_size: Mono Rp 3100 Ep
+name_no_size_short: Mono Rp 3100 Ep
+name_no_type: A3 Mono Rp 3100 Ep
+nozzle_count_black: null
+nozzle_count_per_colour: null
+oomp_key: oomp_printer_risograph_a3_mono_risograph_rp_3100_ep
+original_rrp_gbp: 4999.99
+part_number: rp_3100_ep
+part_number_capital: Rp 3100 Ep
+part_number_first_letter: r
+part_number_first_letter_upper: R
+part_number_upper: RP_3100_EP
+printhead_technology: Risograph
+short_code: ''
+short_code_upper: ''
+short_name: Risograph RP-3100EP
+size: a3
+size_capital: A3
+size_first_letter: a
+size_first_letter_upper: A
+size_only_numbers: '3'
+size_only_numbers_no_zeros: '3'
+size_upper: A3
+total_colours: 1
+type: risograph
+type_capital: Risograph
+type_first_letter: r
+type_first_letter_upper: R
+type_upper: RISOGRAPH

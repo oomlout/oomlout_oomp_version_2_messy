@@ -1,0 +1,78 @@
+classification: furniture
+classification_capital: Furniture
+classification_first_letter: f
+classification_first_letter_upper: F
+classification_upper: FURNITURE
+color: a4_drawer_size
+color_capital: A4 Drawer Size
+color_first_letter: a
+color_first_letter_upper: A
+color_upper: A4_DRAWER_SIZE
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: single_drawer
+description_main_capital: Single Drawer
+description_main_first_letter: s
+description_main_first_letter_upper: S
+description_main_upper: SINGLE_DRAWER
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'A '
+description_or_color_upper: 'A '
+directory: parts/furniture_drawer_unit_bisley_a4_drawer_size_single_drawer_bisley
+distributors: []
+filter: ''
+from_yaml: false
+id: furniture_drawer_unit_bisley_a4_drawer_size_single_drawer_bisley
+id_no_class: drawer_unit_bisley_a4_drawer_size_single_drawer_bisley
+id_no_size: a4_drawer_size_single_drawer_bisley
+id_no_type: bisley_a4_drawer_size_single_drawer_bisley
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/furniture_drawer_unit_bisley_a4_drawer_size_single_drawer_bisley
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/furniture_drawer_unit_bisley_a4_drawer_size_single_drawer_bisley
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/furniture_drawer_unit_bisley_a4_drawer_size_single_drawer_bisley
+manufacturer: bisley
+manufacturer_capital: Bisley
+manufacturer_first_letter: b
+manufacturer_first_letter_upper: B
+manufacturer_upper: BISLEY
+manufacturers: []
+markdown_full: '[furniture_drawer_unit_bisley_a4_drawer_size_single_drawer_bisley](none)<br>[](none)<br>[Furniture
+    Drawer Unit Bisley A4 Drawer Size Single Drawer Bisley](none)<br><br>'
+markdown_short: '[furniture_drawer_unit_bisley_a4_drawer_size_single_drawer_bisley](none)<br><br>'
+md5: 9f19c5ee186084e3e4ff0dcdfebdde89
+md5_10: 9f19c5ee18
+md5_10_upper: 9F19C5EE18
+md5_5: 9f19c
+md5_5_upper: 9F19C
+md5_6: 9f19c5
+md5_6_alpha: 67hdx
+md5_6_alpha_upper: 67HDX
+md5_6_upper: 9F19C5
+name: Furniture Drawer Unit Bisley A4 Drawer Size Single Drawer Bisley
+name_no_class: Drawer Unit Bisley A4 Drawer Size Single Drawer Bisley
+name_no_size: A4 Drawer Size Single Drawer Bisley
+name_no_size_short: A4 Drawer Size Single Drawer Bisley
+name_no_type: Bisley A4 Drawer Size Single Drawer Bisley
+oomp_key: oomp_furniture_drawer_unit_bisley_a4_drawer_size_single_drawer_bisley
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: bisley
+size_capital: Bisley
+size_first_letter: b
+size_first_letter_upper: B
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: BISLEY
+type: drawer_unit
+type_capital: Drawer Unit
+type_first_letter: d
+type_first_letter_upper: D
+type_upper: DRAWER_UNIT

@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_garden
+description_extra: to_sort
+description_extra_capital: To Sort
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TO_SORT
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_garden_to_sort
+distributors: []
+filter: ''
+from_yaml: false
+id: category_garden_to_sort
+id_no_class: garden_to_sort
+id_no_size: tosort
+id_no_type: to_sort
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_garden_to_sort
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_garden_to_sort
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_garden_to_sort
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_garden_to_sort](none)<br>[](none)<br>[Category Garden To
+    Sort](none)<br><br>'
+markdown_short: '[category_garden_to_sort](none)<br><br>'
+md5: ccd8f8fc3b9ed62349a37e970b73665b
+md5_10: ccd8f8fc3b
+md5_10_upper: CCD8F8FC3B
+md5_5: ccd8f
+md5_5_upper: CCD8F
+md5_6: ccd8f8
+md5_6_alpha: 7zqpk
+md5_6_alpha_upper: 7ZQPK
+md5_6_upper: CCD8F8
+name: Category Garden To Sort
+name_no_class: Garden To Sort
+name_no_size: Tosort
+name_no_size_short: Tosort
+name_no_type: To Sort
+oomp_key: oomp_category_garden_to_sort
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorygarden
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: garden
+type_capital: Garden
+type_first_letter: g
+type_first_letter_upper: G
+type_upper: GARDEN

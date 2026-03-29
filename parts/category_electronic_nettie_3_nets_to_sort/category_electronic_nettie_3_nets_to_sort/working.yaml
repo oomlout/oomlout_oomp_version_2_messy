@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: 3_nets
+color_capital: 3 Nets
+color_first_letter: '3'
+color_first_letter_upper: '3'
+color_upper: 3_NETS
+description: category_electronic
+description_extra: to_sort
+description_extra_capital: To Sort
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TO_SORT
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: '3 '
+description_or_color_upper: '3 '
+directory: parts/category_electronic_nettie_3_nets_to_sort
+distributors: []
+filter: ''
+from_yaml: false
+id: category_electronic_nettie_3_nets_to_sort
+id_no_class: electronic_nettie_3_nets_to_sort
+id_no_size: 3_nets_to_sort
+id_no_type: nettie_3_nets_to_sort
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_nettie_3_nets_to_sort
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_nettie_3_nets_to_sort
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_nettie_3_nets_to_sort
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_electronic_nettie_3_nets_to_sort](none)<br>[](none)<br>[Category
+    Electronic Nettie 3 Nets To Sort](none)<br><br>'
+markdown_short: '[category_electronic_nettie_3_nets_to_sort](none)<br><br>'
+md5: f6bed9d8ec0d1a2a9819c85eea85d06a
+md5_10: f6bed9d8ec
+md5_10_upper: F6BED9D8EC
+md5_5: f6bed
+md5_5_upper: F6BED
+md5_6: f6bed9
+md5_6_alpha: 9mleh
+md5_6_alpha_upper: 9MLEH
+md5_6_upper: F6BED9
+name: Category Electronic Nettie 3 Nets To Sort
+name_no_class: Electronic Nettie 3 Nets To Sort
+name_no_size: 3 Nets To Sort
+name_no_size_short: 3 Nets To Sort
+name_no_type: Nettie 3 Nets To Sort
+oomp_key: oomp_category_electronic_nettie_3_nets_to_sort
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryelectronic
+size: nettie
+size_capital: Nettie
+size_first_letter: n
+size_first_letter_upper: N
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: NETTIE
+type: electronic
+type_capital: Electronic
+type_first_letter: e
+type_first_letter_upper: E
+type_upper: ELECTRONIC

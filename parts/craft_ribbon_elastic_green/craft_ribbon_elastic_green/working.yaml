@@ -1,0 +1,77 @@
+classification: craft
+classification_capital: Craft
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CRAFT
+color: green
+color_capital: Green
+color_first_letter: g
+color_first_letter_upper: G
+color_upper: GREEN
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'G '
+description_or_color_upper: 'G '
+directory: parts/craft_ribbon_elastic_green
+distributors: []
+id: craft_ribbon_elastic_green
+id_no_class: ribbon_elastic_green
+id_no_size: green
+id_no_type: elastic_green
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/craft_ribbon_elastic_green
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/craft_ribbon_elastic_green
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/craft_ribbon_elastic_green
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[craft_ribbon_elastic_green](none)<br>[g](none)<br>[Craft Ribbon Elastic
+    Green](none)<br><br>'
+markdown_short: '[craft_ribbon_elastic_green](none)<br><br>'
+md5: 28217aa8f74c57b587bf7d3be0ebbd37
+md5_10: 28217aa8f7
+md5_10_upper: 28217AA8F7
+md5_5: '28217'
+md5_5_upper: '28217'
+md5_6: 28217a
+md5_6_alpha: 1kdbu
+md5_6_alpha_upper: 1KDBU
+md5_6_upper: 28217A
+name: Craft Ribbon Elastic Green
+name_no_class: Ribbon Elastic Green
+name_no_size: Green
+name_no_size_short: Green
+name_no_type: Elastic Green
+oomp_key: oomp_craft_ribbon_elastic_green
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: g
+short_code_upper: G
+short_name: ''
+size: elastic
+size_capital: Elastic
+size_first_letter: e
+size_first_letter_upper: E
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ELASTIC
+type: ribbon
+type_capital: Ribbon
+type_first_letter: r
+type_first_letter_upper: R
+type_upper: RIBBON

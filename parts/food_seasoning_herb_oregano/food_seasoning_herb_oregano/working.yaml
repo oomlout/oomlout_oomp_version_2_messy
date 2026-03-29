@@ -1,0 +1,80 @@
+classification: food
+classification_capital: Food
+classification_first_letter: f
+classification_first_letter_upper: F
+classification_upper: FOOD
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: oregano
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: oregano
+description_main_capital: Oregano
+description_main_first_letter: o
+description_main_first_letter_upper: O
+description_main_upper: OREGANO
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/food_seasoning_herb_oregano
+distributors: []
+filter: ''
+from_yaml: false
+id: food_seasoning_herb_oregano
+id_no_class: seasoning_herb_oregano
+id_no_size: oregano
+id_no_type: herb_oregano
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_herb_oregano
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_herb_oregano
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_herb_oregano
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[food_seasoning_herb_oregano](none)<br>[](none)<br>[Food Seasoning
+    Herb Oregano](none)<br><br>'
+markdown_short: '[food_seasoning_herb_oregano](none)<br><br>'
+md5: feb737453f7e8ce634b0473b7a972e81
+md5_10: feb737453f
+md5_10_upper: FEB737453F
+md5_5: feb73
+md5_5_upper: FEB73
+md5_6: feb737
+md5_6_alpha: 9xsfr
+md5_6_alpha_upper: 9XSFR
+md5_6_upper: FEB737
+name: Food Seasoning Herb Oregano
+name_no_class: Seasoning Herb Oregano
+name_no_size: Oregano
+name_no_size_short: Oregano
+name_no_type: Herb Oregano
+name_short: Oregano
+oomp_key: oomp_food_seasoning_herb_oregano
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: herb
+size_capital: Herb
+size_first_letter: h
+size_first_letter_upper: H
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: HERB
+type: seasoning
+type_capital: Seasoning
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: SEASONING

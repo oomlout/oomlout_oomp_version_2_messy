@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: pico
+color_capital: Pico
+color_first_letter: p
+color_first_letter_upper: P
+color_upper: PICO
+description: category_electronic
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'P '
+description_or_color_upper: 'P '
+directory: parts/category_electronic_breakout_board_mcu_pico
+distributors: []
+filter: ''
+from_yaml: false
+id: category_electronic_breakout_board_mcu_pico
+id_no_class: electronic_breakout_board_mcu_pico
+id_no_size: pico
+id_no_type: breakout_board_mcu_pico
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_breakout_board_mcu_pico
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_breakout_board_mcu_pico
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_breakout_board_mcu_pico
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_electronic_breakout_board_mcu_pico](none)<br>[](none)<br>[Category
+    Electronic Breakout Board Mcu Pico](none)<br><br>'
+markdown_short: '[category_electronic_breakout_board_mcu_pico](none)<br><br>'
+md5: 4f9954a34eb341d59dcd22a3ed2cb84c
+md5_10: 4f9954a34e
+md5_10_upper: 4F9954A34E
+md5_5: 4f995
+md5_5_upper: 4F995
+md5_6: 4f9954
+md5_6_alpha: 33t5g
+md5_6_alpha_upper: 33T5G
+md5_6_upper: 4F9954
+name: Category Electronic Breakout Board Mcu Pico
+name_no_class: Electronic Breakout Board Mcu Pico
+name_no_size: Pico
+name_no_size_short: Pico
+name_no_type: Breakout Board Mcu Pico
+oomp_key: oomp_category_electronic_breakout_board_mcu_pico
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryelectronic
+size: breakout_board_mcu
+size_capital: Breakout Board Mcu
+size_first_letter: b
+size_first_letter_upper: B
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: BREAKOUT_BOARD_MCU
+type: electronic
+type_capital: Electronic
+type_first_letter: e
+type_first_letter_upper: E
+type_upper: ELECTRONIC

@@ -1,0 +1,80 @@
+classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_upper: ELECTRONIC
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/electronic_battery_box_dewalt_tower_style_aliexpress
+distributors: []
+id: electronic_battery_box_dewalt_tower_style_aliexpress
+id_no_class: battery_box_dewalt_tower_style_aliexpress
+id_no_size: aliexpress
+id_no_type: dewalt_tower_style_aliexpress
+link_distributor_aliexpress: https://www.aliexpress.com/item/1005006020674006.html
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_battery_box_dewalt_tower_style_aliexpress
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_battery_box_dewalt_tower_style_aliexpress
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_battery_box_dewalt_tower_style_aliexpress
+manufacturer: aliexpress
+manufacturer_capital: Aliexpress
+manufacturer_first_letter: a
+manufacturer_first_letter_upper: A
+manufacturer_upper: ALIEXPRESS
+manufacturers: []
+markdown_full: '[electronic_battery_box_dewalt_tower_style_aliexpress](none)<br>[](none)<br>[Electronic
+    Battery Box Dewalt Tower Style Aliexpress](none)<br><br>'
+markdown_short: '[electronic_battery_box_dewalt_tower_style_aliexpress](none)<br><br>'
+md5: 859a18c7e744eacfdf0f07854cb97f98
+md5_10: 859a18c7e7
+md5_10_upper: 859A18C7E7
+md5_5: 859a1
+md5_5_upper: 859A1
+md5_6: 859a18
+md5_6_alpha: 57nyw
+md5_6_alpha_upper: 57NYW
+md5_6_upper: 859A18
+name: Electronic Battery Box Dewalt Tower Style Aliexpress
+name_no_class: Battery Box Dewalt Tower Style Aliexpress
+name_no_size: Aliexpress
+name_no_size_short: Aliexpress
+name_no_type: Dewalt Tower Style Aliexpress
+oomp_key: oomp_electronic_battery_box_dewalt_tower_style_aliexpress
+part_number: ''
+part_number_capital: ''
+part_number_distributor_aliexpress: '1005006020674006'
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Dewalt Tower Style Battery Holder
+size: dewalt_tower_style
+size_capital: Dewalt Tower Style
+size_first_letter: d
+size_first_letter_upper: D
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: DEWALT_TOWER_STYLE
+type: battery_box
+type_capital: Battery Box
+type_first_letter: b
+type_first_letter_upper: B
+type_upper: BATTERY_BOX

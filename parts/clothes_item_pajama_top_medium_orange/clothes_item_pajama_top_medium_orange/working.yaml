@@ -1,0 +1,78 @@
+classification: clothes
+classification_capital: Clothes
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CLOTHES
+color: medium
+color_capital: Medium
+color_first_letter: m
+color_first_letter_upper: M
+color_upper: MEDIUM
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: orange
+description_main_capital: Orange
+description_main_first_letter: o
+description_main_first_letter_upper: O
+description_main_upper: ORANGE
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'M '
+description_or_color_upper: 'M '
+directory: parts/clothes_item_pajama_top_medium_orange
+distributors: []
+filter: ''
+from_yaml: false
+id: clothes_item_pajama_top_medium_orange
+id_no_class: item_pajama_top_medium_orange
+id_no_size: medium_orange
+id_no_type: pajama_top_medium_orange
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_pajama_top_medium_orange
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_pajama_top_medium_orange
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_pajama_top_medium_orange
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[clothes_item_pajama_top_medium_orange](none)<br>[](none)<br>[Clothes
+    Item Pajama Top Medium Orange](none)<br><br>'
+markdown_short: '[clothes_item_pajama_top_medium_orange](none)<br><br>'
+md5: 8829d7ae03f5638cc1495601ca71bbf8
+md5_10: 8829d7ae03
+md5_10_upper: 8829D7AE03
+md5_5: 8829d
+md5_5_upper: 8829D
+md5_6: 8829d7
+md5_6_alpha: 5b9hz
+md5_6_alpha_upper: 5B9HZ
+md5_6_upper: 8829D7
+name: Clothes Item Pajama Top Medium Orange
+name_no_class: Item Pajama Top Medium Orange
+name_no_size: Medium Orange
+name_no_size_short: Medium Orange
+name_no_type: Pajama Top Medium Orange
+oomp_key: oomp_clothes_item_pajama_top_medium_orange
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: pajama_top
+size_capital: Pajama Top
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PAJAMA_TOP
+type: item
+type_capital: Item
+type_first_letter: i
+type_first_letter_upper: I
+type_upper: ITEM

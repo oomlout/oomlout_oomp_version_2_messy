@@ -1,0 +1,79 @@
+classification: garden
+classification_capital: Garden
+classification_first_letter: g
+classification_first_letter_upper: G
+classification_upper: GARDEN
+color: basil
+color_capital: Basil
+color_first_letter: b
+color_first_letter_upper: B
+color_upper: BASIL
+description_extra: seed_packet
+description_extra_capital: Seed Packet
+description_extra_first_letter: s
+description_extra_first_letter_upper: S
+description_extra_upper: SEED_PACKET
+description_main: lime_mrs_burns
+description_main_capital: Lime Mrs Burns
+description_main_first_letter: l
+description_main_first_letter_upper: L
+description_main_upper: LIME_MRS_BURNS
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'B '
+description_or_color_upper: 'B '
+directory: parts/garden_plant_herb_basil_lime_mrs_burns_seed_packet
+distributor_sutton_seeds: '142005'
+distributors: []
+id: garden_plant_herb_basil_lime_mrs_burns_seed_packet
+id_no_class: plant_herb_basil_lime_mrs_burns_seed_packet
+id_no_size: basil_lime_mrs_burns_seed_packet
+id_no_type: herb_basil_lime_mrs_burns_seed_packet
+link_distributor_sutton_seeds: https://www.suttons.co.uk/SUSGWE46/basil-lime-mrs-burns-seeds-for-pollinators_mh-52300
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/garden_plant_herb_basil_lime_mrs_burns_seed_packet
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/garden_plant_herb_basil_lime_mrs_burns_seed_packet
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/garden_plant_herb_basil_lime_mrs_burns_seed_packet
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[garden_plant_herb_basil_lime_mrs_burns_seed_packet](none)<br>[](none)<br>[Garden
+    Plant Herb Basil Lime Mrs Burns Seed Packet](none)<br><br>'
+markdown_short: '[garden_plant_herb_basil_lime_mrs_burns_seed_packet](none)<br><br>'
+md5: 450dace33748e301ce99c2999682dc0e
+md5_10: 450dace337
+md5_10_upper: 450DACE337
+md5_5: 450da
+md5_5_upper: 450DA
+md5_6: 450dac
+md5_6_alpha: 2ozvw
+md5_6_alpha_upper: 2OZVW
+md5_6_upper: 450DAC
+name: Garden Plant Herb Basil Lime Mrs Burns Seed Packet
+name_no_class: Plant Herb Basil Lime Mrs Burns Seed Packet
+name_no_size: Basil Lime Mrs Burns Seed Packet
+name_no_size_short: Basil Lime Mrs Burns Seed Packet
+name_no_type: Herb Basil Lime Mrs Burns Seed Packet
+oomp_key: oomp_garden_plant_herb_basil_lime_mrs_burns_seed_packet
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: herb
+size_capital: Herb
+size_first_letter: h
+size_first_letter_upper: H
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: HERB
+type: plant
+type_capital: Plant
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PLANT

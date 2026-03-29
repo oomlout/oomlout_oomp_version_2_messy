@@ -1,0 +1,78 @@
+classification: card_trading
+classification_capital: Card Trading
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CARD_TRADING
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/card_trading_sport_football_american
+distributors: []
+filter: ''
+from_yaml: false
+id: card_trading_sport_football_american
+id_no_class: sport_football_american
+id_no_size: sportfootballamerican
+id_no_type: sport_football_american
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/card_trading_sport_football_american
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/card_trading_sport_football_american
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/card_trading_sport_football_american
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[card_trading_sport_football_american](none)<br>[](none)<br>[Card
+    Trading Sport Football American](none)<br><br>'
+markdown_short: '[card_trading_sport_football_american](none)<br><br>'
+md5: 9f6b1707b838ab2f43d4e9910b21c24e
+md5_10: 9f6b1707b8
+md5_10_upper: 9F6B1707B8
+md5_5: 9f6b1
+md5_5_upper: 9F6B1
+md5_6: 9f6b17
+md5_6_alpha: 67xg7
+md5_6_alpha_upper: 67XG7
+md5_6_upper: 9F6B17
+name: Card Trading Sport Football American
+name_no_class: Sport Football American
+name_no_size: Sportfootballamerican
+name_no_size_short: Sportfootballamerican
+name_no_type: Sport Football American
+oomp_key: oomp_card_trading_sport_football_american
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: sport_football_american
+type_capital: Sport Football American
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: SPORT_FOOTBALL_AMERICAN

@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_household_camping
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_household_camping
+distributors: []
+filter: ''
+from_yaml: false
+id: category_household_camping
+id_no_class: household_camping
+id_no_size: householdcamping
+id_no_type: household_camping
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_camping
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_camping
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_camping
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_household_camping](none)<br>[](none)<br>[Category Household
+    Camping](none)<br><br>'
+markdown_short: '[category_household_camping](none)<br><br>'
+md5: e2f2f492b7260c4dda8807f32515f53e
+md5_10: e2f2f492b7
+md5_10_upper: E2F2F492B7
+md5_5: e2f2f
+md5_5_upper: E2F2F
+md5_6: e2f2f4
+md5_6_alpha: 8usc4
+md5_6_alpha_upper: 8USC4
+md5_6_upper: E2F2F4
+name: Category Household Camping
+name_no_class: Household Camping
+name_no_size: Householdcamping
+name_no_size_short: Householdcamping
+name_no_type: Household Camping
+oomp_key: oomp_category_household_camping
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryhouseholdcamping
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: household_camping
+type_capital: Household Camping
+type_first_letter: h
+type_first_letter_upper: H
+type_upper: HOUSEHOLD_CAMPING

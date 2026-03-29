@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_sheet_stock
+description_extra: tote
+description_extra_capital: Tote
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TOTE
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_sheet_stock_tote
+distributors: []
+filter: ''
+from_yaml: false
+id: category_sheet_stock_tote
+id_no_class: sheet_stock_tote
+id_no_size: tote
+id_no_type: tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_sheet_stock_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_sheet_stock_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_sheet_stock_tote
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_sheet_stock_tote](none)<br>[](none)<br>[Category Sheet Stock
+    Tote](none)<br><br>'
+markdown_short: '[category_sheet_stock_tote](none)<br><br>'
+md5: 07d15394b30c52b84f2f6d19fe75a3bf
+md5_10: 07d15394b3
+md5_10_upper: 07D15394B3
+md5_5: 07d15
+md5_5_upper: 07D15
+md5_6: 07d153
+md5_6_alpha: azbn
+md5_6_alpha_upper: AZBN
+md5_6_upper: 07D153
+name: Category Sheet Stock Tote
+name_no_class: Sheet Stock Tote
+name_no_size: Tote
+name_no_size_short: Tote
+name_no_type: Tote
+oomp_key: oomp_category_sheet_stock_tote
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorysheetstock
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: sheet_stock
+type_capital: Sheet Stock
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: SHEET_STOCK

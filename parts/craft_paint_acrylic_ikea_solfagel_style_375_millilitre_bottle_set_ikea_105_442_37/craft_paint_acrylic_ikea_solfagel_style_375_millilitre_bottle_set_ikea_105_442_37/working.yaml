@@ -1,0 +1,82 @@
+classification: craft
+classification_capital: Craft
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CRAFT
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: 375_millilitre_bottle_set
+description_extra_capital: 375 Millilitre Bottle Set
+description_extra_first_letter: '3'
+description_extra_first_letter_upper: '3'
+description_extra_upper: 375_MILLILITRE_BOTTLE_SET
+description_main: ikea_solfagel_style
+description_main_capital: Ikea Solfagel Style
+description_main_first_letter: i
+description_main_first_letter_upper: I
+description_main_upper: IKEA_SOLFAGEL_STYLE
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/craft_paint_acrylic_ikea_solfagel_style_375_millilitre_bottle_set_ikea_105_442_37
+distributor_part_number_ikea: 105.442.37
+distributors: []
+id: craft_paint_acrylic_ikea_solfagel_style_375_millilitre_bottle_set_ikea_105_442_37
+id_no_class: paint_acrylic_ikea_solfagel_style_375_millilitre_bottle_set_ikea_105_442_37
+id_no_size: ikea_solfagel_style_375_millilitre_bottle_set_ikea_105_442_37
+id_no_type: acrylic_ikea_solfagel_style_375_millilitre_bottle_set_ikea_105_442_37
+link_distributor_ikea: https://www.ikea.com/gb/en/p/solfagel-acrylic-paint-mixed-colours-10544237/
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/craft_paint_acrylic_ikea_solfagel_style_375_millilitre_bottle_set_ikea_105_442_37
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/craft_paint_acrylic_ikea_solfagel_style_375_millilitre_bottle_set_ikea_105_442_37
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/craft_paint_acrylic_ikea_solfagel_style_375_millilitre_bottle_set_ikea_105_442_37
+manufacturer: ikea
+manufacturer_capital: Ikea
+manufacturer_first_letter: i
+manufacturer_first_letter_upper: I
+manufacturer_upper: IKEA
+manufacturers: []
+markdown_full: '[craft_paint_acrylic_ikea_solfagel_style_375_millilitre_bottle_set_ikea_105_442_37](none)<br>[](none)<br>[Craft
+    Paint Acrylic Ikea Solfagel Style 375 Millilitre Bottle Set Ikea 105 442 37](none)<br><br>'
+markdown_short: '[craft_paint_acrylic_ikea_solfagel_style_375_millilitre_bottle_set_ikea_105_442_37](none)<br><br>'
+md5: a3b6003656d761d924ff7d319c171dd8
+md5_10: a3b6003656
+md5_10_upper: A3B6003656
+md5_5: a3b60
+md5_5_upper: A3B60
+md5_6: a3b600
+md5_6_alpha: 6dyio
+md5_6_alpha_upper: 6DYIO
+md5_6_upper: A3B600
+name: Craft Paint Acrylic Ikea Solfagel Style 375 Millilitre Bottle Set Ikea 105 442
+    37
+name_no_class: Paint Acrylic Ikea Solfagel Style 375 Millilitre Bottle Set Ikea 105
+    442 37
+name_no_size: Ikea Solfagel Style 375 Millilitre Bottle Set Ikea 105 442 37
+name_no_size_short: Ikea Solfagel Style 375 Millilitre Bottle Set Ikea 105 442 37
+name_no_type: Acrylic Ikea Solfagel Style 375 Millilitre Bottle Set Ikea 105 442 37
+oomp_key: oomp_craft_paint_acrylic_ikea_solfagel_style_375_millilitre_bottle_set_ikea_105_442_37
+part_number: '105_442_37'
+part_number_capital: 105.442.37
+part_number_exact: 105.442.37
+part_number_first_letter: '1'
+part_number_first_letter_upper: '1'
+part_number_upper: '105_442_37'
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: acrylic
+size_capital: Acrylic
+size_first_letter: a
+size_first_letter_upper: A
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ACRYLIC
+type: paint
+type_capital: Paint
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PAINT

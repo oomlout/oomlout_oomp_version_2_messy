@@ -1,0 +1,82 @@
+classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_upper: ELECTRONIC
+color: black_and_red_color
+color_capital: Black And Red Color
+color_first_letter: b
+color_first_letter_upper: B
+color_upper: BLACK_AND_RED_COLOR
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 100_mm_length
+description_main_capital: 100 mm Length
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_upper: 100_MM_LENGTH
+description_only_numbers: '100'
+description_only_numbers_short: '100'
+description_or_color: B100
+description_or_color_upper: B100
+directory: parts/electronic_wire_pigtail_crimp_housing_2_5_mm_jst_sm_latching_2_pin_plug_black_and_red_color_100_mm_length
+distributors: []
+id: electronic_wire_pigtail_crimp_housing_2_5_mm_jst_sm_latching_2_pin_plug_black_and_red_color_100_mm_length
+id_no_class: wire_pigtail_crimp_housing_2_5_mm_jst_sm_latching_2_pin_plug_black_and_red_color_100_mm_length
+id_no_size: black_and_red_color_100_mm_length
+id_no_type: crimp_housing_2_5_mm_jst_sm_latching_2_pin_plug_black_and_red_color_100_mm_length
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_wire_pigtail_crimp_housing_2_5_mm_jst_sm_latching_2_pin_plug_black_and_red_color_100_mm_length
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_wire_pigtail_crimp_housing_2_5_mm_jst_sm_latching_2_pin_plug_black_and_red_color_100_mm_length
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_wire_pigtail_crimp_housing_2_5_mm_jst_sm_latching_2_pin_plug_black_and_red_color_100_mm_length
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[electronic_wire_pigtail_crimp_housing_2_5_mm_jst_sm_latching_2_pin_plug_black_and_red_color_100_mm_length](none)<br>[](none)<br>[Electronic
+    Wire Pigtail Crimp Housing 2 5 Mm Jst Sm Latching 2 Pin Plug Black And Red Color
+    100 Mm Length](none)<br><br>'
+markdown_short: '[electronic_wire_pigtail_crimp_housing_2_5_mm_jst_sm_latching_2_pin_plug_black_and_red_color_100_mm_length](none)<br><br>'
+md5: 43c4ab35175e3bbcf3e2d651bceabfb1
+md5_10: 43c4ab3517
+md5_10_upper: 43C4AB3517
+md5_5: 43c4a
+md5_5_upper: 43C4A
+md5_6: 43c4ab
+md5_6_alpha: 2n6wb
+md5_6_alpha_upper: 2N6WB
+md5_6_upper: 43C4AB
+name: Electronic Wire Pigtail Crimp Housing 2 5 Mm Jst Sm Latching 2 Pin Plug Black
+    And Red Color 100 Mm Length
+name_no_class: Wire Pigtail Crimp Housing 2 5 Mm Jst Sm Latching 2 Pin Plug Black
+    And Red Color 100 Mm Length
+name_no_size: Black And Red Color 100 Mm Length
+name_no_size_short: Black And Red Color 100 Mm Length
+name_no_type: Crimp Housing 2 5 Mm Jst Sm Latching 2 Pin Plug Black And Red Color
+    100 Mm Length
+oomp_key: oomp_electronic_wire_pigtail_crimp_housing_2_5_mm_jst_sm_latching_2_pin_plug_black_and_red_color_100_mm_length
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: crimp_housing_2_5_mm_jst_sm_latching_2_pin_plug
+size_capital: Crimp Housing 2.5 mm Jst Sm Latching 2 Pin Plug
+size_first_letter: c
+size_first_letter_upper: C
+size_only_numbers: '252'
+size_only_numbers_no_zeros: '252'
+size_upper: CRIMP_HOUSING_2_5_MM_JST_SM_LATCHING_2_PIN_PLUG
+type: wire_pigtail
+type_capital: Wire Pigtail
+type_first_letter: w
+type_first_letter_upper: W
+type_upper: WIRE_PIGTAIL

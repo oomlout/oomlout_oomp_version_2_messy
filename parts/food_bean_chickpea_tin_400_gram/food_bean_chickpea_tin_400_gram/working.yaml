@@ -1,0 +1,79 @@
+classification: food
+classification_capital: Food
+classification_first_letter: f
+classification_first_letter_upper: F
+classification_upper: FOOD
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: tin_400_gram
+description_extra_capital: Tin 400 Gram
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TIN_400_GRAM
+description_main: chickpea
+description_main_capital: Chickpea
+description_main_first_letter: c
+description_main_first_letter_upper: C
+description_main_upper: CHICKPEA
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/food_bean_chickpea_tin_400_gram
+distributors: []
+filter: ''
+from_yaml: false
+id: food_bean_chickpea_tin_400_gram
+id_no_class: bean_chickpea_tin_400_gram
+id_no_size: chickpeatin400gram
+id_no_type: chickpea_tin_400_gram
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_bean_chickpea_tin_400_gram
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_bean_chickpea_tin_400_gram
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_bean_chickpea_tin_400_gram
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[food_bean_chickpea_tin_400_gram](none)<br>[](none)<br>[Food Bean
+    Chickpea Tin 400 Gram](none)<br><br>'
+markdown_short: '[food_bean_chickpea_tin_400_gram](none)<br><br>'
+md5: 265da49c0f14544cd342c65d2573f324
+md5_10: 265da49c0f
+md5_10_upper: 265DA49C0F
+md5_5: 265da
+md5_5_upper: 265DA
+md5_6: 265da4
+md5_6_alpha: 1hw2s
+md5_6_alpha_upper: 1HW2S
+md5_6_upper: 265DA4
+name: Food Bean Chickpea Tin 400 Gram
+name_no_class: Bean Chickpea Tin 400 Gram
+name_no_size: Chickpeatin400Gram
+name_no_size_short: Chickpeatin400Gram
+name_no_type: Chickpea Tin 400 Gram
+name_short: Chickenpeas
+oomp_key: oomp_food_bean_chickpea_tin_400_gram
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: bean
+type_capital: Bean
+type_first_letter: b
+type_first_letter_upper: B
+type_upper: BEAN

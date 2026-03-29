@@ -1,0 +1,77 @@
+classification: book
+classification_capital: Book
+classification_first_letter: b
+classification_first_letter_upper: B
+classification_upper: BOOK
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/book_looking_vehicles
+distributors: []
+filter: ''
+from_yaml: false
+id: book_looking_vehicles
+id_no_class: looking_vehicles
+id_no_size: vehicles
+id_no_type: vehicles
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/book_looking_vehicles
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/book_looking_vehicles
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/book_looking_vehicles
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[book_looking_vehicles](none)<br>[](none)<br>[Book Looking Vehicles](none)<br><br>'
+markdown_short: '[book_looking_vehicles](none)<br><br>'
+md5: 0d08eec60849a2f7ba08d2407e48bc89
+md5_10: 0d08eec608
+md5_10_upper: 0D08EEC608
+md5_5: 0d08e
+md5_5_upper: 0D08E
+md5_6: 0d08ee
+md5_6_alpha: ib5a
+md5_6_alpha_upper: IB5A
+md5_6_upper: 0D08EE
+name: Book Looking Vehicles
+name_no_class: Looking Vehicles
+name_no_size: Vehicles
+name_no_size_short: Vehicles
+name_no_type: Vehicles
+oomp_key: oomp_book_looking_vehicles
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: vehicles
+size_capital: Vehicles
+size_first_letter: v
+size_first_letter_upper: V
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: VEHICLES
+type: looking
+type_capital: Looking
+type_first_letter: l
+type_first_letter_upper: L
+type_upper: LOOKING

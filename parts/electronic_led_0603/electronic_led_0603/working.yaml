@@ -1,0 +1,83 @@
+classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_upper: ELECTRONIC
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/electronic_led_0603
+distributors: []
+filter: ''
+from_yaml: false
+id: electronic_led_0603
+id_no_class: led_0603
+id_no_size: '0603'
+id_no_type: '0603'
+kicad_reference: L
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_0603
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_0603
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_0603
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[electronic_led_0603](none)<br>[l6](none)<br>[Electronic Led 0603](none)<br><br>'
+markdown_short: '[electronic_led_0603](none)<br><br>'
+md5: 410f696910ba2a47e5f550535c378f01
+md5_10: 410f696910
+md5_10_upper: 410F696910
+md5_5: 410f6
+md5_5_upper: 410F6
+md5_6: 410f69
+md5_6_alpha: 2jdyh
+md5_6_alpha_upper: 2JDYH
+md5_6_upper: 410F69
+name: Electronic Led 0603
+name_no_class: Led 0603
+name_no_size: '0603'
+name_no_size_short: '0603'
+name_no_type: '0603'
+oomp_key: oomp_electronic_led_0603
+package_style: smd_tape
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: l6
+short_code_upper: L6
+short_name: 0603 Led
+size: '0603'
+size_capital: '0603'
+size_first_letter: '0'
+size_first_letter_upper: '0'
+size_only_numbers: '0603'
+size_only_numbers_no_zeros: '63'
+size_upper: '0603'
+smd_tape_depth: 1_5_mm
+smd_tape_pitch: 4_mm
+smd_tape_width: 8_mm
+type: led
+type_capital: Led
+type_first_letter: l
+type_first_letter_upper: L
+type_upper: LED

@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_card_trading
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_card_trading_sport_baseball
+distributors: []
+filter: ''
+from_yaml: false
+id: category_card_trading_sport_baseball
+id_no_class: card_trading_sport_baseball
+id_no_size: sport_baseball
+id_no_type: sport_baseball
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_card_trading_sport_baseball
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_card_trading_sport_baseball
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_card_trading_sport_baseball
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_card_trading_sport_baseball](none)<br>[](none)<br>[Category
+    Card Trading Sport Baseball](none)<br><br>'
+markdown_short: '[category_card_trading_sport_baseball](none)<br><br>'
+md5: bef738e531dd5e12370f7dcbb033756c
+md5_10: bef738e531
+md5_10_upper: BEF738E531
+md5_5: bef73
+md5_5_upper: BEF73
+md5_6: bef738
+md5_6_alpha: 7g8qg
+md5_6_alpha_upper: 7G8QG
+md5_6_upper: BEF738
+name: Category Card Trading Sport Baseball
+name_no_class: Card Trading Sport Baseball
+name_no_size: Sport Baseball
+name_no_size_short: Sport Baseball
+name_no_type: Sport Baseball
+oomp_key: oomp_category_card_trading_sport_baseball
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorycardtrading
+size: sport_baseball
+size_capital: Sport Baseball
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SPORT_BASEBALL
+type: card_trading
+type_capital: Card Trading
+type_first_letter: c
+type_first_letter_upper: C
+type_upper: CARD_TRADING

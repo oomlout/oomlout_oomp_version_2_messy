@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: sot_223
+color_capital: Sot 223
+color_first_letter: s
+color_first_letter_upper: S
+color_upper: SOT_223
+description: category_electronic
+description_extra: tote
+description_extra_capital: Tote
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TOTE
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'S '
+description_or_color_upper: 'S '
+directory: parts/category_electronic_pmic_sot_223_tote
+distributors: []
+filter: ''
+from_yaml: false
+id: category_electronic_pmic_sot_223_tote
+id_no_class: electronic_pmic_sot_223_tote
+id_no_size: sot_223_tote
+id_no_type: pmic_sot_223_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_pmic_sot_223_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_pmic_sot_223_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_pmic_sot_223_tote
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_electronic_pmic_sot_223_tote](none)<br>[](none)<br>[Category
+    Electronic Pmic Sot 223 Tote](none)<br><br>'
+markdown_short: '[category_electronic_pmic_sot_223_tote](none)<br><br>'
+md5: 1f09e5f91065121f0edbd32ced0b3cc0
+md5_10: 1f09e5f910
+md5_10_upper: 1F09E5F910
+md5_5: 1f09e
+md5_5_upper: 1F09E
+md5_6: 1f09e5
+md5_6_alpha: 17lk5
+md5_6_alpha_upper: 17LK5
+md5_6_upper: 1F09E5
+name: Category Electronic Pmic Sot 223 Tote
+name_no_class: Electronic Pmic Sot 223 Tote
+name_no_size: Sot 223 Tote
+name_no_size_short: Sot 223 Tote
+name_no_type: Pmic Sot 223 Tote
+oomp_key: oomp_category_electronic_pmic_sot_223_tote
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryelectronic
+size: pmic
+size_capital: Pmic
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PMIC
+type: electronic
+type_capital: Electronic
+type_first_letter: e
+type_first_letter_upper: E
+type_upper: ELECTRONIC

@@ -1,0 +1,78 @@
+classification: mechanical
+classification_capital: Mechanical
+classification_first_letter: m
+classification_first_letter_upper: M
+classification_upper: MECHANICAL
+color: 6_volt
+color_capital: 6 Volt
+color_first_letter: '6'
+color_first_letter_upper: '6'
+color_upper: 6_VOLT
+description_extra: 3_mm_diameter_10_mm_length_d_shape_shaft
+description_extra_capital: 3 mm Diameter 10 mm Length D Shape Shaft
+description_extra_first_letter: '3'
+description_extra_first_letter_upper: '3'
+description_extra_upper: 3_MM_DIAMETER_10_MM_LENGTH_D_SHAPE_SHAFT
+description_main: 50_rpm
+description_main_capital: 50 Rpm
+description_main_first_letter: '5'
+description_main_first_letter_upper: '5'
+description_main_upper: 50_RPM
+description_only_numbers: '50'
+description_only_numbers_short: '50'
+description_or_color: '650'
+description_or_color_upper: '650'
+directory: parts/mechanical_motor_geared_n20_6_volt_50_rpm_3_mm_diameter_10_mm_length_d_shape_shaft
+distributors: []
+id: mechanical_motor_geared_n20_6_volt_50_rpm_3_mm_diameter_10_mm_length_d_shape_shaft
+id_no_class: motor_geared_n20_6_volt_50_rpm_3_mm_diameter_10_mm_length_d_shape_shaft
+id_no_size: 6_volt_50_rpm_3_mm_diameter_10_mm_length_d_shape_shaft
+id_no_type: n20_6_volt_50_rpm_3_mm_diameter_10_mm_length_d_shape_shaft
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_motor_geared_n20_6_volt_50_rpm_3_mm_diameter_10_mm_length_d_shape_shaft
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_motor_geared_n20_6_volt_50_rpm_3_mm_diameter_10_mm_length_d_shape_shaft
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_motor_geared_n20_6_volt_50_rpm_3_mm_diameter_10_mm_length_d_shape_shaft
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[mechanical_motor_geared_n20_6_volt_50_rpm_3_mm_diameter_10_mm_length_d_shape_shaft](none)<br>[](none)<br>[Mechanical
+    Motor Geared N20 6 Volt 50 Rpm 3 Mm Diameter 10 Mm Length D Shape Shaft](none)<br><br>'
+markdown_short: '[mechanical_motor_geared_n20_6_volt_50_rpm_3_mm_diameter_10_mm_length_d_shape_shaft](none)<br><br>'
+md5: c36fce1ff4ba6e4640b8abd7f07614f0
+md5_10: c36fce1ff4
+md5_10_upper: C36FCE1FF4
+md5_5: c36fc
+md5_5_upper: C36FC
+md5_6: c36fce
+md5_6_alpha: 7mitq
+md5_6_alpha_upper: 7MITQ
+md5_6_upper: C36FCE
+name: Mechanical Motor Geared N20 6 Volt 50 Rpm 3 Mm Diameter 10 Mm Length D Shape
+    Shaft
+name_no_class: Motor Geared N20 6 Volt 50 Rpm 3 Mm Diameter 10 Mm Length D Shape Shaft
+name_no_size: 6 Volt 50 Rpm 3 Mm Diameter 10 Mm Length D Shape Shaft
+name_no_size_short: 6 Volt 50 Rpm 3 Mm Diameter 10 Mm Length D Shape Shaft
+name_no_type: N20 6 Volt 50 Rpm 3 Mm Diameter 10 Mm Length D Shape Shaft
+oomp_key: oomp_mechanical_motor_geared_n20_6_volt_50_rpm_3_mm_diameter_10_mm_length_d_shape_shaft
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: n20
+size_capital: N20
+size_first_letter: n
+size_first_letter_upper: N
+size_only_numbers: '20'
+size_only_numbers_no_zeros: '2'
+size_upper: N20
+type: motor_geared
+type_capital: Motor Geared
+type_first_letter: m
+type_first_letter_upper: M
+type_upper: MOTOR_GEARED

@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_household_toy
+description_extra: old
+description_extra_capital: Old
+description_extra_first_letter: o
+description_extra_first_letter_upper: O
+description_extra_upper: OLD
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_household_toy_game_old
+distributors: []
+filter: ''
+from_yaml: false
+id: category_household_toy_game_old
+id_no_class: household_toy_game_old
+id_no_size: old
+id_no_type: game_old
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_toy_game_old
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_toy_game_old
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_toy_game_old
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_household_toy_game_old](none)<br>[](none)<br>[Category Household
+    Toy Game Old](none)<br><br>'
+markdown_short: '[category_household_toy_game_old](none)<br><br>'
+md5: aacf8bef74e7e82245700a0e3491cb97
+md5_10: aacf8bef74
+md5_10_upper: AACF8BEF74
+md5_5: aacf8
+md5_5_upper: AACF8
+md5_6: aacf8b
+md5_6_alpha: 6nxjf
+md5_6_alpha_upper: 6NXJF
+md5_6_upper: AACF8B
+name: Category Household Toy Game Old
+name_no_class: Household Toy Game Old
+name_no_size: Old
+name_no_size_short: Old
+name_no_type: Game Old
+oomp_key: oomp_category_household_toy_game_old
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryhouseholdtoy
+size: game
+size_capital: Game
+size_first_letter: g
+size_first_letter_upper: G
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: GAME
+type: household_toy
+type_capital: Household Toy
+type_first_letter: h
+type_first_letter_upper: H
+type_upper: HOUSEHOLD_TOY

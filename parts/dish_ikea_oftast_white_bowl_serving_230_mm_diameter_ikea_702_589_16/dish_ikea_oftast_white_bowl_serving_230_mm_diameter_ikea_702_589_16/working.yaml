@@ -1,0 +1,79 @@
+classification: dish
+classification_capital: Dish
+classification_first_letter: d
+classification_first_letter_upper: D
+classification_upper: DISH
+color: white
+color_capital: White
+color_first_letter: w
+color_first_letter_upper: W
+color_upper: WHITE
+description_extra: 230_mm_diameter
+description_extra_capital: 230 mm Diameter
+description_extra_first_letter: '2'
+description_extra_first_letter_upper: '2'
+description_extra_upper: 230_MM_DIAMETER
+description_main: bowl_serving
+description_main_capital: Bowl Serving
+description_main_first_letter: b
+description_main_first_letter_upper: B
+description_main_upper: BOWL_SERVING
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'W '
+description_or_color_upper: 'W '
+directory: parts/dish_ikea_oftast_white_bowl_serving_230_mm_diameter_ikea_702_589_16
+distributors: []
+filter: ''
+from_yaml: false
+id: dish_ikea_oftast_white_bowl_serving_230_mm_diameter_ikea_702_589_16
+id_no_class: ikea_oftast_white_bowl_serving_230_mm_diameter_ikea_702_589_16
+id_no_size: ikeaoftastwhitebowlserving230mmdiameterikea70258916
+id_no_type: ikeaoftastwhitebowlserving230mmdiameterikea70258916
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/dish_ikea_oftast_white_bowl_serving_230_mm_diameter_ikea_702_589_16
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/dish_ikea_oftast_white_bowl_serving_230_mm_diameter_ikea_702_589_16
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/dish_ikea_oftast_white_bowl_serving_230_mm_diameter_ikea_702_589_16
+manufacturer: ikea
+manufacturer_capital: Ikea
+manufacturer_first_letter: i
+manufacturer_first_letter_upper: I
+manufacturer_upper: IKEA
+manufacturers: []
+markdown_full: '[dish_ikea_oftast_white_bowl_serving_230_mm_diameter_ikea_702_589_16](none)<br>[w](none)<br>[Dish
+    Ikea Oftast White Bowl Serving 230 Mm Diameter Ikea 702 589 16](none)<br><br>'
+markdown_short: '[dish_ikea_oftast_white_bowl_serving_230_mm_diameter_ikea_702_589_16](none)<br><br>'
+md5: 232904590ae178f0a85f3d038d67918c
+md5_10: 232904590a
+md5_10_upper: 232904590A
+md5_5: '23290'
+md5_5_upper: '23290'
+md5_6: '232904'
+md5_6_alpha: 1ddz8
+md5_6_alpha_upper: 1DDZ8
+md5_6_upper: '232904'
+name: Dish Ikea Oftast White Bowl Serving 230 Mm Diameter Ikea 702 589 16
+name_no_class: Ikea Oftast White Bowl Serving 230 Mm Diameter Ikea 702 589 16
+name_no_size: Ikeaoftastwhitebowlserving230Mmdiameterikea70258916
+name_no_size_short: Ikeaoftastwhitebowlserving230Mmdiameterikea70258916
+name_no_type: Ikeaoftastwhitebowlserving230Mmdiameterikea70258916
+oomp_key: oomp_dish_ikea_oftast_white_bowl_serving_230_mm_diameter_ikea_702_589_16
+part_number: '702_589_16'
+part_number_capital: 702.589.16
+part_number_exact: 702.589.16
+part_number_first_letter: '7'
+part_number_first_letter_upper: '7'
+part_number_upper: '702_589_16'
+short_code: w
+short_code_upper: W
+size: ikea_oftast
+size_capital: Ikea Oftast
+size_first_letter: i
+size_first_letter_upper: I
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: IKEA_OFTAST
+type: ''
+type_capital: ''
+type_first_letter: ''
+type_first_letter_upper: ''
+type_upper: ''

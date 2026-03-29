@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ikea_slattbo
+color_capital: Ikea Slattbo
+color_first_letter: i
+color_first_letter_upper: I
+color_upper: IKEA_SLATTBO
+description: category_lighting
+description_extra: old
+description_extra_capital: Old
+description_extra_first_letter: o
+description_extra_first_letter_upper: O
+description_extra_upper: OLD
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'I '
+description_or_color_upper: 'I '
+directory: parts/category_lighting_pendant_ikea_slattbo_old
+distributors: []
+filter: ''
+from_yaml: false
+id: category_lighting_pendant_ikea_slattbo_old
+id_no_class: lighting_pendant_ikea_slattbo_old
+id_no_size: ikea_slattbo_old
+id_no_type: pendant_ikea_slattbo_old
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_lighting_pendant_ikea_slattbo_old
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_lighting_pendant_ikea_slattbo_old
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_lighting_pendant_ikea_slattbo_old
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_lighting_pendant_ikea_slattbo_old](none)<br>[](none)<br>[Category
+    Lighting Pendant Ikea Slattbo Old](none)<br><br>'
+markdown_short: '[category_lighting_pendant_ikea_slattbo_old](none)<br><br>'
+md5: 6360625dd71e101ca27029b4a6380e78
+md5_10: 6360625dd7
+md5_10_upper: 6360625DD7
+md5_5: '63606'
+md5_5_upper: '63606'
+md5_6: '636062'
+md5_6_alpha: 3vl9e
+md5_6_alpha_upper: 3VL9E
+md5_6_upper: '636062'
+name: Category Lighting Pendant Ikea Slattbo Old
+name_no_class: Lighting Pendant Ikea Slattbo Old
+name_no_size: Ikea Slattbo Old
+name_no_size_short: Ikea Slattbo Old
+name_no_type: Pendant Ikea Slattbo Old
+oomp_key: oomp_category_lighting_pendant_ikea_slattbo_old
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorylighting
+size: pendant
+size_capital: Pendant
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PENDANT
+type: lighting
+type_capital: Lighting
+type_first_letter: l
+type_first_letter_upper: L
+type_upper: LIGHTING

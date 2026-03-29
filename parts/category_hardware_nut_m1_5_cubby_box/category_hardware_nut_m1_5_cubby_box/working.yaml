@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: m1_5
+color_capital: M1.5
+color_first_letter: m
+color_first_letter_upper: M
+color_upper: M1_5
+description: category_hardware
+description_extra: cubby_box
+description_extra_capital: Cubby Box
+description_extra_first_letter: c
+description_extra_first_letter_upper: C
+description_extra_upper: CUBBY_BOX
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'M '
+description_or_color_upper: 'M '
+directory: parts/category_hardware_nut_m1_5_cubby_box
+distributors: []
+filter: ''
+from_yaml: false
+id: category_hardware_nut_m1_5_cubby_box
+id_no_class: hardware_nut_m1_5_cubby_box
+id_no_size: m1_5_cubby_box
+id_no_type: nut_m1_5_cubby_box
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_nut_m1_5_cubby_box
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_nut_m1_5_cubby_box
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_nut_m1_5_cubby_box
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_hardware_nut_m1_5_cubby_box](none)<br>[](none)<br>[Category
+    Hardware Nut M1 5 Cubby Box](none)<br><br>'
+markdown_short: '[category_hardware_nut_m1_5_cubby_box](none)<br><br>'
+md5: c3862e97b4a0f2db2e3903c3271bf723
+md5_10: c3862e97b4
+md5_10_upper: C3862E97B4
+md5_5: c3862
+md5_5_upper: C3862
+md5_6: c3862e
+md5_6_alpha: 7mn8u
+md5_6_alpha_upper: 7MN8U
+md5_6_upper: C3862E
+name: Category Hardware Nut M1 5 Cubby Box
+name_no_class: Hardware Nut M1 5 Cubby Box
+name_no_size: M1 5 Cubby Box
+name_no_size_short: M1 5 Cubby Box
+name_no_type: Nut M1 5 Cubby Box
+oomp_key: oomp_category_hardware_nut_m1_5_cubby_box
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryhardware
+size: nut
+size_capital: Nut
+size_first_letter: n
+size_first_letter_upper: N
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: NUT
+type: hardware
+type_capital: Hardware
+type_first_letter: h
+type_first_letter_upper: H
+type_upper: HARDWARE

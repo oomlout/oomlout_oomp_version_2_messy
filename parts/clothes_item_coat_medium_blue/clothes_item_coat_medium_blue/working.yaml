@@ -1,0 +1,78 @@
+classification: clothes
+classification_capital: Clothes
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CLOTHES
+color: medium
+color_capital: Medium
+color_first_letter: m
+color_first_letter_upper: M
+color_upper: MEDIUM
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: blue
+description_main_capital: Blue
+description_main_first_letter: b
+description_main_first_letter_upper: B
+description_main_upper: BLUE
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'M '
+description_or_color_upper: 'M '
+directory: parts/clothes_item_coat_medium_blue
+distributors: []
+filter: ''
+from_yaml: false
+id: clothes_item_coat_medium_blue
+id_no_class: item_coat_medium_blue
+id_no_size: medium_blue
+id_no_type: coat_medium_blue
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_coat_medium_blue
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_coat_medium_blue
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_coat_medium_blue
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[clothes_item_coat_medium_blue](none)<br>[](none)<br>[Clothes Item
+    Coat Medium Blue](none)<br><br>'
+markdown_short: '[clothes_item_coat_medium_blue](none)<br><br>'
+md5: bcf64c066a9e6d9fd7f4a9c87bac4335
+md5_10: bcf64c066a
+md5_10_upper: BCF64C066A
+md5_5: bcf64
+md5_5_upper: BCF64
+md5_6: bcf64c
+md5_6_alpha: 7dff0
+md5_6_alpha_upper: 7DFF0
+md5_6_upper: BCF64C
+name: Clothes Item Coat Medium Blue
+name_no_class: Item Coat Medium Blue
+name_no_size: Medium Blue
+name_no_size_short: Medium Blue
+name_no_type: Coat Medium Blue
+oomp_key: oomp_clothes_item_coat_medium_blue
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: coat
+size_capital: Coat
+size_first_letter: c
+size_first_letter_upper: C
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: COAT
+type: item
+type_capital: Item
+type_first_letter: i
+type_first_letter_upper: I
+type_upper: ITEM

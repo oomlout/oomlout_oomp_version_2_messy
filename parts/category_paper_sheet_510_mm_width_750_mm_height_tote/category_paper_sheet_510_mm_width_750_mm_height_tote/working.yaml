@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: 510_mm_width_750_mm_height
+color_capital: 510 mm Width 750 mm Height
+color_first_letter: '5'
+color_first_letter_upper: '5'
+color_upper: 510_MM_WIDTH_750_MM_HEIGHT
+description: category_paper
+description_extra: tote
+description_extra_capital: Tote
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TOTE
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: '5 '
+description_or_color_upper: '5 '
+directory: parts/category_paper_sheet_510_mm_width_750_mm_height_tote
+distributors: []
+filter: ''
+from_yaml: false
+id: category_paper_sheet_510_mm_width_750_mm_height_tote
+id_no_class: paper_sheet_510_mm_width_750_mm_height_tote
+id_no_size: 510_mm_width_750_mm_height_tote
+id_no_type: sheet_510_mm_width_750_mm_height_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_paper_sheet_510_mm_width_750_mm_height_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_paper_sheet_510_mm_width_750_mm_height_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_paper_sheet_510_mm_width_750_mm_height_tote
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_paper_sheet_510_mm_width_750_mm_height_tote](none)<br>[](none)<br>[Category
+    Paper Sheet 510 Mm Width 750 Mm Height Tote](none)<br><br>'
+markdown_short: '[category_paper_sheet_510_mm_width_750_mm_height_tote](none)<br><br>'
+md5: 311dce44ed104bcbb195dba2f7b9677f
+md5_10: 311dce44ed
+md5_10_upper: 311DCE44ED
+md5_5: 311dc
+md5_5_upper: 311DC
+md5_6: 311dce
+md5_6_alpha: 1wzpq
+md5_6_alpha_upper: 1WZPQ
+md5_6_upper: 311DCE
+name: Category Paper Sheet 510 Mm Width 750 Mm Height Tote
+name_no_class: Paper Sheet 510 Mm Width 750 Mm Height Tote
+name_no_size: 510 Mm Width 750 Mm Height Tote
+name_no_size_short: 510 Mm Width 750 Mm Height Tote
+name_no_type: Sheet 510 Mm Width 750 Mm Height Tote
+oomp_key: oomp_category_paper_sheet_510_mm_width_750_mm_height_tote
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorypaper
+size: sheet
+size_capital: Sheet
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SHEET
+type: paper
+type_capital: Paper
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PAPER

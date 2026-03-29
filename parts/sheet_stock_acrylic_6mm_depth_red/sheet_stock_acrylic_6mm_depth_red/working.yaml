@@ -1,0 +1,78 @@
+classification: sheet_stock
+classification_capital: Sheet Stock
+classification_first_letter: s
+classification_first_letter_upper: S
+classification_upper: SHEET_STOCK
+color: red
+color_capital: Red
+color_first_letter: r
+color_first_letter_upper: R
+color_upper: RED
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'R '
+description_or_color_upper: 'R '
+directory: parts/sheet_stock_acrylic_6mm_depth_red
+distributors: []
+filter: ''
+from_yaml: false
+id: sheet_stock_acrylic_6mm_depth_red
+id_no_class: acrylic_6mm_depth_red
+id_no_size: red
+id_no_type: 6mm_depth_red
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/sheet_stock_acrylic_6mm_depth_red
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/sheet_stock_acrylic_6mm_depth_red
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/sheet_stock_acrylic_6mm_depth_red
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[sheet_stock_acrylic_6mm_depth_red](none)<br>[r](none)<br>[Sheet Stock
+    Acrylic 6Mm Depth Red](none)<br><br>'
+markdown_short: '[sheet_stock_acrylic_6mm_depth_red](none)<br><br>'
+md5: 0fa1021c49d1325ade04d27693b335ac
+md5_10: 0fa1021c49
+md5_10_upper: 0FA1021C49
+md5_5: 0fa10
+md5_5_upper: 0FA10
+md5_6: 0fa102
+md5_6_alpha: lybm
+md5_6_alpha_upper: LYBM
+md5_6_upper: 0FA102
+name: Sheet Stock Acrylic 6Mm Depth Red
+name_no_class: Acrylic 6Mm Depth Red
+name_no_size: Red
+name_no_size_short: Red
+name_no_type: 6Mm Depth Red
+oomp_key: oomp_sheet_stock_acrylic_6mm_depth_red
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: r
+short_code_upper: R
+size: 6mm_depth
+size_capital: 6mm Depth
+size_first_letter: '6'
+size_first_letter_upper: '6'
+size_only_numbers: '6'
+size_only_numbers_no_zeros: '6'
+size_upper: 6MM_DEPTH
+type: acrylic
+type_capital: Acrylic
+type_first_letter: a
+type_first_letter_upper: A
+type_upper: ACRYLIC

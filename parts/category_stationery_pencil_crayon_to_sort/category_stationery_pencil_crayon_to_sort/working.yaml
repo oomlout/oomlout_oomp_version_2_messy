@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_stationery
+description_extra: to_sort
+description_extra_capital: To Sort
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TO_SORT
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_stationery_pencil_crayon_to_sort
+distributors: []
+filter: ''
+from_yaml: false
+id: category_stationery_pencil_crayon_to_sort
+id_no_class: stationery_pencil_crayon_to_sort
+id_no_size: to_sort
+id_no_type: pencil_crayon_to_sort
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_stationery_pencil_crayon_to_sort
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_stationery_pencil_crayon_to_sort
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_stationery_pencil_crayon_to_sort
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_stationery_pencil_crayon_to_sort](none)<br>[](none)<br>[Category
+    Stationery Pencil Crayon To Sort](none)<br><br>'
+markdown_short: '[category_stationery_pencil_crayon_to_sort](none)<br><br>'
+md5: dcf6610aa2cd1e93e92a206eec0524b9
+md5_10: dcf6610aa2
+md5_10_upper: DCF6610AA2
+md5_5: dcf66
+md5_5_upper: DCF66
+md5_6: dcf661
+md5_6_alpha: 8mdlt
+md5_6_alpha_upper: 8MDLT
+md5_6_upper: DCF661
+name: Category Stationery Pencil Crayon To Sort
+name_no_class: Stationery Pencil Crayon To Sort
+name_no_size: To Sort
+name_no_size_short: To Sort
+name_no_type: Pencil Crayon To Sort
+oomp_key: oomp_category_stationery_pencil_crayon_to_sort
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorystationery
+size: pencil_crayon
+size_capital: Pencil Crayon
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PENCIL_CRAYON
+type: stationery
+type_capital: Stationery
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: STATIONERY

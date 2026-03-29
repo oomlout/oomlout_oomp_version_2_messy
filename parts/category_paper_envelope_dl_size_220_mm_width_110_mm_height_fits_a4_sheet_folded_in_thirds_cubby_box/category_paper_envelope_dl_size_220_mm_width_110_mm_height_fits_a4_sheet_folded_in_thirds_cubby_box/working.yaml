@@ -1,0 +1,87 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: dl_size_220_mm_width_110_mm_height_fits_a4_sheet_folded_in_thirds
+color_capital: Dl Size 220 mm Width 110 mm Height Fits A4 Sheet Folded In Thirds
+color_first_letter: d
+color_first_letter_upper: D
+color_upper: DL_SIZE_220_MM_WIDTH_110_MM_HEIGHT_FITS_A4_SHEET_FOLDED_IN_THIRDS
+description: category_paper
+description_extra: cubby_box
+description_extra_capital: Cubby Box
+description_extra_first_letter: c
+description_extra_first_letter_upper: C
+description_extra_upper: CUBBY_BOX
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'D '
+description_or_color_upper: 'D '
+directory: parts/category_paper_envelope_dl_size_220_mm_width_110_mm_height_fits_a4_sheet_folded_in_thirds_cubby_box
+distributors: []
+filter: ''
+from_yaml: false
+id: category_paper_envelope_dl_size_220_mm_width_110_mm_height_fits_a4_sheet_folded_in_thirds_cubby_box
+id_no_class: paper_envelope_dl_size_220_mm_width_110_mm_height_fits_a4_sheet_folded_in_thirds_cubby_box
+id_no_size: dl_size_220_mm_width_110_mm_height_fits_a4_sheet_folded_in_thirds_cubby_box
+id_no_type: envelope_dl_size_220_mm_width_110_mm_height_fits_a4_sheet_folded_in_thirds_cubby_box
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_paper_envelope_dl_size_220_mm_width_110_mm_height_fits_a4_sheet_folded_in_thirds_cubby_box
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_paper_envelope_dl_size_220_mm_width_110_mm_height_fits_a4_sheet_folded_in_thirds_cubby_box
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_paper_envelope_dl_size_220_mm_width_110_mm_height_fits_a4_sheet_folded_in_thirds_cubby_box
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_paper_envelope_dl_size_220_mm_width_110_mm_height_fits_a4_sheet_folded_in_thirds_cubby_box](none)<br>[](none)<br>[Category
+    Paper Envelope Dl Size 220 Mm Width 110 Mm Height Fits A4 Sheet Folded In Thirds
+    Cubby Box](none)<br><br>'
+markdown_short: '[category_paper_envelope_dl_size_220_mm_width_110_mm_height_fits_a4_sheet_folded_in_thirds_cubby_box](none)<br><br>'
+md5: cfbc82a40adc32750c60178722ff5a8e
+md5_10: cfbc82a40a
+md5_10_upper: CFBC82A40A
+md5_5: cfbc8
+md5_5_upper: CFBC8
+md5_6: cfbc82
+md5_6_alpha: 83ssi
+md5_6_alpha_upper: 83SSI
+md5_6_upper: CFBC82
+name: Category Paper Envelope Dl Size 220 Mm Width 110 Mm Height Fits A4 Sheet Folded
+    In Thirds Cubby Box
+name_no_class: Paper Envelope Dl Size 220 Mm Width 110 Mm Height Fits A4 Sheet Folded
+    In Thirds Cubby Box
+name_no_size: Dl Size 220 Mm Width 110 Mm Height Fits A4 Sheet Folded In Thirds Cubby
+    Box
+name_no_size_short: Dl Size 220 Mm Width 110 Mm Height Fits A4 Sheet Folded In Thirds
+    Cubby Box
+name_no_type: Envelope Dl Size 220 Mm Width 110 Mm Height Fits A4 Sheet Folded In
+    Thirds Cubby Box
+oomp_key: oomp_category_paper_envelope_dl_size_220_mm_width_110_mm_height_fits_a4_sheet_folded_in_thirds_cubby_box
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorypaper
+size: envelope
+size_capital: Envelope
+size_first_letter: e
+size_first_letter_upper: E
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ENVELOPE
+type: paper
+type_capital: Paper
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PAPER

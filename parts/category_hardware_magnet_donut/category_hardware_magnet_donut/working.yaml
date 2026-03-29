@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: donut
+color_capital: Donut
+color_first_letter: d
+color_first_letter_upper: D
+color_upper: DONUT
+description: category_hardware
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'D '
+description_or_color_upper: 'D '
+directory: parts/category_hardware_magnet_donut
+distributors: []
+filter: ''
+from_yaml: false
+id: category_hardware_magnet_donut
+id_no_class: hardware_magnet_donut
+id_no_size: donut
+id_no_type: magnet_donut
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_magnet_donut
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_magnet_donut
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_magnet_donut
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_hardware_magnet_donut](none)<br>[](none)<br>[Category Hardware
+    Magnet Donut](none)<br><br>'
+markdown_short: '[category_hardware_magnet_donut](none)<br><br>'
+md5: 9e8935c4822e2717e60a245df3523aef
+md5_10: 9e8935c482
+md5_10_upper: 9E8935C482
+md5_5: 9e893
+md5_5_upper: 9E893
+md5_6: 9e8935
+md5_6_alpha: 66otx
+md5_6_alpha_upper: 66OTX
+md5_6_upper: 9E8935
+name: Category Hardware Magnet Donut
+name_no_class: Hardware Magnet Donut
+name_no_size: Donut
+name_no_size_short: Donut
+name_no_type: Magnet Donut
+oomp_key: oomp_category_hardware_magnet_donut
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryhardware
+size: magnet
+size_capital: Magnet
+size_first_letter: m
+size_first_letter_upper: M
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: MAGNET
+type: hardware
+type_capital: Hardware
+type_first_letter: h
+type_first_letter_upper: H
+type_upper: HARDWARE

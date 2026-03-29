@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: brio
+color_capital: Brio
+color_first_letter: b
+color_first_letter_upper: B
+color_upper: BRIO
+description: category_toy
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'B '
+description_or_color_upper: 'B '
+directory: parts/category_toy_building_brio
+distributors: []
+filter: ''
+from_yaml: false
+id: category_toy_building_brio
+id_no_class: toy_building_brio
+id_no_size: brio
+id_no_type: building_brio
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_toy_building_brio
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_toy_building_brio
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_toy_building_brio
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_toy_building_brio](none)<br>[](none)<br>[Category Toy Building
+    Brio](none)<br><br>'
+markdown_short: '[category_toy_building_brio](none)<br><br>'
+md5: dbb1c4d4242654f4c6b144a75e6d1901
+md5_10: dbb1c4d424
+md5_10_upper: DBB1C4D424
+md5_5: dbb1c
+md5_5_upper: DBB1C
+md5_6: dbb1c4
+md5_6_alpha: 8klhg
+md5_6_alpha_upper: 8KLHG
+md5_6_upper: DBB1C4
+name: Category Toy Building Brio
+name_no_class: Toy Building Brio
+name_no_size: Brio
+name_no_size_short: Brio
+name_no_type: Building Brio
+oomp_key: oomp_category_toy_building_brio
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorytoy
+size: building
+size_capital: Building
+size_first_letter: b
+size_first_letter_upper: B
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: BUILDING
+type: toy
+type_capital: Toy
+type_first_letter: t
+type_first_letter_upper: T
+type_upper: TOY

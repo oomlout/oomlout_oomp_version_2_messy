@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_packaging
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_packaging_cardboard_roll
+distributors: []
+filter: ''
+from_yaml: false
+id: category_packaging_cardboard_roll
+id_no_class: packaging_cardboard_roll
+id_no_size: cardboard_roll
+id_no_type: cardboard_roll
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_packaging_cardboard_roll
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_packaging_cardboard_roll
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_packaging_cardboard_roll
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_packaging_cardboard_roll](none)<br>[](none)<br>[Category
+    Packaging Cardboard Roll](none)<br><br>'
+markdown_short: '[category_packaging_cardboard_roll](none)<br><br>'
+md5: f8be435e3399efd625bf8a7a9d8aef14
+md5_10: f8be435e33
+md5_10_upper: F8BE435E33
+md5_5: f8be4
+md5_5_upper: F8BE4
+md5_6: f8be43
+md5_6_alpha: 9pef7
+md5_6_alpha_upper: 9PEF7
+md5_6_upper: F8BE43
+name: Category Packaging Cardboard Roll
+name_no_class: Packaging Cardboard Roll
+name_no_size: Cardboard Roll
+name_no_size_short: Cardboard Roll
+name_no_type: Cardboard Roll
+oomp_key: oomp_category_packaging_cardboard_roll
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorypackaging
+size: cardboard_roll
+size_capital: Cardboard Roll
+size_first_letter: c
+size_first_letter_upper: C
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: CARDBOARD_ROLL
+type: packaging
+type_capital: Packaging
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PACKAGING

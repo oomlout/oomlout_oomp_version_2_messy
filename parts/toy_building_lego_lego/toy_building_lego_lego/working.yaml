@@ -1,0 +1,76 @@
+classification: toy
+classification_capital: Toy
+classification_first_letter: t
+classification_first_letter_upper: T
+classification_upper: TOY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/toy_building_lego_lego
+distributors: []
+id: toy_building_lego_lego
+id_no_class: building_lego_lego
+id_no_size: lego
+id_no_type: lego_lego
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_building_lego_lego
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_building_lego_lego
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_building_lego_lego
+manufacturer: lego
+manufacturer_capital: Lego
+manufacturer_first_letter: l
+manufacturer_first_letter_upper: L
+manufacturer_upper: LEGO
+manufacturers: []
+markdown_full: '[toy_building_lego_lego](none)<br>[](none)<br>[Toy Building Lego Lego](none)<br><br>'
+markdown_short: '[toy_building_lego_lego](none)<br><br>'
+md5: b23ad03713578148a78b1aa4c5315685
+md5_10: b23ad03713
+md5_10_upper: B23AD03713
+md5_5: b23ad
+md5_5_upper: B23AD
+md5_6: b23ad0
+md5_6_alpha: 6ycpc
+md5_6_alpha_upper: 6YCPC
+md5_6_upper: B23AD0
+name: Toy Building Lego Lego
+name_no_class: Building Lego Lego
+name_no_size: Lego
+name_no_size_short: Lego
+name_no_type: Lego Lego
+oomp_key: oomp_toy_building_lego_lego
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: lego
+size_capital: Lego
+size_first_letter: l
+size_first_letter_upper: L
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: LEGO
+type: building
+type_capital: Building
+type_first_letter: b
+type_first_letter_upper: B
+type_upper: BUILDING

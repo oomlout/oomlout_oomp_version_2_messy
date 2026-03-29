@@ -1,0 +1,81 @@
+classification: food
+classification_capital: Food
+classification_first_letter: f
+classification_first_letter_upper: F
+classification_upper: FOOD
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: Jackson's Multigrain Brown Bloomer
+description_extra: multigrain_brown_bloomer
+description_extra_capital: Multigrain Brown Bloomer
+description_extra_first_letter: m
+description_extra_first_letter_upper: M
+description_extra_upper: MULTIGRAIN_BROWN_BLOOMER
+description_main: bread
+description_main_capital: Bread
+description_main_first_letter: b
+description_main_first_letter_upper: B
+description_main_upper: BREAD
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/food_bakery_bread_multigrain_brown_bloomer_jackson
+distributors: []
+filter: ''
+from_yaml: false
+id: food_bakery_bread_multigrain_brown_bloomer_jackson
+id_no_class: bakery_bread_multigrain_brown_bloomer_jackson
+id_no_size: breadmultigrainbrownbloomerjackson
+id_no_type: bread_multigrain_brown_bloomer_jackson
+link_distributor_ocado: https://www.ocado.com/search?entry=86084011
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_bakery_bread_multigrain_brown_bloomer_jackson
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_bakery_bread_multigrain_brown_bloomer_jackson
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_bakery_bread_multigrain_brown_bloomer_jackson
+manufacturer: jackson
+manufacturer_capital: Jackson
+manufacturer_first_letter: j
+manufacturer_first_letter_upper: J
+manufacturer_upper: JACKSON
+manufacturers: []
+markdown_full: '[food_bakery_bread_multigrain_brown_bloomer_jackson](none)<br>[](none)<br>[Food
+    Bakery Bread Multigrain Brown Bloomer Jackson](none)<br><br>'
+markdown_short: '[food_bakery_bread_multigrain_brown_bloomer_jackson](none)<br><br>'
+md5: 669f8b058e897b3f55ccc2e7a1a947f4
+md5_10: 669f8b058e
+md5_10_upper: 669F8B058E
+md5_5: 669f8
+md5_5_upper: 669F8
+md5_6: 669f8b
+md5_6_alpha: 405fv
+md5_6_alpha_upper: 405FV
+md5_6_upper: 669F8B
+name: Food Bakery Bread Multigrain Brown Bloomer Jackson
+name_no_class: Bakery Bread Multigrain Brown Bloomer Jackson
+name_no_size: Breadmultigrainbrownbloomerjackson
+name_no_size_short: Breadmultigrainbrownbloomerjackson
+name_no_type: Bread Multigrain Brown Bloomer Jackson
+oomp_key: oomp_food_bakery_bread_multigrain_brown_bloomer_jackson
+part_number: ''
+part_number_capital: ''
+part_number_distributor_ocado: '86084011'
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: bakery
+type_capital: Bakery
+type_first_letter: b
+type_first_letter_upper: B
+type_upper: BAKERY

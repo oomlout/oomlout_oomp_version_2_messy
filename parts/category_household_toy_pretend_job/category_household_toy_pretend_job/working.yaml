@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_household_toy
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_household_toy_pretend_job
+distributors: []
+filter: ''
+from_yaml: false
+id: category_household_toy_pretend_job
+id_no_class: household_toy_pretend_job
+id_no_size: pretend_job
+id_no_type: pretend_job
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_toy_pretend_job
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_toy_pretend_job
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_toy_pretend_job
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_household_toy_pretend_job](none)<br>[](none)<br>[Category
+    Household Toy Pretend Job](none)<br><br>'
+markdown_short: '[category_household_toy_pretend_job](none)<br><br>'
+md5: 728079c4df8ac7f7912874434457346f
+md5_10: 728079c4df
+md5_10_upper: 728079C4DF
+md5_5: '72807'
+md5_5_upper: '72807'
+md5_6: '728079'
+md5_6_alpha: 4gu49
+md5_6_alpha_upper: 4GU49
+md5_6_upper: '728079'
+name: Category Household Toy Pretend Job
+name_no_class: Household Toy Pretend Job
+name_no_size: Pretend Job
+name_no_size_short: Pretend Job
+name_no_type: Pretend Job
+oomp_key: oomp_category_household_toy_pretend_job
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryhouseholdtoy
+size: pretend_job
+size_capital: Pretend Job
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PRETEND_JOB
+type: household_toy
+type_capital: Household Toy
+type_first_letter: h
+type_first_letter_upper: H
+type_upper: HOUSEHOLD_TOY

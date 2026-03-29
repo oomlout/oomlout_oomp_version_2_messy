@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_tool
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_tool_vibratory_bowl
+distributors: []
+filter: ''
+from_yaml: false
+id: category_tool_vibratory_bowl
+id_no_class: tool_vibratory_bowl
+id_no_size: vibratory_bowl
+id_no_type: vibratory_bowl
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_vibratory_bowl
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_vibratory_bowl
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_vibratory_bowl
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_tool_vibratory_bowl](none)<br>[](none)<br>[Category Tool
+    Vibratory Bowl](none)<br><br>'
+markdown_short: '[category_tool_vibratory_bowl](none)<br><br>'
+md5: 48b1ed6cf113042032f572b436133ce7
+md5_10: 48b1ed6cf1
+md5_10_upper: 48B1ED6CF1
+md5_5: 48b1e
+md5_5_upper: 48B1E
+md5_6: 48b1ed
+md5_6_alpha: 2u419
+md5_6_alpha_upper: 2U419
+md5_6_upper: 48B1ED
+name: Category Tool Vibratory Bowl
+name_no_class: Tool Vibratory Bowl
+name_no_size: Vibratory Bowl
+name_no_size_short: Vibratory Bowl
+name_no_type: Vibratory Bowl
+oomp_key: oomp_category_tool_vibratory_bowl
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorytool
+size: vibratory_bowl
+size_capital: Vibratory Bowl
+size_first_letter: v
+size_first_letter_upper: V
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: VIBRATORY_BOWL
+type: tool
+type_capital: Tool
+type_first_letter: t
+type_first_letter_upper: T
+type_upper: TOOL

@@ -1,0 +1,81 @@
+classification: company_oomlout
+classification_capital: Company Oomlout
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: COMPANY_OOMLOUT
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: version_1
+description_extra_capital: Version 1
+description_extra_first_letter: v
+description_extra_first_letter_upper: V
+description_extra_upper: VERSION_1
+description_main: electronic_crimp_bootlace_ferrule_mixed
+description_main_capital: Electronic Crimp Bootlace Ferrule Mixed
+description_main_first_letter: e
+description_main_first_letter_upper: E
+description_main_upper: ELECTRONIC_CRIMP_BOOTLACE_FERRULE_MIXED
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/company_oomlout_product_prototyping_tin_electronic_crimp_bootlace_ferrule_mixed_version_1
+distributors: []
+filter: ''
+from_yaml: false
+id: company_oomlout_product_prototyping_tin_electronic_crimp_bootlace_ferrule_mixed_version_1
+id_no_class: product_prototyping_tin_electronic_crimp_bootlace_ferrule_mixed_version_1
+id_no_size: electronic_crimp_bootlace_ferrule_mixed_version_1
+id_no_type: prototyping_tin_electronic_crimp_bootlace_ferrule_mixed_version_1
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/company_oomlout_product_prototyping_tin_electronic_crimp_bootlace_ferrule_mixed_version_1
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/company_oomlout_product_prototyping_tin_electronic_crimp_bootlace_ferrule_mixed_version_1
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/company_oomlout_product_prototyping_tin_electronic_crimp_bootlace_ferrule_mixed_version_1
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[company_oomlout_product_prototyping_tin_electronic_crimp_bootlace_ferrule_mixed_version_1](none)<br>[](none)<br>[Company
+    Oomlout Product Prototyping Tin Electronic Crimp Bootlace Ferrule Mixed Version
+    1](none)<br><br>'
+markdown_short: '[company_oomlout_product_prototyping_tin_electronic_crimp_bootlace_ferrule_mixed_version_1](none)<br><br>'
+md5: f2f6a5914bb24e3e6d79466b10023277
+md5_10: f2f6a5914b
+md5_10_upper: F2F6A5914B
+md5_5: f2f6a
+md5_5_upper: F2F6A
+md5_6: f2f6a5
+md5_6_alpha: 9ha5h
+md5_6_alpha_upper: 9HA5H
+md5_6_upper: F2F6A5
+name: Company Oomlout Product Prototyping Tin Electronic Crimp Bootlace Ferrule Mixed
+    Version 1
+name_no_class: Product Prototyping Tin Electronic Crimp Bootlace Ferrule Mixed Version
+    1
+name_no_size: Electronic Crimp Bootlace Ferrule Mixed Version 1
+name_no_size_short: Electronic Crimp Bootlace Ferrule Mixed Version 1
+name_no_type: Prototyping Tin Electronic Crimp Bootlace Ferrule Mixed Version 1
+oomp_key: oomp_company_oomlout_product_prototyping_tin_electronic_crimp_bootlace_ferrule_mixed_version_1
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: prototyping_tin
+size_capital: Prototyping Tin
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PROTOTYPING_TIN
+type: product
+type_capital: Product
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PRODUCT

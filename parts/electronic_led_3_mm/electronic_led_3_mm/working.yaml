@@ -1,0 +1,79 @@
+classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_upper: ELECTRONIC
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/electronic_led_3_mm
+distributors: []
+filter: ''
+from_yaml: false
+id: electronic_led_3_mm
+id_no_class: led_3_mm
+id_no_size: 3_mm
+id_no_type: 3_mm
+kicad_reference: L
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_3_mm
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_3_mm
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_3_mm
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[electronic_led_3_mm](none)<br>[l3](none)<br>[Electronic Led 3 Mm](none)<br><br>'
+markdown_short: '[electronic_led_3_mm](none)<br><br>'
+md5: 1c2ecd94ecf44c4e06ef99b0051681bf
+md5_10: 1c2ecd94ec
+md5_10_upper: 1C2ECD94EC
+md5_5: 1c2ec
+md5_5_upper: 1C2EC
+md5_6: 1c2ecd
+md5_6_alpha: 13l59
+md5_6_alpha_upper: 13L59
+md5_6_upper: 1C2ECD
+name: Electronic Led 3 Mm
+name_no_class: Led 3 Mm
+name_no_size: 3 Mm
+name_no_size_short: 3 Mm
+name_no_type: 3 Mm
+oomp_key: oomp_electronic_led_3_mm
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: l3
+short_code_upper: L3
+short_name: 3 Mm Led
+size: 3_mm
+size_capital: 3 mm
+size_first_letter: '3'
+size_first_letter_upper: '3'
+size_only_numbers: '3'
+size_only_numbers_no_zeros: '3'
+size_upper: 3_MM
+type: led
+type_capital: Led
+type_first_letter: l
+type_first_letter_upper: L
+type_upper: LED

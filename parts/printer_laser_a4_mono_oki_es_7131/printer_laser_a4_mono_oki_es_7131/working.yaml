@@ -1,0 +1,92 @@
+classification: printer
+classification_capital: Printer
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_upper: PRINTER
+color: mono
+color_capital: Mono
+color_first_letter: m
+color_first_letter_upper: M
+color_upper: MONO
+compatible_ink_bottles:
+- toner_cartridge
+description_chat_gpt: Compact A4 mono laser printer with fast printing and mobile
+    support.
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'M '
+description_or_color_upper: 'M '
+directory: parts/printer_laser_a4_mono_oki_es_7131
+distributors: []
+features:
+- mobile_printing
+- fast_print_speed
+- compact_design
+- energy_efficient
+id: printer_laser_a4_mono_oki_es_7131
+id_no_class: laser_a4_mono_oki_es_7131
+id_no_size: mono_oki_es_7131
+id_no_type: a4_mono_oki_es_7131
+ink_type: toner
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_laser_a4_mono_oki_es_7131
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_laser_a4_mono_oki_es_7131
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_laser_a4_mono_oki_es_7131
+manufacturer: oki
+manufacturer_capital: Oki
+manufacturer_first_letter: o
+manufacturer_first_letter_upper: O
+manufacturer_upper: OKI
+manufacturers: []
+markdown_full: '[printer_laser_a4_mono_oki_es_7131](none)<br>[](none)<br>[Printer
+    Laser A4 Mono Oki Es 7131](none)<br><br>'
+markdown_short: '[printer_laser_a4_mono_oki_es_7131](none)<br><br>'
+md5: f3a565eec8c991b4cd545fdd61bf75ab
+md5_10: f3a565eec8
+md5_10_upper: F3A565EEC8
+md5_5: f3a56
+md5_5_upper: F3A56
+md5_6: f3a565
+md5_6_alpha: 9i8o5
+md5_6_alpha_upper: 9I8O5
+md5_6_upper: F3A565
+name: Printer Laser A4 Mono Oki Es 7131
+name_no_class: Laser A4 Mono Oki Es 7131
+name_no_size: Mono Oki Es 7131
+name_no_size_short: Mono Oki Es 7131
+name_no_type: A4 Mono Oki Es 7131
+nozzle_count_black: null
+nozzle_count_per_colour: null
+oomp_key: oomp_printer_laser_a4_mono_oki_es_7131
+original_rrp_gbp: 149.99
+part_number: es_7131
+part_number_capital: Es 7131
+part_number_first_letter: e
+part_number_first_letter_upper: E
+part_number_upper: ES_7131
+printhead_technology: LED Laser
+short_code: ''
+short_code_upper: ''
+short_name: OKI ES 7131
+size: a4
+size_capital: A4
+size_first_letter: a
+size_first_letter_upper: A
+size_only_numbers: '4'
+size_only_numbers_no_zeros: '4'
+size_upper: A4
+total_colours: 1
+type: laser
+type_capital: Laser
+type_first_letter: l
+type_first_letter_upper: L
+type_upper: LASER

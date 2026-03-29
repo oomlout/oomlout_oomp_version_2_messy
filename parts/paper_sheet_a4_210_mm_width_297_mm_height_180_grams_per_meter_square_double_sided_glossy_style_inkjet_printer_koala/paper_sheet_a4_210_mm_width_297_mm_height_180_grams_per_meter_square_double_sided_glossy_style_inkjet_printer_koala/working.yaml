@@ -1,0 +1,90 @@
+classification: paper
+classification_capital: Paper
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_upper: PAPER
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: double_sided_glossy_style_inkjet_printer
+description_extra_capital: Double Sided Glossy Style Inkjet Printer
+description_extra_first_letter: d
+description_extra_first_letter_upper: D
+description_extra_upper: DOUBLE_SIDED_GLOSSY_STYLE_INKJET_PRINTER
+description_main: 180_grams_per_meter_square
+description_main_capital: 180 Grams Per Meter Square
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_upper: 180_GRAMS_PER_METER_SQUARE
+description_only_numbers: '180'
+description_only_numbers_short: '180'
+description_or_color: '180'
+description_or_color_upper: '180'
+directory: parts/paper_sheet_a4_210_mm_width_297_mm_height_180_grams_per_meter_square_double_sided_glossy_style_inkjet_printer_koala
+distributor_amazon: B07L5NSWR8
+distributors: []
+filter: ''
+from_yaml: false
+height: 297 mm
+id: paper_sheet_a4_210_mm_width_297_mm_height_180_grams_per_meter_square_double_sided_glossy_style_inkjet_printer_koala
+id_no_class: sheet_a4_210_mm_width_297_mm_height_180_grams_per_meter_square_double_sided_glossy_style_inkjet_printer_koala
+id_no_size: 180_grams_per_meter_square_double_sided_glossy_style_inkjet_printer_koala
+id_no_type: a4_210_mm_width_297_mm_height_180_grams_per_meter_square_double_sided_glossy_style_inkjet_printer_koala
+link_distributor_amazon: https://www.amazon.co.uk/dp/B07L5NSWR8
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a4_210_mm_width_297_mm_height_180_grams_per_meter_square_double_sided_glossy_style_inkjet_printer_koala
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a4_210_mm_width_297_mm_height_180_grams_per_meter_square_double_sided_glossy_style_inkjet_printer_koala
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a4_210_mm_width_297_mm_height_180_grams_per_meter_square_double_sided_glossy_style_inkjet_printer_koala
+manufacturer: koala
+manufacturer_capital: Koala
+manufacturer_first_letter: k
+manufacturer_first_letter_upper: K
+manufacturer_upper: KOALA
+manufacturers: []
+markdown_full: '[paper_sheet_a4_210_mm_width_297_mm_height_180_grams_per_meter_square_double_sided_glossy_style_inkjet_printer_koala](none)<br>[](none)<br>[Paper
+    Sheet A4 210 Mm Width 297 Mm Height 180 Grams Per Meter Square Double Sided Glossy
+    Style Inkjet Printer Koala](none)<br><br>'
+markdown_short: '[paper_sheet_a4_210_mm_width_297_mm_height_180_grams_per_meter_square_double_sided_glossy_style_inkjet_printer_koala](none)<br><br>'
+md5: 2c655338ee84494fd71def66636f0bef
+md5_10: 2c655338ee
+md5_10_upper: 2C655338EE
+md5_5: 2c655
+md5_5_upper: 2C655
+md5_6: 2c6553
+md5_6_alpha: 1qd03
+md5_6_alpha_upper: 1QD03
+md5_6_upper: 2C6553
+name: Paper Sheet A4 210 Mm Width 297 Mm Height 180 Grams Per Meter Square Double
+    Sided Glossy Style Inkjet Printer Koala
+name_no_class: Sheet A4 210 Mm Width 297 Mm Height 180 Grams Per Meter Square Double
+    Sided Glossy Style Inkjet Printer Koala
+name_no_size: 180 Grams Per Meter Square Double Sided Glossy Style Inkjet Printer
+    Koala
+name_no_size_short: 180 Grams Per Meter Square Double Sided Glossy Style Inkjet Printer
+    Koala
+name_no_type: A4 210 Mm Width 297 Mm Height 180 Grams Per Meter Square Double Sided
+    Glossy Style Inkjet Printer Koala
+oomp_key: oomp_paper_sheet_a4_210_mm_width_297_mm_height_180_grams_per_meter_square_double_sided_glossy_style_inkjet_printer_koala
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+price_1: 0.09991666666666668
+price_1_distributor_amazon: 0.09991666666666668
+short_code: ''
+short_code_upper: ''
+size: a4_210_mm_width_297_mm_height
+size_capital: A4.210 mm Width 297 mm Height
+size_first_letter: a
+size_first_letter_upper: A
+size_only_numbers: '4210297'
+size_only_numbers_no_zeros: '421297'
+size_upper: A4_210_MM_WIDTH_297_MM_HEIGHT
+type: sheet
+type_capital: Sheet
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: SHEET
+width: 210 mm

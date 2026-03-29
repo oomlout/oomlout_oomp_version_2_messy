@@ -1,0 +1,79 @@
+classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_upper: ELECTRONIC
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 27_ohm
+description_main_capital: 27 Ohm
+description_main_first_letter: '2'
+description_main_first_letter_upper: '2'
+description_main_upper: 27_OHM
+description_only_numbers: '27'
+description_only_numbers_short: '27'
+description_or_color: '27'
+description_or_color_upper: '27'
+directory: parts/electronic_resistor_quarter_watt_through_hole_27_ohm
+distributors: []
+filter: ''
+from_yaml: false
+id: electronic_resistor_quarter_watt_through_hole_27_ohm
+id_no_class: resistor_quarter_watt_through_hole_27_ohm
+id_no_size: 27_ohm
+id_no_type: quarter_watt_through_hole_27_ohm
+kicad_reference: R
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_27_ohm
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_27_ohm
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_resistor_quarter_watt_through_hole_27_ohm
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[electronic_resistor_quarter_watt_through_hole_27_ohm](none)<br>[ro270](none)<br>[Electronic
+    Resistor Quarter Watt Through Hole 27 Ohm](none)<br><br>'
+markdown_short: '[electronic_resistor_quarter_watt_through_hole_27_ohm](none)<br><br>'
+md5: 984967d33cbd0c2558ce25231e929984
+md5_10: 984967d33c
+md5_10_upper: 984967D33C
+md5_5: '98496'
+md5_5_upper: '98496'
+md5_6: '984967'
+md5_6_alpha: 5xwtj
+md5_6_alpha_upper: 5XWTJ
+md5_6_upper: '984967'
+name: Electronic Resistor Quarter Watt Through Hole 27 Ohm
+name_no_class: Resistor Quarter Watt Through Hole 27 Ohm
+name_no_size: 27 Ohm
+name_no_size_short: 27 Ohm
+name_no_type: Quarter Watt Through Hole 27 Ohm
+oomp_key: oomp_electronic_resistor_quarter_watt_through_hole_27_ohm
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ro270
+short_code_upper: RO270
+size: quarter_watt_through_hole
+size_capital: Quarter Watt Through Hole
+size_first_letter: q
+size_first_letter_upper: Q
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: QUARTER_WATT_THROUGH_HOLE
+type: resistor
+type_capital: Resistor
+type_first_letter: r
+type_first_letter_upper: R
+type_upper: RESISTOR

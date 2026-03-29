@@ -1,0 +1,77 @@
+classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_upper: ELECTRONIC
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: plug
+description_extra_capital: Plug
+description_extra_first_letter: p
+description_extra_first_letter_upper: P
+description_extra_upper: PLUG
+description_main: 7_pin
+description_main_capital: 7 Pin
+description_main_first_letter: '7'
+description_main_first_letter_upper: '7'
+description_main_upper: 7_PIN
+description_only_numbers: '7'
+description_only_numbers_short: '7'
+description_or_color: '7'
+description_or_color_upper: '7'
+directory: parts/electronic_crimp_housing_2_5_mm_jst_sm_latching_7_pin_plug
+distributors: []
+id: electronic_crimp_housing_2_5_mm_jst_sm_latching_7_pin_plug
+id_no_class: crimp_housing_2_5_mm_jst_sm_latching_7_pin_plug
+id_no_size: 7_pin_plug
+id_no_type: 2_5_mm_jst_sm_latching_7_pin_plug
+kicad_reference: CONN
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_crimp_housing_2_5_mm_jst_sm_latching_7_pin_plug
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_crimp_housing_2_5_mm_jst_sm_latching_7_pin_plug
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_crimp_housing_2_5_mm_jst_sm_latching_7_pin_plug
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[electronic_crimp_housing_2_5_mm_jst_sm_latching_7_pin_plug](none)<br>[ch7p](none)<br>[Electronic
+    Crimp Housing 2 5 Mm Jst Sm Latching 7 Pin Plug](none)<br><br>'
+markdown_short: '[electronic_crimp_housing_2_5_mm_jst_sm_latching_7_pin_plug](none)<br><br>'
+md5: b89f8efa2b56288417bc7370d0836037
+md5_10: b89f8efa2b
+md5_10_upper: B89F8EFA2B
+md5_5: b89f8
+md5_5_upper: B89F8
+md5_6: b89f8e
+md5_6_alpha: 77c0e
+md5_6_alpha_upper: 77C0E
+md5_6_upper: B89F8E
+name: Electronic Crimp Housing 2 5 Mm Jst Sm Latching 7 Pin Plug
+name_no_class: Crimp Housing 2 5 Mm Jst Sm Latching 7 Pin Plug
+name_no_size: 7 Pin Plug
+name_no_size_short: 7 Pin Plug
+name_no_type: 2 5 Mm Jst Sm Latching 7 Pin Plug
+oomp_key: oomp_electronic_crimp_housing_2_5_mm_jst_sm_latching_7_pin_plug
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ch7p
+short_code_upper: CH7P
+size: 2_5_mm_jst_sm_latching
+size_capital: 2.5 mm Jst Sm Latching
+size_first_letter: '2'
+size_first_letter_upper: '2'
+size_only_numbers: '25'
+size_only_numbers_no_zeros: '25'
+size_upper: 2_5_MM_JST_SM_LATCHING
+type: crimp_housing
+type_capital: Crimp Housing
+type_first_letter: c
+type_first_letter_upper: C
+type_upper: CRIMP_HOUSING

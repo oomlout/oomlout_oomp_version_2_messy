@@ -1,0 +1,78 @@
+classification: clothes
+classification_capital: Clothes
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CLOTHES
+color: medium
+color_capital: Medium
+color_first_letter: m
+color_first_letter_upper: M
+color_upper: MEDIUM
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: beige
+description_main_capital: Beige
+description_main_first_letter: b
+description_main_first_letter_upper: B
+description_main_upper: BEIGE
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'M '
+description_or_color_upper: 'M '
+directory: parts/clothes_item_pajama_top_medium_beige
+distributors: []
+filter: ''
+from_yaml: false
+id: clothes_item_pajama_top_medium_beige
+id_no_class: item_pajama_top_medium_beige
+id_no_size: medium_beige
+id_no_type: pajama_top_medium_beige
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_pajama_top_medium_beige
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_pajama_top_medium_beige
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_pajama_top_medium_beige
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[clothes_item_pajama_top_medium_beige](none)<br>[](none)<br>[Clothes
+    Item Pajama Top Medium Beige](none)<br><br>'
+markdown_short: '[clothes_item_pajama_top_medium_beige](none)<br><br>'
+md5: 79720aaeab67094853a4b77fba1104a9
+md5_10: 79720aaeab
+md5_10_upper: 79720AAEAB
+md5_5: '79720'
+md5_5_upper: '79720'
+md5_6: 79720a
+md5_6_alpha: 4ql8q
+md5_6_alpha_upper: 4QL8Q
+md5_6_upper: 79720A
+name: Clothes Item Pajama Top Medium Beige
+name_no_class: Item Pajama Top Medium Beige
+name_no_size: Medium Beige
+name_no_size_short: Medium Beige
+name_no_type: Pajama Top Medium Beige
+oomp_key: oomp_clothes_item_pajama_top_medium_beige
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: pajama_top
+size_capital: Pajama Top
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PAJAMA_TOP
+type: item
+type_capital: Item
+type_first_letter: i
+type_first_letter_upper: I
+type_upper: ITEM

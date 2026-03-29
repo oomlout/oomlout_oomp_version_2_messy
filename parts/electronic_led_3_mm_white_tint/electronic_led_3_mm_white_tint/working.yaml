@@ -1,0 +1,80 @@
+classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_upper: ELECTRONIC
+color: white
+color_capital: White
+color_first_letter: w
+color_first_letter_upper: W
+color_upper: WHITE
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: tint
+description_main_capital: Tint
+description_main_first_letter: t
+description_main_first_letter_upper: T
+description_main_upper: TINT
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'W '
+description_or_color_upper: 'W '
+directory: parts/electronic_led_3_mm_white_tint
+distributors: []
+filter: ''
+from_yaml: false
+id: electronic_led_3_mm_white_tint
+id_no_class: led_3_mm_white_tint
+id_no_size: white_tint
+id_no_type: 3_mm_white_tint
+kicad_reference: L
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_3_mm_white_tint
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_3_mm_white_tint
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_3_mm_white_tint
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[electronic_led_3_mm_white_tint](none)<br>[l3w](none)<br>[Electronic
+    Led 3 Mm White Tint](none)<br><br>'
+markdown_short: '[electronic_led_3_mm_white_tint](none)<br><br>'
+md5: df8616d0e8ce1314d77a241e029e605a
+md5_10: df8616d0e8
+md5_10_upper: DF8616D0E8
+md5_5: df861
+md5_5_upper: DF861
+md5_6: df8616
+md5_6_alpha: 8pz4m
+md5_6_alpha_upper: 8PZ4M
+md5_6_upper: DF8616
+name: Electronic Led 3 Mm White Tint
+name_no_class: Led 3 Mm White Tint
+name_no_size: White Tint
+name_no_size_short: White Tint
+name_no_type: 3 Mm White Tint
+oomp_key: oomp_electronic_led_3_mm_white_tint
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: l3w
+short_code_upper: L3W
+short_name: 3 Mm Whitetint Led
+size: 3_mm
+size_capital: 3 mm
+size_first_letter: '3'
+size_first_letter_upper: '3'
+size_only_numbers: '3'
+size_only_numbers_no_zeros: '3'
+size_upper: 3_MM
+type: led
+type_capital: Led
+type_first_letter: l
+type_first_letter_upper: L
+type_upper: LED

@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_electronic
+description_extra: cubby_box
+description_extra_capital: Cubby Box
+description_extra_first_letter: c
+description_extra_first_letter_upper: C
+description_extra_upper: CUBBY_BOX
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_electronic_dc_to_dc_converter_cubby_box
+distributors: []
+filter: ''
+from_yaml: false
+id: category_electronic_dc_to_dc_converter_cubby_box
+id_no_class: electronic_dc_to_dc_converter_cubby_box
+id_no_size: cubby_box
+id_no_type: dc_to_dc_converter_cubby_box
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_dc_to_dc_converter_cubby_box
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_dc_to_dc_converter_cubby_box
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_dc_to_dc_converter_cubby_box
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_electronic_dc_to_dc_converter_cubby_box](none)<br>[](none)<br>[Category
+    Electronic Dc To Dc Converter Cubby Box](none)<br><br>'
+markdown_short: '[category_electronic_dc_to_dc_converter_cubby_box](none)<br><br>'
+md5: 665ee04ec9c7b450a4a8b59fb9bf1fd9
+md5_10: 665ee04ec9
+md5_10_upper: 665EE04EC9
+md5_5: 665ee
+md5_5_upper: 665EE
+md5_6: 665ee0
+md5_6_alpha: 3zso0
+md5_6_alpha_upper: 3ZSO0
+md5_6_upper: 665EE0
+name: Category Electronic Dc To Dc Converter Cubby Box
+name_no_class: Electronic Dc To Dc Converter Cubby Box
+name_no_size: Cubby Box
+name_no_size_short: Cubby Box
+name_no_type: Dc To Dc Converter Cubby Box
+oomp_key: oomp_category_electronic_dc_to_dc_converter_cubby_box
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryelectronic
+size: dc_to_dc_converter
+size_capital: Dc To Dc Converter
+size_first_letter: d
+size_first_letter_upper: D
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: DC_TO_DC_CONVERTER
+type: electronic
+type_capital: Electronic
+type_first_letter: e
+type_first_letter_upper: E
+type_upper: ELECTRONIC

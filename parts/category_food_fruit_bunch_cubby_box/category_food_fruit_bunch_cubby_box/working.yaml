@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: bunch
+color_capital: Bunch
+color_first_letter: b
+color_first_letter_upper: B
+color_upper: BUNCH
+description: category_food
+description_extra: cubby_box
+description_extra_capital: Cubby Box
+description_extra_first_letter: c
+description_extra_first_letter_upper: C
+description_extra_upper: CUBBY_BOX
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'B '
+description_or_color_upper: 'B '
+directory: parts/category_food_fruit_bunch_cubby_box
+distributors: []
+filter: ''
+from_yaml: false
+id: category_food_fruit_bunch_cubby_box
+id_no_class: food_fruit_bunch_cubby_box
+id_no_size: bunch_cubby_box
+id_no_type: fruit_bunch_cubby_box
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_fruit_bunch_cubby_box
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_fruit_bunch_cubby_box
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_fruit_bunch_cubby_box
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_food_fruit_bunch_cubby_box](none)<br>[](none)<br>[Category
+    Food Fruit Bunch Cubby Box](none)<br><br>'
+markdown_short: '[category_food_fruit_bunch_cubby_box](none)<br><br>'
+md5: 792e41702cd02c18f1ea8eb48dd41bc0
+md5_10: 792e41702c
+md5_10_upper: 792E41702C
+md5_5: 792e4
+md5_5_upper: 792E4
+md5_6: 792e41
+md5_6_alpha: 4q7up
+md5_6_alpha_upper: 4Q7UP
+md5_6_upper: 792E41
+name: Category Food Fruit Bunch Cubby Box
+name_no_class: Food Fruit Bunch Cubby Box
+name_no_size: Bunch Cubby Box
+name_no_size_short: Bunch Cubby Box
+name_no_type: Fruit Bunch Cubby Box
+oomp_key: oomp_category_food_fruit_bunch_cubby_box
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryfood
+size: fruit
+size_capital: Fruit
+size_first_letter: f
+size_first_letter_upper: F
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: FRUIT
+type: food
+type_capital: Food
+type_first_letter: f
+type_first_letter_upper: F
+type_upper: FOOD

@@ -1,0 +1,83 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: c7_size_114_mm_width_81_mm_height_fits_a7_sheet
+color_capital: C7 Size 114 mm Width 81 mm Height Fits A7 Sheet
+color_first_letter: c
+color_first_letter_upper: C
+color_upper: C7_SIZE_114_MM_WIDTH_81_MM_HEIGHT_FITS_A7_SHEET
+description: category_paper
+description_extra: cubby_box
+description_extra_capital: Cubby Box
+description_extra_first_letter: c
+description_extra_first_letter_upper: C
+description_extra_upper: CUBBY_BOX
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'C '
+description_or_color_upper: 'C '
+directory: parts/category_paper_envelope_c7_size_114_mm_width_81_mm_height_fits_a7_sheet_cubby_box
+distributors: []
+filter: ''
+from_yaml: false
+id: category_paper_envelope_c7_size_114_mm_width_81_mm_height_fits_a7_sheet_cubby_box
+id_no_class: paper_envelope_c7_size_114_mm_width_81_mm_height_fits_a7_sheet_cubby_box
+id_no_size: c7_size_114_mm_width_81_mm_height_fits_a7_sheet_cubby_box
+id_no_type: envelope_c7_size_114_mm_width_81_mm_height_fits_a7_sheet_cubby_box
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_paper_envelope_c7_size_114_mm_width_81_mm_height_fits_a7_sheet_cubby_box
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_paper_envelope_c7_size_114_mm_width_81_mm_height_fits_a7_sheet_cubby_box
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_paper_envelope_c7_size_114_mm_width_81_mm_height_fits_a7_sheet_cubby_box
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_paper_envelope_c7_size_114_mm_width_81_mm_height_fits_a7_sheet_cubby_box](none)<br>[](none)<br>[Category
+    Paper Envelope C7 Size 114 Mm Width 81 Mm Height Fits A7 Sheet Cubby Box](none)<br><br>'
+markdown_short: '[category_paper_envelope_c7_size_114_mm_width_81_mm_height_fits_a7_sheet_cubby_box](none)<br><br>'
+md5: 407308be77700640c055073cabb6b9b3
+md5_10: 407308be77
+md5_10_upper: 407308BE77
+md5_5: '40730'
+md5_5_upper: '40730'
+md5_6: '407308'
+md5_6_alpha: 2ij2g
+md5_6_alpha_upper: 2IJ2G
+md5_6_upper: '407308'
+name: Category Paper Envelope C7 Size 114 Mm Width 81 Mm Height Fits A7 Sheet Cubby
+    Box
+name_no_class: Paper Envelope C7 Size 114 Mm Width 81 Mm Height Fits A7 Sheet Cubby
+    Box
+name_no_size: C7 Size 114 Mm Width 81 Mm Height Fits A7 Sheet Cubby Box
+name_no_size_short: C7 Size 114 Mm Width 81 Mm Height Fits A7 Sheet Cubby Box
+name_no_type: Envelope C7 Size 114 Mm Width 81 Mm Height Fits A7 Sheet Cubby Box
+oomp_key: oomp_category_paper_envelope_c7_size_114_mm_width_81_mm_height_fits_a7_sheet_cubby_box
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorypaper
+size: envelope
+size_capital: Envelope
+size_first_letter: e
+size_first_letter_upper: E
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ENVELOPE
+type: paper
+type_capital: Paper
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PAPER

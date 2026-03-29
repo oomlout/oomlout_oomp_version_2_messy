@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_tool
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_tool_measure_tape_measure
+distributors: []
+filter: ''
+from_yaml: false
+id: category_tool_measure_tape_measure
+id_no_class: tool_measure_tape_measure
+id_no_size: measure_tape_measure
+id_no_type: measure_tape_measure
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_measure_tape_measure
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_measure_tape_measure
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_measure_tape_measure
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_tool_measure_tape_measure](none)<br>[](none)<br>[Category
+    Tool Measure Tape Measure](none)<br><br>'
+markdown_short: '[category_tool_measure_tape_measure](none)<br><br>'
+md5: c6e3881d271a34e4672196ff64c368f2
+md5_10: c6e3881d27
+md5_10_upper: C6E3881D27
+md5_5: c6e38
+md5_5_upper: C6E38
+md5_6: c6e388
+md5_6_alpha: 7rde0
+md5_6_alpha_upper: 7RDE0
+md5_6_upper: C6E388
+name: Category Tool Measure Tape Measure
+name_no_class: Tool Measure Tape Measure
+name_no_size: Measure Tape Measure
+name_no_size_short: Measure Tape Measure
+name_no_type: Measure Tape Measure
+oomp_key: oomp_category_tool_measure_tape_measure
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorytool
+size: measure_tape_measure
+size_capital: Measure Tape Measure
+size_first_letter: m
+size_first_letter_upper: M
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: MEASURE_TAPE_MEASURE
+type: tool
+type_capital: Tool
+type_first_letter: t
+type_first_letter_upper: T
+type_upper: TOOL

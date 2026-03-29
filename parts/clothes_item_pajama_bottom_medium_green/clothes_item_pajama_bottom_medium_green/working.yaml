@@ -1,0 +1,78 @@
+classification: clothes
+classification_capital: Clothes
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CLOTHES
+color: medium
+color_capital: Medium
+color_first_letter: m
+color_first_letter_upper: M
+color_upper: MEDIUM
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: green
+description_main_capital: Green
+description_main_first_letter: g
+description_main_first_letter_upper: G
+description_main_upper: GREEN
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'M '
+description_or_color_upper: 'M '
+directory: parts/clothes_item_pajama_bottom_medium_green
+distributors: []
+filter: ''
+from_yaml: false
+id: clothes_item_pajama_bottom_medium_green
+id_no_class: item_pajama_bottom_medium_green
+id_no_size: medium_green
+id_no_type: pajama_bottom_medium_green
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_pajama_bottom_medium_green
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_pajama_bottom_medium_green
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_pajama_bottom_medium_green
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[clothes_item_pajama_bottom_medium_green](none)<br>[](none)<br>[Clothes
+    Item Pajama Bottom Medium Green](none)<br><br>'
+markdown_short: '[clothes_item_pajama_bottom_medium_green](none)<br><br>'
+md5: 3561713c83159f54c287bf9f273a734d
+md5_10: 3561713c83
+md5_10_upper: 3561713C83
+md5_5: '35617'
+md5_5_upper: '35617'
+md5_6: '356171'
+md5_6_alpha: 22zch
+md5_6_alpha_upper: 22ZCH
+md5_6_upper: '356171'
+name: Clothes Item Pajama Bottom Medium Green
+name_no_class: Item Pajama Bottom Medium Green
+name_no_size: Medium Green
+name_no_size_short: Medium Green
+name_no_type: Pajama Bottom Medium Green
+oomp_key: oomp_clothes_item_pajama_bottom_medium_green
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: pajama_bottom
+size_capital: Pajama Bottom
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PAJAMA_BOTTOM
+type: item
+type_capital: Item
+type_first_letter: i
+type_first_letter_upper: I
+type_upper: ITEM

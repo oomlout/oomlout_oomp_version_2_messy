@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_storage
+description_extra: old
+description_extra_capital: Old
+description_extra_first_letter: o
+description_extra_first_letter_upper: O
+description_extra_upper: OLD
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_storage_bin_bag_old
+distributors: []
+filter: ''
+from_yaml: false
+id: category_storage_bin_bag_old
+id_no_class: storage_bin_bag_old
+id_no_size: old
+id_no_type: bin_bag_old
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_storage_bin_bag_old
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_storage_bin_bag_old
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_storage_bin_bag_old
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_storage_bin_bag_old](none)<br>[](none)<br>[Category Storage
+    Bin Bag Old](none)<br><br>'
+markdown_short: '[category_storage_bin_bag_old](none)<br><br>'
+md5: 2feaa3541603877e305b9e62636f8253
+md5_10: 2feaa35416
+md5_10_upper: 2FEAA35416
+md5_5: 2feaa
+md5_5_upper: 2FEAA
+md5_6: 2feaa3
+md5_6_alpha: 1vb1f
+md5_6_alpha_upper: 1VB1F
+md5_6_upper: 2FEAA3
+name: Category Storage Bin Bag Old
+name_no_class: Storage Bin Bag Old
+name_no_size: Old
+name_no_size_short: Old
+name_no_type: Bin Bag Old
+oomp_key: oomp_category_storage_bin_bag_old
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorystorage
+size: bin_bag
+size_capital: Bin Bag
+size_first_letter: b
+size_first_letter_upper: B
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: BIN_BAG
+type: storage
+type_capital: Storage
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: STORAGE

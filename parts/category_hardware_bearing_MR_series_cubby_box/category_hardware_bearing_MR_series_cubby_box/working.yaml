@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: MR_series
+color_capital: Mr Series
+color_first_letter: M
+color_first_letter_upper: M
+color_upper: MR_SERIES
+description: category_hardware
+description_extra: cubby_box
+description_extra_capital: Cubby Box
+description_extra_first_letter: c
+description_extra_first_letter_upper: C
+description_extra_upper: CUBBY_BOX
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'M '
+description_or_color_upper: 'M '
+directory: parts/category_hardware_bearing_MR_series_cubby_box
+distributors: []
+filter: ''
+from_yaml: false
+id: category_hardware_bearing_MR_series_cubby_box
+id_no_class: hardware_bearing_MR_series_cubby_box
+id_no_size: MR_series_cubby_box
+id_no_type: bearing_MR_series_cubby_box
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_bearing_MR_series_cubby_box
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_bearing_MR_series_cubby_box
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_bearing_MR_series_cubby_box
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_hardware_bearing_MR_series_cubby_box](none)<br>[](none)<br>[Category
+    Hardware Bearing Mr Series Cubby Box](none)<br><br>'
+markdown_short: '[category_hardware_bearing_MR_series_cubby_box](none)<br><br>'
+md5: 42f6db2c718c57464e0a1466c06972f8
+md5_10: 42f6db2c71
+md5_10_upper: 42F6DB2C71
+md5_5: 42f6d
+md5_5_upper: 42F6D
+md5_6: 42f6db
+md5_6_alpha: 2m28r
+md5_6_alpha_upper: 2M28R
+md5_6_upper: 42F6DB
+name: Category Hardware Bearing Mr Series Cubby Box
+name_no_class: Hardware Bearing Mr Series Cubby Box
+name_no_size: Mr Series Cubby Box
+name_no_size_short: Mr Series Cubby Box
+name_no_type: Bearing Mr Series Cubby Box
+oomp_key: oomp_category_hardware_bearing_MR_series_cubby_box
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryhardware
+size: bearing
+size_capital: Bearing
+size_first_letter: b
+size_first_letter_upper: B
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: BEARING
+type: hardware
+type_capital: Hardware
+type_first_letter: h
+type_first_letter_upper: H
+type_upper: HARDWARE

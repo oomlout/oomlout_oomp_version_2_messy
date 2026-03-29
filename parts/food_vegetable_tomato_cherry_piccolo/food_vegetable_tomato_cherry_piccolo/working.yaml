@@ -1,0 +1,81 @@
+classification: food
+classification_capital: Food
+classification_first_letter: f
+classification_first_letter_upper: F
+classification_upper: FOOD
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: M&S Piccolo Vine Tomatoes
+description_extra: piccolo
+description_extra_capital: Piccolo
+description_extra_first_letter: p
+description_extra_first_letter_upper: P
+description_extra_upper: PICCOLO
+description_main: tomato_cherry
+description_main_capital: Tomato Cherry
+description_main_first_letter: t
+description_main_first_letter_upper: T
+description_main_upper: TOMATO_CHERRY
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/food_vegetable_tomato_cherry_piccolo
+distributors: []
+filter: ''
+from_yaml: false
+id: food_vegetable_tomato_cherry_piccolo
+id_no_class: vegetable_tomato_cherry_piccolo
+id_no_size: tomatocherrypiccolo
+id_no_type: tomato_cherry_piccolo
+link_distributor_ocado: https://www.ocado.com/search?entry=517984011
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_vegetable_tomato_cherry_piccolo
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_vegetable_tomato_cherry_piccolo
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_vegetable_tomato_cherry_piccolo
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[food_vegetable_tomato_cherry_piccolo](none)<br>[](none)<br>[Food
+    Vegetable Tomato Cherry Piccolo](none)<br><br>'
+markdown_short: '[food_vegetable_tomato_cherry_piccolo](none)<br><br>'
+md5: 6d38a1b5e3026ac5369a0cca633946c7
+md5_10: 6d38a1b5e3
+md5_10_upper: 6D38A1B5E3
+md5_5: 6d38a
+md5_5_upper: 6D38A
+md5_6: 6d38a1
+md5_6_alpha: 49f35
+md5_6_alpha_upper: 49F35
+md5_6_upper: 6D38A1
+name: Food Vegetable Tomato Cherry Piccolo
+name_no_class: Vegetable Tomato Cherry Piccolo
+name_no_size: Tomatocherrypiccolo
+name_no_size_short: Tomatocherrypiccolo
+name_no_type: Tomato Cherry Piccolo
+oomp_key: oomp_food_vegetable_tomato_cherry_piccolo
+part_number: ''
+part_number_capital: ''
+part_number_distributor_ocado: '517984011'
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: vegetable
+type_capital: Vegetable
+type_first_letter: v
+type_first_letter_upper: V
+type_upper: VEGETABLE

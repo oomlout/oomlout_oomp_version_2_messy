@@ -1,0 +1,78 @@
+classification: clothes
+classification_capital: Clothes
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CLOTHES
+color: extra_large
+color_capital: Extra Large
+color_first_letter: e
+color_first_letter_upper: E
+color_upper: EXTRA_LARGE
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: olive
+description_main_capital: Olive
+description_main_first_letter: o
+description_main_first_letter_upper: O
+description_main_upper: OLIVE
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'E '
+description_or_color_upper: 'E '
+directory: parts/clothes_item_shorts_extra_large_olive
+distributors: []
+filter: ''
+from_yaml: false
+id: clothes_item_shorts_extra_large_olive
+id_no_class: item_shorts_extra_large_olive
+id_no_size: extra_large_olive
+id_no_type: shorts_extra_large_olive
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_shorts_extra_large_olive
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_shorts_extra_large_olive
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_shorts_extra_large_olive
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[clothes_item_shorts_extra_large_olive](none)<br>[](none)<br>[Clothes
+    Item Shorts Extra Large Olive](none)<br><br>'
+markdown_short: '[clothes_item_shorts_extra_large_olive](none)<br><br>'
+md5: 8bd5bdac8ad5ed1bf35ed387c5690698
+md5_10: 8bd5bdac8a
+md5_10_upper: 8BD5BDAC8A
+md5_5: 8bd5b
+md5_5_upper: 8BD5B
+md5_6: 8bd5bd
+md5_6_alpha: 5gf5p
+md5_6_alpha_upper: 5GF5P
+md5_6_upper: 8BD5BD
+name: Clothes Item Shorts Extra Large Olive
+name_no_class: Item Shorts Extra Large Olive
+name_no_size: Extra Large Olive
+name_no_size_short: Extra Large Olive
+name_no_type: Shorts Extra Large Olive
+oomp_key: oomp_clothes_item_shorts_extra_large_olive
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: shorts
+size_capital: Shorts
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SHORTS
+type: item
+type_capital: Item
+type_first_letter: i
+type_first_letter_upper: I
+type_upper: ITEM

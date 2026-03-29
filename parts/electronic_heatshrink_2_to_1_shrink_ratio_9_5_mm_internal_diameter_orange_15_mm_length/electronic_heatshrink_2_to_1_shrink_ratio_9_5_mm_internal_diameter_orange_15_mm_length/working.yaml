@@ -1,0 +1,79 @@
+classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_upper: ELECTRONIC
+color: orange
+color_capital: Orange
+color_first_letter: o
+color_first_letter_upper: O
+color_upper: ORANGE
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 15_mm_length
+description_main_capital: 15 mm Length
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_upper: 15_MM_LENGTH
+description_only_numbers: '15'
+description_only_numbers_short: '15'
+description_or_color: O15
+description_or_color_upper: O15
+directory: parts/electronic_heatshrink_2_to_1_shrink_ratio_9_5_mm_internal_diameter_orange_15_mm_length
+distributors: []
+id: electronic_heatshrink_2_to_1_shrink_ratio_9_5_mm_internal_diameter_orange_15_mm_length
+id_no_class: heatshrink_2_to_1_shrink_ratio_9_5_mm_internal_diameter_orange_15_mm_length
+id_no_size: orange_15_mm_length
+id_no_type: 9_5_mm_internal_diameter_orange_15_mm_length
+kicad_reference: ''
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_9_5_mm_internal_diameter_orange_15_mm_length
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_9_5_mm_internal_diameter_orange_15_mm_length
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_9_5_mm_internal_diameter_orange_15_mm_length
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[electronic_heatshrink_2_to_1_shrink_ratio_9_5_mm_internal_diameter_orange_15_mm_length](none)<br>[o15](none)<br>[Electronic
+    Heatshrink 2 To 1 Shrink Ratio 9 5 Mm Internal Diameter Orange 15 Mm Length](none)<br><br>'
+markdown_short: '[electronic_heatshrink_2_to_1_shrink_ratio_9_5_mm_internal_diameter_orange_15_mm_length](none)<br><br>'
+md5: 7f7b55be45414534935e80d675fa1ee4
+md5_10: 7f7b55be45
+md5_10_upper: 7F7B55BE45
+md5_5: 7f7b5
+md5_5_upper: 7F7B5
+md5_6: 7f7b55
+md5_6_alpha: 4z2hh
+md5_6_alpha_upper: 4Z2HH
+md5_6_upper: 7F7B55
+name: Electronic Heatshrink 2 To 1 Shrink Ratio 9 5 Mm Internal Diameter Orange 15
+    Mm Length
+name_no_class: Heatshrink 2 To 1 Shrink Ratio 9 5 Mm Internal Diameter Orange 15 Mm
+    Length
+name_no_size: Orange 15 Mm Length
+name_no_size_short: Orange 15 Mm Length
+name_no_type: 9 5 Mm Internal Diameter Orange 15 Mm Length
+oomp_key: oomp_electronic_heatshrink_2_to_1_shrink_ratio_9_5_mm_internal_diameter_orange_15_mm_length
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: o15
+short_code_upper: O15
+size: 9_5_mm_internal_diameter
+size_capital: 9.5 mm Internal Diameter
+size_first_letter: '9'
+size_first_letter_upper: '9'
+size_only_numbers: '95'
+size_only_numbers_no_zeros: '95'
+size_upper: 9_5_MM_INTERNAL_DIAMETER
+type: heatshrink_2_to_1_shrink_ratio
+type_capital: Heatshrink 2 To 1 Shrink Ratio
+type_first_letter: h
+type_first_letter_upper: H
+type_upper: HEATSHRINK_2_TO_1_SHRINK_RATIO

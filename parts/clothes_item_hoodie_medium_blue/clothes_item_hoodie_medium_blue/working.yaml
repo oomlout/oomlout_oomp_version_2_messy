@@ -1,0 +1,78 @@
+classification: clothes
+classification_capital: Clothes
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CLOTHES
+color: medium
+color_capital: Medium
+color_first_letter: m
+color_first_letter_upper: M
+color_upper: MEDIUM
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: blue
+description_main_capital: Blue
+description_main_first_letter: b
+description_main_first_letter_upper: B
+description_main_upper: BLUE
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'M '
+description_or_color_upper: 'M '
+directory: parts/clothes_item_hoodie_medium_blue
+distributors: []
+filter: ''
+from_yaml: false
+id: clothes_item_hoodie_medium_blue
+id_no_class: item_hoodie_medium_blue
+id_no_size: medium_blue
+id_no_type: hoodie_medium_blue
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_hoodie_medium_blue
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_hoodie_medium_blue
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_hoodie_medium_blue
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[clothes_item_hoodie_medium_blue](none)<br>[](none)<br>[Clothes Item
+    Hoodie Medium Blue](none)<br><br>'
+markdown_short: '[clothes_item_hoodie_medium_blue](none)<br><br>'
+md5: 6905bbf5ef4ee8984559dd0f83bbf9e7
+md5_10: 6905bbf5ef
+md5_10_upper: 6905BBF5EF
+md5_5: 6905b
+md5_5_upper: 6905B
+md5_6: 6905bb
+md5_6_alpha: 43irf
+md5_6_alpha_upper: 43IRF
+md5_6_upper: 6905BB
+name: Clothes Item Hoodie Medium Blue
+name_no_class: Item Hoodie Medium Blue
+name_no_size: Medium Blue
+name_no_size_short: Medium Blue
+name_no_type: Hoodie Medium Blue
+oomp_key: oomp_clothes_item_hoodie_medium_blue
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: hoodie
+size_capital: Hoodie
+size_first_letter: h
+size_first_letter_upper: H
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: HOODIE
+type: item
+type_capital: Item
+type_first_letter: i
+type_first_letter_upper: I
+type_upper: ITEM

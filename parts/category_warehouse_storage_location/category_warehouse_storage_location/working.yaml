@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_warehouse
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_warehouse_storage_location
+distributors: []
+filter: ''
+from_yaml: false
+id: category_warehouse_storage_location
+id_no_class: warehouse_storage_location
+id_no_size: storage_location
+id_no_type: storage_location
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_warehouse_storage_location
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_warehouse_storage_location
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_warehouse_storage_location
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_warehouse_storage_location](none)<br>[](none)<br>[Category
+    Warehouse Storage Location](none)<br><br>'
+markdown_short: '[category_warehouse_storage_location](none)<br><br>'
+md5: 99a7551473b76a20bc3e73a0644e0f3a
+md5_10: 99a7551473
+md5_10_upper: 99A7551473
+md5_5: 99a75
+md5_5_upper: 99A75
+md5_6: 99a755
+md5_6_alpha: 5ztxx
+md5_6_alpha_upper: 5ZTXX
+md5_6_upper: 99A755
+name: Category Warehouse Storage Location
+name_no_class: Warehouse Storage Location
+name_no_size: Storage Location
+name_no_size_short: Storage Location
+name_no_type: Storage Location
+oomp_key: oomp_category_warehouse_storage_location
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorywarehouse
+size: storage_location
+size_capital: Storage Location
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: STORAGE_LOCATION
+type: warehouse
+type_capital: Warehouse
+type_first_letter: w
+type_first_letter_upper: W
+type_upper: WAREHOUSE

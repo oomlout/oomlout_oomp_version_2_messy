@@ -1,0 +1,78 @@
+classification: clothes
+classification_capital: Clothes
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CLOTHES
+color: extra_large
+color_capital: Extra Large
+color_first_letter: e
+color_first_letter_upper: E
+color_upper: EXTRA_LARGE
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: brown
+description_main_capital: Brown
+description_main_first_letter: b
+description_main_first_letter_upper: B
+description_main_upper: BROWN
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'E '
+description_or_color_upper: 'E '
+directory: parts/clothes_item_pants_extra_large_brown
+distributors: []
+filter: ''
+from_yaml: false
+id: clothes_item_pants_extra_large_brown
+id_no_class: item_pants_extra_large_brown
+id_no_size: extra_large_brown
+id_no_type: pants_extra_large_brown
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_pants_extra_large_brown
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_pants_extra_large_brown
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_pants_extra_large_brown
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[clothes_item_pants_extra_large_brown](none)<br>[](none)<br>[Clothes
+    Item Pants Extra Large Brown](none)<br><br>'
+markdown_short: '[clothes_item_pants_extra_large_brown](none)<br><br>'
+md5: 7ebcc3150a357517e719174103a09195
+md5_10: 7ebcc3150a
+md5_10_upper: 7EBCC3150A
+md5_5: 7ebcc
+md5_5_upper: 7EBCC
+md5_6: 7ebcc3
+md5_6_alpha: 4y0ub
+md5_6_alpha_upper: 4Y0UB
+md5_6_upper: 7EBCC3
+name: Clothes Item Pants Extra Large Brown
+name_no_class: Item Pants Extra Large Brown
+name_no_size: Extra Large Brown
+name_no_size_short: Extra Large Brown
+name_no_type: Pants Extra Large Brown
+oomp_key: oomp_clothes_item_pants_extra_large_brown
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: pants
+size_capital: Pants
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PANTS
+type: item
+type_capital: Item
+type_first_letter: i
+type_first_letter_upper: I
+type_upper: ITEM

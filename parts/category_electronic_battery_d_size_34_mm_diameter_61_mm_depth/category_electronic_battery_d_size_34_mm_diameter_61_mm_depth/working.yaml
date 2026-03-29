@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: d_size_34_mm_diameter_61_mm_depth
+color_capital: D Size 34 mm Diameter 61 mm Depth
+color_first_letter: d
+color_first_letter_upper: D
+color_upper: D_SIZE_34_MM_DIAMETER_61_MM_DEPTH
+description: category_electronic
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'D '
+description_or_color_upper: 'D '
+directory: parts/category_electronic_battery_d_size_34_mm_diameter_61_mm_depth
+distributors: []
+filter: ''
+from_yaml: false
+id: category_electronic_battery_d_size_34_mm_diameter_61_mm_depth
+id_no_class: electronic_battery_d_size_34_mm_diameter_61_mm_depth
+id_no_size: d_size_34_mm_diameter_61_mm_depth
+id_no_type: battery_d_size_34_mm_diameter_61_mm_depth
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_battery_d_size_34_mm_diameter_61_mm_depth
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_battery_d_size_34_mm_diameter_61_mm_depth
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_battery_d_size_34_mm_diameter_61_mm_depth
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_electronic_battery_d_size_34_mm_diameter_61_mm_depth](none)<br>[](none)<br>[Category
+    Electronic Battery D Size 34 Mm Diameter 61 Mm Depth](none)<br><br>'
+markdown_short: '[category_electronic_battery_d_size_34_mm_diameter_61_mm_depth](none)<br><br>'
+md5: 7f96fc11d8674bcc612f39d578692f27
+md5_10: 7f96fc11d8
+md5_10_upper: 7F96FC11D8
+md5_5: 7f96f
+md5_5_upper: 7F96F
+md5_6: 7f96fc
+md5_6_alpha: 4z7y4
+md5_6_alpha_upper: 4Z7Y4
+md5_6_upper: 7F96FC
+name: Category Electronic Battery D Size 34 Mm Diameter 61 Mm Depth
+name_no_class: Electronic Battery D Size 34 Mm Diameter 61 Mm Depth
+name_no_size: D Size 34 Mm Diameter 61 Mm Depth
+name_no_size_short: D Size 34 Mm Diameter 61 Mm Depth
+name_no_type: Battery D Size 34 Mm Diameter 61 Mm Depth
+oomp_key: oomp_category_electronic_battery_d_size_34_mm_diameter_61_mm_depth
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryelectronic
+size: battery
+size_capital: Battery
+size_first_letter: b
+size_first_letter_upper: B
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: BATTERY
+type: electronic
+type_capital: Electronic
+type_first_letter: e
+type_first_letter_upper: E
+type_upper: ELECTRONIC

@@ -1,0 +1,81 @@
+classification: electrical
+classification_capital: Electrical
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_upper: ELECTRICAL
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/electrical_light_fixing_hardware_hook_68_mm_width
+distributor_amazon: B0BLYVQBV7
+distributors: []
+id: electrical_light_fixing_hardware_hook_68_mm_width
+id_no_class: light_fixing_hardware_hook_68_mm_width
+id_no_size: 68_mm_width
+id_no_type: 68_mm_width
+link_distributor_amazon: https://www.amazon.co.uk/dp/B0BLYVQBV7
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electrical_light_fixing_hardware_hook_68_mm_width
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electrical_light_fixing_hardware_hook_68_mm_width
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electrical_light_fixing_hardware_hook_68_mm_width
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[electrical_light_fixing_hardware_hook_68_mm_width](none)<br>[](none)<br>[Electrical
+    Light Fixing Hardware Hook 68 Mm Width](none)<br><br>'
+markdown_short: '[electrical_light_fixing_hardware_hook_68_mm_width](none)<br><br>'
+md5: a078ba84003513a5debae5b05d39881c
+md5_10: a078ba8400
+md5_10_upper: A078BA8400
+md5_5: a078b
+md5_5_upper: A078B
+md5_6: a078ba
+md5_6_alpha: 69epm
+md5_6_alpha_upper: 69EPM
+md5_6_upper: A078BA
+name: Electrical Light Fixing Hardware Hook 68 Mm Width
+name_no_class: Light Fixing Hardware Hook 68 Mm Width
+name_no_size: 68 Mm Width
+name_no_size_short: 68 Mm Width
+name_no_type: 68 Mm Width
+oomp_key: oomp_electrical_light_fixing_hardware_hook_68_mm_width
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+price_1: 1.1650000000000003
+price_1_distributor_amazon: 1.1650000000000003
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: 68_mm_width
+size_capital: 68 mm Width
+size_first_letter: '6'
+size_first_letter_upper: '6'
+size_only_numbers: '68'
+size_only_numbers_no_zeros: '68'
+size_upper: 68_MM_WIDTH
+type: light_fixing_hardware_hook
+type_capital: Light Fixing Hardware Hook
+type_first_letter: l
+type_first_letter_upper: L
+type_upper: LIGHT_FIXING_HARDWARE_HOOK

@@ -1,0 +1,80 @@
+classification: vinyl
+classification_capital: Vinyl
+classification_first_letter: v
+classification_first_letter_upper: V
+classification_upper: VINYL
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: a0_841_mm_width_1189_mm_height
+description_extra_capital: A0 841 mm Width 1189 mm Height
+description_extra_first_letter: a
+description_extra_first_letter_upper: A
+description_extra_upper: A0_841_MM_WIDTH_1189_MM_HEIGHT
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/vinyl_a0_841_mm_width_1189_mm_height
+distributors: []
+filter: ''
+from_yaml: false
+height: 1189 mm
+id: vinyl_a0_841_mm_width_1189_mm_height
+id_no_class: a0_841_mm_width_1189_mm_height
+id_no_size: a0841mmwidth1189mmheight
+id_no_type: a0841mmwidth1189mmheight
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/vinyl_a0_841_mm_width_1189_mm_height
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/vinyl_a0_841_mm_width_1189_mm_height
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/vinyl_a0_841_mm_width_1189_mm_height
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[vinyl_a0_841_mm_width_1189_mm_height](none)<br>[](none)<br>[Vinyl
+    A0 841 Mm Width 1189 Mm Height](none)<br><br>'
+markdown_short: '[vinyl_a0_841_mm_width_1189_mm_height](none)<br><br>'
+md5: f36fae032e3504fe7d4e3c093e61228b
+md5_10: f36fae032e
+md5_10_upper: F36FAE032E
+md5_5: f36fa
+md5_5_upper: F36FA
+md5_6: f36fae
+md5_6_alpha: 9hy26
+md5_6_alpha_upper: 9HY26
+md5_6_upper: F36FAE
+name: Vinyl A0 841 Mm Width 1189 Mm Height
+name_no_class: A0 841 Mm Width 1189 Mm Height
+name_no_size: A0841Mmwidth1189Mmheight
+name_no_size_short: A0841Mmwidth1189Mmheight
+name_no_type: A0841Mmwidth1189Mmheight
+oomp_key: oomp_vinyl_a0_841_mm_width_1189_mm_height
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: ''
+type_capital: ''
+type_first_letter: ''
+type_first_letter_upper: ''
+type_upper: ''
+width: 841 mm

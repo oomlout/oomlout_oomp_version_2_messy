@@ -1,0 +1,81 @@
+classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_upper: ELECTRONIC
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 16_key_118_5_mm_width_118_5_mm_height_11_mm_depth
+description_main_capital: 16 Key 118.5 mm Width 118.5 mm Height 11 mm Depth
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_upper: 16_KEY_118_5_MM_WIDTH_118_5_MM_HEIGHT_11_MM_DEPTH
+description_only_numbers: '161185118511'
+description_only_numbers_short: 1M6
+description_or_color: 1M6
+description_or_color_upper: 1M6
+directory: parts/electronic_button_keypad_16_key_118_5_mm_width_118_5_mm_height_11_mm_depth_storm_interface_2k16t10
+distributors: []
+id: electronic_button_keypad_16_key_118_5_mm_width_118_5_mm_height_11_mm_depth_storm_interface_2k16t10
+id_no_class: button_keypad_16_key_118_5_mm_width_118_5_mm_height_11_mm_depth_storm_interface_2k16t10
+id_no_size: 16key1185mmwidth1185mmheight11mmdepthstorminterface2k16t10
+id_no_type: 16_key_118_5_mm_width_118_5_mm_height_11_mm_depth_storm_interface_2k16t10
+link: https://www.storm-interface.com/ixp/keypads/2000-series/2000-series-16-key-telephone.html
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_button_keypad_16_key_118_5_mm_width_118_5_mm_height_11_mm_depth_storm_interface_2k16t10
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_button_keypad_16_key_118_5_mm_width_118_5_mm_height_11_mm_depth_storm_interface_2k16t10
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_button_keypad_16_key_118_5_mm_width_118_5_mm_height_11_mm_depth_storm_interface_2k16t10
+manufacturer: storm_interface
+manufacturer_capital: Storm Interface
+manufacturer_first_letter: s
+manufacturer_first_letter_upper: S
+manufacturer_upper: STORM_INTERFACE
+manufacturers: []
+markdown_full: '[electronic_button_keypad_16_key_118_5_mm_width_118_5_mm_height_11_mm_depth_storm_interface_2k16t10](none)<br>[](none)<br>[Electronic
+    Button Keypad 16 Key 118 5 Mm Width 118 5 Mm Height 11 Mm Depth Storm Interface
+    2K16T10](none)<br><br>'
+markdown_short: '[electronic_button_keypad_16_key_118_5_mm_width_118_5_mm_height_11_mm_depth_storm_interface_2k16t10](none)<br><br>'
+md5: 1f42de0629e20235facba387212e8942
+md5_10: 1f42de0629
+md5_10_upper: 1F42DE0629
+md5_5: 1f42d
+md5_5_upper: 1F42D
+md5_6: 1f42de
+md5_6_alpha: 17wta
+md5_6_alpha_upper: 17WTA
+md5_6_upper: 1F42DE
+name: Electronic Button Keypad 16 Key 118 5 Mm Width 118 5 Mm Height 11 Mm Depth Storm
+    Interface 2K16T10
+name_no_class: Button Keypad 16 Key 118 5 Mm Width 118 5 Mm Height 11 Mm Depth Storm
+    Interface 2K16T10
+name_no_size: 16Key1185Mmwidth1185Mmheight11Mmdepthstorminterface2K16T10
+name_no_size_short: 16Key1185Mmwidth1185Mmheight11Mmdepthstorminterface2K16T10
+name_no_type: 16 Key 118 5 Mm Width 118 5 Mm Height 11 Mm Depth Storm Interface 2K16T10
+oomp_key: oomp_electronic_button_keypad_16_key_118_5_mm_width_118_5_mm_height_11_mm_depth_storm_interface_2k16t10
+part_number: 2k16t10
+part_number_capital: 2K16T10
+part_number_first_letter: '2'
+part_number_first_letter_upper: '2'
+part_number_upper: 2K16T10
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: button_keypad
+type_capital: Button Keypad
+type_first_letter: b
+type_first_letter_upper: B
+type_upper: BUTTON_KEYPAD

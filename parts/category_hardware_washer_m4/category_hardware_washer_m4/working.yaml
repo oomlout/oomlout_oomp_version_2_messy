@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: m4
+color_capital: M4
+color_first_letter: m
+color_first_letter_upper: M
+color_upper: M4
+description: category_hardware
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'M '
+description_or_color_upper: 'M '
+directory: parts/category_hardware_washer_m4
+distributors: []
+filter: ''
+from_yaml: false
+id: category_hardware_washer_m4
+id_no_class: hardware_washer_m4
+id_no_size: m4
+id_no_type: washer_m4
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_washer_m4
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_washer_m4
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_washer_m4
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_hardware_washer_m4](none)<br>[](none)<br>[Category Hardware
+    Washer M4](none)<br><br>'
+markdown_short: '[category_hardware_washer_m4](none)<br><br>'
+md5: baeaae1b53a765b1e94f1647c8d6b38e
+md5_10: baeaae1b53
+md5_10_upper: BAEAAE1B53
+md5_5: baeaa
+md5_5_upper: BAEAA
+md5_6: baeaae
+md5_6_alpha: 7ajzi
+md5_6_alpha_upper: 7AJZI
+md5_6_upper: BAEAAE
+name: Category Hardware Washer M4
+name_no_class: Hardware Washer M4
+name_no_size: M4
+name_no_size_short: M4
+name_no_type: Washer M4
+oomp_key: oomp_category_hardware_washer_m4
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryhardware
+size: washer
+size_capital: Washer
+size_first_letter: w
+size_first_letter_upper: W
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: WASHER
+type: hardware
+type_capital: Hardware
+type_first_letter: h
+type_first_letter_upper: H
+type_upper: HARDWARE

@@ -1,0 +1,83 @@
+classification: stationery
+classification_capital: Stationery
+classification_first_letter: s
+classification_first_letter_upper: S
+classification_upper: STATIONERY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: pack_of_10
+description_main_capital: Pack Of 10
+description_main_first_letter: p
+description_main_first_letter_upper: P
+description_main_upper: PACK_OF_10
+description_only_numbers: '10'
+description_only_numbers_short: '10'
+description_or_color: '10'
+description_or_color_upper: '10'
+directory: parts/stationery_pencil_7_5_mm_diameter_hexagon_175_mm_length_pack_of_10_staedtler_noris_school_120
+distributor_part_number_amazon: B003JYX2VS
+distributors: []
+id: stationery_pencil_7_5_mm_diameter_hexagon_175_mm_length_pack_of_10_staedtler_noris_school_120
+id_no_class: pencil_7_5_mm_diameter_hexagon_175_mm_length_pack_of_10_staedtler_noris_school_120
+id_no_size: pack_of_10_staedtler_noris_school_120
+id_no_type: 7_5_mm_diameter_hexagon_175_mm_length_pack_of_10_staedtler_noris_school_120
+link_distributor_amazon: https://www.amazon.co.uk/dp/B003JYX2VS
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_pencil_7_5_mm_diameter_hexagon_175_mm_length_pack_of_10_staedtler_noris_school_120
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_pencil_7_5_mm_diameter_hexagon_175_mm_length_pack_of_10_staedtler_noris_school_120
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_pencil_7_5_mm_diameter_hexagon_175_mm_length_pack_of_10_staedtler_noris_school_120
+manufacturer: staedtler
+manufacturer_capital: Staedtler
+manufacturer_first_letter: s
+manufacturer_first_letter_upper: S
+manufacturer_upper: STAEDTLER
+manufacturers: []
+markdown_full: '[stationery_pencil_7_5_mm_diameter_hexagon_175_mm_length_pack_of_10_staedtler_noris_school_120](none)<br>[](none)<br>[Stationery
+    Pencil 7 5 Mm Diameter Hexagon 175 Mm Length Pack Of 10 Staedtler Noris School
+    120](none)<br><br>'
+markdown_short: '[stationery_pencil_7_5_mm_diameter_hexagon_175_mm_length_pack_of_10_staedtler_noris_school_120](none)<br><br>'
+md5: 49a83a65d03eadd80d21fe14c7d607bc
+md5_10: 49a83a65d0
+md5_10_upper: 49A83A65D0
+md5_5: 49a83
+md5_5_upper: 49A83
+md5_6: 49a83a
+md5_6_alpha: 2vgoq
+md5_6_alpha_upper: 2VGOQ
+md5_6_upper: 49A83A
+name: Stationery Pencil 7 5 Mm Diameter Hexagon 175 Mm Length Pack Of 10 Staedtler
+    Noris School 120
+name_no_class: Pencil 7 5 Mm Diameter Hexagon 175 Mm Length Pack Of 10 Staedtler Noris
+    School 120
+name_no_size: Pack Of 10 Staedtler Noris School 120
+name_no_size_short: Pack Of 10 Staedtler Noris School 120
+name_no_type: 7 5 Mm Diameter Hexagon 175 Mm Length Pack Of 10 Staedtler Noris School
+    120
+oomp_key: oomp_stationery_pencil_7_5_mm_diameter_hexagon_175_mm_length_pack_of_10_staedtler_noris_school_120
+part_number: noris_school_120
+part_number_capital: Noris School 120
+part_number_first_letter: n
+part_number_first_letter_upper: N
+part_number_upper: NORIS_SCHOOL_120
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: 7_5_mm_diameter_hexagon_175_mm_length
+size_capital: 7.5 mm Diameter Hexagon 175 mm Length
+size_first_letter: '7'
+size_first_letter_upper: '7'
+size_only_numbers: '75175'
+size_only_numbers_no_zeros: '75175'
+size_upper: 7_5_MM_DIAMETER_HEXAGON_175_MM_LENGTH
+type: pencil
+type_capital: Pencil
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PENCIL

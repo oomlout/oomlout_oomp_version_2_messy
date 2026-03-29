@@ -1,0 +1,78 @@
+classification: clothes
+classification_capital: Clothes
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CLOTHES
+color: extra_small
+color_capital: Extra Small
+color_first_letter: e
+color_first_letter_upper: E
+color_upper: EXTRA_SMALL
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: magenta
+description_main_capital: Magenta
+description_main_first_letter: m
+description_main_first_letter_upper: M
+description_main_upper: MAGENTA
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'E '
+description_or_color_upper: 'E '
+directory: parts/clothes_item_t_shirt_extra_small_magenta
+distributors: []
+filter: ''
+from_yaml: false
+id: clothes_item_t_shirt_extra_small_magenta
+id_no_class: item_t_shirt_extra_small_magenta
+id_no_size: extra_small_magenta
+id_no_type: t_shirt_extra_small_magenta
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_t_shirt_extra_small_magenta
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_t_shirt_extra_small_magenta
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_t_shirt_extra_small_magenta
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[clothes_item_t_shirt_extra_small_magenta](none)<br>[](none)<br>[Clothes
+    Item T Shirt Extra Small Magenta](none)<br><br>'
+markdown_short: '[clothes_item_t_shirt_extra_small_magenta](none)<br><br>'
+md5: 571af870f2aefa0e51547eb3a82c061a
+md5_10: 571af870f2
+md5_10_upper: 571AF870F2
+md5_5: 571af
+md5_5_upper: 571AF
+md5_6: 571af8
+md5_6_alpha: 3ecqg
+md5_6_alpha_upper: 3ECQG
+md5_6_upper: 571AF8
+name: Clothes Item T Shirt Extra Small Magenta
+name_no_class: Item T Shirt Extra Small Magenta
+name_no_size: Extra Small Magenta
+name_no_size_short: Extra Small Magenta
+name_no_type: T Shirt Extra Small Magenta
+oomp_key: oomp_clothes_item_t_shirt_extra_small_magenta
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: t_shirt
+size_capital: T Shirt
+size_first_letter: t
+size_first_letter_upper: T
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: T_SHIRT
+type: item
+type_capital: Item
+type_first_letter: i
+type_first_letter_upper: I
+type_upper: ITEM

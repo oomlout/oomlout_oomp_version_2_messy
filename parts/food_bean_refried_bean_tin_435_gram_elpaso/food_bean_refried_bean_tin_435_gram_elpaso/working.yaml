@@ -1,0 +1,79 @@
+classification: food
+classification_capital: Food
+classification_first_letter: f
+classification_first_letter_upper: F
+classification_upper: FOOD
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: tin_435_gram
+description_extra_capital: Tin 435 Gram
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TIN_435_GRAM
+description_main: refried_bean
+description_main_capital: Refried Bean
+description_main_first_letter: r
+description_main_first_letter_upper: R
+description_main_upper: REFRIED_BEAN
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/food_bean_refried_bean_tin_435_gram_elpaso
+distributors: []
+filter: ''
+from_yaml: false
+id: food_bean_refried_bean_tin_435_gram_elpaso
+id_no_class: bean_refried_bean_tin_435_gram_elpaso
+id_no_size: refriedtin435gramelpaso
+id_no_type: refried_tin_435_gram_elpaso
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_bean_refried_bean_tin_435_gram_elpaso
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_bean_refried_bean_tin_435_gram_elpaso
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_bean_refried_bean_tin_435_gram_elpaso
+manufacturer: elpaso
+manufacturer_capital: Elpaso
+manufacturer_first_letter: e
+manufacturer_first_letter_upper: E
+manufacturer_upper: ELPASO
+manufacturers: []
+markdown_full: '[food_bean_refried_bean_tin_435_gram_elpaso](none)<br>[](none)<br>[Food
+    Bean Refried Bean Tin 435 Gram Elpaso](none)<br><br>'
+markdown_short: '[food_bean_refried_bean_tin_435_gram_elpaso](none)<br><br>'
+md5: 66d4d3a1d6d4f59c7dfdaaa76193fd39
+md5_10: 66d4d3a1d6
+md5_10_upper: 66D4D3A1D6
+md5_5: 66d4d
+md5_5_upper: 66D4D
+md5_6: 66d4d3
+md5_6_alpha: 40fyr
+md5_6_alpha_upper: 40FYR
+md5_6_upper: 66D4D3
+name: Food Bean Refried Bean Tin 435 Gram Elpaso
+name_no_class: Bean Refried Bean Tin 435 Gram Elpaso
+name_no_size: Refriedtin435Gramelpaso
+name_no_size_short: Refriedtin435Gramelpaso
+name_no_type: Refried Tin 435 Gram Elpaso
+name_short: Refried Beans
+oomp_key: oomp_food_bean_refried_bean_tin_435_gram_elpaso
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: bean
+type_capital: Bean
+type_first_letter: b
+type_first_letter_upper: B
+type_upper: BEAN

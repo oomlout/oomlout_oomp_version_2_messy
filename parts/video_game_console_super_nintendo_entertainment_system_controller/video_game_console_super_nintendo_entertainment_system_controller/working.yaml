@@ -1,0 +1,76 @@
+classification: video_game_console
+classification_capital: Video Game Console
+classification_first_letter: v
+classification_first_letter_upper: V
+classification_upper: VIDEO_GAME_CONSOLE
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: controller
+description_main_capital: Controller
+description_main_first_letter: c
+description_main_first_letter_upper: C
+description_main_upper: CONTROLLER
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/video_game_console_super_nintendo_entertainment_system_controller
+distributors: []
+id: video_game_console_super_nintendo_entertainment_system_controller
+id_no_class: super_nintendo_entertainment_system_controller
+id_no_size: controller
+id_no_type: controller
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/video_game_console_super_nintendo_entertainment_system_controller
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/video_game_console_super_nintendo_entertainment_system_controller
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/video_game_console_super_nintendo_entertainment_system_controller
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[video_game_console_super_nintendo_entertainment_system_controller](none)<br>[](none)<br>[Video
+    Game Console Super Nintendo Entertainment System Controller](none)<br><br>'
+markdown_short: '[video_game_console_super_nintendo_entertainment_system_controller](none)<br><br>'
+md5: fc6e2745f2d6825d6b40c7411e189abe
+md5_10: fc6e2745f2
+md5_10_upper: FC6E2745F2
+md5_5: fc6e2
+md5_5_upper: FC6E2
+md5_6: fc6e27
+md5_6_alpha: 9ukvb
+md5_6_alpha_upper: 9UKVB
+md5_6_upper: FC6E27
+name: Video Game Console Super Nintendo Entertainment System Controller
+name_no_class: Super Nintendo Entertainment System Controller
+name_no_size: Controller
+name_no_size_short: Controller
+name_no_type: Controller
+oomp_key: oomp_video_game_console_super_nintendo_entertainment_system_controller
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: super_nintendo_entertainment_system
+type_capital: Super Nintendo Entertainment System
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: SUPER_NINTENDO_ENTERTAINMENT_SYSTEM

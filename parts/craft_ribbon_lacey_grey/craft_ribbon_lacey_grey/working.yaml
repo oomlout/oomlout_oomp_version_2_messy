@@ -1,0 +1,77 @@
+classification: craft
+classification_capital: Craft
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CRAFT
+color: grey
+color_capital: Grey
+color_first_letter: g
+color_first_letter_upper: G
+color_upper: GREY
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'G '
+description_or_color_upper: 'G '
+directory: parts/craft_ribbon_lacey_grey
+distributors: []
+id: craft_ribbon_lacey_grey
+id_no_class: ribbon_lacey_grey
+id_no_size: grey
+id_no_type: lacey_grey
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/craft_ribbon_lacey_grey
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/craft_ribbon_lacey_grey
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/craft_ribbon_lacey_grey
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[craft_ribbon_lacey_grey](none)<br>[](none)<br>[Craft Ribbon Lacey
+    Grey](none)<br><br>'
+markdown_short: '[craft_ribbon_lacey_grey](none)<br><br>'
+md5: 4353f29f798b6cc5e1638b5a4b195cf0
+md5_10: 4353f29f79
+md5_10_upper: 4353F29F79
+md5_5: 4353f
+md5_5_upper: 4353F
+md5_6: 4353f2
+md5_6_alpha: 2mkmq
+md5_6_alpha_upper: 2MKMQ
+md5_6_upper: 4353F2
+name: Craft Ribbon Lacey Grey
+name_no_class: Ribbon Lacey Grey
+name_no_size: Grey
+name_no_size_short: Grey
+name_no_type: Lacey Grey
+oomp_key: oomp_craft_ribbon_lacey_grey
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: lacey
+size_capital: Lacey
+size_first_letter: l
+size_first_letter_upper: L
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: LACEY
+type: ribbon
+type_capital: Ribbon
+type_first_letter: r
+type_first_letter_upper: R
+type_upper: RIBBON

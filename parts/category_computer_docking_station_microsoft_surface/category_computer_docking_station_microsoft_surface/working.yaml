@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: microsoft_surface
+color_capital: Microsoft Surface
+color_first_letter: m
+color_first_letter_upper: M
+color_upper: MICROSOFT_SURFACE
+description: category_computer
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'M '
+description_or_color_upper: 'M '
+directory: parts/category_computer_docking_station_microsoft_surface
+distributors: []
+filter: ''
+from_yaml: false
+id: category_computer_docking_station_microsoft_surface
+id_no_class: computer_docking_station_microsoft_surface
+id_no_size: microsoft_surface
+id_no_type: docking_station_microsoft_surface
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_docking_station_microsoft_surface
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_docking_station_microsoft_surface
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_docking_station_microsoft_surface
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_computer_docking_station_microsoft_surface](none)<br>[](none)<br>[Category
+    Computer Docking Station Microsoft Surface](none)<br><br>'
+markdown_short: '[category_computer_docking_station_microsoft_surface](none)<br><br>'
+md5: cbc7cdedfa31abded82a44e8a0a8c0f6
+md5_10: cbc7cdedfa
+md5_10_upper: CBC7CDEDFA
+md5_5: cbc7c
+md5_5_upper: CBC7C
+md5_6: cbc7cd
+md5_6_alpha: 7y8r1
+md5_6_alpha_upper: 7Y8R1
+md5_6_upper: CBC7CD
+name: Category Computer Docking Station Microsoft Surface
+name_no_class: Computer Docking Station Microsoft Surface
+name_no_size: Microsoft Surface
+name_no_size_short: Microsoft Surface
+name_no_type: Docking Station Microsoft Surface
+oomp_key: oomp_category_computer_docking_station_microsoft_surface
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorycomputer
+size: docking_station
+size_capital: Docking Station
+size_first_letter: d
+size_first_letter_upper: D
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: DOCKING_STATION
+type: computer
+type_capital: Computer
+type_first_letter: c
+type_first_letter_upper: C
+type_upper: COMPUTER

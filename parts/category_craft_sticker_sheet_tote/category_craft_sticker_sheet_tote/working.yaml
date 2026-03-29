@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: sheet
+color_capital: Sheet
+color_first_letter: s
+color_first_letter_upper: S
+color_upper: SHEET
+description: category_craft
+description_extra: tote
+description_extra_capital: Tote
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TOTE
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'S '
+description_or_color_upper: 'S '
+directory: parts/category_craft_sticker_sheet_tote
+distributors: []
+filter: ''
+from_yaml: false
+id: category_craft_sticker_sheet_tote
+id_no_class: craft_sticker_sheet_tote
+id_no_size: sheet_tote
+id_no_type: sticker_sheet_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_craft_sticker_sheet_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_craft_sticker_sheet_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_craft_sticker_sheet_tote
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_craft_sticker_sheet_tote](none)<br>[](none)<br>[Category
+    Craft Sticker Sheet Tote](none)<br><br>'
+markdown_short: '[category_craft_sticker_sheet_tote](none)<br><br>'
+md5: 5bd3cf411af6ade5526e7fd3a1023ccc
+md5_10: 5bd3cf411a
+md5_10_upper: 5BD3CF411A
+md5_5: 5bd3c
+md5_5_upper: 5BD3C
+md5_6: 5bd3cf
+md5_6_alpha: 3kzin
+md5_6_alpha_upper: 3KZIN
+md5_6_upper: 5BD3CF
+name: Category Craft Sticker Sheet Tote
+name_no_class: Craft Sticker Sheet Tote
+name_no_size: Sheet Tote
+name_no_size_short: Sheet Tote
+name_no_type: Sticker Sheet Tote
+oomp_key: oomp_category_craft_sticker_sheet_tote
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorycraft
+size: sticker
+size_capital: Sticker
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: STICKER
+type: craft
+type_capital: Craft
+type_first_letter: c
+type_first_letter_upper: C
+type_upper: CRAFT

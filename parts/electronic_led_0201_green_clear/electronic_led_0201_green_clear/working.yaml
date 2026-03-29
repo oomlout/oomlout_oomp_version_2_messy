@@ -1,0 +1,80 @@
+classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_upper: ELECTRONIC
+color: green
+color_capital: Green
+color_first_letter: g
+color_first_letter_upper: G
+color_upper: GREEN
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: clear
+description_main_capital: Clear
+description_main_first_letter: c
+description_main_first_letter_upper: C
+description_main_upper: CLEAR
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'G '
+description_or_color_upper: 'G '
+directory: parts/electronic_led_0201_green_clear
+distributors: []
+filter: ''
+from_yaml: false
+id: electronic_led_0201_green_clear
+id_no_class: led_0201_green_clear
+id_no_size: green_clear
+id_no_type: 0201_green_clear
+kicad_reference: L
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_0201_green_clear
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_0201_green_clear
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_0201_green_clear
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[electronic_led_0201_green_clear](none)<br>[lg](none)<br>[Electronic
+    Led 0201 Green Clear](none)<br><br>'
+markdown_short: '[electronic_led_0201_green_clear](none)<br><br>'
+md5: 3f80971d868ec01cd8018dbc770c7787
+md5_10: 3f80971d86
+md5_10_upper: 3F80971D86
+md5_5: 3f809
+md5_5_upper: 3F809
+md5_6: 3f8097
+md5_6_alpha: 2h76f
+md5_6_alpha_upper: 2H76F
+md5_6_upper: 3F8097
+name: Electronic Led 0201 Green Clear
+name_no_class: Led 0201 Green Clear
+name_no_size: Green Clear
+name_no_size_short: Green Clear
+name_no_type: 0201 Green Clear
+oomp_key: oomp_electronic_led_0201_green_clear
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: lg
+short_code_upper: LG
+short_name: 0201 Greenclear Led
+size: '0201'
+size_capital: '0201'
+size_first_letter: '0'
+size_first_letter_upper: '0'
+size_only_numbers: '0201'
+size_only_numbers_no_zeros: '21'
+size_upper: '0201'
+type: led
+type_capital: Led
+type_first_letter: l
+type_first_letter_upper: L
+type_upper: LED

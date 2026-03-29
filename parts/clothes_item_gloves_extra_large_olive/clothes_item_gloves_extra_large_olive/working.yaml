@@ -1,0 +1,78 @@
+classification: clothes
+classification_capital: Clothes
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CLOTHES
+color: extra_large
+color_capital: Extra Large
+color_first_letter: e
+color_first_letter_upper: E
+color_upper: EXTRA_LARGE
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: olive
+description_main_capital: Olive
+description_main_first_letter: o
+description_main_first_letter_upper: O
+description_main_upper: OLIVE
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'E '
+description_or_color_upper: 'E '
+directory: parts/clothes_item_gloves_extra_large_olive
+distributors: []
+filter: ''
+from_yaml: false
+id: clothes_item_gloves_extra_large_olive
+id_no_class: item_gloves_extra_large_olive
+id_no_size: extra_large_olive
+id_no_type: gloves_extra_large_olive
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_gloves_extra_large_olive
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_gloves_extra_large_olive
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_gloves_extra_large_olive
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[clothes_item_gloves_extra_large_olive](none)<br>[](none)<br>[Clothes
+    Item Gloves Extra Large Olive](none)<br><br>'
+markdown_short: '[clothes_item_gloves_extra_large_olive](none)<br><br>'
+md5: 5c3a4f4bd08a4fb1d188401dd7201477
+md5_10: 5c3a4f4bd0
+md5_10_upper: 5C3A4F4BD0
+md5_5: 5c3a4
+md5_5_upper: 5C3A4
+md5_6: 5c3a4f
+md5_6_alpha: 3ljrj
+md5_6_alpha_upper: 3LJRJ
+md5_6_upper: 5C3A4F
+name: Clothes Item Gloves Extra Large Olive
+name_no_class: Item Gloves Extra Large Olive
+name_no_size: Extra Large Olive
+name_no_size_short: Extra Large Olive
+name_no_type: Gloves Extra Large Olive
+oomp_key: oomp_clothes_item_gloves_extra_large_olive
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: gloves
+size_capital: Gloves
+size_first_letter: g
+size_first_letter_upper: G
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: GLOVES
+type: item
+type_capital: Item
+type_first_letter: i
+type_first_letter_upper: I
+type_upper: ITEM

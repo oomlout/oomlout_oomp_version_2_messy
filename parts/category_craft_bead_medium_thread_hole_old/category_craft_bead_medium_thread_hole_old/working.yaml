@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: medium_thread_hole
+color_capital: Medium Thread Hole
+color_first_letter: m
+color_first_letter_upper: M
+color_upper: MEDIUM_THREAD_HOLE
+description: category_craft
+description_extra: old
+description_extra_capital: Old
+description_extra_first_letter: o
+description_extra_first_letter_upper: O
+description_extra_upper: OLD
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'M '
+description_or_color_upper: 'M '
+directory: parts/category_craft_bead_medium_thread_hole_old
+distributors: []
+filter: ''
+from_yaml: false
+id: category_craft_bead_medium_thread_hole_old
+id_no_class: craft_bead_medium_thread_hole_old
+id_no_size: medium_thread_hole_old
+id_no_type: bead_medium_thread_hole_old
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_craft_bead_medium_thread_hole_old
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_craft_bead_medium_thread_hole_old
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_craft_bead_medium_thread_hole_old
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_craft_bead_medium_thread_hole_old](none)<br>[](none)<br>[Category
+    Craft Bead Medium Thread Hole Old](none)<br><br>'
+markdown_short: '[category_craft_bead_medium_thread_hole_old](none)<br><br>'
+md5: 7eaaf0f3492ccf2d81c77ca48bdfc291
+md5_10: 7eaaf0f349
+md5_10_upper: 7EAAF0F349
+md5_5: 7eaaf
+md5_5_upper: 7EAAF
+md5_6: 7eaaf0
+md5_6_alpha: 4xxbk
+md5_6_alpha_upper: 4XXBK
+md5_6_upper: 7EAAF0
+name: Category Craft Bead Medium Thread Hole Old
+name_no_class: Craft Bead Medium Thread Hole Old
+name_no_size: Medium Thread Hole Old
+name_no_size_short: Medium Thread Hole Old
+name_no_type: Bead Medium Thread Hole Old
+oomp_key: oomp_category_craft_bead_medium_thread_hole_old
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorycraft
+size: bead
+size_capital: Bead
+size_first_letter: b
+size_first_letter_upper: B
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: BEAD
+type: craft
+type_capital: Craft
+type_first_letter: c
+type_first_letter_upper: C
+type_upper: CRAFT

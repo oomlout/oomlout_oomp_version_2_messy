@@ -1,0 +1,76 @@
+classification: hardware
+classification_capital: Hardware
+classification_first_letter: h
+classification_first_letter_upper: H
+classification_upper: HARDWARE
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/hardware_ball_bearing_10_mm
+distributors: []
+id: hardware_ball_bearing_10_mm
+id_no_class: ball_bearing_10_mm
+id_no_size: 10_mm
+id_no_type: 10_mm
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_ball_bearing_10_mm
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_ball_bearing_10_mm
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_ball_bearing_10_mm
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[hardware_ball_bearing_10_mm](none)<br>[10](none)<br>[Hardware Ball
+    Bearing 10 Mm](none)<br><br>'
+markdown_short: '[hardware_ball_bearing_10_mm](none)<br><br>'
+md5: 2782046faf127eac1cfb6083d1a265ee
+md5_10: 2782046faf
+md5_10_upper: 2782046FAF
+md5_5: '27820'
+md5_5_upper: '27820'
+md5_6: '278204'
+md5_6_alpha: 1jhtw
+md5_6_alpha_upper: 1JHTW
+md5_6_upper: '278204'
+name: Hardware Ball Bearing 10 Mm
+name_no_class: Ball Bearing 10 Mm
+name_no_size: 10 Mm
+name_no_size_short: 10 Mm
+name_no_type: 10 Mm
+oomp_key: oomp_hardware_ball_bearing_10_mm
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: '10'
+short_code_upper: '10'
+size: 10_mm
+size_capital: 10 mm
+size_first_letter: '1'
+size_first_letter_upper: '1'
+size_only_numbers: '10'
+size_only_numbers_no_zeros: '1'
+size_upper: 10_MM
+type: ball_bearing
+type_capital: Ball Bearing
+type_first_letter: b
+type_first_letter_upper: B
+type_upper: BALL_BEARING

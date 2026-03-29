@@ -1,0 +1,77 @@
+classification: computer
+classification_capital: Computer
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: COMPUTER
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/computer_cable_hdmi
+distributors: []
+filter: ''
+from_yaml: false
+id: computer_cable_hdmi
+id_no_class: cable_hdmi
+id_no_size: hdmi
+id_no_type: hdmi
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_cable_hdmi
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_cable_hdmi
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_cable_hdmi
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[computer_cable_hdmi](none)<br>[](none)<br>[Computer Cable Hdmi](none)<br><br>'
+markdown_short: '[computer_cable_hdmi](none)<br><br>'
+md5: 123de8864bdf2d16169231ddffb1bcea
+md5_10: 123de8864b
+md5_10_upper: 123DE8864B
+md5_5: 123de
+md5_5_upper: 123DE
+md5_6: 123de8
+md5_6_alpha: pmg8
+md5_6_alpha_upper: PMG8
+md5_6_upper: 123DE8
+name: Computer Cable Hdmi
+name_no_class: Cable Hdmi
+name_no_size: Hdmi
+name_no_size_short: Hdmi
+name_no_type: Hdmi
+oomp_key: oomp_computer_cable_hdmi
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: hdmi
+size_capital: Hdmi
+size_first_letter: h
+size_first_letter_upper: H
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: HDMI
+type: cable
+type_capital: Cable
+type_first_letter: c
+type_first_letter_upper: C
+type_upper: CABLE

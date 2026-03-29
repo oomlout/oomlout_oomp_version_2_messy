@@ -1,0 +1,78 @@
+classification: furniture
+classification_capital: Furniture
+classification_first_letter: f
+classification_first_letter_upper: F
+classification_upper: FURNITURE
+color: a4_drawer_size
+color_capital: A4 Drawer Size
+color_first_letter: a
+color_first_letter_upper: A
+color_upper: A4_DRAWER_SIZE
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 15_drawer_unit
+description_main_capital: 15 Drawer Unit
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_upper: 15_DRAWER_UNIT
+description_only_numbers: '15'
+description_only_numbers_short: '15'
+description_or_color: A15
+description_or_color_upper: A15
+directory: parts/furniture_drawer_unit_bisley_a4_drawer_size_15_drawer_unit_bisley
+distributors: []
+filter: ''
+from_yaml: false
+id: furniture_drawer_unit_bisley_a4_drawer_size_15_drawer_unit_bisley
+id_no_class: drawer_unit_bisley_a4_drawer_size_15_drawer_unit_bisley
+id_no_size: a4_drawer_size_15_bisley
+id_no_type: bisley_a4_drawer_size_15_bisley
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/furniture_drawer_unit_bisley_a4_drawer_size_15_drawer_unit_bisley
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/furniture_drawer_unit_bisley_a4_drawer_size_15_drawer_unit_bisley
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/furniture_drawer_unit_bisley_a4_drawer_size_15_drawer_unit_bisley
+manufacturer: bisley
+manufacturer_capital: Bisley
+manufacturer_first_letter: b
+manufacturer_first_letter_upper: B
+manufacturer_upper: BISLEY
+manufacturers: []
+markdown_full: '[furniture_drawer_unit_bisley_a4_drawer_size_15_drawer_unit_bisley](none)<br>[](none)<br>[Furniture
+    Drawer Unit Bisley A4 Drawer Size 15 Drawer Unit Bisley](none)<br><br>'
+markdown_short: '[furniture_drawer_unit_bisley_a4_drawer_size_15_drawer_unit_bisley](none)<br><br>'
+md5: 0dc48c37d05be0b5aaae8ccccb396db9
+md5_10: 0dc48c37d0
+md5_10_upper: 0DC48C37D0
+md5_5: 0dc48
+md5_5_upper: 0DC48
+md5_6: 0dc48c
+md5_6_alpha: jc7g
+md5_6_alpha_upper: JC7G
+md5_6_upper: 0DC48C
+name: Furniture Drawer Unit Bisley A4 Drawer Size 15 Drawer Unit Bisley
+name_no_class: Drawer Unit Bisley A4 Drawer Size 15 Drawer Unit Bisley
+name_no_size: A4 Drawer Size 15 Bisley
+name_no_size_short: A4 Drawer Size 15 Bisley
+name_no_type: Bisley A4 Drawer Size 15 Bisley
+oomp_key: oomp_furniture_drawer_unit_bisley_a4_drawer_size_15_drawer_unit_bisley
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: bisley
+size_capital: Bisley
+size_first_letter: b
+size_first_letter_upper: B
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: BISLEY
+type: drawer_unit
+type_capital: Drawer Unit
+type_first_letter: d
+type_first_letter_upper: D
+type_upper: DRAWER_UNIT

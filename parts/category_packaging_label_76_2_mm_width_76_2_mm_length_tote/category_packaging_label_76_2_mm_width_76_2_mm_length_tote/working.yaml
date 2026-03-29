@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: 76_2_mm_width_76_2_mm_length
+color_capital: 76.2 mm Width 76.2 mm Length
+color_first_letter: '7'
+color_first_letter_upper: '7'
+color_upper: 76_2_MM_WIDTH_76_2_MM_LENGTH
+description: category_packaging
+description_extra: tote
+description_extra_capital: Tote
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TOTE
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: '7 '
+description_or_color_upper: '7 '
+directory: parts/category_packaging_label_76_2_mm_width_76_2_mm_length_tote
+distributors: []
+filter: ''
+from_yaml: false
+id: category_packaging_label_76_2_mm_width_76_2_mm_length_tote
+id_no_class: packaging_label_76_2_mm_width_76_2_mm_length_tote
+id_no_size: 76_2_mm_width_76_2_mm_length_tote
+id_no_type: label_76_2_mm_width_76_2_mm_length_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_packaging_label_76_2_mm_width_76_2_mm_length_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_packaging_label_76_2_mm_width_76_2_mm_length_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_packaging_label_76_2_mm_width_76_2_mm_length_tote
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_packaging_label_76_2_mm_width_76_2_mm_length_tote](none)<br>[](none)<br>[Category
+    Packaging Label 76 2 Mm Width 76 2 Mm Length Tote](none)<br><br>'
+markdown_short: '[category_packaging_label_76_2_mm_width_76_2_mm_length_tote](none)<br><br>'
+md5: 9a85ec0a30f08ff16d9d2bfc689938e8
+md5_10: 9a85ec0a30
+md5_10_upper: 9A85EC0A30
+md5_5: 9a85e
+md5_5_upper: 9A85E
+md5_6: 9a85ec
+md5_6_alpha: 611ws
+md5_6_alpha_upper: 611WS
+md5_6_upper: 9A85EC
+name: Category Packaging Label 76 2 Mm Width 76 2 Mm Length Tote
+name_no_class: Packaging Label 76 2 Mm Width 76 2 Mm Length Tote
+name_no_size: 76 2 Mm Width 76 2 Mm Length Tote
+name_no_size_short: 76 2 Mm Width 76 2 Mm Length Tote
+name_no_type: Label 76 2 Mm Width 76 2 Mm Length Tote
+oomp_key: oomp_category_packaging_label_76_2_mm_width_76_2_mm_length_tote
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorypackaging
+size: label
+size_capital: Label
+size_first_letter: l
+size_first_letter_upper: L
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: LABEL
+type: packaging
+type_capital: Packaging
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PACKAGING

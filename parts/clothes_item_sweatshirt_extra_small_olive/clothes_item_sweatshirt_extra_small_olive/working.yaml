@@ -1,0 +1,78 @@
+classification: clothes
+classification_capital: Clothes
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CLOTHES
+color: extra_small
+color_capital: Extra Small
+color_first_letter: e
+color_first_letter_upper: E
+color_upper: EXTRA_SMALL
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: olive
+description_main_capital: Olive
+description_main_first_letter: o
+description_main_first_letter_upper: O
+description_main_upper: OLIVE
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'E '
+description_or_color_upper: 'E '
+directory: parts/clothes_item_sweatshirt_extra_small_olive
+distributors: []
+filter: ''
+from_yaml: false
+id: clothes_item_sweatshirt_extra_small_olive
+id_no_class: item_sweatshirt_extra_small_olive
+id_no_size: extra_small_olive
+id_no_type: sweatshirt_extra_small_olive
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_sweatshirt_extra_small_olive
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_sweatshirt_extra_small_olive
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_sweatshirt_extra_small_olive
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[clothes_item_sweatshirt_extra_small_olive](none)<br>[](none)<br>[Clothes
+    Item Sweatshirt Extra Small Olive](none)<br><br>'
+markdown_short: '[clothes_item_sweatshirt_extra_small_olive](none)<br><br>'
+md5: bd67d5ca4cdf52e1dce251e8ad35a4e7
+md5_10: bd67d5ca4c
+md5_10_upper: BD67D5CA4C
+md5_5: bd67d
+md5_5_upper: BD67D
+md5_6: bd67d5
+md5_6_alpha: 7e1ud
+md5_6_alpha_upper: 7E1UD
+md5_6_upper: BD67D5
+name: Clothes Item Sweatshirt Extra Small Olive
+name_no_class: Item Sweatshirt Extra Small Olive
+name_no_size: Extra Small Olive
+name_no_size_short: Extra Small Olive
+name_no_type: Sweatshirt Extra Small Olive
+oomp_key: oomp_clothes_item_sweatshirt_extra_small_olive
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: sweatshirt
+size_capital: Sweatshirt
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SWEATSHIRT
+type: item
+type_capital: Item
+type_first_letter: i
+type_first_letter_upper: I
+type_upper: ITEM

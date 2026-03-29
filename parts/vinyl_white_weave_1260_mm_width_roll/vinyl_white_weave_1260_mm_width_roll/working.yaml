@@ -1,0 +1,79 @@
+classification: vinyl
+classification_capital: Vinyl
+classification_first_letter: v
+classification_first_letter_upper: V
+classification_upper: VINYL
+color: white_weave
+color_capital: White Weave
+color_first_letter: w
+color_first_letter_upper: W
+color_upper: WHITE_WEAVE
+description_extra: 1260_mm_width_roll
+description_extra_capital: 1260 mm Width Roll
+description_extra_first_letter: '1'
+description_extra_first_letter_upper: '1'
+description_extra_upper: 1260_MM_WIDTH_ROLL
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'W '
+description_or_color_upper: 'W '
+directory: parts/vinyl_white_weave_1260_mm_width_roll
+distributors: []
+filter: ''
+from_yaml: false
+id: vinyl_white_weave_1260_mm_width_roll
+id_no_class: white_weave_1260_mm_width_roll
+id_no_size: whiteweave1260mmwidthroll
+id_no_type: whiteweave1260mmwidthroll
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/vinyl_white_weave_1260_mm_width_roll
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/vinyl_white_weave_1260_mm_width_roll
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/vinyl_white_weave_1260_mm_width_roll
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[vinyl_white_weave_1260_mm_width_roll](none)<br>[](none)<br>[Vinyl
+    White Weave 1260 Mm Width Roll](none)<br><br>'
+markdown_short: '[vinyl_white_weave_1260_mm_width_roll](none)<br><br>'
+md5: 26ae93bf7558675b88e97b3d9c2e6133
+md5_10: 26ae93bf75
+md5_10_upper: 26AE93BF75
+md5_5: 26ae9
+md5_5_upper: 26AE9
+md5_6: 26ae93
+md5_6_alpha: 1ic2b
+md5_6_alpha_upper: 1IC2B
+md5_6_upper: 26AE93
+name: Vinyl White Weave 1260 Mm Width Roll
+name_no_class: White Weave 1260 Mm Width Roll
+name_no_size: Whiteweave1260Mmwidthroll
+name_no_size_short: Whiteweave1260Mmwidthroll
+name_no_type: Whiteweave1260Mmwidthroll
+oomp_key: oomp_vinyl_white_weave_1260_mm_width_roll
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: ''
+type_capital: ''
+type_first_letter: ''
+type_first_letter_upper: ''
+type_upper: ''
+width: 1260 mm

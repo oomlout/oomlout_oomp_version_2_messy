@@ -1,0 +1,78 @@
+classification: task
+classification_capital: Task
+classification_first_letter: t
+classification_first_letter_upper: T
+classification_upper: TASK
+color: ink_filling
+color_capital: Ink Filling
+color_first_letter: i
+color_first_letter_upper: I
+color_upper: INK_FILLING
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: dtf_epson_stylus_pro_4800
+description_main_capital: Dtf Epson Stylus Pro 4800
+description_main_first_letter: d
+description_main_first_letter_upper: D
+description_main_upper: DTF_EPSON_STYLUS_PRO_4800
+description_only_numbers: '4800'
+description_only_numbers_short: 4k8
+description_or_color: I4k8
+description_or_color_upper: I4K8
+directory: parts/task_printer_inkjet_ink_filling_dtf_epson_stylus_pro_4800
+distributors: []
+filter: ''
+from_yaml: false
+id: task_printer_inkjet_ink_filling_dtf_epson_stylus_pro_4800
+id_no_class: printer_inkjet_ink_filling_dtf_epson_stylus_pro_4800
+id_no_size: ink_filling_dtf_epson_stylus_pro_4800
+id_no_type: inkjet_ink_filling_dtf_epson_stylus_pro_4800
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/task_printer_inkjet_ink_filling_dtf_epson_stylus_pro_4800
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/task_printer_inkjet_ink_filling_dtf_epson_stylus_pro_4800
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/task_printer_inkjet_ink_filling_dtf_epson_stylus_pro_4800
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[task_printer_inkjet_ink_filling_dtf_epson_stylus_pro_4800](none)<br>[](none)<br>[Task
+    Printer Inkjet Ink Filling Dtf Epson Stylus Pro 4800](none)<br><br>'
+markdown_short: '[task_printer_inkjet_ink_filling_dtf_epson_stylus_pro_4800](none)<br><br>'
+md5: 30ef3f67a7962f3434f7fd5dd52b2cdd
+md5_10: 30ef3f67a7
+md5_10_upper: 30EF3F67A7
+md5_5: 30ef3
+md5_5_upper: 30EF3
+md5_6: 30ef3f
+md5_6_alpha: 1wqin
+md5_6_alpha_upper: 1WQIN
+md5_6_upper: 30EF3F
+name: Task Printer Inkjet Ink Filling Dtf Epson Stylus Pro 4800
+name_no_class: Printer Inkjet Ink Filling Dtf Epson Stylus Pro 4800
+name_no_size: Ink Filling Dtf Epson Stylus Pro 4800
+name_no_size_short: Ink Filling Dtf Epson Stylus Pro 4k8
+name_no_type: Inkjet Ink Filling Dtf Epson Stylus Pro 4800
+oomp_key: oomp_task_printer_inkjet_ink_filling_dtf_epson_stylus_pro_4800
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: inkjet
+size_capital: Inkjet
+size_first_letter: i
+size_first_letter_upper: I
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: INKJET
+type: printer
+type_capital: Printer
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PRINTER

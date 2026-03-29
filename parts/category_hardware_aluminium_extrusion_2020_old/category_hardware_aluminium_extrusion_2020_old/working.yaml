@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: '2020'
+color_capital: '2020'
+color_first_letter: '2'
+color_first_letter_upper: '2'
+color_upper: '2020'
+description: category_hardware
+description_extra: old
+description_extra_capital: Old
+description_extra_first_letter: o
+description_extra_first_letter_upper: O
+description_extra_upper: OLD
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: '2 '
+description_or_color_upper: '2 '
+directory: parts/category_hardware_aluminium_extrusion_2020_old
+distributors: []
+filter: ''
+from_yaml: false
+id: category_hardware_aluminium_extrusion_2020_old
+id_no_class: hardware_aluminium_extrusion_2020_old
+id_no_size: 2020_old
+id_no_type: aluminium_extrusion_2020_old
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_aluminium_extrusion_2020_old
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_aluminium_extrusion_2020_old
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_aluminium_extrusion_2020_old
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_hardware_aluminium_extrusion_2020_old](none)<br>[](none)<br>[Category
+    Hardware Aluminium Extrusion 2020 Old](none)<br><br>'
+markdown_short: '[category_hardware_aluminium_extrusion_2020_old](none)<br><br>'
+md5: 9b6f3561de23a07cdb99d8d12b01e1ae
+md5_10: 9b6f3561de
+md5_10_upper: 9B6F3561DE
+md5_5: 9b6f3
+md5_5_upper: 9B6F3
+md5_6: 9b6f35
+md5_6_alpha: 62bzp
+md5_6_alpha_upper: 62BZP
+md5_6_upper: 9B6F35
+name: Category Hardware Aluminium Extrusion 2020 Old
+name_no_class: Hardware Aluminium Extrusion 2020 Old
+name_no_size: 2020 Old
+name_no_size_short: 2020 Old
+name_no_type: Aluminium Extrusion 2020 Old
+oomp_key: oomp_category_hardware_aluminium_extrusion_2020_old
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryhardware
+size: aluminium_extrusion
+size_capital: Aluminium Extrusion
+size_first_letter: a
+size_first_letter_upper: A
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ALUMINIUM_EXTRUSION
+type: hardware
+type_capital: Hardware
+type_first_letter: h
+type_first_letter_upper: H
+type_upper: HARDWARE

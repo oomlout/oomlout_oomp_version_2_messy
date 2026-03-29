@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_storage
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_storage_box_warehouse
+distributors: []
+filter: ''
+from_yaml: false
+id: category_storage_box_warehouse
+id_no_class: storage_box_warehouse
+id_no_size: box_warehouse
+id_no_type: box_warehouse
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_storage_box_warehouse
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_storage_box_warehouse
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_storage_box_warehouse
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_storage_box_warehouse](none)<br>[](none)<br>[Category Storage
+    Box Warehouse](none)<br><br>'
+markdown_short: '[category_storage_box_warehouse](none)<br><br>'
+md5: 42058c838dacfe5556a049b91a273c7c
+md5_10: 42058c838d
+md5_10_upper: 42058C838D
+md5_5: '42058'
+md5_5_upper: '42058'
+md5_6: 42058c
+md5_6_alpha: 2kqks
+md5_6_alpha_upper: 2KQKS
+md5_6_upper: 42058C
+name: Category Storage Box Warehouse
+name_no_class: Storage Box Warehouse
+name_no_size: Box Warehouse
+name_no_size_short: Box Warehouse
+name_no_type: Box Warehouse
+oomp_key: oomp_category_storage_box_warehouse
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorystorage
+size: box_warehouse
+size_capital: Box Warehouse
+size_first_letter: b
+size_first_letter_upper: B
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: BOX_WAREHOUSE
+type: storage
+type_capital: Storage
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: STORAGE

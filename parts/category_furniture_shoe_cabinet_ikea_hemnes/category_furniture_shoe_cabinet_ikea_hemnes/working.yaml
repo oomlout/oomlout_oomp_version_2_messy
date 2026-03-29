@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ikea_hemnes
+color_capital: Ikea Hemnes
+color_first_letter: i
+color_first_letter_upper: I
+color_upper: IKEA_HEMNES
+description: category_furniture
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'I '
+description_or_color_upper: 'I '
+directory: parts/category_furniture_shoe_cabinet_ikea_hemnes
+distributors: []
+filter: ''
+from_yaml: false
+id: category_furniture_shoe_cabinet_ikea_hemnes
+id_no_class: furniture_shoe_cabinet_ikea_hemnes
+id_no_size: ikea_hemnes
+id_no_type: shoe_cabinet_ikea_hemnes
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_furniture_shoe_cabinet_ikea_hemnes
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_furniture_shoe_cabinet_ikea_hemnes
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_furniture_shoe_cabinet_ikea_hemnes
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_furniture_shoe_cabinet_ikea_hemnes](none)<br>[](none)<br>[Category
+    Furniture Shoe Cabinet Ikea Hemnes](none)<br><br>'
+markdown_short: '[category_furniture_shoe_cabinet_ikea_hemnes](none)<br><br>'
+md5: 6d85892be650f20680e4eb50928ddc9b
+md5_10: 6d85892be6
+md5_10_upper: 6D85892BE6
+md5_5: 6d858
+md5_5_upper: 6D858
+md5_6: 6d8589
+md5_6_alpha: 49ua1
+md5_6_alpha_upper: 49UA1
+md5_6_upper: 6D8589
+name: Category Furniture Shoe Cabinet Ikea Hemnes
+name_no_class: Furniture Shoe Cabinet Ikea Hemnes
+name_no_size: Ikea Hemnes
+name_no_size_short: Ikea Hemnes
+name_no_type: Shoe Cabinet Ikea Hemnes
+oomp_key: oomp_category_furniture_shoe_cabinet_ikea_hemnes
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryfurniture
+size: shoe_cabinet
+size_capital: Shoe Cabinet
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SHOE_CABINET
+type: furniture
+type_capital: Furniture
+type_first_letter: f
+type_first_letter_upper: F
+type_upper: FURNITURE

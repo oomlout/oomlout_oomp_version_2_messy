@@ -1,0 +1,77 @@
+classification: craft
+classification_capital: Craft
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CRAFT
+color: red
+color_capital: Red
+color_first_letter: r
+color_first_letter_upper: R
+color_upper: RED
+description_extra: roll
+description_extra_capital: Roll
+description_extra_first_letter: r
+description_extra_first_letter_upper: R
+description_extra_upper: ROLL
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'R '
+description_or_color_upper: 'R '
+directory: parts/craft_ribbon_florist_red_roll
+distributors: []
+id: craft_ribbon_florist_red_roll
+id_no_class: ribbon_florist_red_roll
+id_no_size: red_roll
+id_no_type: florist_red_roll
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/craft_ribbon_florist_red_roll
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/craft_ribbon_florist_red_roll
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/craft_ribbon_florist_red_roll
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[craft_ribbon_florist_red_roll](none)<br>[r](none)<br>[Craft Ribbon
+    Florist Red Roll](none)<br><br>'
+markdown_short: '[craft_ribbon_florist_red_roll](none)<br><br>'
+md5: de3fa4e9f9106cef3031d9ec4fe03f9c
+md5_10: de3fa4e9f9
+md5_10_upper: DE3FA4E9F9
+md5_5: de3fa
+md5_5_upper: DE3FA
+md5_6: de3fa4
+md5_6_alpha: 8o6n8
+md5_6_alpha_upper: 8O6N8
+md5_6_upper: DE3FA4
+name: Craft Ribbon Florist Red Roll
+name_no_class: Ribbon Florist Red Roll
+name_no_size: Red Roll
+name_no_size_short: Red Roll
+name_no_type: Florist Red Roll
+oomp_key: oomp_craft_ribbon_florist_red_roll
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: r
+short_code_upper: R
+short_name: ''
+size: florist
+size_capital: Florist
+size_first_letter: f
+size_first_letter_upper: F
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: FLORIST
+type: ribbon
+type_capital: Ribbon
+type_first_letter: r
+type_first_letter_upper: R
+type_upper: RIBBON

@@ -1,0 +1,78 @@
+classification: clothes
+classification_capital: Clothes
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CLOTHES
+color: extra_small
+color_capital: Extra Small
+color_first_letter: e
+color_first_letter_upper: E
+color_upper: EXTRA_SMALL
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: magenta
+description_main_capital: Magenta
+description_main_first_letter: m
+description_main_first_letter_upper: M
+description_main_upper: MAGENTA
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'E '
+description_or_color_upper: 'E '
+directory: parts/clothes_item_socks_extra_small_magenta
+distributors: []
+filter: ''
+from_yaml: false
+id: clothes_item_socks_extra_small_magenta
+id_no_class: item_socks_extra_small_magenta
+id_no_size: extra_small_magenta
+id_no_type: socks_extra_small_magenta
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_socks_extra_small_magenta
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_socks_extra_small_magenta
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_socks_extra_small_magenta
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[clothes_item_socks_extra_small_magenta](none)<br>[](none)<br>[Clothes
+    Item Socks Extra Small Magenta](none)<br><br>'
+markdown_short: '[clothes_item_socks_extra_small_magenta](none)<br><br>'
+md5: bc0403090b3521ebbd123fece5ab5e47
+md5_10: bc0403090b
+md5_10_upper: BC0403090B
+md5_5: bc040
+md5_5_upper: BC040
+md5_6: bc0403
+md5_6_alpha: 7c3k3
+md5_6_alpha_upper: 7C3K3
+md5_6_upper: BC0403
+name: Clothes Item Socks Extra Small Magenta
+name_no_class: Item Socks Extra Small Magenta
+name_no_size: Extra Small Magenta
+name_no_size_short: Extra Small Magenta
+name_no_type: Socks Extra Small Magenta
+oomp_key: oomp_clothes_item_socks_extra_small_magenta
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: socks
+size_capital: Socks
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SOCKS
+type: item
+type_capital: Item
+type_first_letter: i
+type_first_letter_upper: I
+type_upper: ITEM

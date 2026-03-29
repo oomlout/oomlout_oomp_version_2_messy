@@ -1,0 +1,77 @@
+classification: craft
+classification_capital: Craft
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CRAFT
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: minimal
+description_extra_capital: Minimal
+description_extra_first_letter: m
+description_extra_first_letter_upper: M
+description_extra_upper: MINIMAL
+description_main: table_top
+description_main_capital: Table Top
+description_main_first_letter: t
+description_main_first_letter_upper: T
+description_main_upper: TABLE_TOP
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/craft_paint_easel_table_top_minimal
+distributors: []
+id: craft_paint_easel_table_top_minimal
+id_no_class: paint_easel_table_top_minimal
+id_no_size: table_top_minimal
+id_no_type: easel_table_top_minimal
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/craft_paint_easel_table_top_minimal
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/craft_paint_easel_table_top_minimal
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/craft_paint_easel_table_top_minimal
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[craft_paint_easel_table_top_minimal](none)<br>[](none)<br>[Craft
+    Paint Easel Table Top Minimal](none)<br><br>'
+markdown_short: '[craft_paint_easel_table_top_minimal](none)<br><br>'
+md5: d73aa7d3536aa124887c977f3569bd5c
+md5_10: d73aa7d353
+md5_10_upper: D73AA7D353
+md5_5: d73aa
+md5_5_upper: D73AA
+md5_6: d73aa7
+md5_6_alpha: 8ebon
+md5_6_alpha_upper: 8EBON
+md5_6_upper: D73AA7
+name: Craft Paint Easel Table Top Minimal
+name_no_class: Paint Easel Table Top Minimal
+name_no_size: Table Top Minimal
+name_no_size_short: Table Top Minimal
+name_no_type: Easel Table Top Minimal
+oomp_key: oomp_craft_paint_easel_table_top_minimal
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: easel
+size_capital: Easel
+size_first_letter: e
+size_first_letter_upper: E
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: EASEL
+type: paint
+type_capital: Paint
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PAINT

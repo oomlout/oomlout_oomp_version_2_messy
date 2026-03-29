@@ -1,0 +1,88 @@
+classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_upper: ELECTRONIC
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 10_nano_farad
+description_main_capital: 10 Nano Farad
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_upper: 10_NANO_FARAD
+description_only_numbers: '10'
+description_only_numbers_short: 10nf
+description_or_color: 10nf
+description_or_color_upper: 10NF
+directory: parts/electronic_capacitor_0603_10_nano_farad
+distributors: []
+filter: ''
+from_yaml: false
+id: electronic_capacitor_0603_10_nano_farad
+id_no_class: capacitor_0603_10_nano_farad
+id_no_size: 10_nano_farad
+id_no_type: 0603_10_nano_farad
+kicad_reference: C
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_capacitor_0603_10_nano_farad
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_capacitor_0603_10_nano_farad
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_capacitor_0603_10_nano_farad
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers:
+-   id: manufacturer_yageo
+    link: https://www.yageo.com/en/Chart/Download/pdf/CC0603KRX7R9BB103
+    name: Yageo
+    part_number: CC0603KRX7R9BB103
+markdown_full: '[electronic_capacitor_0603_10_nano_farad](none)<br>[c6nf10](none)<br>[Electronic
+    Capacitor 0603 10 Nano Farad](none)<br><br>[Yageo - CC0603KRX7R9BB103](https://www.yageo.com/en/Chart/Download/pdf/CC0603KRX7R9BB103)
+    [(L)  ](https://www.lcsc.com/search?q=CC0603KRX7R9BB103)[(D)  ](https://www.digikey.com/en/products?keywords=CC0603KRX7R9BB103)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=CC0603KRX7R9BB103)[(N)  ](https://www.newark.com/search?st=CC0603KRX7R9BB103)[(SZ)  ](https://so.szlcsc.com/global.html?k=CC0603KRX7R9BB103)<br>'
+markdown_short: '[electronic_capacitor_0603_10_nano_farad](none)<br><br>[Yageo - CC0603KRX7R9BB103](https://www.yageo.com/en/Chart/Download/pdf/CC0603KRX7R9BB103)'
+md5: 33c290430a925ac7c87bd31db1d1a8b7
+md5_10: 33c290430a
+md5_10_upper: 33C290430A
+md5_5: 33c29
+md5_5_upper: 33C29
+md5_6: 33c290
+md5_6_alpha: 20pe8
+md5_6_alpha_upper: 20PE8
+md5_6_upper: 33C290
+name: Electronic Capacitor 0603 10 Nano Farad
+name_no_class: Capacitor 0603 10 Nano Farad
+name_no_size: 10 Nano Farad
+name_no_size_short: 10nf Nano Farad
+name_no_type: 0603 10 Nano Farad
+oomp_key: oomp_electronic_capacitor_0603_10_nano_farad
+package_style: smd_tape
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: c6nf10
+short_code_upper: C6NF10
+size: '0603'
+size_capital: '0603'
+size_first_letter: '0'
+size_first_letter_upper: '0'
+size_only_numbers: '0603'
+size_only_numbers_no_zeros: '63'
+size_upper: '0603'
+smd_tape_depth: 1_5_mm
+smd_tape_pitch: 4_mm
+smd_tape_width: 8_mm
+type: capacitor
+type_capital: Capacitor
+type_first_letter: c
+type_first_letter_upper: C
+type_upper: CAPACITOR

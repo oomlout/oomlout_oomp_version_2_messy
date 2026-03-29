@@ -1,0 +1,77 @@
+classification: phone
+classification_capital: Phone
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_upper: PHONE
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: 71_mm_width_145_mm_height_8_mm_depth
+description_extra_capital: 71 mm Width 145 mm Height 8 mm Depth
+description_extra_first_letter: '7'
+description_extra_first_letter_upper: '7'
+description_extra_upper: 71_MM_WIDTH_145_MM_HEIGHT_8_MM_DEPTH
+description_main: pixel_5
+description_main_capital: Pixel 5
+description_main_first_letter: p
+description_main_first_letter_upper: P
+description_main_upper: PIXEL_5
+description_only_numbers: '5'
+description_only_numbers_short: '5'
+description_or_color: '5'
+description_or_color_upper: '5'
+directory: parts/phone_android_google_pixel_pixel_5_71_mm_width_145_mm_height_8_mm_depth
+distributors: []
+id: phone_android_google_pixel_pixel_5_71_mm_width_145_mm_height_8_mm_depth
+id_no_class: android_google_pixel_pixel_5_71_mm_width_145_mm_height_8_mm_depth
+id_no_size: pixel_5_71_mm_width_145_mm_height_8_mm_depth
+id_no_type: google_pixel_pixel_5_71_mm_width_145_mm_height_8_mm_depth
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/phone_android_google_pixel_pixel_5_71_mm_width_145_mm_height_8_mm_depth
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/phone_android_google_pixel_pixel_5_71_mm_width_145_mm_height_8_mm_depth
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/phone_android_google_pixel_pixel_5_71_mm_width_145_mm_height_8_mm_depth
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[phone_android_google_pixel_pixel_5_71_mm_width_145_mm_height_8_mm_depth](none)<br>[](none)<br>[Phone
+    Android Google Pixel Pixel 5 71 Mm Width 145 Mm Height 8 Mm Depth](none)<br><br>'
+markdown_short: '[phone_android_google_pixel_pixel_5_71_mm_width_145_mm_height_8_mm_depth](none)<br><br>'
+md5: 3de0028b07e2a9e932effab8ba036cc9
+md5_10: 3de0028b07
+md5_10_upper: 3DE0028B07
+md5_5: 3de00
+md5_5_upper: 3DE00
+md5_6: 3de002
+md5_6_alpha: 2eww2
+md5_6_alpha_upper: 2EWW2
+md5_6_upper: 3DE002
+name: Phone Android Google Pixel Pixel 5 71 Mm Width 145 Mm Height 8 Mm Depth
+name_no_class: Android Google Pixel Pixel 5 71 Mm Width 145 Mm Height 8 Mm Depth
+name_no_size: Pixel 5 71 Mm Width 145 Mm Height 8 Mm Depth
+name_no_size_short: Pixel 5 71 Mm Width 145 Mm Height 8 Mm Depth
+name_no_type: Google Pixel Pixel 5 71 Mm Width 145 Mm Height 8 Mm Depth
+oomp_key: oomp_phone_android_google_pixel_pixel_5_71_mm_width_145_mm_height_8_mm_depth
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Google Pixel 5
+size: google_pixel
+size_capital: Google Pixel
+size_first_letter: g
+size_first_letter_upper: G
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: GOOGLE_PIXEL
+type: android
+type_capital: Android
+type_first_letter: a
+type_first_letter_upper: A
+type_upper: ANDROID

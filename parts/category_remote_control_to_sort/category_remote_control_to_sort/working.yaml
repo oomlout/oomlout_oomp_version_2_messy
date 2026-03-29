@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_remote_control
+description_extra: to_sort
+description_extra_capital: To Sort
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TO_SORT
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_remote_control_to_sort
+distributors: []
+filter: ''
+from_yaml: false
+id: category_remote_control_to_sort
+id_no_class: remote_control_to_sort
+id_no_size: tosort
+id_no_type: to_sort
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_remote_control_to_sort
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_remote_control_to_sort
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_remote_control_to_sort
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_remote_control_to_sort](none)<br>[](none)<br>[Category Remote
+    Control To Sort](none)<br><br>'
+markdown_short: '[category_remote_control_to_sort](none)<br><br>'
+md5: 489f35c691eadacbda09623df112fadd
+md5_10: 489f35c691
+md5_10_upper: 489F35C691
+md5_5: 489f3
+md5_5_upper: 489F3
+md5_6: 489f35
+md5_6_alpha: 2u0c5
+md5_6_alpha_upper: 2U0C5
+md5_6_upper: 489F35
+name: Category Remote Control To Sort
+name_no_class: Remote Control To Sort
+name_no_size: Tosort
+name_no_size_short: Tosort
+name_no_type: To Sort
+oomp_key: oomp_category_remote_control_to_sort
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryremotecontrol
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: remote_control
+type_capital: Remote Control
+type_first_letter: r
+type_first_letter_upper: R
+type_upper: REMOTE_CONTROL

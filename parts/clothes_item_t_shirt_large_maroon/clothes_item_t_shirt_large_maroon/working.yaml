@@ -1,0 +1,78 @@
+classification: clothes
+classification_capital: Clothes
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CLOTHES
+color: large
+color_capital: Large
+color_first_letter: l
+color_first_letter_upper: L
+color_upper: LARGE
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: maroon
+description_main_capital: Maroon
+description_main_first_letter: m
+description_main_first_letter_upper: M
+description_main_upper: MAROON
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'L '
+description_or_color_upper: 'L '
+directory: parts/clothes_item_t_shirt_large_maroon
+distributors: []
+filter: ''
+from_yaml: false
+id: clothes_item_t_shirt_large_maroon
+id_no_class: item_t_shirt_large_maroon
+id_no_size: large_maroon
+id_no_type: t_shirt_large_maroon
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_t_shirt_large_maroon
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_t_shirt_large_maroon
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_t_shirt_large_maroon
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[clothes_item_t_shirt_large_maroon](none)<br>[](none)<br>[Clothes
+    Item T Shirt Large Maroon](none)<br><br>'
+markdown_short: '[clothes_item_t_shirt_large_maroon](none)<br><br>'
+md5: b7fe4c457333b6906d56b303c6a175b5
+md5_10: b7fe4c4573
+md5_10_upper: B7FE4C4573
+md5_5: b7fe4
+md5_5_upper: B7FE4
+md5_6: b7fe4c
+md5_6_alpha: 76g5o
+md5_6_alpha_upper: 76G5O
+md5_6_upper: B7FE4C
+name: Clothes Item T Shirt Large Maroon
+name_no_class: Item T Shirt Large Maroon
+name_no_size: Large Maroon
+name_no_size_short: Large Maroon
+name_no_type: T Shirt Large Maroon
+oomp_key: oomp_clothes_item_t_shirt_large_maroon
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: t_shirt
+size_capital: T Shirt
+size_first_letter: t
+size_first_letter_upper: T
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: T_SHIRT
+type: item
+type_capital: Item
+type_first_letter: i
+type_first_letter_upper: I
+type_upper: ITEM

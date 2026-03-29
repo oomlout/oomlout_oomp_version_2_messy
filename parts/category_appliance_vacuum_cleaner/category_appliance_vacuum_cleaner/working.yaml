@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_appliance
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_appliance_vacuum_cleaner
+distributors: []
+filter: ''
+from_yaml: false
+id: category_appliance_vacuum_cleaner
+id_no_class: appliance_vacuum_cleaner
+id_no_size: vacuum_cleaner
+id_no_type: vacuum_cleaner
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_appliance_vacuum_cleaner
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_appliance_vacuum_cleaner
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_appliance_vacuum_cleaner
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_appliance_vacuum_cleaner](none)<br>[](none)<br>[Category
+    Appliance Vacuum Cleaner](none)<br><br>'
+markdown_short: '[category_appliance_vacuum_cleaner](none)<br><br>'
+md5: 635b739b35e37d1ca71de760e5a39431
+md5_10: 635b739b35
+md5_10_upper: 635B739B35
+md5_5: 635b7
+md5_5_upper: 635B7
+md5_6: 635b73
+md5_6_alpha: 3vkab
+md5_6_alpha_upper: 3VKAB
+md5_6_upper: 635B73
+name: Category Appliance Vacuum Cleaner
+name_no_class: Appliance Vacuum Cleaner
+name_no_size: Vacuum Cleaner
+name_no_size_short: Vacuum Cleaner
+name_no_type: Vacuum Cleaner
+oomp_key: oomp_category_appliance_vacuum_cleaner
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryappliance
+size: vacuum_cleaner
+size_capital: Vacuum Cleaner
+size_first_letter: v
+size_first_letter_upper: V
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: VACUUM_CLEANER
+type: appliance
+type_capital: Appliance
+type_first_letter: a
+type_first_letter_upper: A
+type_upper: APPLIANCE

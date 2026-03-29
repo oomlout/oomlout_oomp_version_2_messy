@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: oobb
+color_capital: Oobb
+color_first_letter: o
+color_first_letter_upper: O
+color_upper: OOBB
+description: category_electronic
+description_extra: cubby_box
+description_extra_capital: Cubby Box
+description_extra_first_letter: c
+description_extra_first_letter_upper: C
+description_extra_upper: CUBBY_BOX
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'O '
+description_or_color_upper: 'O '
+directory: parts/category_electronic_header_oobb_cubby_box
+distributors: []
+filter: ''
+from_yaml: false
+id: category_electronic_header_oobb_cubby_box
+id_no_class: electronic_header_oobb_cubby_box
+id_no_size: oobb_cubby_box
+id_no_type: header_oobb_cubby_box
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_header_oobb_cubby_box
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_header_oobb_cubby_box
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_header_oobb_cubby_box
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_electronic_header_oobb_cubby_box](none)<br>[](none)<br>[Category
+    Electronic Header Oobb Cubby Box](none)<br><br>'
+markdown_short: '[category_electronic_header_oobb_cubby_box](none)<br><br>'
+md5: da4dc5f5bf6002e86a6d05c131a87a8c
+md5_10: da4dc5f5bf
+md5_10_upper: DA4DC5F5BF
+md5_5: da4dc
+md5_5_upper: DA4DC
+md5_6: da4dc5
+md5_6_alpha: 8in5x
+md5_6_alpha_upper: 8IN5X
+md5_6_upper: DA4DC5
+name: Category Electronic Header Oobb Cubby Box
+name_no_class: Electronic Header Oobb Cubby Box
+name_no_size: Oobb Cubby Box
+name_no_size_short: Oobb Cubby Box
+name_no_type: Header Oobb Cubby Box
+oomp_key: oomp_category_electronic_header_oobb_cubby_box
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryelectronic
+size: header
+size_capital: Header
+size_first_letter: h
+size_first_letter_upper: H
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: HEADER
+type: electronic
+type_capital: Electronic
+type_first_letter: e
+type_first_letter_upper: E
+type_upper: ELECTRONIC

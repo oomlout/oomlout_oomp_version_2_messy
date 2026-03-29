@@ -1,0 +1,78 @@
+classification: camping
+classification_capital: Camping
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CAMPING
+color: cutting_board
+color_capital: Cutting Board
+color_first_letter: c
+color_first_letter_upper: C
+color_upper: CUTTING_BOARD
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'C '
+description_or_color_upper: 'C '
+directory: parts/camping_kitchen_cutting_board
+distributors: []
+filter: ''
+from_yaml: false
+id: camping_kitchen_cutting_board
+id_no_class: kitchen_cutting_board
+id_no_size: cuttingboard
+id_no_type: cutting_board
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/camping_kitchen_cutting_board
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/camping_kitchen_cutting_board
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/camping_kitchen_cutting_board
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[camping_kitchen_cutting_board](none)<br>[](none)<br>[Camping Kitchen
+    Cutting Board](none)<br><br>'
+markdown_short: '[camping_kitchen_cutting_board](none)<br><br>'
+md5: 6e4c7ec3eaa27725cf8534f79ae16481
+md5_10: 6e4c7ec3ea
+md5_10_upper: 6E4C7EC3EA
+md5_5: 6e4c7
+md5_5_upper: 6E4C7
+md5_6: 6e4c7e
+md5_6_alpha: 4axku
+md5_6_alpha_upper: 4AXKU
+md5_6_upper: 6E4C7E
+name: Camping Kitchen Cutting Board
+name_no_class: Kitchen Cutting Board
+name_no_size: Cuttingboard
+name_no_size_short: Cuttingboard
+name_no_type: Cutting Board
+oomp_key: oomp_camping_kitchen_cutting_board
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: kitchen
+type_capital: Kitchen
+type_first_letter: k
+type_first_letter_upper: K
+type_upper: KITCHEN

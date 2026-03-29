@@ -1,0 +1,85 @@
+classification: food
+classification_capital: Food
+classification_first_letter: f
+classification_first_letter_upper: F
+classification_upper: FOOD
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: curry powder tandoori
+description_extra: 42_mm_width_42_mm_height_100_mm_depth_bottle
+description_extra_capital: 42 mm Width 42 mm Height 100 mm Depth Bottle
+description_extra_first_letter: '4'
+description_extra_first_letter_upper: '4'
+description_extra_upper: 42_MM_WIDTH_42_MM_HEIGHT_100_MM_DEPTH_BOTTLE
+description_main: curry_powder_tandoori
+description_main_capital: Curry Powder Tandoori
+description_main_first_letter: c
+description_main_first_letter_upper: C
+description_main_upper: CURRY_POWDER_TANDOORI
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/food_seasoning_spice_curry_powder_tandoori_42_mm_width_42_mm_height_100_mm_depth_bottle_tesco
+distributors: []
+filter: ''
+from_yaml: false
+id: food_seasoning_spice_curry_powder_tandoori_42_mm_width_42_mm_height_100_mm_depth_bottle_tesco
+id_no_class: seasoning_spice_curry_powder_tandoori_42_mm_width_42_mm_height_100_mm_depth_bottle_tesco
+id_no_size: curry_powder_tandoori_42_mm_width_42_mm_height_100_mm_depth_bottle_tesco
+id_no_type: spice_curry_powder_tandoori_42_mm_width_42_mm_height_100_mm_depth_bottle_tesco
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_spice_curry_powder_tandoori_42_mm_width_42_mm_height_100_mm_depth_bottle_tesco
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_spice_curry_powder_tandoori_42_mm_width_42_mm_height_100_mm_depth_bottle_tesco
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_spice_curry_powder_tandoori_42_mm_width_42_mm_height_100_mm_depth_bottle_tesco
+manufacturer: tesco
+manufacturer_capital: Tesco
+manufacturer_first_letter: t
+manufacturer_first_letter_upper: T
+manufacturer_upper: TESCO
+manufacturers: []
+markdown_full: '[food_seasoning_spice_curry_powder_tandoori_42_mm_width_42_mm_height_100_mm_depth_bottle_tesco](none)<br>[](none)<br>[Food
+    Seasoning Spice Curry Powder Tandoori 42 Mm Width 42 Mm Height 100 Mm Depth Bottle
+    Tesco](none)<br><br>'
+markdown_short: '[food_seasoning_spice_curry_powder_tandoori_42_mm_width_42_mm_height_100_mm_depth_bottle_tesco](none)<br><br>'
+md5: 0d3525ac6bacb25f1b65164224903fd3
+md5_10: 0d3525ac6b
+md5_10_upper: 0D3525AC6B
+md5_5: 0d352
+md5_5_upper: 0D352
+md5_6: 0d3525
+md5_6_alpha: ijvp
+md5_6_alpha_upper: IJVP
+md5_6_upper: 0D3525
+name: Food Seasoning Spice Curry Powder Tandoori 42 Mm Width 42 Mm Height 100 Mm Depth
+    Bottle Tesco
+name_no_class: Seasoning Spice Curry Powder Tandoori 42 Mm Width 42 Mm Height 100
+    Mm Depth Bottle Tesco
+name_no_size: Curry Powder Tandoori 42 Mm Width 42 Mm Height 100 Mm Depth Bottle Tesco
+name_no_size_short: Curry Powder Tandoori 42 Mm Width 42 Mm Height 100 Mm Depth Bottle
+    Tesco
+name_no_type: Spice Curry Powder Tandoori 42 Mm Width 42 Mm Height 100 Mm Depth Bottle
+    Tesco
+name_short: Curry Powder Tandoori
+oomp_key: oomp_food_seasoning_spice_curry_powder_tandoori_42_mm_width_42_mm_height_100_mm_depth_bottle_tesco
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: spice
+size_capital: Spice
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SPICE
+type: seasoning
+type_capital: Seasoning
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: SEASONING

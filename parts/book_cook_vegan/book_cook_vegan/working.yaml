@@ -1,0 +1,77 @@
+classification: book
+classification_capital: Book
+classification_first_letter: b
+classification_first_letter_upper: B
+classification_upper: BOOK
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/book_cook_vegan
+distributors: []
+filter: ''
+from_yaml: false
+id: book_cook_vegan
+id_no_class: cook_vegan
+id_no_size: vegan
+id_no_type: vegan
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/book_cook_vegan
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/book_cook_vegan
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/book_cook_vegan
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[book_cook_vegan](none)<br>[](none)<br>[Book Cook Vegan](none)<br><br>'
+markdown_short: '[book_cook_vegan](none)<br><br>'
+md5: 4a0e4999b01327c1fd01ed1eebea4df2
+md5_10: 4a0e4999b0
+md5_10_upper: 4A0E4999B0
+md5_5: 4a0e4
+md5_5_upper: 4A0E4
+md5_6: 4a0e49
+md5_6_alpha: 2w0uh
+md5_6_alpha_upper: 2W0UH
+md5_6_upper: 4A0E49
+name: Book Cook Vegan
+name_no_class: Cook Vegan
+name_no_size: Vegan
+name_no_size_short: Vegan
+name_no_type: Vegan
+oomp_key: oomp_book_cook_vegan
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: vegan
+size_capital: Vegan
+size_first_letter: v
+size_first_letter_upper: V
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: VEGAN
+type: cook
+type_capital: Cook
+type_first_letter: c
+type_first_letter_upper: C
+type_upper: COOK

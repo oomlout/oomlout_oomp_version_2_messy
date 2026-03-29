@@ -1,0 +1,77 @@
+classification: mechanical
+classification_capital: Mechanical
+classification_first_letter: m
+classification_first_letter_upper: M
+classification_upper: MECHANICAL
+color: 6_mm_belt_width
+color_capital: 6 mm Belt Width
+color_first_letter: '6'
+color_first_letter_upper: '6'
+color_upper: 6_MM_BELT_WIDTH
+description_extra: 5_mm_bore
+description_extra_capital: 5 mm Bore
+description_extra_first_letter: '5'
+description_extra_first_letter_upper: '5'
+description_extra_upper: 5_MM_BORE
+description_main: 26_teeth
+description_main_capital: 26 Teeth
+description_main_first_letter: '2'
+description_main_first_letter_upper: '2'
+description_main_upper: 26_TEETH
+description_only_numbers: '26'
+description_only_numbers_short: '26'
+description_or_color: '626'
+description_or_color_upper: '626'
+directory: parts/mechanical_timing_pulley_2gt_2_mm_pitch_6_mm_belt_width_26_teeth_5_mm_bore
+distributors: []
+id: mechanical_timing_pulley_2gt_2_mm_pitch_6_mm_belt_width_26_teeth_5_mm_bore
+id_no_class: timing_pulley_2gt_2_mm_pitch_6_mm_belt_width_26_teeth_5_mm_bore
+id_no_size: 6_mm_belt_width_26_teeth_5_mm_bore
+id_no_type: 2gt_2_mm_pitch_6_mm_belt_width_26_teeth_5_mm_bore
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_timing_pulley_2gt_2_mm_pitch_6_mm_belt_width_26_teeth_5_mm_bore
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_timing_pulley_2gt_2_mm_pitch_6_mm_belt_width_26_teeth_5_mm_bore
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_timing_pulley_2gt_2_mm_pitch_6_mm_belt_width_26_teeth_5_mm_bore
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[mechanical_timing_pulley_2gt_2_mm_pitch_6_mm_belt_width_26_teeth_5_mm_bore](none)<br>[](none)<br>[Mechanical
+    Timing Pulley 2Gt 2 Mm Pitch 6 Mm Belt Width 26 Teeth 5 Mm Bore](none)<br><br>'
+markdown_short: '[mechanical_timing_pulley_2gt_2_mm_pitch_6_mm_belt_width_26_teeth_5_mm_bore](none)<br><br>'
+md5: f7aa80cc3199604f5b423e1b0fe5e547
+md5_10: f7aa80cc31
+md5_10_upper: F7AA80CC31
+md5_5: f7aa8
+md5_5_upper: F7AA8
+md5_6: f7aa80
+md5_6_alpha: 9nvy8
+md5_6_alpha_upper: 9NVY8
+md5_6_upper: F7AA80
+name: Mechanical Timing Pulley 2Gt 2 Mm Pitch 6 Mm Belt Width 26 Teeth 5 Mm Bore
+name_no_class: Timing Pulley 2Gt 2 Mm Pitch 6 Mm Belt Width 26 Teeth 5 Mm Bore
+name_no_size: 6 Mm Belt Width 26 Teeth 5 Mm Bore
+name_no_size_short: 6 Mm Belt Width 26 Teeth 5 Mm Bore
+name_no_type: 2Gt 2 Mm Pitch 6 Mm Belt Width 26 Teeth 5 Mm Bore
+oomp_key: oomp_mechanical_timing_pulley_2gt_2_mm_pitch_6_mm_belt_width_26_teeth_5_mm_bore
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: 2gt_2_mm_pitch
+size_capital: 2Gt 2 mm Pitch
+size_first_letter: '2'
+size_first_letter_upper: '2'
+size_only_numbers: '22'
+size_only_numbers_no_zeros: '22'
+size_upper: 2GT_2_MM_PITCH
+type: timing_pulley
+type_capital: Timing Pulley
+type_first_letter: t
+type_first_letter_upper: T
+type_upper: TIMING_PULLEY

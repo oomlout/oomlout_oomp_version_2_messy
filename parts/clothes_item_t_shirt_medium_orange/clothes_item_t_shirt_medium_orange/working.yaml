@@ -1,0 +1,78 @@
+classification: clothes
+classification_capital: Clothes
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CLOTHES
+color: medium
+color_capital: Medium
+color_first_letter: m
+color_first_letter_upper: M
+color_upper: MEDIUM
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: orange
+description_main_capital: Orange
+description_main_first_letter: o
+description_main_first_letter_upper: O
+description_main_upper: ORANGE
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'M '
+description_or_color_upper: 'M '
+directory: parts/clothes_item_t_shirt_medium_orange
+distributors: []
+filter: ''
+from_yaml: false
+id: clothes_item_t_shirt_medium_orange
+id_no_class: item_t_shirt_medium_orange
+id_no_size: medium_orange
+id_no_type: t_shirt_medium_orange
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_t_shirt_medium_orange
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_t_shirt_medium_orange
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_t_shirt_medium_orange
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[clothes_item_t_shirt_medium_orange](none)<br>[](none)<br>[Clothes
+    Item T Shirt Medium Orange](none)<br><br>'
+markdown_short: '[clothes_item_t_shirt_medium_orange](none)<br><br>'
+md5: a523d55c22a72fa6341b503d124aa906
+md5_10: a523d55c22
+md5_10_upper: A523D55C22
+md5_5: a523d
+md5_5_upper: A523D
+md5_6: a523d5
+md5_6_alpha: 6fys5
+md5_6_alpha_upper: 6FYS5
+md5_6_upper: A523D5
+name: Clothes Item T Shirt Medium Orange
+name_no_class: Item T Shirt Medium Orange
+name_no_size: Medium Orange
+name_no_size_short: Medium Orange
+name_no_type: T Shirt Medium Orange
+oomp_key: oomp_clothes_item_t_shirt_medium_orange
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: t_shirt
+size_capital: T Shirt
+size_first_letter: t
+size_first_letter_upper: T
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: T_SHIRT
+type: item
+type_capital: Item
+type_first_letter: i
+type_first_letter_upper: I
+type_upper: ITEM

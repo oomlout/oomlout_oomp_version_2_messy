@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: aaa_size_10_mm_diameter_44_mm_depth
+color_capital: Aaa Size 10 mm Diameter 44 mm Depth
+color_first_letter: a
+color_first_letter_upper: A
+color_upper: AAA_SIZE_10_MM_DIAMETER_44_MM_DEPTH
+description: category_electronic
+description_extra: tote
+description_extra_capital: Tote
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TOTE
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'A '
+description_or_color_upper: 'A '
+directory: parts/category_electronic_battery_aaa_size_10_mm_diameter_44_mm_depth_tote
+distributors: []
+filter: ''
+from_yaml: false
+id: category_electronic_battery_aaa_size_10_mm_diameter_44_mm_depth_tote
+id_no_class: electronic_battery_aaa_size_10_mm_diameter_44_mm_depth_tote
+id_no_size: aaa_size_10_mm_diameter_44_mm_depth_tote
+id_no_type: battery_aaa_size_10_mm_diameter_44_mm_depth_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_battery_aaa_size_10_mm_diameter_44_mm_depth_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_battery_aaa_size_10_mm_diameter_44_mm_depth_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_battery_aaa_size_10_mm_diameter_44_mm_depth_tote
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_electronic_battery_aaa_size_10_mm_diameter_44_mm_depth_tote](none)<br>[](none)<br>[Category
+    Electronic Battery Aaa Size 10 Mm Diameter 44 Mm Depth Tote](none)<br><br>'
+markdown_short: '[category_electronic_battery_aaa_size_10_mm_diameter_44_mm_depth_tote](none)<br><br>'
+md5: 583997747a2c5a3857e99de7594fcda4
+md5_10: 583997747a
+md5_10_upper: 583997747A
+md5_5: '58399'
+md5_5_upper: '58399'
+md5_6: '583997'
+md5_6_alpha: 3fxcn
+md5_6_alpha_upper: 3FXCN
+md5_6_upper: '583997'
+name: Category Electronic Battery Aaa Size 10 Mm Diameter 44 Mm Depth Tote
+name_no_class: Electronic Battery Aaa Size 10 Mm Diameter 44 Mm Depth Tote
+name_no_size: Aaa Size 10 Mm Diameter 44 Mm Depth Tote
+name_no_size_short: Aaa Size 10 Mm Diameter 44 Mm Depth Tote
+name_no_type: Battery Aaa Size 10 Mm Diameter 44 Mm Depth Tote
+oomp_key: oomp_category_electronic_battery_aaa_size_10_mm_diameter_44_mm_depth_tote
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryelectronic
+size: battery
+size_capital: Battery
+size_first_letter: b
+size_first_letter_upper: B
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: BATTERY
+type: electronic
+type_capital: Electronic
+type_first_letter: e
+type_first_letter_upper: E
+type_upper: ELECTRONIC

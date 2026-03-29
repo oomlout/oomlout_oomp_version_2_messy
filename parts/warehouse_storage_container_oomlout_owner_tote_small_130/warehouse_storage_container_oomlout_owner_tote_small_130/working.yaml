@@ -1,0 +1,78 @@
+classification: warehouse
+classification_capital: Warehouse
+classification_first_letter: w
+classification_first_letter_upper: W
+classification_upper: WAREHOUSE
+color: tote_small
+color_capital: Tote Small
+color_first_letter: t
+color_first_letter_upper: T
+color_upper: TOTE_SMALL
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: '130'
+description_main_capital: '130'
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_upper: '130'
+description_only_numbers: '130'
+description_only_numbers_short: '130'
+description_or_color: T130
+description_or_color_upper: T130
+directory: parts/warehouse_storage_container_oomlout_owner_tote_small_130
+distributors: []
+id: warehouse_storage_container_oomlout_owner_tote_small_130
+id_no_class: storage_container_oomlout_owner_tote_small_130
+id_no_size: tote_small_130
+id_no_type: oomlout_owner_tote_small_130
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/warehouse_storage_container_oomlout_owner_tote_small_130
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/warehouse_storage_container_oomlout_owner_tote_small_130
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/warehouse_storage_container_oomlout_owner_tote_small_130
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[warehouse_storage_container_oomlout_owner_tote_small_130](none)<br>[](none)<br>[Warehouse
+    Storage Container Oomlout Owner Tote Small 130](none)<br><br>'
+markdown_short: '[warehouse_storage_container_oomlout_owner_tote_small_130](none)<br><br>'
+md5: dbcc180b01b355b455f90927d601f041
+md5_10: dbcc180b01
+md5_10_upper: DBCC180B01
+md5_5: dbcc1
+md5_5_upper: DBCC1
+md5_6: dbcc18
+md5_6_alpha: 8kqoo
+md5_6_alpha_upper: 8KQOO
+md5_6_upper: DBCC18
+name: Warehouse Storage Container Oomlout Owner Tote Small 130
+name_no_class: Storage Container Oomlout Owner Tote Small 130
+name_no_size: Tote Small 130
+name_no_size_short: Tote Small 130
+name_no_type: Oomlout Owner Tote Small 130
+oomp_key: oomp_warehouse_storage_container_oomlout_owner_tote_small_130
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: oomlout_owner
+size_capital: Oomlout Owner
+size_first_letter: o
+size_first_letter_upper: O
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: OOMLOUT_OWNER
+type: storage_container
+type_capital: Storage Container
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: STORAGE_CONTAINER

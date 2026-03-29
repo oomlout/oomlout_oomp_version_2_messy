@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: m2_5
+color_capital: M2.5
+color_first_letter: m
+color_first_letter_upper: M
+color_upper: M2_5
+description: category_hardware
+description_extra: to_sort
+description_extra_capital: To Sort
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TO_SORT
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'M '
+description_or_color_upper: 'M '
+directory: parts/category_hardware_screw_thread_forming_m2_5_to_sort
+distributors: []
+filter: ''
+from_yaml: false
+id: category_hardware_screw_thread_forming_m2_5_to_sort
+id_no_class: hardware_screw_thread_forming_m2_5_to_sort
+id_no_size: m2_5_to_sort
+id_no_type: screw_thread_forming_m2_5_to_sort
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_screw_thread_forming_m2_5_to_sort
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_screw_thread_forming_m2_5_to_sort
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_screw_thread_forming_m2_5_to_sort
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_hardware_screw_thread_forming_m2_5_to_sort](none)<br>[](none)<br>[Category
+    Hardware Screw Thread Forming M2 5 To Sort](none)<br><br>'
+markdown_short: '[category_hardware_screw_thread_forming_m2_5_to_sort](none)<br><br>'
+md5: 31c1baebb40f6bbc64e83e2fa242594a
+md5_10: 31c1baebb4
+md5_10_upper: 31C1BAEBB4
+md5_5: 31c1b
+md5_5_upper: 31C1B
+md5_6: 31c1ba
+md5_6_alpha: 1xw3e
+md5_6_alpha_upper: 1XW3E
+md5_6_upper: 31C1BA
+name: Category Hardware Screw Thread Forming M2 5 To Sort
+name_no_class: Hardware Screw Thread Forming M2 5 To Sort
+name_no_size: M2 5 To Sort
+name_no_size_short: M2 5 To Sort
+name_no_type: Screw Thread Forming M2 5 To Sort
+oomp_key: oomp_category_hardware_screw_thread_forming_m2_5_to_sort
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryhardware
+size: screw_thread_forming
+size_capital: Screw Thread Forming
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SCREW_THREAD_FORMING
+type: hardware
+type_capital: Hardware
+type_first_letter: h
+type_first_letter_upper: H
+type_upper: HARDWARE

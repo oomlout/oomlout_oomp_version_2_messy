@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_household_toy
+description_extra: cubby_box
+description_extra_capital: Cubby Box
+description_extra_first_letter: c
+description_extra_first_letter_upper: C
+description_extra_upper: CUBBY_BOX
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_household_toy_doll_cubby_box
+distributors: []
+filter: ''
+from_yaml: false
+id: category_household_toy_doll_cubby_box
+id_no_class: household_toy_doll_cubby_box
+id_no_size: cubby_box
+id_no_type: doll_cubby_box
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_toy_doll_cubby_box
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_toy_doll_cubby_box
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_toy_doll_cubby_box
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_household_toy_doll_cubby_box](none)<br>[](none)<br>[Category
+    Household Toy Doll Cubby Box](none)<br><br>'
+markdown_short: '[category_household_toy_doll_cubby_box](none)<br><br>'
+md5: cbfb89618d5ab7bae6f633c332c7a9c8
+md5_10: cbfb89618d
+md5_10_upper: CBFB89618D
+md5_5: cbfb8
+md5_5_upper: CBFB8
+md5_6: cbfb89
+md5_6_alpha: 7yiyx
+md5_6_alpha_upper: 7YIYX
+md5_6_upper: CBFB89
+name: Category Household Toy Doll Cubby Box
+name_no_class: Household Toy Doll Cubby Box
+name_no_size: Cubby Box
+name_no_size_short: Cubby Box
+name_no_type: Doll Cubby Box
+oomp_key: oomp_category_household_toy_doll_cubby_box
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryhouseholdtoy
+size: doll
+size_capital: Doll
+size_first_letter: d
+size_first_letter_upper: D
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: DOLL
+type: household_toy
+type_capital: Household Toy
+type_first_letter: h
+type_first_letter_upper: H
+type_upper: HOUSEHOLD_TOY

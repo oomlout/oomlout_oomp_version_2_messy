@@ -1,0 +1,78 @@
+classification: printer
+classification_capital: Printer
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_upper: PRINTER
+color: epson_clairia
+color_capital: Epson Clairia
+color_first_letter: e
+color_first_letter_upper: E
+color_upper: EPSON_CLAIRIA
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: cyan_light_bottle_100_ml_e830lc_part_number
+description_main_capital: Cyan Light Bottle 100 Ml E830Lc Part Number
+description_main_first_letter: c
+description_main_first_letter_upper: C
+description_main_upper: CYAN_LIGHT_BOTTLE_100_ML_E830LC_PART_NUMBER
+description_only_numbers: '100830'
+description_only_numbers_short: 101k
+description_or_color: E101k
+description_or_color_upper: E101K
+directory: parts/printer_ink_inkjet_paper_epson_clairia_cyan_light_bottle_100_ml_e830lc_part_number
+distributors: []
+id: printer_ink_inkjet_paper_epson_clairia_cyan_light_bottle_100_ml_e830lc_part_number
+id_no_class: ink_inkjet_paper_epson_clairia_cyan_light_bottle_100_ml_e830lc_part_number
+id_no_size: epson_clairia_cyan_light_bottle_100_ml_e830lc_part_number
+id_no_type: inkjet_paper_epson_clairia_cyan_light_bottle_100_ml_e830lc_part_number
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_ink_inkjet_paper_epson_clairia_cyan_light_bottle_100_ml_e830lc_part_number
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_ink_inkjet_paper_epson_clairia_cyan_light_bottle_100_ml_e830lc_part_number
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_ink_inkjet_paper_epson_clairia_cyan_light_bottle_100_ml_e830lc_part_number
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[printer_ink_inkjet_paper_epson_clairia_cyan_light_bottle_100_ml_e830lc_part_number](none)<br>[](none)<br>[Printer
+    Ink Inkjet Paper Epson Clairia Cyan Light Bottle 100 Ml E830Lc Part Number](none)<br><br>'
+markdown_short: '[printer_ink_inkjet_paper_epson_clairia_cyan_light_bottle_100_ml_e830lc_part_number](none)<br><br>'
+md5: 7c39547ffbbb4695919cea85907620a7
+md5_10: 7c39547ffb
+md5_10_upper: 7C39547FFB
+md5_5: 7c395
+md5_5_upper: 7C395
+md5_6: 7c3954
+md5_6_alpha: 4uhqs
+md5_6_alpha_upper: 4UHQS
+md5_6_upper: 7C3954
+name: Printer Ink Inkjet Paper Epson Clairia Cyan Light Bottle 100 Ml E830Lc Part
+    Number
+name_no_class: Ink Inkjet Paper Epson Clairia Cyan Light Bottle 100 Ml E830Lc Part
+    Number
+name_no_size: Epson Clairia Cyan Light Bottle 100 Ml E830Lc Part Number
+name_no_size_short: Epson Clairia Cyan Light Bottle 100 Ml E830Lc Part Number
+name_no_type: Inkjet Paper Epson Clairia Cyan Light Bottle 100 Ml E830Lc Part Number
+oomp_key: oomp_printer_ink_inkjet_paper_epson_clairia_cyan_light_bottle_100_ml_e830lc_part_number
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: inkjet_paper
+size_capital: Inkjet Paper
+size_first_letter: i
+size_first_letter_upper: I
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: INKJET_PAPER
+type: ink
+type_capital: Ink
+type_first_letter: i
+type_first_letter_upper: I
+type_upper: INK

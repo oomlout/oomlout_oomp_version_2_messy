@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: wago_221
+color_capital: Wago 221
+color_first_letter: w
+color_first_letter_upper: W
+color_upper: WAGO_221
+description: category_electronic
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'W '
+description_or_color_upper: 'W '
+directory: parts/category_electronic_connector_wago_221
+distributors: []
+filter: ''
+from_yaml: false
+id: category_electronic_connector_wago_221
+id_no_class: electronic_connector_wago_221
+id_no_size: wago_221
+id_no_type: connector_wago_221
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_connector_wago_221
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_connector_wago_221
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_connector_wago_221
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_electronic_connector_wago_221](none)<br>[](none)<br>[Category
+    Electronic Connector Wago 221](none)<br><br>'
+markdown_short: '[category_electronic_connector_wago_221](none)<br><br>'
+md5: 5bea178adb0e114594095870bb3a4816
+md5_10: 5bea178adb
+md5_10_upper: 5BEA178ADB
+md5_5: 5bea1
+md5_5_upper: 5BEA1
+md5_6: 5bea17
+md5_6_alpha: 3l3x3
+md5_6_alpha_upper: 3L3X3
+md5_6_upper: 5BEA17
+name: Category Electronic Connector Wago 221
+name_no_class: Electronic Connector Wago 221
+name_no_size: Wago 221
+name_no_size_short: Wago 221
+name_no_type: Connector Wago 221
+oomp_key: oomp_category_electronic_connector_wago_221
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryelectronic
+size: connector
+size_capital: Connector
+size_first_letter: c
+size_first_letter_upper: C
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: CONNECTOR
+type: electronic
+type_capital: Electronic
+type_first_letter: e
+type_first_letter_upper: E
+type_upper: ELECTRONIC

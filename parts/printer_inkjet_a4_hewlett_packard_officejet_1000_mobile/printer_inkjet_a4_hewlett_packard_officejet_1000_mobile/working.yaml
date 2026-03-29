@@ -1,0 +1,77 @@
+classification: printer
+classification_capital: Printer
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_upper: PRINTER
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/printer_inkjet_a4_hewlett_packard_officejet_1000_mobile
+distributors: []
+id: printer_inkjet_a4_hewlett_packard_officejet_1000_mobile
+id_no_class: inkjet_a4_hewlett_packard_officejet_1000_mobile
+id_no_size: hewlett_packard_officejet_1000_mobile
+id_no_type: a4_hewlett_packard_officejet_1000_mobile
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_inkjet_a4_hewlett_packard_officejet_1000_mobile
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_inkjet_a4_hewlett_packard_officejet_1000_mobile
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_inkjet_a4_hewlett_packard_officejet_1000_mobile
+manufacturer: hewlett_packard
+manufacturer_capital: Hewlett Packard
+manufacturer_first_letter: h
+manufacturer_first_letter_upper: H
+manufacturer_upper: HEWLETT_PACKARD
+manufacturers: []
+markdown_full: '[printer_inkjet_a4_hewlett_packard_officejet_1000_mobile](none)<br>[](none)<br>[Printer
+    Inkjet A4 Hewlett Packard Officejet 1000 Mobile](none)<br><br>'
+markdown_short: '[printer_inkjet_a4_hewlett_packard_officejet_1000_mobile](none)<br><br>'
+md5: 4b808c4592473c6908455cd4cb1b4809
+md5_10: 4b808c4592
+md5_10_upper: 4B808C4592
+md5_5: 4b808
+md5_5_upper: 4B808
+md5_6: 4b808c
+md5_6_alpha: 2y1zg
+md5_6_alpha_upper: 2Y1ZG
+md5_6_upper: 4B808C
+name: Printer Inkjet A4 Hewlett Packard Officejet 1000 Mobile
+name_no_class: Inkjet A4 Hewlett Packard Officejet 1000 Mobile
+name_no_size: Hewlett Packard Officejet 1000 Mobile
+name_no_size_short: Hewlett Packard Officejet 1000 Mobile
+name_no_type: A4 Hewlett Packard Officejet 1000 Mobile
+oomp_key: oomp_printer_inkjet_a4_hewlett_packard_officejet_1000_mobile
+part_number: officejet_1000_mobile
+part_number_capital: Officejet 1000 Mobile
+part_number_first_letter: o
+part_number_first_letter_upper: O
+part_number_upper: OFFICEJET_1000_MOBILE
+short_code: ''
+short_code_upper: ''
+short_name: Printer HP Officejet 1000 Mobile
+size: a4
+size_capital: A4
+size_first_letter: a
+size_first_letter_upper: A
+size_only_numbers: '4'
+size_only_numbers_no_zeros: '4'
+size_upper: A4
+type: inkjet
+type_capital: Inkjet
+type_first_letter: i
+type_first_letter_upper: I
+type_upper: INKJET

@@ -1,0 +1,78 @@
+classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_upper: ELECTRONIC
+color: yellow
+color_capital: Yellow
+color_first_letter: y
+color_first_letter_upper: Y
+color_upper: YELLOW
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: banana_socket_panel_mount_basic
+description_main_capital: Banana Socket Panel Mount Basic
+description_main_first_letter: b
+description_main_first_letter_upper: B
+description_main_upper: BANANA_SOCKET_PANEL_MOUNT_BASIC
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'Y '
+description_or_color_upper: 'Y '
+directory: parts/electronic_connector_banana_style_4_mm_yellow_banana_socket_panel_mount_basic
+distributors: []
+filter: ''
+from_yaml: false
+id: electronic_connector_banana_style_4_mm_yellow_banana_socket_panel_mount_basic
+id_no_class: connector_banana_style_4_mm_yellow_banana_socket_panel_mount_basic
+id_no_size: yellow_banana_socket_panel_mount_basic
+id_no_type: banana_style_4_mm_yellow_banana_socket_panel_mount_basic
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_connector_banana_style_4_mm_yellow_banana_socket_panel_mount_basic
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_connector_banana_style_4_mm_yellow_banana_socket_panel_mount_basic
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_connector_banana_style_4_mm_yellow_banana_socket_panel_mount_basic
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[electronic_connector_banana_style_4_mm_yellow_banana_socket_panel_mount_basic](none)<br>[cony](none)<br>[Electronic
+    Connector Banana Style 4 Mm Yellow Banana Socket Panel Mount Basic](none)<br><br>'
+markdown_short: '[electronic_connector_banana_style_4_mm_yellow_banana_socket_panel_mount_basic](none)<br><br>'
+md5: aac8eee0e1f8a46c949c004ef95181c0
+md5_10: aac8eee0e1
+md5_10_upper: AAC8EEE0E1
+md5_5: aac8e
+md5_5_upper: AAC8E
+md5_6: aac8ee
+md5_6_alpha: 6nw8e
+md5_6_alpha_upper: 6NW8E
+md5_6_upper: AAC8EE
+name: Electronic Connector Banana Style 4 Mm Yellow Banana Socket Panel Mount Basic
+name_no_class: Connector Banana Style 4 Mm Yellow Banana Socket Panel Mount Basic
+name_no_size: Yellow Banana Socket Panel Mount Basic
+name_no_size_short: Yellow Banana Socket Panel Mount Basic
+name_no_type: Banana Style 4 Mm Yellow Banana Socket Panel Mount Basic
+oomp_key: oomp_electronic_connector_banana_style_4_mm_yellow_banana_socket_panel_mount_basic
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: cony
+short_code_upper: CONY
+size: banana_style_4_mm
+size_capital: Banana Style 4 mm
+size_first_letter: b
+size_first_letter_upper: B
+size_only_numbers: '4'
+size_only_numbers_no_zeros: '4'
+size_upper: BANANA_STYLE_4_MM
+type: connector
+type_capital: Connector
+type_first_letter: c
+type_first_letter_upper: C
+type_upper: CONNECTOR

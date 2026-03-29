@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_book
+description_extra: cubby_box
+description_extra_capital: Cubby Box
+description_extra_first_letter: c
+description_extra_first_letter_upper: C
+description_extra_upper: CUBBY_BOX
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_book_on_the_way_out_cubby_box
+distributors: []
+filter: ''
+from_yaml: false
+id: category_book_on_the_way_out_cubby_box
+id_no_class: book_on_the_way_out_cubby_box
+id_no_size: cubby_box
+id_no_type: on_the_way_out_cubby_box
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_book_on_the_way_out_cubby_box
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_book_on_the_way_out_cubby_box
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_book_on_the_way_out_cubby_box
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_book_on_the_way_out_cubby_box](none)<br>[](none)<br>[Category
+    Book On The Way Out Cubby Box](none)<br><br>'
+markdown_short: '[category_book_on_the_way_out_cubby_box](none)<br><br>'
+md5: 2e6c2db40fb90626a7be267cfccad62c
+md5_10: 2e6c2db40f
+md5_10_upper: 2E6C2DB40F
+md5_5: 2e6c2
+md5_5_upper: 2E6C2
+md5_6: 2e6c2d
+md5_6_alpha: 1t7hp
+md5_6_alpha_upper: 1T7HP
+md5_6_upper: 2E6C2D
+name: Category Book On The Way Out Cubby Box
+name_no_class: Book On The Way Out Cubby Box
+name_no_size: Cubby Box
+name_no_size_short: Cubby Box
+name_no_type: On The Way Out Cubby Box
+oomp_key: oomp_category_book_on_the_way_out_cubby_box
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorybook
+size: on_the_way_out
+size_capital: On The Way Out
+size_first_letter: o
+size_first_letter_upper: O
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ON_THE_WAY_OUT
+type: book
+type_capital: Book
+type_first_letter: b
+type_first_letter_upper: B
+type_upper: BOOK

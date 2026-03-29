@@ -1,0 +1,78 @@
+classification: sheet_stock
+classification_capital: Sheet Stock
+classification_first_letter: s
+classification_first_letter_upper: S
+classification_upper: SHEET_STOCK
+color: blue
+color_capital: Blue
+color_first_letter: b
+color_first_letter_upper: B
+color_upper: BLUE
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'B '
+description_or_color_upper: 'B '
+directory: parts/sheet_stock_acrylic_3mm_depth_blue_perspex
+distributors: []
+filter: ''
+from_yaml: false
+id: sheet_stock_acrylic_3mm_depth_blue_perspex
+id_no_class: acrylic_3mm_depth_blue_perspex
+id_no_size: blue_perspex
+id_no_type: 3mm_depth_blue_perspex
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/sheet_stock_acrylic_3mm_depth_blue_perspex
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/sheet_stock_acrylic_3mm_depth_blue_perspex
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/sheet_stock_acrylic_3mm_depth_blue_perspex
+manufacturer: perspex
+manufacturer_capital: Perspex
+manufacturer_first_letter: p
+manufacturer_first_letter_upper: P
+manufacturer_upper: PERSPEX
+manufacturers: []
+markdown_full: '[sheet_stock_acrylic_3mm_depth_blue_perspex](none)<br>[l](none)<br>[Sheet
+    Stock Acrylic 3Mm Depth Blue Perspex](none)<br><br>'
+markdown_short: '[sheet_stock_acrylic_3mm_depth_blue_perspex](none)<br><br>'
+md5: f4451bb75bbf4087180eafd78f1864b1
+md5_10: f4451bb75b
+md5_10_upper: F4451BB75B
+md5_5: f4451
+md5_5_upper: F4451
+md5_6: f4451b
+md5_6_alpha: 9j47v
+md5_6_alpha_upper: 9J47V
+md5_6_upper: F4451B
+name: Sheet Stock Acrylic 3Mm Depth Blue Perspex
+name_no_class: Acrylic 3Mm Depth Blue Perspex
+name_no_size: Blue Perspex
+name_no_size_short: Blue Perspex
+name_no_type: 3Mm Depth Blue Perspex
+oomp_key: oomp_sheet_stock_acrylic_3mm_depth_blue_perspex
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: l
+short_code_upper: L
+size: 3mm_depth
+size_capital: 3mm Depth
+size_first_letter: '3'
+size_first_letter_upper: '3'
+size_only_numbers: '3'
+size_only_numbers_no_zeros: '3'
+size_upper: 3MM_DEPTH
+type: acrylic
+type_capital: Acrylic
+type_first_letter: a
+type_first_letter_upper: A
+type_upper: ACRYLIC

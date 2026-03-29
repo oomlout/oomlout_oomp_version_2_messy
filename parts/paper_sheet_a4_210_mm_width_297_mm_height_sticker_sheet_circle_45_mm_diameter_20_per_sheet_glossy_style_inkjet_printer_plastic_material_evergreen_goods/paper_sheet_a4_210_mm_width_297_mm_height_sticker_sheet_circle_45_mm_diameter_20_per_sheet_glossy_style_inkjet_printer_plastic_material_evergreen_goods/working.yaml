@@ -1,0 +1,92 @@
+classification: paper
+classification_capital: Paper
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_upper: PAPER
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: glossy_style_inkjet_printer_plastic_material
+description_extra_capital: Glossy Style Inkjet Printer Plastic Material
+description_extra_first_letter: g
+description_extra_first_letter_upper: G
+description_extra_upper: GLOSSY_STYLE_INKJET_PRINTER_PLASTIC_MATERIAL
+description_main: sticker_sheet_circle_45_mm_diameter_20_per_sheet
+description_main_capital: Sticker Sheet Circle 45 mm Diameter 20 Per Sheet
+description_main_first_letter: s
+description_main_first_letter_upper: S
+description_main_upper: STICKER_SHEET_CIRCLE_45_MM_DIAMETER_20_PER_SHEET
+description_only_numbers: '4520'
+description_only_numbers_short: 4k5
+description_or_color: 4k5
+description_or_color_upper: 4K5
+directory: parts/paper_sheet_a4_210_mm_width_297_mm_height_sticker_sheet_circle_45_mm_diameter_20_per_sheet_glossy_style_inkjet_printer_plastic_material_evergreen_goods
+distributor_amazon: B09314D2F5
+distributor_manufacturer: A4INKGW-C-45mm
+distributors: []
+filter: ''
+from_yaml: false
+height: 297 mm
+id: paper_sheet_a4_210_mm_width_297_mm_height_sticker_sheet_circle_45_mm_diameter_20_per_sheet_glossy_style_inkjet_printer_plastic_material_evergreen_goods
+id_no_class: sheet_a4_210_mm_width_297_mm_height_sticker_sheet_circle_45_mm_diameter_20_per_sheet_glossy_style_inkjet_printer_plastic_material_evergreen_goods
+id_no_size: sticker_circle_45_mm_diameter_20_per_glossy_style_inkjet_printer_plastic_material_evergreen_goods
+id_no_type: a4_210_mm_width_297_mm_height_sticker_circle_45_mm_diameter_20_per_glossy_style_inkjet_printer_plastic_material_evergreen_goods
+link_distributor_amazon: https://www.amazon.co.uk/dp/B09314D2F5
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a4_210_mm_width_297_mm_height_sticker_sheet_circle_45_mm_diameter_20_per_sheet_glossy_style_inkjet_printer_plastic_material_evergreen_goods
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a4_210_mm_width_297_mm_height_sticker_sheet_circle_45_mm_diameter_20_per_sheet_glossy_style_inkjet_printer_plastic_material_evergreen_goods
+link_manufacturer: https://www.evergreengoods.com/product-page/%C3%B845mm-circle-pre-cut-vinyl-labels-glossy-white-4x5-20-per-a4-sheet
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a4_210_mm_width_297_mm_height_sticker_sheet_circle_45_mm_diameter_20_per_sheet_glossy_style_inkjet_printer_plastic_material_evergreen_goods
+manufacturer: evergreen_goods
+manufacturer_capital: Evergreen Goods
+manufacturer_first_letter: e
+manufacturer_first_letter_upper: E
+manufacturer_upper: EVERGREEN_GOODS
+manufacturers: []
+markdown_full: '[paper_sheet_a4_210_mm_width_297_mm_height_sticker_sheet_circle_45_mm_diameter_20_per_sheet_glossy_style_inkjet_printer_plastic_material_evergreen_goods](none)<br>[](none)<br>[Paper
+    Sheet A4 210 Mm Width 297 Mm Height Sticker Sheet Circle 45 Mm Diameter 20 Per
+    Sheet Glossy Style Inkjet Printer Plastic Material Evergreen Goods](none)<br><br>'
+markdown_short: '[paper_sheet_a4_210_mm_width_297_mm_height_sticker_sheet_circle_45_mm_diameter_20_per_sheet_glossy_style_inkjet_printer_plastic_material_evergreen_goods](none)<br><br>'
+md5: 21454cd3e0767e8fb3f9e04d9b009c91
+md5_10: 21454cd3e0
+md5_10_upper: 21454CD3E0
+md5_5: '21454'
+md5_5_upper: '21454'
+md5_6: 21454c
+md5_6_alpha: 1aqfg
+md5_6_alpha_upper: 1AQFG
+md5_6_upper: 21454C
+name: Paper Sheet A4 210 Mm Width 297 Mm Height Sticker Sheet Circle 45 Mm Diameter
+    20 Per Sheet Glossy Style Inkjet Printer Plastic Material Evergreen Goods
+name_no_class: Sheet A4 210 Mm Width 297 Mm Height Sticker Sheet Circle 45 Mm Diameter
+    20 Per Sheet Glossy Style Inkjet Printer Plastic Material Evergreen Goods
+name_no_size: Sticker Circle 45 Mm Diameter 20 Per Glossy Style Inkjet Printer Plastic
+    Material Evergreen Goods
+name_no_size_short: Sticker Circle 45 Mm Diameter 20 Per Glossy Style Inkjet Printer
+    Plastic Material Evergreen Goods
+name_no_type: A4 210 Mm Width 297 Mm Height Sticker Circle 45 Mm Diameter 20 Per Glossy
+    Style Inkjet Printer Plastic Material Evergreen Goods
+oomp_key: oomp_paper_sheet_a4_210_mm_width_297_mm_height_sticker_sheet_circle_45_mm_diameter_20_per_sheet_glossy_style_inkjet_printer_plastic_material_evergreen_goods
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+price_1: 0.41625
+price_1_distributor_amazon: 0.41625
+short_code: ''
+short_code_upper: ''
+size: a4_210_mm_width_297_mm_height
+size_capital: A4.210 mm Width 297 mm Height
+size_first_letter: a
+size_first_letter_upper: A
+size_only_numbers: '4210297'
+size_only_numbers_no_zeros: '421297'
+size_upper: A4_210_MM_WIDTH_297_MM_HEIGHT
+type: sheet
+type_capital: Sheet
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: SHEET
+width: 210 mm

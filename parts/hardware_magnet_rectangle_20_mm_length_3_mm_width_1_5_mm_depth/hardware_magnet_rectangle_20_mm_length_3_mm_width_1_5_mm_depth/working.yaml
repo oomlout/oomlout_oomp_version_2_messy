@@ -1,0 +1,82 @@
+classification: hardware
+classification_capital: Hardware
+classification_first_letter: h
+classification_first_letter_upper: H
+classification_upper: HARDWARE
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+depth: 1.5
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 20_mm_length_3_mm_width_1_5_mm_depth
+description_main_capital: 20 mm Length 3 mm Width 1.5 mm Depth
+description_main_first_letter: '2'
+description_main_first_letter_upper: '2'
+description_main_upper: 20_MM_LENGTH_3_MM_WIDTH_1_5_MM_DEPTH
+description_only_numbers: '20315'
+description_only_numbers_short: 20k
+description_or_color: 20k
+description_or_color_upper: 20K
+directory: parts/hardware_magnet_rectangle_20_mm_length_3_mm_width_1_5_mm_depth
+distributors: []
+filter: ''
+from_yaml: false
+id: hardware_magnet_rectangle_20_mm_length_3_mm_width_1_5_mm_depth
+id_no_class: magnet_rectangle_20_mm_length_3_mm_width_1_5_mm_depth
+id_no_size: 20_mm_length_3_mm_width_1_5_mm_depth
+id_no_type: rectangle_20_mm_length_3_mm_width_1_5_mm_depth
+length: 20
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_magnet_rectangle_20_mm_length_3_mm_width_1_5_mm_depth
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_magnet_rectangle_20_mm_length_3_mm_width_1_5_mm_depth
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_magnet_rectangle_20_mm_length_3_mm_width_1_5_mm_depth
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[hardware_magnet_rectangle_20_mm_length_3_mm_width_1_5_mm_depth](none)<br>[](none)<br>[Hardware
+    Magnet Rectangle 20 Mm Length 3 Mm Width 1 5 Mm Depth](none)<br><br>'
+markdown_short: '[hardware_magnet_rectangle_20_mm_length_3_mm_width_1_5_mm_depth](none)<br><br>'
+md5: 7d367912894254aa0d475e7b19286dda
+md5_10: 7d36791289
+md5_10_upper: 7D36791289
+md5_5: 7d367
+md5_5_upper: 7D367
+md5_6: 7d3679
+md5_6_alpha: 4vvqx
+md5_6_alpha_upper: 4VVQX
+md5_6_upper: 7D3679
+name: Hardware Magnet Rectangle 20 Mm Length 3 Mm Width 1 5 Mm Depth
+name_no_class: Magnet Rectangle 20 Mm Length 3 Mm Width 1 5 Mm Depth
+name_no_size: 20 Mm Length 3 Mm Width 1 5 Mm Depth
+name_no_size_short: 20 Mm Length 3 Mm Width 1 5 Mm Depth
+name_no_type: Rectangle 20 Mm Length 3 Mm Width 1 5 Mm Depth
+oomp_key: oomp_hardware_magnet_rectangle_20_mm_length_3_mm_width_1_5_mm_depth
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: rectangle
+size_capital: Rectangle
+size_first_letter: r
+size_first_letter_upper: R
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: RECTANGLE
+thickness: 1.5
+type: magnet
+type_capital: Magnet
+type_first_letter: m
+type_first_letter_upper: M
+type_upper: MAGNET
+width: 3

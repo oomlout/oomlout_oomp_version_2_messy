@@ -1,0 +1,82 @@
+classification: paper
+classification_capital: Paper
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_upper: PAPER
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/paper_envelope_dl_size_220_mm_width_110_mm_height_fits_a4_sheet_folded_in_thirds
+distributors: []
+filter: ''
+from_yaml: false
+height: 110 mm
+id: paper_envelope_dl_size_220_mm_width_110_mm_height_fits_a4_sheet_folded_in_thirds
+id_no_class: envelope_dl_size_220_mm_width_110_mm_height_fits_a4_sheet_folded_in_thirds
+id_no_size: dl_size_220_mm_width_110_mm_height_fits_a4_sheet_folded_in_thirds
+id_no_type: dl_size_220_mm_width_110_mm_height_fits_a4_sheet_folded_in_thirds
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_envelope_dl_size_220_mm_width_110_mm_height_fits_a4_sheet_folded_in_thirds
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_envelope_dl_size_220_mm_width_110_mm_height_fits_a4_sheet_folded_in_thirds
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_envelope_dl_size_220_mm_width_110_mm_height_fits_a4_sheet_folded_in_thirds
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[paper_envelope_dl_size_220_mm_width_110_mm_height_fits_a4_sheet_folded_in_thirds](none)<br>[](none)<br>[Paper
+    Envelope Dl Size 220 Mm Width 110 Mm Height Fits A4 Sheet Folded In Thirds](none)<br><br>'
+markdown_short: '[paper_envelope_dl_size_220_mm_width_110_mm_height_fits_a4_sheet_folded_in_thirds](none)<br><br>'
+md5: e9a7e6af33575760b4f110567650553b
+md5_10: e9a7e6af33
+md5_10_upper: E9A7E6AF33
+md5_5: e9a7e
+md5_5_upper: E9A7E
+md5_6: e9a7e6
+md5_6_alpha: 947hi
+md5_6_alpha_upper: 947HI
+md5_6_upper: E9A7E6
+name: Paper Envelope Dl Size 220 Mm Width 110 Mm Height Fits A4 Sheet Folded In Thirds
+name_no_class: Envelope Dl Size 220 Mm Width 110 Mm Height Fits A4 Sheet Folded In
+    Thirds
+name_no_size: Dl Size 220 Mm Width 110 Mm Height Fits A4 Sheet Folded In Thirds
+name_no_size_short: Dl Size 220 Mm Width 110 Mm Height Fits A4 Sheet Folded In Thirds
+name_no_type: Dl Size 220 Mm Width 110 Mm Height Fits A4 Sheet Folded In Thirds
+oomp_key: oomp_paper_envelope_dl_size_220_mm_width_110_mm_height_fits_a4_sheet_folded_in_thirds
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: DL Envelope
+size: dl_size_220_mm_width_110_mm_height_fits_a4_sheet_folded_in_thirds
+size_capital: Dl Size 220 mm Width 110 mm Height Fits A4 Sheet Folded In Thirds
+size_first_letter: d
+size_first_letter_upper: D
+size_only_numbers: '2201104'
+size_only_numbers_no_zeros: '22114'
+size_upper: DL_SIZE_220_MM_WIDTH_110_MM_HEIGHT_FITS_A4_SHEET_FOLDED_IN_THIRDS
+type: envelope
+type_capital: Envelope
+type_first_letter: e
+type_first_letter_upper: E
+type_upper: ENVELOPE
+width: 220 mm

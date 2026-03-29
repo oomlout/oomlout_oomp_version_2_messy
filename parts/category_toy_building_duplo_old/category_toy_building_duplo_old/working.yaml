@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: duplo
+color_capital: Duplo
+color_first_letter: d
+color_first_letter_upper: D
+color_upper: DUPLO
+description: category_toy
+description_extra: old
+description_extra_capital: Old
+description_extra_first_letter: o
+description_extra_first_letter_upper: O
+description_extra_upper: OLD
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'D '
+description_or_color_upper: 'D '
+directory: parts/category_toy_building_duplo_old
+distributors: []
+filter: ''
+from_yaml: false
+id: category_toy_building_duplo_old
+id_no_class: toy_building_duplo_old
+id_no_size: duplo_old
+id_no_type: building_duplo_old
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_toy_building_duplo_old
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_toy_building_duplo_old
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_toy_building_duplo_old
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_toy_building_duplo_old](none)<br>[](none)<br>[Category Toy
+    Building Duplo Old](none)<br><br>'
+markdown_short: '[category_toy_building_duplo_old](none)<br><br>'
+md5: 374ce8a661c70c4f08528d12ec4b05be
+md5_10: 374ce8a661
+md5_10_upper: 374CE8A661
+md5_5: 374ce
+md5_5_upper: 374CE
+md5_6: 374ce8
+md5_6_alpha: 25ofc
+md5_6_alpha_upper: 25OFC
+md5_6_upper: 374CE8
+name: Category Toy Building Duplo Old
+name_no_class: Toy Building Duplo Old
+name_no_size: Duplo Old
+name_no_size_short: Duplo Old
+name_no_type: Building Duplo Old
+oomp_key: oomp_category_toy_building_duplo_old
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorytoy
+size: building
+size_capital: Building
+size_first_letter: b
+size_first_letter_upper: B
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: BUILDING
+type: toy
+type_capital: Toy
+type_first_letter: t
+type_first_letter_upper: T
+type_upper: TOY

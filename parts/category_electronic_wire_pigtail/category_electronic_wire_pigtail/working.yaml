@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_electronic
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_electronic_wire_pigtail
+distributors: []
+filter: ''
+from_yaml: false
+id: category_electronic_wire_pigtail
+id_no_class: electronic_wire_pigtail
+id_no_size: wire_pigtail
+id_no_type: wire_pigtail
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_wire_pigtail
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_wire_pigtail
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_wire_pigtail
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_electronic_wire_pigtail](none)<br>[](none)<br>[Category
+    Electronic Wire Pigtail](none)<br><br>'
+markdown_short: '[category_electronic_wire_pigtail](none)<br><br>'
+md5: 5c182686f07379f57df9254c9bbc0a7b
+md5_10: 5c182686f0
+md5_10_upper: 5C182686F0
+md5_5: 5c182
+md5_5_upper: 5C182
+md5_6: 5c1826
+md5_6_alpha: 3ld0m
+md5_6_alpha_upper: 3LD0M
+md5_6_upper: 5C1826
+name: Category Electronic Wire Pigtail
+name_no_class: Electronic Wire Pigtail
+name_no_size: Wire Pigtail
+name_no_size_short: Wire Pigtail
+name_no_type: Wire Pigtail
+oomp_key: oomp_category_electronic_wire_pigtail
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryelectronic
+size: wire_pigtail
+size_capital: Wire Pigtail
+size_first_letter: w
+size_first_letter_upper: W
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: WIRE_PIGTAIL
+type: electronic
+type_capital: Electronic
+type_first_letter: e
+type_first_letter_upper: E
+type_upper: ELECTRONIC

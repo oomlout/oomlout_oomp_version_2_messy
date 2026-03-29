@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: stand
+color_capital: Stand
+color_first_letter: s
+color_first_letter_upper: S
+color_upper: STAND
+description: category_computer
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'S '
+description_or_color_upper: 'S '
+directory: parts/category_computer_video_conferencing_stand
+distributors: []
+filter: ''
+from_yaml: false
+id: category_computer_video_conferencing_stand
+id_no_class: computer_video_conferencing_stand
+id_no_size: stand
+id_no_type: video_conferencing_stand
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_video_conferencing_stand
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_video_conferencing_stand
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_video_conferencing_stand
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_computer_video_conferencing_stand](none)<br>[](none)<br>[Category
+    Computer Video Conferencing Stand](none)<br><br>'
+markdown_short: '[category_computer_video_conferencing_stand](none)<br><br>'
+md5: d8af0d35c7a9dfa104670e0f1e6e1758
+md5_10: d8af0d35c7
+md5_10_upper: D8AF0D35C7
+md5_5: d8af0
+md5_5_upper: D8AF0
+md5_6: d8af0d
+md5_6_alpha: 8gd8t
+md5_6_alpha_upper: 8GD8T
+md5_6_upper: D8AF0D
+name: Category Computer Video Conferencing Stand
+name_no_class: Computer Video Conferencing Stand
+name_no_size: Stand
+name_no_size_short: Stand
+name_no_type: Video Conferencing Stand
+oomp_key: oomp_category_computer_video_conferencing_stand
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorycomputer
+size: video_conferencing
+size_capital: Video Conferencing
+size_first_letter: v
+size_first_letter_upper: V
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: VIDEO_CONFERENCING
+type: computer
+type_capital: Computer
+type_first_letter: c
+type_first_letter_upper: C
+type_upper: COMPUTER

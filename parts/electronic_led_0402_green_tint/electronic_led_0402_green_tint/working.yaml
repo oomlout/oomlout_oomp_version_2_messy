@@ -1,0 +1,84 @@
+classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_upper: ELECTRONIC
+color: green
+color_capital: Green
+color_first_letter: g
+color_first_letter_upper: G
+color_upper: GREEN
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: tint
+description_main_capital: Tint
+description_main_first_letter: t
+description_main_first_letter_upper: T
+description_main_upper: TINT
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'G '
+description_or_color_upper: 'G '
+directory: parts/electronic_led_0402_green_tint
+distributors: []
+filter: ''
+from_yaml: false
+id: electronic_led_0402_green_tint
+id_no_class: led_0402_green_tint
+id_no_size: green_tint
+id_no_type: 0402_green_tint
+kicad_reference: L
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_0402_green_tint
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_0402_green_tint
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_0402_green_tint
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[electronic_led_0402_green_tint](none)<br>[l4g](none)<br>[Electronic
+    Led 0402 Green Tint](none)<br><br>'
+markdown_short: '[electronic_led_0402_green_tint](none)<br><br>'
+md5: 27f9f04fcfe839dca6ab810bd384227a
+md5_10: 27f9f04fcf
+md5_10_upper: 27F9F04FCF
+md5_5: 27f9f
+md5_5_upper: 27F9F
+md5_6: 27f9f0
+md5_6_alpha: 1k5io
+md5_6_alpha_upper: 1K5IO
+md5_6_upper: 27F9F0
+name: Electronic Led 0402 Green Tint
+name_no_class: Led 0402 Green Tint
+name_no_size: Green Tint
+name_no_size_short: Green Tint
+name_no_type: 0402 Green Tint
+oomp_key: oomp_electronic_led_0402_green_tint
+package_style: smd_tape
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: l4g
+short_code_upper: L4G
+short_name: 0402 Greentint Led
+size: '0402'
+size_capital: '0402'
+size_first_letter: '0'
+size_first_letter_upper: '0'
+size_only_numbers: '0402'
+size_only_numbers_no_zeros: '42'
+size_upper: '0402'
+smd_tape_depth: 1_5_mm
+smd_tape_pitch: 2_mm
+smd_tape_width: 8_mm
+type: led
+type_capital: Led
+type_first_letter: l
+type_first_letter_upper: L
+type_upper: LED

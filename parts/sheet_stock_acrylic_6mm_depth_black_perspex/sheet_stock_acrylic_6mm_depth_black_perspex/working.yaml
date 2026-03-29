@@ -1,0 +1,78 @@
+classification: sheet_stock
+classification_capital: Sheet Stock
+classification_first_letter: s
+classification_first_letter_upper: S
+classification_upper: SHEET_STOCK
+color: black
+color_capital: Black
+color_first_letter: b
+color_first_letter_upper: B
+color_upper: BLACK
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'B '
+description_or_color_upper: 'B '
+directory: parts/sheet_stock_acrylic_6mm_depth_black_perspex
+distributors: []
+filter: ''
+from_yaml: false
+id: sheet_stock_acrylic_6mm_depth_black_perspex
+id_no_class: acrylic_6mm_depth_black_perspex
+id_no_size: black_perspex
+id_no_type: 6mm_depth_black_perspex
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/sheet_stock_acrylic_6mm_depth_black_perspex
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/sheet_stock_acrylic_6mm_depth_black_perspex
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/sheet_stock_acrylic_6mm_depth_black_perspex
+manufacturer: perspex
+manufacturer_capital: Perspex
+manufacturer_first_letter: p
+manufacturer_first_letter_upper: P
+manufacturer_upper: PERSPEX
+manufacturers: []
+markdown_full: '[sheet_stock_acrylic_6mm_depth_black_perspex](none)<br>[b](none)<br>[Sheet
+    Stock Acrylic 6Mm Depth Black Perspex](none)<br><br>'
+markdown_short: '[sheet_stock_acrylic_6mm_depth_black_perspex](none)<br><br>'
+md5: fcb4352bfa08fa7a54be76a4276e3801
+md5_10: fcb4352bfa
+md5_10_upper: FCB4352BFA
+md5_5: fcb43
+md5_5_upper: FCB43
+md5_6: fcb435
+md5_6_alpha: 9uyph
+md5_6_alpha_upper: 9UYPH
+md5_6_upper: FCB435
+name: Sheet Stock Acrylic 6Mm Depth Black Perspex
+name_no_class: Acrylic 6Mm Depth Black Perspex
+name_no_size: Black Perspex
+name_no_size_short: Black Perspex
+name_no_type: 6Mm Depth Black Perspex
+oomp_key: oomp_sheet_stock_acrylic_6mm_depth_black_perspex
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: b
+short_code_upper: B
+size: 6mm_depth
+size_capital: 6mm Depth
+size_first_letter: '6'
+size_first_letter_upper: '6'
+size_only_numbers: '6'
+size_only_numbers_no_zeros: '6'
+size_upper: 6MM_DEPTH
+type: acrylic
+type_capital: Acrylic
+type_first_letter: a
+type_first_letter_upper: A
+type_upper: ACRYLIC

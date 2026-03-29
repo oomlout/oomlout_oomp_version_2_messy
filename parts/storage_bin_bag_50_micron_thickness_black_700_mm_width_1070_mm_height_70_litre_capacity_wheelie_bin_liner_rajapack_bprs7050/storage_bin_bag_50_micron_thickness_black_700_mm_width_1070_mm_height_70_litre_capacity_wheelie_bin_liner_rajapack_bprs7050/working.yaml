@@ -1,0 +1,83 @@
+classification: storage
+classification_capital: Storage
+classification_first_letter: s
+classification_first_letter_upper: S
+classification_upper: STORAGE
+color: black
+color_capital: Black
+color_first_letter: b
+color_first_letter_upper: B
+color_upper: BLACK
+description_extra: wheelie_bin_liner
+description_extra_capital: Wheelie Bin Liner
+description_extra_first_letter: w
+description_extra_first_letter_upper: W
+description_extra_upper: WHEELIE_BIN_LINER
+description_main: 700_mm_width_1070_mm_height_70_litre_capacity
+description_main_capital: 700 mm Width 1070 mm Height 70 Litre Capacity
+description_main_first_letter: '7'
+description_main_first_letter_upper: '7'
+description_main_upper: 700_MM_WIDTH_1070_MM_HEIGHT_70_LITRE_CAPACITY
+description_only_numbers: '700107070'
+description_only_numbers_short: 7M
+description_or_color: B7M
+description_or_color_upper: B7M
+directory: parts/storage_bin_bag_50_micron_thickness_black_700_mm_width_1070_mm_height_70_litre_capacity_wheelie_bin_liner_rajapack_bprs7050
+distributors: []
+id: storage_bin_bag_50_micron_thickness_black_700_mm_width_1070_mm_height_70_litre_capacity_wheelie_bin_liner_rajapack_bprs7050
+id_no_class: bin_bag_50_micron_thickness_black_700_mm_width_1070_mm_height_70_litre_capacity_wheelie_bin_liner_rajapack_bprs7050
+id_no_size: black_700_mm_width_1070_mm_height_70_litre_capacity_wheelie_bin_liner_rajapack_bprs7050
+id_no_type: 50_micron_thickness_black_700_mm_width_1070_mm_height_70_litre_capacity_wheelie_bin_liner_rajapack_bprs7050
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/storage_bin_bag_50_micron_thickness_black_700_mm_width_1070_mm_height_70_litre_capacity_wheelie_bin_liner_rajapack_bprs7050
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/storage_bin_bag_50_micron_thickness_black_700_mm_width_1070_mm_height_70_litre_capacity_wheelie_bin_liner_rajapack_bprs7050
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/storage_bin_bag_50_micron_thickness_black_700_mm_width_1070_mm_height_70_litre_capacity_wheelie_bin_liner_rajapack_bprs7050
+manufacturer: rajapack
+manufacturer_capital: Rajapack
+manufacturer_first_letter: r
+manufacturer_first_letter_upper: R
+manufacturer_upper: RAJAPACK
+manufacturers: []
+markdown_full: '[storage_bin_bag_50_micron_thickness_black_700_mm_width_1070_mm_height_70_litre_capacity_wheelie_bin_liner_rajapack_bprs7050](none)<br>[b](none)<br>[Storage
+    Bin Bag 50 Micron Thickness Black 700 Mm Width 1070 Mm Height 70 Litre Capacity
+    Wheelie Bin Liner Rajapack Bprs7050](none)<br><br>'
+markdown_short: '[storage_bin_bag_50_micron_thickness_black_700_mm_width_1070_mm_height_70_litre_capacity_wheelie_bin_liner_rajapack_bprs7050](none)<br><br>'
+md5: e1c526ca21a508ec5df03d9828a935b2
+md5_10: e1c526ca21
+md5_10_upper: E1C526CA21
+md5_5: e1c52
+md5_5_upper: E1C52
+md5_6: e1c526
+md5_6_alpha: 8t4py
+md5_6_alpha_upper: 8T4PY
+md5_6_upper: E1C526
+name: Storage Bin Bag 50 Micron Thickness Black 700 Mm Width 1070 Mm Height 70 Litre
+    Capacity Wheelie Bin Liner Rajapack Bprs7050
+name_no_class: Bin Bag 50 Micron Thickness Black 700 Mm Width 1070 Mm Height 70 Litre
+    Capacity Wheelie Bin Liner Rajapack Bprs7050
+name_no_size: Black 700 Mm Width 1070 Mm Height 70 Litre Capacity Wheelie Bin Liner
+    Rajapack Bprs7050
+name_no_size_short: Black 700 Mm Width 1070 Mm Height 70 Litre Capacity Wheelie Bin
+    Liner Rajapack Bprs7050
+name_no_type: 50 Micron Thickness Black 700 Mm Width 1070 Mm Height 70 Litre Capacity
+    Wheelie Bin Liner Rajapack Bprs7050
+oomp_key: oomp_storage_bin_bag_50_micron_thickness_black_700_mm_width_1070_mm_height_70_litre_capacity_wheelie_bin_liner_rajapack_bprs7050
+part_number: bprs7050
+part_number_capital: Bprs7050
+part_number_first_letter: b
+part_number_first_letter_upper: B
+part_number_upper: BPRS7050
+short_code: b
+short_code_upper: B
+short_name: ''
+size: 50_micron_thickness
+size_capital: 50 Micron Thickness
+size_first_letter: '5'
+size_first_letter_upper: '5'
+size_only_numbers: '50'
+size_only_numbers_no_zeros: '5'
+size_upper: 50_MICRON_THICKNESS
+type: bin_bag
+type_capital: Bin Bag
+type_first_letter: b
+type_first_letter_upper: B
+type_upper: BIN_BAG

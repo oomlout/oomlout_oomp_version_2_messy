@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: breadcrumb
+color_capital: Breadcrumb
+color_first_letter: b
+color_first_letter_upper: B
+color_upper: BREADCRUMB
+description: category_food
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'B '
+description_or_color_upper: 'B '
+directory: parts/category_food_starch_breadcrumb
+distributors: []
+filter: ''
+from_yaml: false
+id: category_food_starch_breadcrumb
+id_no_class: food_starch_breadcrumb
+id_no_size: breadcrumb
+id_no_type: starch_breadcrumb
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_starch_breadcrumb
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_starch_breadcrumb
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_starch_breadcrumb
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_food_starch_breadcrumb](none)<br>[](none)<br>[Category Food
+    Starch Breadcrumb](none)<br><br>'
+markdown_short: '[category_food_starch_breadcrumb](none)<br><br>'
+md5: 267d955469aa32e6660673fb0048a3c5
+md5_10: 267d955469
+md5_10_upper: 267D955469
+md5_5: 267d9
+md5_5_upper: 267D9
+md5_6: 267d95
+md5_6_alpha: 1i2dx
+md5_6_alpha_upper: 1I2DX
+md5_6_upper: 267D95
+name: Category Food Starch Breadcrumb
+name_no_class: Food Starch Breadcrumb
+name_no_size: Breadcrumb
+name_no_size_short: Breadcrumb
+name_no_type: Starch Breadcrumb
+oomp_key: oomp_category_food_starch_breadcrumb
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryfood
+size: starch
+size_capital: Starch
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: STARCH
+type: food
+type_capital: Food
+type_first_letter: f
+type_first_letter_upper: F
+type_upper: FOOD

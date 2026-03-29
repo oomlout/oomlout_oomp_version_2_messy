@@ -1,0 +1,80 @@
+classification: food
+classification_capital: Food
+classification_first_letter: f
+classification_first_letter_upper: F
+classification_upper: FOOD
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: Cook With M&S Dill
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: dill
+description_main_capital: Dill
+description_main_first_letter: d
+description_main_first_letter_upper: D
+description_main_upper: DILL
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/food_vegetable_dill
+distributors: []
+filter: ''
+from_yaml: false
+id: food_vegetable_dill
+id_no_class: vegetable_dill
+id_no_size: dill
+id_no_type: dill
+link_distributor_ocado: https://www.ocado.com/search?entry=517767011
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_vegetable_dill
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_vegetable_dill
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_vegetable_dill
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[food_vegetable_dill](none)<br>[](none)<br>[Food Vegetable Dill](none)<br><br>'
+markdown_short: '[food_vegetable_dill](none)<br><br>'
+md5: f230b23e035319abff3004f63e5000f6
+md5_10: f230b23e03
+md5_10_upper: F230B23E03
+md5_5: f230b
+md5_5_upper: F230B
+md5_6: f230b2
+md5_6_alpha: 9g71u
+md5_6_alpha_upper: 9G71U
+md5_6_upper: F230B2
+name: Food Vegetable Dill
+name_no_class: Vegetable Dill
+name_no_size: Dill
+name_no_size_short: Dill
+name_no_type: Dill
+oomp_key: oomp_food_vegetable_dill
+part_number: ''
+part_number_capital: ''
+part_number_distributor_ocado: '517767011'
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: vegetable
+type_capital: Vegetable
+type_first_letter: v
+type_first_letter_upper: V
+type_upper: VEGETABLE

@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: 3_mm
+color_capital: 3 mm
+color_first_letter: '3'
+color_first_letter_upper: '3'
+color_upper: 3_MM
+description: category_hardware
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: '3 '
+description_or_color_upper: '3 '
+directory: parts/category_hardware_ball_bearing_3_mm
+distributors: []
+filter: ''
+from_yaml: false
+id: category_hardware_ball_bearing_3_mm
+id_no_class: hardware_ball_bearing_3_mm
+id_no_size: 3_mm
+id_no_type: ball_bearing_3_mm
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_ball_bearing_3_mm
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_ball_bearing_3_mm
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_ball_bearing_3_mm
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_hardware_ball_bearing_3_mm](none)<br>[](none)<br>[Category
+    Hardware Ball Bearing 3 Mm](none)<br><br>'
+markdown_short: '[category_hardware_ball_bearing_3_mm](none)<br><br>'
+md5: 615b66ba3a3ab5744ad2911be6866ed5
+md5_10: 615b66ba3a
+md5_10_upper: 615B66BA3A
+md5_5: 615b6
+md5_5_upper: 615B6
+md5_6: 615b66
+md5_6_alpha: 3sr52
+md5_6_alpha_upper: 3SR52
+md5_6_upper: 615B66
+name: Category Hardware Ball Bearing 3 Mm
+name_no_class: Hardware Ball Bearing 3 Mm
+name_no_size: 3 Mm
+name_no_size_short: 3 Mm
+name_no_type: Ball Bearing 3 Mm
+oomp_key: oomp_category_hardware_ball_bearing_3_mm
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryhardware
+size: ball_bearing
+size_capital: Ball Bearing
+size_first_letter: b
+size_first_letter_upper: B
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: BALL_BEARING
+type: hardware
+type_capital: Hardware
+type_first_letter: h
+type_first_letter_upper: H
+type_upper: HARDWARE

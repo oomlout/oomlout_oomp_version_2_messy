@@ -1,0 +1,81 @@
+classification: paper
+classification_capital: Paper
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_upper: PAPER
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/paper_envelope_c5_size_229_mm_width_162_mm_height_fits_a5_sheet
+distributors: []
+filter: ''
+from_yaml: false
+height: 162 mm
+id: paper_envelope_c5_size_229_mm_width_162_mm_height_fits_a5_sheet
+id_no_class: envelope_c5_size_229_mm_width_162_mm_height_fits_a5_sheet
+id_no_size: c5_size_229_mm_width_162_mm_height_fits_a5_sheet
+id_no_type: c5_size_229_mm_width_162_mm_height_fits_a5_sheet
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_envelope_c5_size_229_mm_width_162_mm_height_fits_a5_sheet
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_envelope_c5_size_229_mm_width_162_mm_height_fits_a5_sheet
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_envelope_c5_size_229_mm_width_162_mm_height_fits_a5_sheet
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[paper_envelope_c5_size_229_mm_width_162_mm_height_fits_a5_sheet](none)<br>[](none)<br>[Paper
+    Envelope C5 Size 229 Mm Width 162 Mm Height Fits A5 Sheet](none)<br><br>'
+markdown_short: '[paper_envelope_c5_size_229_mm_width_162_mm_height_fits_a5_sheet](none)<br><br>'
+md5: c53e13120d75734df6170970f07be746
+md5_10: c53e13120d
+md5_10_upper: C53E13120D
+md5_5: c53e1
+md5_5_upper: C53E1
+md5_6: c53e13
+md5_6_alpha: 7p24z
+md5_6_alpha_upper: 7P24Z
+md5_6_upper: C53E13
+name: Paper Envelope C5 Size 229 Mm Width 162 Mm Height Fits A5 Sheet
+name_no_class: Envelope C5 Size 229 Mm Width 162 Mm Height Fits A5 Sheet
+name_no_size: C5 Size 229 Mm Width 162 Mm Height Fits A5 Sheet
+name_no_size_short: C5 Size 229 Mm Width 162 Mm Height Fits A5 Sheet
+name_no_type: C5 Size 229 Mm Width 162 Mm Height Fits A5 Sheet
+oomp_key: oomp_paper_envelope_c5_size_229_mm_width_162_mm_height_fits_a5_sheet
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: C5 Envelope
+size: c5_size_229_mm_width_162_mm_height_fits_a5_sheet
+size_capital: C5 Size 229 mm Width 162 mm Height Fits A5 Sheet
+size_first_letter: c
+size_first_letter_upper: C
+size_only_numbers: '52291625'
+size_only_numbers_no_zeros: '52291625'
+size_upper: C5_SIZE_229_MM_WIDTH_162_MM_HEIGHT_FITS_A5_SHEET
+type: envelope
+type_capital: Envelope
+type_first_letter: e
+type_first_letter_upper: E
+type_upper: ENVELOPE
+width: 229 mm

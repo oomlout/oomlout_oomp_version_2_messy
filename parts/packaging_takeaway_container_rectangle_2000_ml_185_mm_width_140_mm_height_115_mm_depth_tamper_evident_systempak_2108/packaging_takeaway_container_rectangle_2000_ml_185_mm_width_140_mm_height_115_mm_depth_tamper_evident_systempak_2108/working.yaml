@@ -1,0 +1,87 @@
+box_quantity: '126'
+classification: packaging
+classification_capital: Packaging
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_upper: PACKAGING
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+cost_per: "\xA30.571"
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 185_mm_width_140_mm_height_115_mm_depth_tamper_evident
+description_main_capital: 185 mm Width 140 mm Height 115 mm Depth Tamper Evident
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_upper: 185_MM_WIDTH_140_MM_HEIGHT_115_MM_DEPTH_TAMPER_EVIDENT
+description_only_numbers: '185140115'
+description_only_numbers_short: 1M8
+description_or_color: 1M8
+description_or_color_upper: 1M8
+directory: parts/packaging_takeaway_container_rectangle_2000_ml_185_mm_width_140_mm_height_115_mm_depth_tamper_evident_systempak_2108
+distributors: []
+id: packaging_takeaway_container_rectangle_2000_ml_185_mm_width_140_mm_height_115_mm_depth_tamper_evident_systempak_2108
+id_no_class: takeaway_container_rectangle_2000_ml_185_mm_width_140_mm_height_115_mm_depth_tamper_evident_systempak_2108
+id_no_size: 185_mm_width_140_mm_height_115_mm_depth_tamper_evident_systempak_2108
+id_no_type: 2000_ml_185_mm_width_140_mm_height_115_mm_depth_tamper_evident_systempak_2108
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/packaging_takeaway_container_rectangle_2000_ml_185_mm_width_140_mm_height_115_mm_depth_tamper_evident_systempak_2108
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/packaging_takeaway_container_rectangle_2000_ml_185_mm_width_140_mm_height_115_mm_depth_tamper_evident_systempak_2108
+link_purchase: https://systempak.net/product/2000ml-rectangular-tamper-evident-containers-and-lids/
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/packaging_takeaway_container_rectangle_2000_ml_185_mm_width_140_mm_height_115_mm_depth_tamper_evident_systempak_2108
+manufacturer: systempak
+manufacturer_capital: Systempak
+manufacturer_first_letter: s
+manufacturer_first_letter_upper: S
+manufacturer_upper: SYSTEMPAK
+manufacturers: []
+markdown_full: '[packaging_takeaway_container_rectangle_2000_ml_185_mm_width_140_mm_height_115_mm_depth_tamper_evident_systempak_2108](none)<br>[](none)<br>[Packaging
+    Takeaway Container Rectangle 2000 Ml 185 Mm Width 140 Mm Height 115 Mm Depth Tamper
+    Evident Systempak 2108](none)<br><br>'
+markdown_short: '[packaging_takeaway_container_rectangle_2000_ml_185_mm_width_140_mm_height_115_mm_depth_tamper_evident_systempak_2108](none)<br><br>'
+md5: 8c93aa12a487f334412df07be1bc1133
+md5_10: 8c93aa12a4
+md5_10_upper: 8C93AA12A4
+md5_5: 8c93a
+md5_5_upper: 8C93A
+md5_6: 8c93aa
+md5_6_alpha: 5hgoa
+md5_6_alpha_upper: 5HGOA
+md5_6_upper: 8C93AA
+name: Packaging Takeaway Container Rectangle 2000 Ml 185 Mm Width 140 Mm Height 115
+    Mm Depth Tamper Evident Systempak 2108
+name_no_class: Takeaway Container Rectangle 2000 Ml 185 Mm Width 140 Mm Height 115
+    Mm Depth Tamper Evident Systempak 2108
+name_no_size: 185 Mm Width 140 Mm Height 115 Mm Depth Tamper Evident Systempak 2108
+name_no_size_short: 185 Mm Width 140 Mm Height 115 Mm Depth Tamper Evident Systempak
+    2108
+name_no_type: 2000 Ml 185 Mm Width 140 Mm Height 115 Mm Depth Tamper Evident Systempak
+    2108
+oomp_key: oomp_packaging_takeaway_container_rectangle_2000_ml_185_mm_width_140_mm_height_115_mm_depth_tamper_evident_systempak_2108
+part_number: '2108'
+part_number_capital: '2108'
+part_number_first_letter: '2'
+part_number_first_letter_upper: '2'
+part_number_upper: '2108'
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: 2000_ml
+size_capital: 2000 Ml
+size_first_letter: '2'
+size_first_letter_upper: '2'
+size_only_numbers: '2000'
+size_only_numbers_no_zeros: '2'
+size_upper: 2000_ML
+type: takeaway_container_rectangle
+type_capital: Takeaway Container Rectangle
+type_first_letter: t
+type_first_letter_upper: T
+type_upper: TAKEAWAY_CONTAINER_RECTANGLE
+upc_number: ''
+weight: ''

@@ -1,0 +1,79 @@
+classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_upper: ELECTRONIC
+color: blue
+color_capital: Blue
+color_first_letter: b
+color_first_letter_upper: B
+color_upper: BLUE
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 10_mm_length
+description_main_capital: 10 mm Length
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_upper: 10_MM_LENGTH
+description_only_numbers: '10'
+description_only_numbers_short: '10'
+description_or_color: B10
+description_or_color_upper: B10
+directory: parts/electronic_heatshrink_2_to_1_shrink_ratio_12_7_mm_internal_diameter_blue_10_mm_length
+distributors: []
+id: electronic_heatshrink_2_to_1_shrink_ratio_12_7_mm_internal_diameter_blue_10_mm_length
+id_no_class: heatshrink_2_to_1_shrink_ratio_12_7_mm_internal_diameter_blue_10_mm_length
+id_no_size: blue_10_mm_length
+id_no_type: 12_7_mm_internal_diameter_blue_10_mm_length
+kicad_reference: ''
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_12_7_mm_internal_diameter_blue_10_mm_length
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_12_7_mm_internal_diameter_blue_10_mm_length
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_12_7_mm_internal_diameter_blue_10_mm_length
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[electronic_heatshrink_2_to_1_shrink_ratio_12_7_mm_internal_diameter_blue_10_mm_length](none)<br>[l10](none)<br>[Electronic
+    Heatshrink 2 To 1 Shrink Ratio 12 7 Mm Internal Diameter Blue 10 Mm Length](none)<br><br>'
+markdown_short: '[electronic_heatshrink_2_to_1_shrink_ratio_12_7_mm_internal_diameter_blue_10_mm_length](none)<br><br>'
+md5: 884fe7d28d4624e41d7000a7921d98a8
+md5_10: 884fe7d28d
+md5_10_upper: 884FE7D28D
+md5_5: 884fe
+md5_5_upper: 884FE
+md5_6: 884fe7
+md5_6_alpha: 5bh0n
+md5_6_alpha_upper: 5BH0N
+md5_6_upper: 884FE7
+name: Electronic Heatshrink 2 To 1 Shrink Ratio 12 7 Mm Internal Diameter Blue 10
+    Mm Length
+name_no_class: Heatshrink 2 To 1 Shrink Ratio 12 7 Mm Internal Diameter Blue 10 Mm
+    Length
+name_no_size: Blue 10 Mm Length
+name_no_size_short: Blue 10 Mm Length
+name_no_type: 12 7 Mm Internal Diameter Blue 10 Mm Length
+oomp_key: oomp_electronic_heatshrink_2_to_1_shrink_ratio_12_7_mm_internal_diameter_blue_10_mm_length
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: l10
+short_code_upper: L10
+size: 12_7_mm_internal_diameter
+size_capital: 12.7 mm Internal Diameter
+size_first_letter: '1'
+size_first_letter_upper: '1'
+size_only_numbers: '127'
+size_only_numbers_no_zeros: '127'
+size_upper: 12_7_MM_INTERNAL_DIAMETER
+type: heatshrink_2_to_1_shrink_ratio
+type_capital: Heatshrink 2 To 1 Shrink Ratio
+type_first_letter: h
+type_first_letter_upper: H
+type_upper: HEATSHRINK_2_TO_1_SHRINK_RATIO

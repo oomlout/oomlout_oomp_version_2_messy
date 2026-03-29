@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_card_trading
+description_extra: tote
+description_extra_capital: Tote
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TOTE
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_card_trading_sport_baseball_tote
+distributors: []
+filter: ''
+from_yaml: false
+id: category_card_trading_sport_baseball_tote
+id_no_class: card_trading_sport_baseball_tote
+id_no_size: tote
+id_no_type: sport_baseball_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_card_trading_sport_baseball_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_card_trading_sport_baseball_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_card_trading_sport_baseball_tote
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_card_trading_sport_baseball_tote](none)<br>[](none)<br>[Category
+    Card Trading Sport Baseball Tote](none)<br><br>'
+markdown_short: '[category_card_trading_sport_baseball_tote](none)<br><br>'
+md5: c15cf9cc2476b71e109d29acad90d0d0
+md5_10: c15cf9cc24
+md5_10_upper: C15CF9CC24
+md5_5: c15cf
+md5_5_upper: C15CF
+md5_6: c15cf9
+md5_6_alpha: 7jlyx
+md5_6_alpha_upper: 7JLYX
+md5_6_upper: C15CF9
+name: Category Card Trading Sport Baseball Tote
+name_no_class: Card Trading Sport Baseball Tote
+name_no_size: Tote
+name_no_size_short: Tote
+name_no_type: Sport Baseball Tote
+oomp_key: oomp_category_card_trading_sport_baseball_tote
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorycardtrading
+size: sport_baseball
+size_capital: Sport Baseball
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SPORT_BASEBALL
+type: card_trading
+type_capital: Card Trading
+type_first_letter: c
+type_first_letter_upper: C
+type_upper: CARD_TRADING

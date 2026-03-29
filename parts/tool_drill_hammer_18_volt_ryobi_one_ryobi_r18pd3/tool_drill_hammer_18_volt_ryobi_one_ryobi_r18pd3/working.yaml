@@ -1,0 +1,78 @@
+classification: tool
+classification_capital: Tool
+classification_first_letter: t
+classification_first_letter_upper: T
+classification_upper: TOOL
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/tool_drill_hammer_18_volt_ryobi_one_ryobi_r18pd3
+distributors: []
+filter: ''
+from_yaml: false
+id: tool_drill_hammer_18_volt_ryobi_one_ryobi_r18pd3
+id_no_class: drill_hammer_18_volt_ryobi_one_ryobi_r18pd3
+id_no_size: ryobi_r18pd3
+id_no_type: 18_volt_ryobi_one_ryobi_r18pd3
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_drill_hammer_18_volt_ryobi_one_ryobi_r18pd3
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_drill_hammer_18_volt_ryobi_one_ryobi_r18pd3
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_drill_hammer_18_volt_ryobi_one_ryobi_r18pd3
+manufacturer: ryobi
+manufacturer_capital: Ryobi
+manufacturer_first_letter: r
+manufacturer_first_letter_upper: R
+manufacturer_upper: RYOBI
+manufacturers: []
+markdown_full: '[tool_drill_hammer_18_volt_ryobi_one_ryobi_r18pd3](none)<br>[](none)<br>[Tool
+    Drill Hammer 18 Volt Ryobi One Ryobi R18Pd3](none)<br><br>'
+markdown_short: '[tool_drill_hammer_18_volt_ryobi_one_ryobi_r18pd3](none)<br><br>'
+md5: 816a461e4801ba0413a516c007cf7ed3
+md5_10: 816a461e48
+md5_10_upper: 816A461E48
+md5_5: 816a4
+md5_5_upper: 816A4
+md5_6: 816a46
+md5_6_alpha: 51s92
+md5_6_alpha_upper: 51S92
+md5_6_upper: 816A46
+name: Tool Drill Hammer 18 Volt Ryobi One Ryobi R18Pd3
+name_no_class: Drill Hammer 18 Volt Ryobi One Ryobi R18Pd3
+name_no_size: Ryobi R18Pd3
+name_no_size_short: Ryobi R18Pd3
+name_no_type: 18 Volt Ryobi One Ryobi R18Pd3
+oomp_key: oomp_tool_drill_hammer_18_volt_ryobi_one_ryobi_r18pd3
+part_number: r18pd3
+part_number_capital: R18Pd3
+part_number_first_letter: r
+part_number_first_letter_upper: R
+part_number_upper: R18PD3
+short_code: ''
+short_code_upper: ''
+size: 18_volt_ryobi_one
+size_capital: 18 Volt Ryobi One
+size_first_letter: '1'
+size_first_letter_upper: '1'
+size_only_numbers: '18'
+size_only_numbers_no_zeros: '18'
+size_upper: 18_VOLT_RYOBI_ONE
+type: drill_hammer
+type_capital: Drill Hammer
+type_first_letter: d
+type_first_letter_upper: D
+type_upper: DRILL_HAMMER

@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_robot_arm_controller
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_robot_arm_controller_denso
+distributors: []
+filter: ''
+from_yaml: false
+id: category_robot_arm_controller_denso
+id_no_class: robot_arm_controller_denso
+id_no_size: denso
+id_no_type: denso
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_robot_arm_controller_denso
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_robot_arm_controller_denso
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_robot_arm_controller_denso
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_robot_arm_controller_denso](none)<br>[](none)<br>[Category
+    Robot Arm Controller Denso](none)<br><br>'
+markdown_short: '[category_robot_arm_controller_denso](none)<br><br>'
+md5: ec1474fb579668179cfebe95409c5319
+md5_10: ec1474fb57
+md5_10_upper: EC1474FB57
+md5_5: ec147
+md5_5_upper: EC147
+md5_6: ec1474
+md5_6_alpha: 97m2c
+md5_6_alpha_upper: 97M2C
+md5_6_upper: EC1474
+name: Category Robot Arm Controller Denso
+name_no_class: Robot Arm Controller Denso
+name_no_size: Denso
+name_no_size_short: Denso
+name_no_type: Denso
+oomp_key: oomp_category_robot_arm_controller_denso
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryrobotarmcontroller
+size: denso
+size_capital: Denso
+size_first_letter: d
+size_first_letter_upper: D
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: DENSO
+type: robot_arm_controller
+type_capital: Robot Arm Controller
+type_first_letter: r
+type_first_letter_upper: R
+type_upper: ROBOT_ARM_CONTROLLER

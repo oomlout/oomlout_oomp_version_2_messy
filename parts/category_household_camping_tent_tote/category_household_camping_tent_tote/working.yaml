@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_household_camping
+description_extra: tote
+description_extra_capital: Tote
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TOTE
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_household_camping_tent_tote
+distributors: []
+filter: ''
+from_yaml: false
+id: category_household_camping_tent_tote
+id_no_class: household_camping_tent_tote
+id_no_size: tote
+id_no_type: tent_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_camping_tent_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_camping_tent_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_camping_tent_tote
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_household_camping_tent_tote](none)<br>[](none)<br>[Category
+    Household Camping Tent Tote](none)<br><br>'
+markdown_short: '[category_household_camping_tent_tote](none)<br><br>'
+md5: ab7aecc245cc67b2cb9c89af3cec0fda
+md5_10: ab7aecc245
+md5_10_upper: AB7AECC245
+md5_5: ab7ae
+md5_5_upper: AB7AE
+md5_6: ab7aec
+md5_6_alpha: 6ove4
+md5_6_alpha_upper: 6OVE4
+md5_6_upper: AB7AEC
+name: Category Household Camping Tent Tote
+name_no_class: Household Camping Tent Tote
+name_no_size: Tote
+name_no_size_short: Tote
+name_no_type: Tent Tote
+oomp_key: oomp_category_household_camping_tent_tote
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryhouseholdcamping
+size: tent
+size_capital: Tent
+size_first_letter: t
+size_first_letter_upper: T
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: TENT
+type: household_camping
+type_capital: Household Camping
+type_first_letter: h
+type_first_letter_upper: H
+type_upper: HOUSEHOLD_CAMPING

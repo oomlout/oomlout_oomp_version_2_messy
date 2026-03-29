@@ -1,0 +1,80 @@
+classification: decorating
+classification_capital: Decorating
+classification_first_letter: d
+classification_first_letter_upper: D
+classification_upper: DECORATING
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: white
+description_extra_capital: White
+description_extra_first_letter: w
+description_extra_first_letter_upper: W
+description_extra_upper: WHITE
+description_main: 100_mm_width_150_mm_height
+description_main_capital: 100 mm Width 150 mm Height
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_upper: 100_MM_WIDTH_150_MM_HEIGHT
+description_only_numbers: '100150'
+description_only_numbers_short: 100k
+description_or_color: 100k
+description_or_color_upper: 100K
+directory: parts/decorating_picture_frame_ikea_fiskbo_100_mm_width_150_mm_height_white_ikea_002_956_53
+distributors: []
+id: decorating_picture_frame_ikea_fiskbo_100_mm_width_150_mm_height_white_ikea_002_956_53
+id_no_class: picture_frame_ikea_fiskbo_100_mm_width_150_mm_height_white_ikea_002_956_53
+id_no_size: 100_mm_width_150_mm_height_white_ikea_002_956_53
+id_no_type: ikea_fiskbo_100_mm_width_150_mm_height_white_ikea_002_956_53
+link_distributor_ikea: https://www.ikea.com/gb/en/search/?q=002.956.53
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/decorating_picture_frame_ikea_fiskbo_100_mm_width_150_mm_height_white_ikea_002_956_53
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/decorating_picture_frame_ikea_fiskbo_100_mm_width_150_mm_height_white_ikea_002_956_53
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/decorating_picture_frame_ikea_fiskbo_100_mm_width_150_mm_height_white_ikea_002_956_53
+manufacturer: ikea
+manufacturer_capital: Ikea
+manufacturer_first_letter: i
+manufacturer_first_letter_upper: I
+manufacturer_upper: IKEA
+manufacturers: []
+markdown_full: '[decorating_picture_frame_ikea_fiskbo_100_mm_width_150_mm_height_white_ikea_002_956_53](none)<br>[](none)<br>[Decorating
+    Picture Frame Ikea Fiskbo 100 Mm Width 150 Mm Height White Ikea 002 956 53](none)<br><br>'
+markdown_short: '[decorating_picture_frame_ikea_fiskbo_100_mm_width_150_mm_height_white_ikea_002_956_53](none)<br><br>'
+md5: 7b83a86e176368f449cd24f7e24bda9e
+md5_10: 7b83a86e17
+md5_10_upper: 7B83A86E17
+md5_5: 7b83a
+md5_5_upper: 7B83A
+md5_6: 7b83a8
+md5_6_alpha: 4thuw
+md5_6_alpha_upper: 4THUW
+md5_6_upper: 7B83A8
+name: Decorating Picture Frame Ikea Fiskbo 100 Mm Width 150 Mm Height White Ikea 002
+    956 53
+name_no_class: Picture Frame Ikea Fiskbo 100 Mm Width 150 Mm Height White Ikea 002
+    956 53
+name_no_size: 100 Mm Width 150 Mm Height White Ikea 002 956 53
+name_no_size_short: 100 Mm Width 150 Mm Height White Ikea 002 956 53
+name_no_type: Ikea Fiskbo 100 Mm Width 150 Mm Height White Ikea 002 956 53
+oomp_key: oomp_decorating_picture_frame_ikea_fiskbo_100_mm_width_150_mm_height_white_ikea_002_956_53
+part_number: 002_956_53
+part_number_capital: 002.956.53
+part_number_exact: 002.956.53
+part_number_first_letter: '0'
+part_number_first_letter_upper: '0'
+part_number_upper: 002_956_53
+short_code: ''
+short_code_upper: ''
+size: ikea_fiskbo
+size_capital: Ikea Fiskbo
+size_first_letter: i
+size_first_letter_upper: I
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: IKEA_FISKBO
+type: picture_frame
+type_capital: Picture Frame
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PICTURE_FRAME

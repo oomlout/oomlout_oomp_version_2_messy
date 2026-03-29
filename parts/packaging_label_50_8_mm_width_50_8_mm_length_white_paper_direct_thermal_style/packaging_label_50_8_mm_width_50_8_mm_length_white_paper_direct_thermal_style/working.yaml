@@ -1,0 +1,77 @@
+classification: packaging
+classification_capital: Packaging
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_upper: PACKAGING
+color: white
+color_capital: White
+color_first_letter: w
+color_first_letter_upper: W
+color_upper: WHITE
+description_extra: direct_thermal_style
+description_extra_capital: Direct Thermal Style
+description_extra_first_letter: d
+description_extra_first_letter_upper: D
+description_extra_upper: DIRECT_THERMAL_STYLE
+description_main: paper
+description_main_capital: Paper
+description_main_first_letter: p
+description_main_first_letter_upper: P
+description_main_upper: PAPER
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'W '
+description_or_color_upper: 'W '
+directory: parts/packaging_label_50_8_mm_width_50_8_mm_length_white_paper_direct_thermal_style
+distributors: []
+id: packaging_label_50_8_mm_width_50_8_mm_length_white_paper_direct_thermal_style
+id_no_class: label_50_8_mm_width_50_8_mm_length_white_paper_direct_thermal_style
+id_no_size: white_paper_direct_thermal_style
+id_no_type: 50_8_mm_width_50_8_mm_length_white_paper_direct_thermal_style
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/packaging_label_50_8_mm_width_50_8_mm_length_white_paper_direct_thermal_style
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/packaging_label_50_8_mm_width_50_8_mm_length_white_paper_direct_thermal_style
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/packaging_label_50_8_mm_width_50_8_mm_length_white_paper_direct_thermal_style
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[packaging_label_50_8_mm_width_50_8_mm_length_white_paper_direct_thermal_style](none)<br>[w](none)<br>[Packaging
+    Label 50 8 Mm Width 50 8 Mm Length White Paper Direct Thermal Style](none)<br><br>'
+markdown_short: '[packaging_label_50_8_mm_width_50_8_mm_length_white_paper_direct_thermal_style](none)<br><br>'
+md5: 884b02cde93cf1ff97ea446101a9c340
+md5_10: 884b02cde9
+md5_10_upper: 884B02CDE9
+md5_5: 884b0
+md5_5_upper: 884B0
+md5_6: 884b02
+md5_6_alpha: 5bg1u
+md5_6_alpha_upper: 5BG1U
+md5_6_upper: 884B02
+name: Packaging Label 50 8 Mm Width 50 8 Mm Length White Paper Direct Thermal Style
+name_no_class: Label 50 8 Mm Width 50 8 Mm Length White Paper Direct Thermal Style
+name_no_size: White Paper Direct Thermal Style
+name_no_size_short: White Paper Direct Thermal Style
+name_no_type: 50 8 Mm Width 50 8 Mm Length White Paper Direct Thermal Style
+oomp_key: oomp_packaging_label_50_8_mm_width_50_8_mm_length_white_paper_direct_thermal_style
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: w
+short_code_upper: W
+short_name: ''
+size: 50_8_mm_width_50_8_mm_length
+size_capital: 50 8 mm Width 50 8 mm Length
+size_first_letter: '5'
+size_first_letter_upper: '5'
+size_only_numbers: '508508'
+size_only_numbers_no_zeros: '5858'
+size_upper: 50_8_MM_WIDTH_50_8_MM_LENGTH
+type: label
+type_capital: Label
+type_first_letter: l
+type_first_letter_upper: L
+type_upper: LABEL

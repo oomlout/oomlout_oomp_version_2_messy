@@ -1,0 +1,84 @@
+classification: paper
+classification_capital: Paper
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_upper: PAPER
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: pink_light_light_color
+description_extra_capital: Pink Light Light Color
+description_extra_first_letter: p
+description_extra_first_letter_upper: P
+description_extra_upper: PINK_LIGHT_LIGHT_COLOR
+description_main: 120_grams_per_meter_square
+description_main_capital: 120 Grams Per Meter Square
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_upper: 120_GRAMS_PER_METER_SQUARE
+description_only_numbers: '120'
+description_only_numbers_short: '120'
+description_or_color: '120'
+description_or_color_upper: '120'
+directory: parts/paper_sheet_a3_297_mm_width_420_mm_height_120_grams_per_meter_square_pink_light_light_color
+distributors: []
+filter: ''
+from_yaml: false
+height: 420 mm
+id: paper_sheet_a3_297_mm_width_420_mm_height_120_grams_per_meter_square_pink_light_light_color
+id_no_class: sheet_a3_297_mm_width_420_mm_height_120_grams_per_meter_square_pink_light_light_color
+id_no_size: 120_grams_per_meter_square_pink_light_light_color
+id_no_type: a3_297_mm_width_420_mm_height_120_grams_per_meter_square_pink_light_light_color
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a3_297_mm_width_420_mm_height_120_grams_per_meter_square_pink_light_light_color
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a3_297_mm_width_420_mm_height_120_grams_per_meter_square_pink_light_light_color
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a3_297_mm_width_420_mm_height_120_grams_per_meter_square_pink_light_light_color
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[paper_sheet_a3_297_mm_width_420_mm_height_120_grams_per_meter_square_pink_light_light_color](none)<br>[](none)<br>[Paper
+    Sheet A3 297 Mm Width 420 Mm Height 120 Grams Per Meter Square Pink Light Light
+    Color](none)<br><br>'
+markdown_short: '[paper_sheet_a3_297_mm_width_420_mm_height_120_grams_per_meter_square_pink_light_light_color](none)<br><br>'
+md5: b99924185f00dc8900363c4a65f89079
+md5_10: b99924185f
+md5_10_upper: B99924185F
+md5_5: b9992
+md5_5_upper: B9992
+md5_6: b99924
+md5_6_alpha: 78pb8
+md5_6_alpha_upper: 78PB8
+md5_6_upper: B99924
+name: Paper Sheet A3 297 Mm Width 420 Mm Height 120 Grams Per Meter Square Pink Light
+    Light Color
+name_no_class: Sheet A3 297 Mm Width 420 Mm Height 120 Grams Per Meter Square Pink
+    Light Light Color
+name_no_size: 120 Grams Per Meter Square Pink Light Light Color
+name_no_size_short: 120 Grams Per Meter Square Pink Light Light Color
+name_no_type: A3 297 Mm Width 420 Mm Height 120 Grams Per Meter Square Pink Light
+    Light Color
+oomp_key: oomp_paper_sheet_a3_297_mm_width_420_mm_height_120_grams_per_meter_square_pink_light_light_color
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: a3_297_mm_width_420_mm_height
+size_capital: A3.297 mm Width 420 mm Height
+size_first_letter: a
+size_first_letter_upper: A
+size_only_numbers: '3297420'
+size_only_numbers_no_zeros: '329742'
+size_upper: A3_297_MM_WIDTH_420_MM_HEIGHT
+type: sheet
+type_capital: Sheet
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: SHEET
+width: 297 mm

@@ -1,0 +1,80 @@
+classification: food
+classification_capital: Food
+classification_first_letter: f
+classification_first_letter_upper: F
+classification_upper: FOOD
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: filtered
+description_extra_capital: Filtered
+description_extra_first_letter: f
+description_extra_first_letter_upper: F
+description_extra_upper: FILTERED
+description_main: milk_semi_skim
+description_main_capital: Milk Semi Skim
+description_main_first_letter: m
+description_main_first_letter_upper: M
+description_main_upper: MILK_SEMI_SKIM
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/food_dairy_2000_ml_milk_semi_skim_filtered_cravendale
+distributors: []
+filter: ''
+from_yaml: false
+id: food_dairy_2000_ml_milk_semi_skim_filtered_cravendale
+id_no_class: dairy_2000_ml_milk_semi_skim_filtered_cravendale
+id_no_size: milk_semi_skim_filtered_cravendale
+id_no_type: 2000_ml_milk_semi_skim_filtered_cravendale
+link_distributor_ocado: https://www.ocado.com/search?entry=24581011
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_dairy_2000_ml_milk_semi_skim_filtered_cravendale
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_dairy_2000_ml_milk_semi_skim_filtered_cravendale
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_dairy_2000_ml_milk_semi_skim_filtered_cravendale
+manufacturer: cravendale
+manufacturer_capital: Cravendale
+manufacturer_first_letter: c
+manufacturer_first_letter_upper: C
+manufacturer_upper: CRAVENDALE
+manufacturers: []
+markdown_full: '[food_dairy_2000_ml_milk_semi_skim_filtered_cravendale](none)<br>[](none)<br>[Food
+    Dairy 2000 Ml Milk Semi Skim Filtered Cravendale](none)<br><br>'
+markdown_short: '[food_dairy_2000_ml_milk_semi_skim_filtered_cravendale](none)<br><br>'
+md5: 2323a69ecb6755d8b28c4061b8cffec4
+md5_10: 2323a69ecb
+md5_10_upper: 2323A69ECB
+md5_5: 2323a
+md5_5_upper: 2323A
+md5_6: 2323a6
+md5_6_alpha: 1dcx2
+md5_6_alpha_upper: 1DCX2
+md5_6_upper: 2323A6
+name: Food Dairy 2000 Ml Milk Semi Skim Filtered Cravendale
+name_no_class: Dairy 2000 Ml Milk Semi Skim Filtered Cravendale
+name_no_size: Milk Semi Skim Filtered Cravendale
+name_no_size_short: Milk Semi Skim Filtered Cravendale
+name_no_type: 2000 Ml Milk Semi Skim Filtered Cravendale
+oomp_key: oomp_food_dairy_2000_ml_milk_semi_skim_filtered_cravendale
+part_number: ''
+part_number_capital: ''
+part_number_distributor_ocado: '24581011'
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: 2000_ml
+size_capital: 2000 Ml
+size_first_letter: '2'
+size_first_letter_upper: '2'
+size_only_numbers: '2000'
+size_only_numbers_no_zeros: '2'
+size_upper: 2000_ML
+type: dairy
+type_capital: Dairy
+type_first_letter: d
+type_first_letter_upper: D
+type_upper: DAIRY

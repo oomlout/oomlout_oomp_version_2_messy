@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: '2020'
+color_capital: '2020'
+color_first_letter: '2'
+color_first_letter_upper: '2'
+color_upper: '2020'
+description: category_hardware
+description_extra: cubby_box
+description_extra_capital: Cubby Box
+description_extra_first_letter: c
+description_extra_first_letter_upper: C
+description_extra_upper: CUBBY_BOX
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: '2 '
+description_or_color_upper: '2 '
+directory: parts/category_hardware_aluminium_extrusion_2020_cubby_box
+distributors: []
+filter: ''
+from_yaml: false
+id: category_hardware_aluminium_extrusion_2020_cubby_box
+id_no_class: hardware_aluminium_extrusion_2020_cubby_box
+id_no_size: 2020_cubby_box
+id_no_type: aluminium_extrusion_2020_cubby_box
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_aluminium_extrusion_2020_cubby_box
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_aluminium_extrusion_2020_cubby_box
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_aluminium_extrusion_2020_cubby_box
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_hardware_aluminium_extrusion_2020_cubby_box](none)<br>[](none)<br>[Category
+    Hardware Aluminium Extrusion 2020 Cubby Box](none)<br><br>'
+markdown_short: '[category_hardware_aluminium_extrusion_2020_cubby_box](none)<br><br>'
+md5: 072677e1fe291b4f08bd02e3fd8afc76
+md5_10: 072677e1fe
+md5_10_upper: 072677E1FE
+md5_5: '07267'
+md5_5_upper: '07267'
+md5_6: '072677'
+md5_6_alpha: a1kn
+md5_6_alpha_upper: A1KN
+md5_6_upper: '072677'
+name: Category Hardware Aluminium Extrusion 2020 Cubby Box
+name_no_class: Hardware Aluminium Extrusion 2020 Cubby Box
+name_no_size: 2020 Cubby Box
+name_no_size_short: 2020 Cubby Box
+name_no_type: Aluminium Extrusion 2020 Cubby Box
+oomp_key: oomp_category_hardware_aluminium_extrusion_2020_cubby_box
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryhardware
+size: aluminium_extrusion
+size_capital: Aluminium Extrusion
+size_first_letter: a
+size_first_letter_upper: A
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ALUMINIUM_EXTRUSION
+type: hardware
+type_capital: Hardware
+type_first_letter: h
+type_first_letter_upper: H
+type_upper: HARDWARE

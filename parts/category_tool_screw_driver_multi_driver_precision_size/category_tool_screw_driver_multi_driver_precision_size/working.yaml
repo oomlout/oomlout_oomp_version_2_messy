@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: precision_size
+color_capital: Precision Size
+color_first_letter: p
+color_first_letter_upper: P
+color_upper: PRECISION_SIZE
+description: category_tool
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'P '
+description_or_color_upper: 'P '
+directory: parts/category_tool_screw_driver_multi_driver_precision_size
+distributors: []
+filter: ''
+from_yaml: false
+id: category_tool_screw_driver_multi_driver_precision_size
+id_no_class: tool_screw_driver_multi_driver_precision_size
+id_no_size: precision_size
+id_no_type: screw_driver_multi_driver_precision_size
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_screw_driver_multi_driver_precision_size
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_screw_driver_multi_driver_precision_size
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_screw_driver_multi_driver_precision_size
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_tool_screw_driver_multi_driver_precision_size](none)<br>[](none)<br>[Category
+    Tool Screw Driver Multi Driver Precision Size](none)<br><br>'
+markdown_short: '[category_tool_screw_driver_multi_driver_precision_size](none)<br><br>'
+md5: dc50279b611c9cccdaf1bb3a4b236cb2
+md5_10: dc50279b61
+md5_10_upper: DC50279B61
+md5_5: dc502
+md5_5_upper: DC502
+md5_6: dc5027
+md5_6_alpha: 8lgrr
+md5_6_alpha_upper: 8LGRR
+md5_6_upper: DC5027
+name: Category Tool Screw Driver Multi Driver Precision Size
+name_no_class: Tool Screw Driver Multi Driver Precision Size
+name_no_size: Precision Size
+name_no_size_short: Precision Size
+name_no_type: Screw Driver Multi Driver Precision Size
+oomp_key: oomp_category_tool_screw_driver_multi_driver_precision_size
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorytool
+size: screw_driver_multi_driver
+size_capital: Screw Driver Multi Driver
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SCREW_DRIVER_MULTI_DRIVER
+type: tool
+type_capital: Tool
+type_first_letter: t
+type_first_letter_upper: T
+type_upper: TOOL

@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: 2gt_2_mm_pitch
+color_capital: 2Gt 2 mm Pitch
+color_first_letter: '2'
+color_first_letter_upper: '2'
+color_upper: 2GT_2_MM_PITCH
+description: category_mechanical
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: '2 '
+description_or_color_upper: '2 '
+directory: parts/category_mechanical_timing_pulley_2gt_2_mm_pitch
+distributors: []
+filter: ''
+from_yaml: false
+id: category_mechanical_timing_pulley_2gt_2_mm_pitch
+id_no_class: mechanical_timing_pulley_2gt_2_mm_pitch
+id_no_size: 2gt_2_mm_pitch
+id_no_type: timing_pulley_2gt_2_mm_pitch
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_timing_pulley_2gt_2_mm_pitch
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_timing_pulley_2gt_2_mm_pitch
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_timing_pulley_2gt_2_mm_pitch
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_mechanical_timing_pulley_2gt_2_mm_pitch](none)<br>[](none)<br>[Category
+    Mechanical Timing Pulley 2Gt 2 Mm Pitch](none)<br><br>'
+markdown_short: '[category_mechanical_timing_pulley_2gt_2_mm_pitch](none)<br><br>'
+md5: 5a4ae5277a04fb329d4435deceb41eb2
+md5_10: 5a4ae5277a
+md5_10_upper: 5A4AE5277A
+md5_5: 5a4ae
+md5_5_upper: 5A4AE
+md5_6: 5a4ae5
+md5_6_alpha: 3itwl
+md5_6_alpha_upper: 3ITWL
+md5_6_upper: 5A4AE5
+name: Category Mechanical Timing Pulley 2Gt 2 Mm Pitch
+name_no_class: Mechanical Timing Pulley 2Gt 2 Mm Pitch
+name_no_size: 2Gt 2 Mm Pitch
+name_no_size_short: 2Gt 2 Mm Pitch
+name_no_type: Timing Pulley 2Gt 2 Mm Pitch
+oomp_key: oomp_category_mechanical_timing_pulley_2gt_2_mm_pitch
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorymechanical
+size: timing_pulley
+size_capital: Timing Pulley
+size_first_letter: t
+size_first_letter_upper: T
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: TIMING_PULLEY
+type: mechanical
+type_capital: Mechanical
+type_first_letter: m
+type_first_letter_upper: M
+type_upper: MECHANICAL

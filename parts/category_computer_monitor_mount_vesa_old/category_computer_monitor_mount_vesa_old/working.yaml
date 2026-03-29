@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: vesa
+color_capital: Vesa
+color_first_letter: v
+color_first_letter_upper: V
+color_upper: VESA
+description: category_computer
+description_extra: old
+description_extra_capital: Old
+description_extra_first_letter: o
+description_extra_first_letter_upper: O
+description_extra_upper: OLD
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'V '
+description_or_color_upper: 'V '
+directory: parts/category_computer_monitor_mount_vesa_old
+distributors: []
+filter: ''
+from_yaml: false
+id: category_computer_monitor_mount_vesa_old
+id_no_class: computer_monitor_mount_vesa_old
+id_no_size: vesa_old
+id_no_type: monitor_mount_vesa_old
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_monitor_mount_vesa_old
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_monitor_mount_vesa_old
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_monitor_mount_vesa_old
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_computer_monitor_mount_vesa_old](none)<br>[](none)<br>[Category
+    Computer Monitor Mount Vesa Old](none)<br><br>'
+markdown_short: '[category_computer_monitor_mount_vesa_old](none)<br><br>'
+md5: dd23c39f5e6bbf9c23f75c1ade856627
+md5_10: dd23c39f5e
+md5_10_upper: DD23C39F5E
+md5_5: dd23c
+md5_5_upper: DD23C
+md5_6: dd23c3
+md5_6_alpha: 8mmkj
+md5_6_alpha_upper: 8MMKJ
+md5_6_upper: DD23C3
+name: Category Computer Monitor Mount Vesa Old
+name_no_class: Computer Monitor Mount Vesa Old
+name_no_size: Vesa Old
+name_no_size_short: Vesa Old
+name_no_type: Monitor Mount Vesa Old
+oomp_key: oomp_category_computer_monitor_mount_vesa_old
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorycomputer
+size: monitor_mount
+size_capital: Monitor Mount
+size_first_letter: m
+size_first_letter_upper: M
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: MONITOR_MOUNT
+type: computer
+type_capital: Computer
+type_first_letter: c
+type_first_letter_upper: C
+type_upper: COMPUTER

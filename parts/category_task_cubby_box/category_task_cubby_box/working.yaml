@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_task
+description_extra: cubby_box
+description_extra_capital: Cubby Box
+description_extra_first_letter: c
+description_extra_first_letter_upper: C
+description_extra_upper: CUBBY_BOX
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_task_cubby_box
+distributors: []
+filter: ''
+from_yaml: false
+id: category_task_cubby_box
+id_no_class: task_cubby_box
+id_no_size: cubbybox
+id_no_type: cubby_box
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_task_cubby_box
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_task_cubby_box
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_task_cubby_box
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_task_cubby_box](none)<br>[](none)<br>[Category Task Cubby
+    Box](none)<br><br>'
+markdown_short: '[category_task_cubby_box](none)<br><br>'
+md5: 43a0c0238cd672d435b2b982ae68fac0
+md5_10: 43a0c0238c
+md5_10_upper: 43A0C0238C
+md5_5: 43a0c
+md5_5_upper: 43A0C
+md5_6: 43a0c0
+md5_6_alpha: 2mzsw
+md5_6_alpha_upper: 2MZSW
+md5_6_upper: 43A0C0
+name: Category Task Cubby Box
+name_no_class: Task Cubby Box
+name_no_size: Cubbybox
+name_no_size_short: Cubbybox
+name_no_type: Cubby Box
+oomp_key: oomp_category_task_cubby_box
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorytask
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: task
+type_capital: Task
+type_first_letter: t
+type_first_letter_upper: T
+type_upper: TASK

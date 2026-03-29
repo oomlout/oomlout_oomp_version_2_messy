@@ -1,0 +1,81 @@
+classification: food
+classification_capital: Food
+classification_first_letter: f
+classification_first_letter_upper: F
+classification_upper: FOOD
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: Ocado Large Free Range Eggs
+description_extra: large_free_range_six
+description_extra_capital: Large Free Range Six
+description_extra_first_letter: l
+description_extra_first_letter_upper: L
+description_extra_upper: LARGE_FREE_RANGE_SIX
+description_main: eggs
+description_main_capital: Eggs
+description_main_first_letter: e
+description_main_first_letter_upper: E
+description_main_upper: EGGS
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/food_dairy_eggs_large_free_range_six
+distributors: []
+filter: ''
+from_yaml: false
+id: food_dairy_eggs_large_free_range_six
+id_no_class: dairy_eggs_large_free_range_six
+id_no_size: eggslargefreerangesix
+id_no_type: eggs_large_free_range_six
+link_distributor_ocado: https://www.ocado.com/search?entry=57293011
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_dairy_eggs_large_free_range_six
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_dairy_eggs_large_free_range_six
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_dairy_eggs_large_free_range_six
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[food_dairy_eggs_large_free_range_six](none)<br>[](none)<br>[Food
+    Dairy Eggs Large Free Range Six](none)<br><br>'
+markdown_short: '[food_dairy_eggs_large_free_range_six](none)<br><br>'
+md5: 3a587f6b9045da29de72d96a45ddd63b
+md5_10: 3a587f6b90
+md5_10_upper: 3A587F6B90
+md5_5: 3a587
+md5_5_upper: 3A587
+md5_6: 3a587f
+md5_6_alpha: 29yf3
+md5_6_alpha_upper: 29YF3
+md5_6_upper: 3A587F
+name: Food Dairy Eggs Large Free Range Six
+name_no_class: Dairy Eggs Large Free Range Six
+name_no_size: Eggslargefreerangesix
+name_no_size_short: Eggslargefreerangesix
+name_no_type: Eggs Large Free Range Six
+oomp_key: oomp_food_dairy_eggs_large_free_range_six
+part_number: ''
+part_number_capital: ''
+part_number_distributor_ocado: '57293011'
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: dairy
+type_capital: Dairy
+type_first_letter: d
+type_first_letter_upper: D
+type_upper: DAIRY

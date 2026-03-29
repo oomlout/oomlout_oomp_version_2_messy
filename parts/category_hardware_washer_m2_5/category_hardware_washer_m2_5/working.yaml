@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: m2_5
+color_capital: M2.5
+color_first_letter: m
+color_first_letter_upper: M
+color_upper: M2_5
+description: category_hardware
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'M '
+description_or_color_upper: 'M '
+directory: parts/category_hardware_washer_m2_5
+distributors: []
+filter: ''
+from_yaml: false
+id: category_hardware_washer_m2_5
+id_no_class: hardware_washer_m2_5
+id_no_size: m2_5
+id_no_type: washer_m2_5
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_washer_m2_5
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_washer_m2_5
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_washer_m2_5
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_hardware_washer_m2_5](none)<br>[](none)<br>[Category Hardware
+    Washer M2 5](none)<br><br>'
+markdown_short: '[category_hardware_washer_m2_5](none)<br><br>'
+md5: 0e344dc0c0248fe97ba0fe58ead61e49
+md5_10: 0e344dc0c0
+md5_10_upper: 0E344DC0C0
+md5_5: 0e344
+md5_5_upper: 0E344
+md5_6: 0e344d
+md5_6_alpha: jya5
+md5_6_alpha_upper: JYA5
+md5_6_upper: 0E344D
+name: Category Hardware Washer M2 5
+name_no_class: Hardware Washer M2 5
+name_no_size: M2 5
+name_no_size_short: M2 5
+name_no_type: Washer M2 5
+oomp_key: oomp_category_hardware_washer_m2_5
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryhardware
+size: washer
+size_capital: Washer
+size_first_letter: w
+size_first_letter_upper: W
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: WASHER
+type: hardware
+type_capital: Hardware
+type_first_letter: h
+type_first_letter_upper: H
+type_upper: HARDWARE

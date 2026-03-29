@@ -1,0 +1,78 @@
+classification: clothes
+classification_capital: Clothes
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CLOTHES
+color: large
+color_capital: Large
+color_first_letter: l
+color_first_letter_upper: L
+color_upper: LARGE
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: blue
+description_main_capital: Blue
+description_main_first_letter: b
+description_main_first_letter_upper: B
+description_main_upper: BLUE
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'L '
+description_or_color_upper: 'L '
+directory: parts/clothes_item_gloves_large_blue
+distributors: []
+filter: ''
+from_yaml: false
+id: clothes_item_gloves_large_blue
+id_no_class: item_gloves_large_blue
+id_no_size: large_blue
+id_no_type: gloves_large_blue
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_gloves_large_blue
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_gloves_large_blue
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_gloves_large_blue
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[clothes_item_gloves_large_blue](none)<br>[](none)<br>[Clothes Item
+    Gloves Large Blue](none)<br><br>'
+markdown_short: '[clothes_item_gloves_large_blue](none)<br><br>'
+md5: db3e5f93cb57edfacca65a30d41c0c72
+md5_10: db3e5f93cb
+md5_10_upper: DB3E5F93CB
+md5_5: db3e5
+md5_5_upper: DB3E5
+md5_6: db3e5f
+md5_6_alpha: 8jyov
+md5_6_alpha_upper: 8JYOV
+md5_6_upper: DB3E5F
+name: Clothes Item Gloves Large Blue
+name_no_class: Item Gloves Large Blue
+name_no_size: Large Blue
+name_no_size_short: Large Blue
+name_no_type: Gloves Large Blue
+oomp_key: oomp_clothes_item_gloves_large_blue
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: gloves
+size_capital: Gloves
+size_first_letter: g
+size_first_letter_upper: G
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: GLOVES
+type: item
+type_capital: Item
+type_first_letter: i
+type_first_letter_upper: I
+type_upper: ITEM

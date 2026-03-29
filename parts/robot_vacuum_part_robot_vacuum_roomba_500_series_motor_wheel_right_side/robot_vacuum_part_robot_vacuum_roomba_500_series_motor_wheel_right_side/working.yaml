@@ -1,0 +1,77 @@
+classification: robot_vacuum
+classification_capital: Robot Vacuum
+classification_first_letter: r
+classification_first_letter_upper: R
+classification_upper: ROBOT_VACUUM
+color: motor
+color_capital: Motor
+color_first_letter: m
+color_first_letter_upper: M
+color_upper: MOTOR
+description_extra: right_side
+description_extra_capital: Right Side
+description_extra_first_letter: r
+description_extra_first_letter_upper: R
+description_extra_upper: RIGHT_SIDE
+description_main: wheel
+description_main_capital: Wheel
+description_main_first_letter: w
+description_main_first_letter_upper: W
+description_main_upper: WHEEL
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'M '
+description_or_color_upper: 'M '
+directory: parts/robot_vacuum_part_robot_vacuum_roomba_500_series_motor_wheel_right_side
+distributors: []
+id: robot_vacuum_part_robot_vacuum_roomba_500_series_motor_wheel_right_side
+id_no_class: part_roomba_500_series_motor_wheel_right_side
+id_no_size: roomba_500_series_motor_wheel_right_side
+id_no_type: roomba_500_series_motor_wheel_right_side
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/robot_vacuum_part_robot_vacuum_roomba_500_series_motor_wheel_right_side
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/robot_vacuum_part_robot_vacuum_roomba_500_series_motor_wheel_right_side
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/robot_vacuum_part_robot_vacuum_roomba_500_series_motor_wheel_right_side
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[robot_vacuum_part_robot_vacuum_roomba_500_series_motor_wheel_right_side](none)<br>[](none)<br>[Robot
+    Vacuum Part Robot Vacuum Roomba 500 Series Motor Wheel Right Side](none)<br><br>'
+markdown_short: '[robot_vacuum_part_robot_vacuum_roomba_500_series_motor_wheel_right_side](none)<br><br>'
+md5: 8739756c4f611e33dcbf03e7be311b48
+md5_10: 8739756c4f
+md5_10_upper: 8739756C4F
+md5_5: '87397'
+md5_5_upper: '87397'
+md5_6: '873975'
+md5_6_alpha: 59y0l
+md5_6_alpha_upper: 59Y0L
+md5_6_upper: '873975'
+name: Robot Vacuum Part Robot Vacuum Roomba 500 Series Motor Wheel Right Side
+name_no_class: Part Roomba 500 Series Motor Wheel Right Side
+name_no_size: Roomba 500 Series Motor Wheel Right Side
+name_no_size_short: Roomba 500 Series Motor Wheel Right Side
+name_no_type: Roomba 500 Series Motor Wheel Right Side
+oomp_key: oomp_robot_vacuum_part_robot_vacuum_roomba_500_series_motor_wheel_right_side
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Roomba 500 Motor Wheel Right Side
+size: robot_vacuum_roomba_500_series
+size_capital: Robot Vacuum Roomba 500 Series
+size_first_letter: r
+size_first_letter_upper: R
+size_only_numbers: '500'
+size_only_numbers_no_zeros: '5'
+size_upper: ROBOT_VACUUM_ROOMBA_500_SERIES
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

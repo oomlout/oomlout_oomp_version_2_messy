@@ -1,0 +1,79 @@
+classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_upper: ELECTRONIC
+color: analog_devices_adxl343
+color_capital: Analog Devices Adxl343
+color_first_letter: a
+color_first_letter_upper: A
+color_upper: ANALOG_DEVICES_ADXL343
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'A '
+description_or_color_upper: 'A '
+directory: parts/electronic_breakout_board_sensor_accelerometer_analog_devices_adxl343_adafruit_4097
+distributors: []
+id: electronic_breakout_board_sensor_accelerometer_analog_devices_adxl343_adafruit_4097
+id_no_class: breakout_board_sensor_accelerometer_analog_devices_adxl343_adafruit_4097
+id_no_size: analog_devices_adxl343_adafruit_4097
+id_no_type: accelerometer_analog_devices_adxl343_adafruit_4097
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_sensor_accelerometer_analog_devices_adxl343_adafruit_4097
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_sensor_accelerometer_analog_devices_adxl343_adafruit_4097
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_sensor_accelerometer_analog_devices_adxl343_adafruit_4097
+manufacturer: adafruit
+manufacturer_capital: Adafruit
+manufacturer_first_letter: a
+manufacturer_first_letter_upper: A
+manufacturer_upper: ADAFRUIT
+manufacturers: []
+markdown_full: '[electronic_breakout_board_sensor_accelerometer_analog_devices_adxl343_adafruit_4097](none)<br>[](none)<br>[Electronic
+    Breakout Board Sensor Accelerometer Analog Devices Adxl343 Adafruit 4097](none)<br><br>'
+markdown_short: '[electronic_breakout_board_sensor_accelerometer_analog_devices_adxl343_adafruit_4097](none)<br><br>'
+md5: 0dd933784cac34f9c01c14fb826be8ff
+md5_10: 0dd933784c
+md5_10_upper: 0DD933784C
+md5_5: 0dd93
+md5_5_upper: 0DD93
+md5_6: 0dd933
+md5_6_alpha: jgab
+md5_6_alpha_upper: JGAB
+md5_6_upper: 0DD933
+name: Electronic Breakout Board Sensor Accelerometer Analog Devices Adxl343 Adafruit
+    4097
+name_no_class: Breakout Board Sensor Accelerometer Analog Devices Adxl343 Adafruit
+    4097
+name_no_size: Analog Devices Adxl343 Adafruit 4097
+name_no_size_short: Analog Devices Adxl343 Adafruit 4097
+name_no_type: Accelerometer Analog Devices Adxl343 Adafruit 4097
+oomp_key: oomp_electronic_breakout_board_sensor_accelerometer_analog_devices_adxl343_adafruit_4097
+oomp_repo: http://github.com/oomlout/oomlout_oomp_source_electronic_breakout_board_sensor_accelerometer_analog_devices_adxl343_adafruit_
+part_number: '4097'
+part_number_capital: '4097'
+part_number_first_letter: '4'
+part_number_first_letter_upper: '4'
+part_number_upper: '4097'
+short_code: ''
+short_code_upper: ''
+size: accelerometer
+size_capital: Accelerometer
+size_first_letter: a
+size_first_letter_upper: A
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ACCELEROMETER
+type: breakout_board_sensor
+type_capital: Breakout Board Sensor
+type_first_letter: b
+type_first_letter_upper: B
+type_upper: BREAKOUT_BOARD_SENSOR

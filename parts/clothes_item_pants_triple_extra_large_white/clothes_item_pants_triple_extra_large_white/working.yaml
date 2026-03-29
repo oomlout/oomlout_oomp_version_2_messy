@@ -1,0 +1,78 @@
+classification: clothes
+classification_capital: Clothes
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CLOTHES
+color: triple_extra_large
+color_capital: Triple Extra Large
+color_first_letter: t
+color_first_letter_upper: T
+color_upper: TRIPLE_EXTRA_LARGE
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: white
+description_main_capital: White
+description_main_first_letter: w
+description_main_first_letter_upper: W
+description_main_upper: WHITE
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'T '
+description_or_color_upper: 'T '
+directory: parts/clothes_item_pants_triple_extra_large_white
+distributors: []
+filter: ''
+from_yaml: false
+id: clothes_item_pants_triple_extra_large_white
+id_no_class: item_pants_triple_extra_large_white
+id_no_size: triple_extra_large_white
+id_no_type: pants_triple_extra_large_white
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_pants_triple_extra_large_white
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_pants_triple_extra_large_white
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_pants_triple_extra_large_white
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[clothes_item_pants_triple_extra_large_white](none)<br>[](none)<br>[Clothes
+    Item Pants Triple Extra Large White](none)<br><br>'
+markdown_short: '[clothes_item_pants_triple_extra_large_white](none)<br><br>'
+md5: 2c249d60bcedb0ef90554788a5a743a2
+md5_10: 2c249d60bc
+md5_10_upper: 2C249D60BC
+md5_5: 2c249
+md5_5_upper: 2C249
+md5_6: 2c249d
+md5_6_alpha: 1q07x
+md5_6_alpha_upper: 1Q07X
+md5_6_upper: 2C249D
+name: Clothes Item Pants Triple Extra Large White
+name_no_class: Item Pants Triple Extra Large White
+name_no_size: Triple Extra Large White
+name_no_size_short: Triple Extra Large White
+name_no_type: Pants Triple Extra Large White
+oomp_key: oomp_clothes_item_pants_triple_extra_large_white
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: pants
+size_capital: Pants
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PANTS
+type: item
+type_capital: Item
+type_first_letter: i
+type_first_letter_upper: I
+type_upper: ITEM

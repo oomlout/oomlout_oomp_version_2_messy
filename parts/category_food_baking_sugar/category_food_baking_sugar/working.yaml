@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: sugar
+color_capital: Sugar
+color_first_letter: s
+color_first_letter_upper: S
+color_upper: SUGAR
+description: category_food
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'S '
+description_or_color_upper: 'S '
+directory: parts/category_food_baking_sugar
+distributors: []
+filter: ''
+from_yaml: false
+id: category_food_baking_sugar
+id_no_class: food_baking_sugar
+id_no_size: sugar
+id_no_type: baking_sugar
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_baking_sugar
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_baking_sugar
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_baking_sugar
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_food_baking_sugar](none)<br>[](none)<br>[Category Food Baking
+    Sugar](none)<br><br>'
+markdown_short: '[category_food_baking_sugar](none)<br><br>'
+md5: afd5ac81278c4d0dfdc3962fabb34b65
+md5_10: afd5ac8127
+md5_10_upper: AFD5AC8127
+md5_5: afd5a
+md5_5_upper: AFD5A
+md5_6: afd5ac
+md5_6_alpha: 6uzl8
+md5_6_alpha_upper: 6UZL8
+md5_6_upper: AFD5AC
+name: Category Food Baking Sugar
+name_no_class: Food Baking Sugar
+name_no_size: Sugar
+name_no_size_short: Sugar
+name_no_type: Baking Sugar
+oomp_key: oomp_category_food_baking_sugar
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryfood
+size: baking
+size_capital: Baking
+size_first_letter: b
+size_first_letter_upper: B
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: BAKING
+type: food
+type_capital: Food
+type_first_letter: f
+type_first_letter_upper: F
+type_upper: FOOD

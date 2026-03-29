@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_stationery
+description_extra: to_sort
+description_extra_capital: To Sort
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TO_SORT
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_stationery_mixed_to_sort
+distributors: []
+filter: ''
+from_yaml: false
+id: category_stationery_mixed_to_sort
+id_no_class: stationery_mixed_to_sort
+id_no_size: to_sort
+id_no_type: mixed_to_sort
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_stationery_mixed_to_sort
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_stationery_mixed_to_sort
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_stationery_mixed_to_sort
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_stationery_mixed_to_sort](none)<br>[](none)<br>[Category
+    Stationery Mixed To Sort](none)<br><br>'
+markdown_short: '[category_stationery_mixed_to_sort](none)<br><br>'
+md5: 4f39b0c93796c7c6578b3d1982e1e53e
+md5_10: 4f39b0c937
+md5_10_upper: 4F39B0C937
+md5_5: 4f39b
+md5_5_upper: 4F39B
+md5_6: 4f39b0
+md5_6_alpha: 33a9c
+md5_6_alpha_upper: 33A9C
+md5_6_upper: 4F39B0
+name: Category Stationery Mixed To Sort
+name_no_class: Stationery Mixed To Sort
+name_no_size: To Sort
+name_no_size_short: To Sort
+name_no_type: Mixed To Sort
+oomp_key: oomp_category_stationery_mixed_to_sort
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorystationery
+size: mixed
+size_capital: Mixed
+size_first_letter: m
+size_first_letter_upper: M
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: MIXED
+type: stationery
+type_capital: Stationery
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: STATIONERY

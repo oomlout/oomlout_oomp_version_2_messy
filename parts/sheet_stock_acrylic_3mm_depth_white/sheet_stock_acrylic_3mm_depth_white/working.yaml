@@ -1,0 +1,78 @@
+classification: sheet_stock
+classification_capital: Sheet Stock
+classification_first_letter: s
+classification_first_letter_upper: S
+classification_upper: SHEET_STOCK
+color: white
+color_capital: White
+color_first_letter: w
+color_first_letter_upper: W
+color_upper: WHITE
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'W '
+description_or_color_upper: 'W '
+directory: parts/sheet_stock_acrylic_3mm_depth_white
+distributors: []
+filter: ''
+from_yaml: false
+id: sheet_stock_acrylic_3mm_depth_white
+id_no_class: acrylic_3mm_depth_white
+id_no_size: white
+id_no_type: 3mm_depth_white
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/sheet_stock_acrylic_3mm_depth_white
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/sheet_stock_acrylic_3mm_depth_white
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/sheet_stock_acrylic_3mm_depth_white
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[sheet_stock_acrylic_3mm_depth_white](none)<br>[w](none)<br>[Sheet
+    Stock Acrylic 3Mm Depth White](none)<br><br>'
+markdown_short: '[sheet_stock_acrylic_3mm_depth_white](none)<br><br>'
+md5: 048d9f31bf9adaa60c4720a8fa0d2ce6
+md5_10: 048d9f31bf
+md5_10_upper: 048D9F31BF
+md5_5: 048d9
+md5_5_upper: 048D9
+md5_6: 048d9f
+md5_6_alpha: 6e8v
+md5_6_alpha_upper: 6E8V
+md5_6_upper: 048D9F
+name: Sheet Stock Acrylic 3Mm Depth White
+name_no_class: Acrylic 3Mm Depth White
+name_no_size: White
+name_no_size_short: White
+name_no_type: 3Mm Depth White
+oomp_key: oomp_sheet_stock_acrylic_3mm_depth_white
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: w
+short_code_upper: W
+size: 3mm_depth
+size_capital: 3mm Depth
+size_first_letter: '3'
+size_first_letter_upper: '3'
+size_only_numbers: '3'
+size_only_numbers_no_zeros: '3'
+size_upper: 3MM_DEPTH
+type: acrylic
+type_capital: Acrylic
+type_first_letter: a
+type_first_letter_upper: A
+type_upper: ACRYLIC

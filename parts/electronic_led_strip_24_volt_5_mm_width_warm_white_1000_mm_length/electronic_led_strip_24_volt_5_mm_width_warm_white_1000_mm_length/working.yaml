@@ -1,0 +1,81 @@
+classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_upper: ELECTRONIC
+color: warm_white
+color_capital: Warm White
+color_first_letter: w
+color_first_letter_upper: W
+color_upper: WARM_WHITE
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 1000_mm_length
+description_main_capital: 1000 mm Length
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_upper: 1000_MM_LENGTH
+description_only_numbers: '1000'
+description_only_numbers_short: 1k
+description_or_color: W1k
+description_or_color_upper: W1K
+directory: parts/electronic_led_strip_24_volt_5_mm_width_warm_white_1000_mm_length
+distributors: []
+filter: ''
+from_yaml: false
+id: electronic_led_strip_24_volt_5_mm_width_warm_white_1000_mm_length
+id_no_class: led_strip_24_volt_5_mm_width_warm_white_1000_mm_length
+id_no_size: warm_white_1000_mm_length
+id_no_type: strip_24_volt_5_mm_width_warm_white_1000_mm_length
+link_distributor_aliexpress: https://www.aliexpress.com/item/1005007532172895.html
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_strip_24_volt_5_mm_width_warm_white_1000_mm_length
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_strip_24_volt_5_mm_width_warm_white_1000_mm_length
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_strip_24_volt_5_mm_width_warm_white_1000_mm_length
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[electronic_led_strip_24_volt_5_mm_width_warm_white_1000_mm_length](none)<br>[l](none)<br>[Electronic
+    Led Strip 24 Volt 5 Mm Width Warm White 1000 Mm Length](none)<br><br>'
+markdown_short: '[electronic_led_strip_24_volt_5_mm_width_warm_white_1000_mm_length](none)<br><br>'
+md5: 965f4043dab2e78b6c2e670fd838dae5
+md5_10: 965f4043da
+md5_10_upper: 965F4043DA
+md5_5: 965f4
+md5_5_upper: 965F4
+md5_6: 965f40
+md5_6_alpha: 5v800
+md5_6_alpha_upper: 5V800
+md5_6_upper: 965F40
+name: Electronic Led Strip 24 Volt 5 Mm Width Warm White 1000 Mm Length
+name_no_class: Led Strip 24 Volt 5 Mm Width Warm White 1000 Mm Length
+name_no_size: Warm White 1000 Mm Length
+name_no_size_short: Warm White 1k Mm Length
+name_no_type: Strip 24 Volt 5 Mm Width Warm White 1000 Mm Length
+oomp_key: oomp_electronic_led_strip_24_volt_5_mm_width_warm_white_1000_mm_length
+part_number: ''
+part_number_capital: ''
+part_number_distriubutor_aliexpress: '1005007532172895'
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: l
+short_code_upper: L
+short_name: Strip 24 Volt 5 Mm Width Warm White1000 Mm Length Led
+size: strip_24_volt_5_mm_width
+size_capital: Strip 24 Volt 5 mm Width
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: '245'
+size_only_numbers_no_zeros: '245'
+size_upper: STRIP_24_VOLT_5_MM_WIDTH
+type: led
+type_capital: Led
+type_first_letter: l
+type_first_letter_upper: L
+type_upper: LED

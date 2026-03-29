@@ -1,0 +1,80 @@
+classification: food
+classification_capital: Food
+classification_first_letter: f
+classification_first_letter_upper: F
+classification_upper: FOOD
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: pepper black ground
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: pepper_black_ground
+description_main_capital: Pepper Black Ground
+description_main_first_letter: p
+description_main_first_letter_upper: P
+description_main_upper: PEPPER_BLACK_GROUND
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/food_seasoning_salt_and_pepper_pepper_black_ground
+distributors: []
+filter: ''
+from_yaml: false
+id: food_seasoning_salt_and_pepper_pepper_black_ground
+id_no_class: seasoning_salt_and_pepper_pepper_black_ground
+id_no_size: pepper_black_ground
+id_no_type: salt_and_pepper_pepper_black_ground
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_salt_and_pepper_pepper_black_ground
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_salt_and_pepper_pepper_black_ground
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_salt_and_pepper_pepper_black_ground
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[food_seasoning_salt_and_pepper_pepper_black_ground](none)<br>[](none)<br>[Food
+    Seasoning Salt And Pepper Pepper Black Ground](none)<br><br>'
+markdown_short: '[food_seasoning_salt_and_pepper_pepper_black_ground](none)<br><br>'
+md5: 9737f3603fe679b45b0e8f45886819ad
+md5_10: 9737f3603f
+md5_10_upper: 9737F3603F
+md5_5: 9737f
+md5_5_upper: 9737F
+md5_6: 9737f3
+md5_6_alpha: 5wesz
+md5_6_alpha_upper: 5WESZ
+md5_6_upper: 9737F3
+name: Food Seasoning Salt And Pepper Pepper Black Ground
+name_no_class: Seasoning Salt And Pepper Pepper Black Ground
+name_no_size: Pepper Black Ground
+name_no_size_short: Pepper Black Ground
+name_no_type: Salt And Pepper Pepper Black Ground
+name_short: Pepper Black Ground
+oomp_key: oomp_food_seasoning_salt_and_pepper_pepper_black_ground
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: salt_and_pepper
+size_capital: Salt And Pepper
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SALT_AND_PEPPER
+type: seasoning
+type_capital: Seasoning
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: SEASONING

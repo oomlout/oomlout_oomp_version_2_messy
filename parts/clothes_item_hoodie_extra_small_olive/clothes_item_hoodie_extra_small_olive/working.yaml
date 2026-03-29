@@ -1,0 +1,78 @@
+classification: clothes
+classification_capital: Clothes
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CLOTHES
+color: extra_small
+color_capital: Extra Small
+color_first_letter: e
+color_first_letter_upper: E
+color_upper: EXTRA_SMALL
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: olive
+description_main_capital: Olive
+description_main_first_letter: o
+description_main_first_letter_upper: O
+description_main_upper: OLIVE
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'E '
+description_or_color_upper: 'E '
+directory: parts/clothes_item_hoodie_extra_small_olive
+distributors: []
+filter: ''
+from_yaml: false
+id: clothes_item_hoodie_extra_small_olive
+id_no_class: item_hoodie_extra_small_olive
+id_no_size: extra_small_olive
+id_no_type: hoodie_extra_small_olive
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_hoodie_extra_small_olive
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_hoodie_extra_small_olive
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_hoodie_extra_small_olive
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[clothes_item_hoodie_extra_small_olive](none)<br>[](none)<br>[Clothes
+    Item Hoodie Extra Small Olive](none)<br><br>'
+markdown_short: '[clothes_item_hoodie_extra_small_olive](none)<br><br>'
+md5: 8da6f8af556db63a6aafcb1d1f71a3d5
+md5_10: 8da6f8af55
+md5_10_upper: 8DA6F8AF55
+md5_5: 8da6f
+md5_5_upper: 8DA6F
+md5_6: 8da6f8
+md5_6_alpha: 5iz20
+md5_6_alpha_upper: 5IZ20
+md5_6_upper: 8DA6F8
+name: Clothes Item Hoodie Extra Small Olive
+name_no_class: Item Hoodie Extra Small Olive
+name_no_size: Extra Small Olive
+name_no_size_short: Extra Small Olive
+name_no_type: Hoodie Extra Small Olive
+oomp_key: oomp_clothes_item_hoodie_extra_small_olive
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: hoodie
+size_capital: Hoodie
+size_first_letter: h
+size_first_letter_upper: H
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: HOODIE
+type: item
+type_capital: Item
+type_first_letter: i
+type_first_letter_upper: I
+type_upper: ITEM

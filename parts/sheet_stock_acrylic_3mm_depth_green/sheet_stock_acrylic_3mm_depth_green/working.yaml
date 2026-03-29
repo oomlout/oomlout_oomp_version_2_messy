@@ -1,0 +1,78 @@
+classification: sheet_stock
+classification_capital: Sheet Stock
+classification_first_letter: s
+classification_first_letter_upper: S
+classification_upper: SHEET_STOCK
+color: green
+color_capital: Green
+color_first_letter: g
+color_first_letter_upper: G
+color_upper: GREEN
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'G '
+description_or_color_upper: 'G '
+directory: parts/sheet_stock_acrylic_3mm_depth_green
+distributors: []
+filter: ''
+from_yaml: false
+id: sheet_stock_acrylic_3mm_depth_green
+id_no_class: acrylic_3mm_depth_green
+id_no_size: green
+id_no_type: 3mm_depth_green
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/sheet_stock_acrylic_3mm_depth_green
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/sheet_stock_acrylic_3mm_depth_green
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/sheet_stock_acrylic_3mm_depth_green
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[sheet_stock_acrylic_3mm_depth_green](none)<br>[g](none)<br>[Sheet
+    Stock Acrylic 3Mm Depth Green](none)<br><br>'
+markdown_short: '[sheet_stock_acrylic_3mm_depth_green](none)<br><br>'
+md5: d50e6700530fe4d5c50ea2713d6d56aa
+md5_10: d50e670053
+md5_10_upper: D50E670053
+md5_5: d50e6
+md5_5_upper: D50E6
+md5_6: d50e67
+md5_6_alpha: 8b9t3
+md5_6_alpha_upper: 8B9T3
+md5_6_upper: D50E67
+name: Sheet Stock Acrylic 3Mm Depth Green
+name_no_class: Acrylic 3Mm Depth Green
+name_no_size: Green
+name_no_size_short: Green
+name_no_type: 3Mm Depth Green
+oomp_key: oomp_sheet_stock_acrylic_3mm_depth_green
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: g
+short_code_upper: G
+size: 3mm_depth
+size_capital: 3mm Depth
+size_first_letter: '3'
+size_first_letter_upper: '3'
+size_only_numbers: '3'
+size_only_numbers_no_zeros: '3'
+size_upper: 3MM_DEPTH
+type: acrylic
+type_capital: Acrylic
+type_first_letter: a
+type_first_letter_upper: A
+type_upper: ACRYLIC

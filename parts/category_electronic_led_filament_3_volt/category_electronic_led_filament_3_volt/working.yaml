@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: filament_3_volt
+color_capital: Filament 3 Volt
+color_first_letter: f
+color_first_letter_upper: F
+color_upper: FILAMENT_3_VOLT
+description: category_electronic
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'F '
+description_or_color_upper: 'F '
+directory: parts/category_electronic_led_filament_3_volt
+distributors: []
+filter: ''
+from_yaml: false
+id: category_electronic_led_filament_3_volt
+id_no_class: electronic_led_filament_3_volt
+id_no_size: filament_3_volt
+id_no_type: led_filament_3_volt
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_led_filament_3_volt
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_led_filament_3_volt
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_led_filament_3_volt
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_electronic_led_filament_3_volt](none)<br>[](none)<br>[Category
+    Electronic Led Filament 3 Volt](none)<br><br>'
+markdown_short: '[category_electronic_led_filament_3_volt](none)<br><br>'
+md5: 545093b386e832762851a451a9fe8e92
+md5_10: 545093b386
+md5_10_upper: 545093B386
+md5_5: '54509'
+md5_5_upper: '54509'
+md5_6: '545093'
+md5_6_alpha: 3afmb
+md5_6_alpha_upper: 3AFMB
+md5_6_upper: '545093'
+name: Category Electronic Led Filament 3 Volt
+name_no_class: Electronic Led Filament 3 Volt
+name_no_size: Filament 3 Volt
+name_no_size_short: Filament 3 Volt
+name_no_type: Led Filament 3 Volt
+oomp_key: oomp_category_electronic_led_filament_3_volt
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryelectronic
+size: led
+size_capital: Led
+size_first_letter: l
+size_first_letter_upper: L
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: LED
+type: electronic
+type_capital: Electronic
+type_first_letter: e
+type_first_letter_upper: E
+type_upper: ELECTRONIC

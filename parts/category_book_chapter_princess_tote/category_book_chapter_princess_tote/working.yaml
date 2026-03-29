@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: princess
+color_capital: Princess
+color_first_letter: p
+color_first_letter_upper: P
+color_upper: PRINCESS
+description: category_book
+description_extra: tote
+description_extra_capital: Tote
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TOTE
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'P '
+description_or_color_upper: 'P '
+directory: parts/category_book_chapter_princess_tote
+distributors: []
+filter: ''
+from_yaml: false
+id: category_book_chapter_princess_tote
+id_no_class: book_chapter_princess_tote
+id_no_size: princess_tote
+id_no_type: chapter_princess_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_book_chapter_princess_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_book_chapter_princess_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_book_chapter_princess_tote
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_book_chapter_princess_tote](none)<br>[](none)<br>[Category
+    Book Chapter Princess Tote](none)<br><br>'
+markdown_short: '[category_book_chapter_princess_tote](none)<br><br>'
+md5: 372fefc9dc47afa54955b4f1f11a5003
+md5_10: 372fefc9dc
+md5_10_upper: 372FEFC9DC
+md5_5: 372fe
+md5_5_upper: 372FE
+md5_6: 372fef
+md5_6_alpha: 25ipb
+md5_6_alpha_upper: 25IPB
+md5_6_upper: 372FEF
+name: Category Book Chapter Princess Tote
+name_no_class: Book Chapter Princess Tote
+name_no_size: Princess Tote
+name_no_size_short: Princess Tote
+name_no_type: Chapter Princess Tote
+oomp_key: oomp_category_book_chapter_princess_tote
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorybook
+size: chapter
+size_capital: Chapter
+size_first_letter: c
+size_first_letter_upper: C
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: CHAPTER
+type: book
+type_capital: Book
+type_first_letter: b
+type_first_letter_upper: B
+type_upper: BOOK

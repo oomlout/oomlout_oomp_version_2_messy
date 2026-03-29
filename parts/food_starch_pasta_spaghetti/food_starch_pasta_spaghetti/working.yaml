@@ -1,0 +1,80 @@
+classification: food
+classification_capital: Food
+classification_first_letter: f
+classification_first_letter_upper: F
+classification_upper: FOOD
+color: spaghetti
+color_capital: Spaghetti
+color_first_letter: s
+color_first_letter_upper: S
+color_upper: SPAGHETTI
+description: pasta_spaghetti
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'S '
+description_or_color_upper: 'S '
+directory: parts/food_starch_pasta_spaghetti
+distributors: []
+filter: ''
+from_yaml: false
+id: food_starch_pasta_spaghetti
+id_no_class: starch_pasta_spaghetti
+id_no_size: spaghetti
+id_no_type: pasta_spaghetti
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_pasta_spaghetti
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_pasta_spaghetti
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_pasta_spaghetti
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[food_starch_pasta_spaghetti](none)<br>[](none)<br>[Food Starch Pasta
+    Spaghetti](none)<br><br>'
+markdown_short: '[food_starch_pasta_spaghetti](none)<br><br>'
+md5: 18b2e7b9420af675b9de1803639d6312
+md5_10: 18b2e7b942
+md5_10_upper: 18B2E7B942
+md5_5: 18b2e
+md5_5_upper: 18B2E
+md5_6: 18b2e7
+md5_6_alpha: yoyv
+md5_6_alpha_upper: YOYV
+md5_6_upper: 18B2E7
+name: Food Starch Pasta Spaghetti
+name_no_class: Starch Pasta Spaghetti
+name_no_size: Spaghetti
+name_no_size_short: Spaghetti
+name_no_type: Pasta Spaghetti
+name_short: Pasta Spaghetti
+oomp_key: oomp_food_starch_pasta_spaghetti
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: pasta
+size_capital: Pasta
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PASTA
+type: starch
+type_capital: Starch
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: STARCH

@@ -1,0 +1,79 @@
+classification: dish
+classification_capital: Dish
+classification_first_letter: d
+classification_first_letter_upper: D
+classification_upper: DISH
+color: white
+color_capital: White
+color_first_letter: w
+color_first_letter_upper: W
+color_upper: WHITE
+description_extra: 150_mm_diameter
+description_extra_capital: 150 mm Diameter
+description_extra_first_letter: '1'
+description_extra_first_letter_upper: '1'
+description_extra_upper: 150_MM_DIAMETER
+description_main: bowl
+description_main_capital: Bowl
+description_main_first_letter: b
+description_main_first_letter_upper: B
+description_main_upper: BOWL
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'W '
+description_or_color_upper: 'W '
+directory: parts/dish_ikea_oftast_white_bowl_150_mm_diameter_ikea_802_589_15
+distributors: []
+filter: ''
+from_yaml: false
+id: dish_ikea_oftast_white_bowl_150_mm_diameter_ikea_802_589_15
+id_no_class: ikea_oftast_white_bowl_150_mm_diameter_ikea_802_589_15
+id_no_size: ikeaoftastwhitebowl150mmdiameterikea80258915
+id_no_type: ikeaoftastwhitebowl150mmdiameterikea80258915
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/dish_ikea_oftast_white_bowl_150_mm_diameter_ikea_802_589_15
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/dish_ikea_oftast_white_bowl_150_mm_diameter_ikea_802_589_15
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/dish_ikea_oftast_white_bowl_150_mm_diameter_ikea_802_589_15
+manufacturer: ikea
+manufacturer_capital: Ikea
+manufacturer_first_letter: i
+manufacturer_first_letter_upper: I
+manufacturer_upper: IKEA
+manufacturers: []
+markdown_full: '[dish_ikea_oftast_white_bowl_150_mm_diameter_ikea_802_589_15](none)<br>[w](none)<br>[Dish
+    Ikea Oftast White Bowl 150 Mm Diameter Ikea 802 589 15](none)<br><br>'
+markdown_short: '[dish_ikea_oftast_white_bowl_150_mm_diameter_ikea_802_589_15](none)<br><br>'
+md5: a6cab262c0e30e63c4d1b48c43f002ac
+md5_10: a6cab262c0
+md5_10_upper: A6CAB262C0
+md5_5: a6cab
+md5_5_upper: A6CAB
+md5_6: a6cab2
+md5_6_alpha: 6iab6
+md5_6_alpha_upper: 6IAB6
+md5_6_upper: A6CAB2
+name: Dish Ikea Oftast White Bowl 150 Mm Diameter Ikea 802 589 15
+name_no_class: Ikea Oftast White Bowl 150 Mm Diameter Ikea 802 589 15
+name_no_size: Ikeaoftastwhitebowl150Mmdiameterikea80258915
+name_no_size_short: Ikeaoftastwhitebowl150Mmdiameterikea80258915
+name_no_type: Ikeaoftastwhitebowl150Mmdiameterikea80258915
+oomp_key: oomp_dish_ikea_oftast_white_bowl_150_mm_diameter_ikea_802_589_15
+part_number: '802_589_15'
+part_number_capital: 802.589.15
+part_number_exact: 802.589.15
+part_number_first_letter: '8'
+part_number_first_letter_upper: '8'
+part_number_upper: '802_589_15'
+short_code: w
+short_code_upper: W
+size: ikea_oftast
+size_capital: Ikea Oftast
+size_first_letter: i
+size_first_letter_upper: I
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: IKEA_OFTAST
+type: ''
+type_capital: ''
+type_first_letter: ''
+type_first_letter_upper: ''
+type_upper: ''

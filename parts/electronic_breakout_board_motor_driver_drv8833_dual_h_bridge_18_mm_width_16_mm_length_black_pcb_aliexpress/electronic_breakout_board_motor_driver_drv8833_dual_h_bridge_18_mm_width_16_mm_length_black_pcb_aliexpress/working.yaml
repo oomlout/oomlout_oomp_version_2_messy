@@ -1,0 +1,84 @@
+classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_upper: ELECTRONIC
+color: dual_h_bridge
+color_capital: Dual H Bridge
+color_first_letter: d
+color_first_letter_upper: D
+color_upper: DUAL_H_BRIDGE
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 18_mm_width_16_mm_length_black_pcb
+description_main_capital: 18 mm Width 16 mm Length Black Pcb
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_upper: 18_MM_WIDTH_16_MM_LENGTH_BLACK_PCB
+description_only_numbers: '1816'
+description_only_numbers_short: 1k8
+description_or_color: D1k8
+description_or_color_upper: D1K8
+directory: parts/electronic_breakout_board_motor_driver_drv8833_dual_h_bridge_18_mm_width_16_mm_length_black_pcb_aliexpress
+distributors: []
+id: electronic_breakout_board_motor_driver_drv8833_dual_h_bridge_18_mm_width_16_mm_length_black_pcb_aliexpress
+id_no_class: breakout_board_motor_driver_drv8833_dual_h_bridge_18_mm_width_16_mm_length_black_pcb_aliexpress
+id_no_size: dual_h_bridge_18_mm_width_16_mm_length_black_pcb_aliexpress
+id_no_type: drv8833_dual_h_bridge_18_mm_width_16_mm_length_black_pcb_aliexpress
+kicad_reference: BB
+link_distributor_aliexpress: https://www.aliexpress.com/item/1005006282457232.html
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_motor_driver_drv8833_dual_h_bridge_18_mm_width_16_mm_length_black_pcb_aliexpress
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_motor_driver_drv8833_dual_h_bridge_18_mm_width_16_mm_length_black_pcb_aliexpress
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_motor_driver_drv8833_dual_h_bridge_18_mm_width_16_mm_length_black_pcb_aliexpress
+manufacturer: aliexpress
+manufacturer_capital: Aliexpress
+manufacturer_first_letter: a
+manufacturer_first_letter_upper: A
+manufacturer_upper: ALIEXPRESS
+manufacturers: []
+markdown_full: '[electronic_breakout_board_motor_driver_drv8833_dual_h_bridge_18_mm_width_16_mm_length_black_pcb_aliexpress](none)<br>[](none)<br>[Electronic
+    Breakout Board Motor Driver Drv8833 Dual H Bridge 18 Mm Width 16 Mm Length Black
+    Pcb Aliexpress](none)<br><br>'
+markdown_short: '[electronic_breakout_board_motor_driver_drv8833_dual_h_bridge_18_mm_width_16_mm_length_black_pcb_aliexpress](none)<br><br>'
+md5: 80e2febd7ab346a2ae26456135d4ae58
+md5_10: 80e2febd7a
+md5_10_upper: 80E2FEBD7A
+md5_5: 80e2f
+md5_5_upper: 80E2F
+md5_6: 80e2fe
+md5_6_alpha: 511j2
+md5_6_alpha_upper: 511J2
+md5_6_upper: 80E2FE
+name: Electronic Breakout Board Motor Driver Drv8833 Dual H Bridge 18 Mm Width 16
+    Mm Length Black Pcb Aliexpress
+name_no_class: Breakout Board Motor Driver Drv8833 Dual H Bridge 18 Mm Width 16 Mm
+    Length Black Pcb Aliexpress
+name_no_size: Dual H Bridge 18 Mm Width 16 Mm Length Black Pcb Aliexpress
+name_no_size_short: Dual H Bridge 18 Mm Width 16 Mm Length Black Pcb Aliexpress
+name_no_type: Drv8833 Dual H Bridge 18 Mm Width 16 Mm Length Black Pcb Aliexpress
+notes: []
+oomp_key: oomp_electronic_breakout_board_motor_driver_drv8833_dual_h_bridge_18_mm_width_16_mm_length_black_pcb_aliexpress
+part_number: ''
+part_number_capital: ''
+part_number_distributor_aliexpress: '1005006282457232'
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: drv8833
+size_capital: Drv8833
+size_first_letter: d
+size_first_letter_upper: D
+size_only_numbers: '8833'
+size_only_numbers_no_zeros: '8833'
+size_upper: DRV8833
+type: breakout_board_motor_driver
+type_capital: Breakout Board Motor Driver
+type_first_letter: b
+type_first_letter_upper: B
+type_upper: BREAKOUT_BOARD_MOTOR_DRIVER

@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_electronic
+description_extra: old
+description_extra_capital: Old
+description_extra_first_letter: o
+description_extra_first_letter_upper: O
+description_extra_upper: OLD
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_electronic_heatshrink_2_to_1_shrink_ratio_old
+distributors: []
+filter: ''
+from_yaml: false
+id: category_electronic_heatshrink_2_to_1_shrink_ratio_old
+id_no_class: electronic_heatshrink_2_to_1_shrink_ratio_old
+id_no_size: old
+id_no_type: heatshrink_2_to_1_shrink_ratio_old
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_heatshrink_2_to_1_shrink_ratio_old
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_heatshrink_2_to_1_shrink_ratio_old
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_heatshrink_2_to_1_shrink_ratio_old
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_electronic_heatshrink_2_to_1_shrink_ratio_old](none)<br>[](none)<br>[Category
+    Electronic Heatshrink 2 To 1 Shrink Ratio Old](none)<br><br>'
+markdown_short: '[category_electronic_heatshrink_2_to_1_shrink_ratio_old](none)<br><br>'
+md5: 6a01d23d57cba22cfb3eb9821b5ca73c
+md5_10: 6a01d23d57
+md5_10_upper: 6A01D23D57
+md5_5: 6a01d
+md5_5_upper: 6A01D
+md5_6: 6a01d2
+md5_6_alpha: 44wk2
+md5_6_alpha_upper: 44WK2
+md5_6_upper: 6A01D2
+name: Category Electronic Heatshrink 2 To 1 Shrink Ratio Old
+name_no_class: Electronic Heatshrink 2 To 1 Shrink Ratio Old
+name_no_size: Old
+name_no_size_short: Old
+name_no_type: Heatshrink 2 To 1 Shrink Ratio Old
+oomp_key: oomp_category_electronic_heatshrink_2_to_1_shrink_ratio_old
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryelectronic
+size: heatshrink_2_to_1_shrink_ratio
+size_capital: Heatshrink 2 To 1 Shrink Ratio
+size_first_letter: h
+size_first_letter_upper: H
+size_only_numbers: '21'
+size_only_numbers_no_zeros: '21'
+size_upper: HEATSHRINK_2_TO_1_SHRINK_RATIO
+type: electronic
+type_capital: Electronic
+type_first_letter: e
+type_first_letter_upper: E
+type_upper: ELECTRONIC

@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: wand
+color_capital: Wand
+color_first_letter: w
+color_first_letter_upper: W
+color_upper: WAND
+description: category_toy
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'W '
+description_or_color_upper: 'W '
+directory: parts/category_toy_bubble_wand
+distributors: []
+filter: ''
+from_yaml: false
+id: category_toy_bubble_wand
+id_no_class: toy_bubble_wand
+id_no_size: wand
+id_no_type: bubble_wand
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_toy_bubble_wand
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_toy_bubble_wand
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_toy_bubble_wand
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_toy_bubble_wand](none)<br>[](none)<br>[Category Toy Bubble
+    Wand](none)<br><br>'
+markdown_short: '[category_toy_bubble_wand](none)<br><br>'
+md5: a4ac68aad4aeb9dc1fe662a2fc8008d1
+md5_10: a4ac68aad4
+md5_10_upper: A4AC68AAD4
+md5_5: a4ac6
+md5_5_upper: A4AC6
+md5_6: a4ac68
+md5_6_alpha: 6fb6w
+md5_6_alpha_upper: 6FB6W
+md5_6_upper: A4AC68
+name: Category Toy Bubble Wand
+name_no_class: Toy Bubble Wand
+name_no_size: Wand
+name_no_size_short: Wand
+name_no_type: Bubble Wand
+oomp_key: oomp_category_toy_bubble_wand
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorytoy
+size: bubble
+size_capital: Bubble
+size_first_letter: b
+size_first_letter_upper: B
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: BUBBLE
+type: toy
+type_capital: Toy
+type_first_letter: t
+type_first_letter_upper: T
+type_upper: TOY

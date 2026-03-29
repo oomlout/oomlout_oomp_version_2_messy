@@ -1,0 +1,80 @@
+classification: computer
+classification_capital: Computer
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: COMPUTER
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: 1352_mm_width_823_mm_height_88_mm_depth
+description_extra_capital: 1352 mm Width 823 mm Height 88 mm Depth
+description_extra_first_letter: '1'
+description_extra_first_letter_upper: '1'
+description_extra_upper: 1352_MM_WIDTH_823_MM_HEIGHT_88_MM_DEPTH
+description_main: jamboard
+description_main_capital: Jamboard
+description_main_first_letter: j
+description_main_first_letter_upper: J
+description_main_upper: JAMBOARD
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/computer_video_conferencing_screen_jamboard_1352_mm_width_823_mm_height_88_mm_depth_google
+distributors: []
+filter: ''
+from_yaml: false
+id: computer_video_conferencing_screen_jamboard_1352_mm_width_823_mm_height_88_mm_depth_google
+id_no_class: video_conferencing_screen_jamboard_1352_mm_width_823_mm_height_88_mm_depth_google
+id_no_size: jamboard_1352_mm_width_823_mm_height_88_mm_depth_google
+id_no_type: screen_jamboard_1352_mm_width_823_mm_height_88_mm_depth_google
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_video_conferencing_screen_jamboard_1352_mm_width_823_mm_height_88_mm_depth_google
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_video_conferencing_screen_jamboard_1352_mm_width_823_mm_height_88_mm_depth_google
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_video_conferencing_screen_jamboard_1352_mm_width_823_mm_height_88_mm_depth_google
+manufacturer: google
+manufacturer_capital: Google
+manufacturer_first_letter: g
+manufacturer_first_letter_upper: G
+manufacturer_upper: GOOGLE
+manufacturers: []
+markdown_full: '[computer_video_conferencing_screen_jamboard_1352_mm_width_823_mm_height_88_mm_depth_google](none)<br>[](none)<br>[Computer
+    Video Conferencing Screen Jamboard 1352 Mm Width 823 Mm Height 88 Mm Depth Google](none)<br><br>'
+markdown_short: '[computer_video_conferencing_screen_jamboard_1352_mm_width_823_mm_height_88_mm_depth_google](none)<br><br>'
+md5: 054cdc2e7eb1050ed99e3e48b3bff3db
+md5_10: 054cdc2e7e
+md5_10_upper: 054CDC2E7E
+md5_5: 054cd
+md5_5_upper: 054CD
+md5_6: 054cdc
+md5_6_alpha: 7g0s
+md5_6_alpha_upper: 7G0S
+md5_6_upper: 054CDC
+name: Computer Video Conferencing Screen Jamboard 1352 Mm Width 823 Mm Height 88 Mm
+    Depth Google
+name_no_class: Video Conferencing Screen Jamboard 1352 Mm Width 823 Mm Height 88 Mm
+    Depth Google
+name_no_size: Jamboard 1352 Mm Width 823 Mm Height 88 Mm Depth Google
+name_no_size_short: Jamboard 1352 Mm Width 823 Mm Height 88 Mm Depth Google
+name_no_type: Screen Jamboard 1352 Mm Width 823 Mm Height 88 Mm Depth Google
+oomp_key: oomp_computer_video_conferencing_screen_jamboard_1352_mm_width_823_mm_height_88_mm_depth_google
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: screen
+size_capital: Screen
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SCREEN
+type: video_conferencing
+type_capital: Video Conferencing
+type_first_letter: v
+type_first_letter_upper: V
+type_upper: VIDEO_CONFERENCING

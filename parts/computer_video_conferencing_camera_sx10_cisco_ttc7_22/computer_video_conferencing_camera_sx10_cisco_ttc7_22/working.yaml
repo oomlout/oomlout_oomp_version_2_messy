@@ -1,0 +1,80 @@
+classification: computer
+classification_capital: Computer
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: COMPUTER
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: sx10
+description_main_capital: Sx10
+description_main_first_letter: s
+description_main_first_letter_upper: S
+description_main_upper: SX10
+description_only_numbers: '10'
+description_only_numbers_short: '10'
+description_or_color: '10'
+description_or_color_upper: '10'
+directory: parts/computer_video_conferencing_camera_sx10_cisco_ttc7_22
+distributors: []
+filter: ''
+from_yaml: false
+id: computer_video_conferencing_camera_sx10_cisco_ttc7_22
+id_no_class: video_conferencing_camera_sx10_cisco_ttc7_22
+id_no_size: sx10_cisco_ttc7_22
+id_no_type: camera_sx10_cisco_ttc7_22
+link_distributor_cisco: https://www.cisco.com/c/en/us/support/collaboration-endpoints/telepresence-sx10-quick-set/model.html
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_video_conferencing_camera_sx10_cisco_ttc7_22
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_video_conferencing_camera_sx10_cisco_ttc7_22
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_video_conferencing_camera_sx10_cisco_ttc7_22
+manufacturer: cisco
+manufacturer_capital: Cisco
+manufacturer_first_letter: c
+manufacturer_first_letter_upper: C
+manufacturer_upper: CISCO
+manufacturers: []
+markdown_full: '[computer_video_conferencing_camera_sx10_cisco_ttc7_22](none)<br>[](none)<br>[Computer
+    Video Conferencing Camera Sx10 Cisco Ttc7 22](none)<br><br>'
+markdown_short: '[computer_video_conferencing_camera_sx10_cisco_ttc7_22](none)<br><br>'
+md5: 3c21cc893cdbb2790afde8dd19fdefdb
+md5_10: 3c21cc893c
+md5_10_upper: 3C21CC893C
+md5_5: 3c21c
+md5_5_upper: 3C21C
+md5_6: 3c21cc
+md5_6_alpha: 2cgr0
+md5_6_alpha_upper: 2CGR0
+md5_6_upper: 3C21CC
+name: Computer Video Conferencing Camera Sx10 Cisco Ttc7 22
+name_no_class: Video Conferencing Camera Sx10 Cisco Ttc7 22
+name_no_size: Sx10 Cisco Ttc7 22
+name_no_size_short: Sx10 Cisco Ttc7 22
+name_no_type: Camera Sx10 Cisco Ttc7 22
+oomp_key: oomp_computer_video_conferencing_camera_sx10_cisco_ttc7_22
+part_number: ttc7_22
+part_number_capital: Ttc7.22
+part_number_exact: TTC7-22
+part_number_first_letter: t
+part_number_first_letter_upper: T
+part_number_upper: TTC7_22
+short_code: ''
+short_code_upper: ''
+size: camera
+size_capital: Camera
+size_first_letter: c
+size_first_letter_upper: C
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: CAMERA
+type: video_conferencing
+type_capital: Video Conferencing
+type_first_letter: v
+type_first_letter_upper: V
+type_upper: VIDEO_CONFERENCING

@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: sop_16
+color_capital: Sop 16
+color_first_letter: s
+color_first_letter_upper: S
+color_upper: SOP_16
+description: category_electronic
+description_extra: to_sort
+description_extra_capital: To Sort
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TO_SORT
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'S '
+description_or_color_upper: 'S '
+directory: parts/category_electronic_ic_sop_16_to_sort
+distributors: []
+filter: ''
+from_yaml: false
+id: category_electronic_ic_sop_16_to_sort
+id_no_class: electronic_ic_sop_16_to_sort
+id_no_size: sop_16_to_sort
+id_no_type: ic_sop_16_to_sort
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_ic_sop_16_to_sort
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_ic_sop_16_to_sort
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_ic_sop_16_to_sort
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_electronic_ic_sop_16_to_sort](none)<br>[](none)<br>[Category
+    Electronic Ic Sop 16 To Sort](none)<br><br>'
+markdown_short: '[category_electronic_ic_sop_16_to_sort](none)<br><br>'
+md5: 65719c72557df7d47c89ae901bfd7232
+md5_10: 65719c7255
+md5_10_upper: 65719C7255
+md5_5: '65719'
+md5_5_upper: '65719'
+md5_6: 65719c
+md5_6_alpha: 3yhss
+md5_6_alpha_upper: 3YHSS
+md5_6_upper: 65719C
+name: Category Electronic Ic Sop 16 To Sort
+name_no_class: Electronic Ic Sop 16 To Sort
+name_no_size: Sop 16 To Sort
+name_no_size_short: Sop 16 To Sort
+name_no_type: Ic Sop 16 To Sort
+oomp_key: oomp_category_electronic_ic_sop_16_to_sort
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryelectronic
+size: ic
+size_capital: Ic
+size_first_letter: i
+size_first_letter_upper: I
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: IC
+type: electronic
+type_capital: Electronic
+type_first_letter: e
+type_first_letter_upper: E
+type_upper: ELECTRONIC

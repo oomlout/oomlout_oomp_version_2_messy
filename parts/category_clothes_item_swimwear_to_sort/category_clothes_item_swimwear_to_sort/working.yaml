@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: swimwear
+color_capital: Swimwear
+color_first_letter: s
+color_first_letter_upper: S
+color_upper: SWIMWEAR
+description: category_clothes
+description_extra: to_sort
+description_extra_capital: To Sort
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TO_SORT
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'S '
+description_or_color_upper: 'S '
+directory: parts/category_clothes_item_swimwear_to_sort
+distributors: []
+filter: ''
+from_yaml: false
+id: category_clothes_item_swimwear_to_sort
+id_no_class: clothes_item_swimwear_to_sort
+id_no_size: swimwear_to_sort
+id_no_type: item_swimwear_to_sort
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_clothes_item_swimwear_to_sort
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_clothes_item_swimwear_to_sort
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_clothes_item_swimwear_to_sort
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_clothes_item_swimwear_to_sort](none)<br>[](none)<br>[Category
+    Clothes Item Swimwear To Sort](none)<br><br>'
+markdown_short: '[category_clothes_item_swimwear_to_sort](none)<br><br>'
+md5: e079c92e6e16fc902bab2cab1792387f
+md5_10: e079c92e6e
+md5_10_upper: E079C92E6E
+md5_5: e079c
+md5_5_upper: E079C
+md5_6: e079c9
+md5_6_alpha: 8rb9l
+md5_6_alpha_upper: 8RB9L
+md5_6_upper: E079C9
+name: Category Clothes Item Swimwear To Sort
+name_no_class: Clothes Item Swimwear To Sort
+name_no_size: Swimwear To Sort
+name_no_size_short: Swimwear To Sort
+name_no_type: Item Swimwear To Sort
+oomp_key: oomp_category_clothes_item_swimwear_to_sort
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryclothes
+size: item
+size_capital: Item
+size_first_letter: i
+size_first_letter_upper: I
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ITEM
+type: clothes
+type_capital: Clothes
+type_first_letter: c
+type_first_letter_upper: C
+type_upper: CLOTHES

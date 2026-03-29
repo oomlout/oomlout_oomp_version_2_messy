@@ -1,0 +1,82 @@
+classification: paper
+classification_capital: Paper
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_upper: PAPER
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: blue_light_color
+description_extra_capital: Blue Light Color
+description_extra_first_letter: b
+description_extra_first_letter_upper: B
+description_extra_upper: BLUE_LIGHT_COLOR
+description_main: 80_grams_per_meter_square
+description_main_capital: 80 Grams Per Meter Square
+description_main_first_letter: '8'
+description_main_first_letter_upper: '8'
+description_main_upper: 80_GRAMS_PER_METER_SQUARE
+description_only_numbers: '80'
+description_only_numbers_short: '80'
+description_or_color: '80'
+description_or_color_upper: '80'
+directory: parts/paper_sheet_a4_210_mm_width_297_mm_height_80_grams_per_meter_square_blue_light_color
+distributors: []
+filter: ''
+from_yaml: false
+height: 297 mm
+id: paper_sheet_a4_210_mm_width_297_mm_height_80_grams_per_meter_square_blue_light_color
+id_no_class: sheet_a4_210_mm_width_297_mm_height_80_grams_per_meter_square_blue_light_color
+id_no_size: 80_grams_per_meter_square_blue_light_color
+id_no_type: a4_210_mm_width_297_mm_height_80_grams_per_meter_square_blue_light_color
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a4_210_mm_width_297_mm_height_80_grams_per_meter_square_blue_light_color
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a4_210_mm_width_297_mm_height_80_grams_per_meter_square_blue_light_color
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a4_210_mm_width_297_mm_height_80_grams_per_meter_square_blue_light_color
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[paper_sheet_a4_210_mm_width_297_mm_height_80_grams_per_meter_square_blue_light_color](none)<br>[](none)<br>[Paper
+    Sheet A4 210 Mm Width 297 Mm Height 80 Grams Per Meter Square Blue Light Color](none)<br><br>'
+markdown_short: '[paper_sheet_a4_210_mm_width_297_mm_height_80_grams_per_meter_square_blue_light_color](none)<br><br>'
+md5: f185fba566b1cb61e835d47dafb6e017
+md5_10: f185fba566
+md5_10_upper: F185FBA566
+md5_5: f185f
+md5_5_upper: F185F
+md5_6: f185fb
+md5_6_alpha: 9f9bv
+md5_6_alpha_upper: 9F9BV
+md5_6_upper: F185FB
+name: Paper Sheet A4 210 Mm Width 297 Mm Height 80 Grams Per Meter Square Blue Light
+    Color
+name_no_class: Sheet A4 210 Mm Width 297 Mm Height 80 Grams Per Meter Square Blue
+    Light Color
+name_no_size: 80 Grams Per Meter Square Blue Light Color
+name_no_size_short: 80 Grams Per Meter Square Blue Light Color
+name_no_type: A4 210 Mm Width 297 Mm Height 80 Grams Per Meter Square Blue Light Color
+oomp_key: oomp_paper_sheet_a4_210_mm_width_297_mm_height_80_grams_per_meter_square_blue_light_color
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: a4_210_mm_width_297_mm_height
+size_capital: A4.210 mm Width 297 mm Height
+size_first_letter: a
+size_first_letter_upper: A
+size_only_numbers: '4210297'
+size_only_numbers_no_zeros: '421297'
+size_upper: A4_210_MM_WIDTH_297_MM_HEIGHT
+type: sheet
+type_capital: Sheet
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: SHEET
+width: 210 mm

@@ -1,0 +1,78 @@
+classification: clothes
+classification_capital: Clothes
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CLOTHES
+color: small
+color_capital: Small
+color_first_letter: s
+color_first_letter_upper: S
+color_upper: SMALL
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: teal
+description_main_capital: Teal
+description_main_first_letter: t
+description_main_first_letter_upper: T
+description_main_upper: TEAL
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'S '
+description_or_color_upper: 'S '
+directory: parts/clothes_item_t_shirt_small_teal
+distributors: []
+filter: ''
+from_yaml: false
+id: clothes_item_t_shirt_small_teal
+id_no_class: item_t_shirt_small_teal
+id_no_size: small_teal
+id_no_type: t_shirt_small_teal
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_t_shirt_small_teal
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_t_shirt_small_teal
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_t_shirt_small_teal
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[clothes_item_t_shirt_small_teal](none)<br>[](none)<br>[Clothes Item
+    T Shirt Small Teal](none)<br><br>'
+markdown_short: '[clothes_item_t_shirt_small_teal](none)<br><br>'
+md5: a2960f6a7745c1db7772aba0d69650a7
+md5_10: a2960f6a77
+md5_10_upper: A2960F6A77
+md5_5: a2960
+md5_5_upper: A2960
+md5_6: a2960f
+md5_6_alpha: 6cdn3
+md5_6_alpha_upper: 6CDN3
+md5_6_upper: A2960F
+name: Clothes Item T Shirt Small Teal
+name_no_class: Item T Shirt Small Teal
+name_no_size: Small Teal
+name_no_size_short: Small Teal
+name_no_type: T Shirt Small Teal
+oomp_key: oomp_clothes_item_t_shirt_small_teal
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: t_shirt
+size_capital: T Shirt
+size_first_letter: t
+size_first_letter_upper: T
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: T_SHIRT
+type: item
+type_capital: Item
+type_first_letter: i
+type_first_letter_upper: I
+type_upper: ITEM

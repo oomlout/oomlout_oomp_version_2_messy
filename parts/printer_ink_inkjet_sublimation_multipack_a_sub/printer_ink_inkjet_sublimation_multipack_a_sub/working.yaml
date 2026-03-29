@@ -1,0 +1,78 @@
+classification: printer
+classification_capital: Printer
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_upper: PRINTER
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: multipack
+description_main_capital: Multipack
+description_main_first_letter: m
+description_main_first_letter_upper: M
+description_main_upper: MULTIPACK
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/printer_ink_inkjet_sublimation_multipack_a_sub
+distributor_amazon: B08D9HWXKM
+distributors: []
+id: printer_ink_inkjet_sublimation_multipack_a_sub
+id_no_class: ink_inkjet_sublimation_multipack_a_sub
+id_no_size: multipack_a_sub
+id_no_type: inkjet_sublimation_multipack_a_sub
+link_distributor_amazon: https://www.amazon.co.uk/dp/B08D9HWXKM
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_ink_inkjet_sublimation_multipack_a_sub
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_ink_inkjet_sublimation_multipack_a_sub
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_ink_inkjet_sublimation_multipack_a_sub
+manufacturer: a_sub
+manufacturer_capital: A Sub
+manufacturer_first_letter: a
+manufacturer_first_letter_upper: A
+manufacturer_upper: A_SUB
+manufacturers: []
+markdown_full: '[printer_ink_inkjet_sublimation_multipack_a_sub](none)<br>[](none)<br>[Printer
+    Ink Inkjet Sublimation Multipack A Sub](none)<br><br>'
+markdown_short: '[printer_ink_inkjet_sublimation_multipack_a_sub](none)<br><br>'
+md5: 68c0e7a93c6c0f4e292efade59ce6b40
+md5_10: 68c0e7a93c
+md5_10_upper: 68C0E7A93C
+md5_5: 68c0e
+md5_5_upper: 68C0E
+md5_6: 68c0e7
+md5_6_alpha: 4355z
+md5_6_alpha_upper: 4355Z
+md5_6_upper: 68C0E7
+name: Printer Ink Inkjet Sublimation Multipack A Sub
+name_no_class: Ink Inkjet Sublimation Multipack A Sub
+name_no_size: Multipack A Sub
+name_no_size_short: Multipack A Sub
+name_no_type: Inkjet Sublimation Multipack A Sub
+oomp_key: oomp_printer_ink_inkjet_sublimation_multipack_a_sub
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: inkjet_sublimation
+size_capital: Inkjet Sublimation
+size_first_letter: i
+size_first_letter_upper: I
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: INKJET_SUBLIMATION
+type: ink
+type_capital: Ink
+type_first_letter: i
+type_first_letter_upper: I
+type_upper: INK

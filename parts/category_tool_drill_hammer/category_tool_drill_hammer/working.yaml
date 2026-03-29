@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_tool
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_tool_drill_hammer
+distributors: []
+filter: ''
+from_yaml: false
+id: category_tool_drill_hammer
+id_no_class: tool_drill_hammer
+id_no_size: drill_hammer
+id_no_type: drill_hammer
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_drill_hammer
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_drill_hammer
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_drill_hammer
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_tool_drill_hammer](none)<br>[](none)<br>[Category Tool Drill
+    Hammer](none)<br><br>'
+markdown_short: '[category_tool_drill_hammer](none)<br><br>'
+md5: 8360b6e5ccf881fea813ade780294759
+md5_10: 8360b6e5cc
+md5_10_upper: 8360B6E5CC
+md5_5: 8360b
+md5_5_upper: 8360B
+md5_6: 8360b6
+md5_6_alpha: 54jhy
+md5_6_alpha_upper: 54JHY
+md5_6_upper: 8360B6
+name: Category Tool Drill Hammer
+name_no_class: Tool Drill Hammer
+name_no_size: Drill Hammer
+name_no_size_short: Drill Hammer
+name_no_type: Drill Hammer
+oomp_key: oomp_category_tool_drill_hammer
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorytool
+size: drill_hammer
+size_capital: Drill Hammer
+size_first_letter: d
+size_first_letter_upper: D
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: DRILL_HAMMER
+type: tool
+type_capital: Tool
+type_first_letter: t
+type_first_letter_upper: T
+type_upper: TOOL

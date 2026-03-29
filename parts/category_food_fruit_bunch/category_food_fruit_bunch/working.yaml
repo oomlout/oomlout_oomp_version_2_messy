@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: bunch
+color_capital: Bunch
+color_first_letter: b
+color_first_letter_upper: B
+color_upper: BUNCH
+description: category_food
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'B '
+description_or_color_upper: 'B '
+directory: parts/category_food_fruit_bunch
+distributors: []
+filter: ''
+from_yaml: false
+id: category_food_fruit_bunch
+id_no_class: food_fruit_bunch
+id_no_size: bunch
+id_no_type: fruit_bunch
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_fruit_bunch
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_fruit_bunch
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_fruit_bunch
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_food_fruit_bunch](none)<br>[](none)<br>[Category Food Fruit
+    Bunch](none)<br><br>'
+markdown_short: '[category_food_fruit_bunch](none)<br><br>'
+md5: 63618f0b683364563f5853f161de144d
+md5_10: 63618f0b68
+md5_10_upper: 63618F0B68
+md5_5: '63618'
+md5_5_upper: '63618'
+md5_6: 63618f
+md5_6_alpha: 3vlhr
+md5_6_alpha_upper: 3VLHR
+md5_6_upper: 63618F
+name: Category Food Fruit Bunch
+name_no_class: Food Fruit Bunch
+name_no_size: Bunch
+name_no_size_short: Bunch
+name_no_type: Fruit Bunch
+oomp_key: oomp_category_food_fruit_bunch
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryfood
+size: fruit
+size_capital: Fruit
+size_first_letter: f
+size_first_letter_upper: F
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: FRUIT
+type: food
+type_capital: Food
+type_first_letter: f
+type_first_letter_upper: F
+type_upper: FOOD

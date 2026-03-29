@@ -1,0 +1,76 @@
+classification: decorating
+classification_capital: Decorating
+classification_first_letter: d
+classification_first_letter_upper: D
+classification_upper: DECORATING
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: white
+description_extra_capital: White
+description_extra_first_letter: w
+description_extra_first_letter_upper: W
+description_extra_upper: WHITE
+description_main: 400_mm_width_500_mm_height
+description_main_capital: 400 mm Width 500 mm Height
+description_main_first_letter: '4'
+description_main_first_letter_upper: '4'
+description_main_upper: 400_MM_WIDTH_500_MM_HEIGHT
+description_only_numbers: '400500'
+description_only_numbers_short: 400k
+description_or_color: 400k
+description_or_color_upper: 400K
+directory: parts/decorating_picture_frame_ikea_ribba_400_mm_width_500_mm_height_white_ikea
+distributors: []
+id: decorating_picture_frame_ikea_ribba_400_mm_width_500_mm_height_white_ikea
+id_no_class: picture_frame_ikea_ribba_400_mm_width_500_mm_height_white_ikea
+id_no_size: 400_mm_width_500_mm_height_white_ikea
+id_no_type: ikea_ribba_400_mm_width_500_mm_height_white_ikea
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/decorating_picture_frame_ikea_ribba_400_mm_width_500_mm_height_white_ikea
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/decorating_picture_frame_ikea_ribba_400_mm_width_500_mm_height_white_ikea
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/decorating_picture_frame_ikea_ribba_400_mm_width_500_mm_height_white_ikea
+manufacturer: ikea
+manufacturer_capital: Ikea
+manufacturer_first_letter: i
+manufacturer_first_letter_upper: I
+manufacturer_upper: IKEA
+manufacturers: []
+markdown_full: '[decorating_picture_frame_ikea_ribba_400_mm_width_500_mm_height_white_ikea](none)<br>[](none)<br>[Decorating
+    Picture Frame Ikea Ribba 400 Mm Width 500 Mm Height White Ikea](none)<br><br>'
+markdown_short: '[decorating_picture_frame_ikea_ribba_400_mm_width_500_mm_height_white_ikea](none)<br><br>'
+md5: 540bcf97def898115bc1bfe810b18161
+md5_10: 540bcf97de
+md5_10_upper: 540BCF97DE
+md5_5: 540bc
+md5_5_upper: 540BC
+md5_6: 540bcf
+md5_6_alpha: 3a21b
+md5_6_alpha_upper: 3A21B
+md5_6_upper: 540BCF
+name: Decorating Picture Frame Ikea Ribba 400 Mm Width 500 Mm Height White Ikea
+name_no_class: Picture Frame Ikea Ribba 400 Mm Width 500 Mm Height White Ikea
+name_no_size: 400 Mm Width 500 Mm Height White Ikea
+name_no_size_short: 400 Mm Width 500 Mm Height White Ikea
+name_no_type: Ikea Ribba 400 Mm Width 500 Mm Height White Ikea
+oomp_key: oomp_decorating_picture_frame_ikea_ribba_400_mm_width_500_mm_height_white_ikea
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: ikea_ribba
+size_capital: Ikea Ribba
+size_first_letter: i
+size_first_letter_upper: I
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: IKEA_RIBBA
+type: picture_frame
+type_capital: Picture Frame
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PICTURE_FRAME

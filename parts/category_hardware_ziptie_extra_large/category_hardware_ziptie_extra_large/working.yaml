@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: extra_large
+color_capital: Extra Large
+color_first_letter: e
+color_first_letter_upper: E
+color_upper: EXTRA_LARGE
+description: category_hardware
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'E '
+description_or_color_upper: 'E '
+directory: parts/category_hardware_ziptie_extra_large
+distributors: []
+filter: ''
+from_yaml: false
+id: category_hardware_ziptie_extra_large
+id_no_class: hardware_ziptie_extra_large
+id_no_size: extra_large
+id_no_type: ziptie_extra_large
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_ziptie_extra_large
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_ziptie_extra_large
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_ziptie_extra_large
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_hardware_ziptie_extra_large](none)<br>[](none)<br>[Category
+    Hardware Ziptie Extra Large](none)<br><br>'
+markdown_short: '[category_hardware_ziptie_extra_large](none)<br><br>'
+md5: 163c0bfb0c1a9937ed1835bf469a80d6
+md5_10: 163c0bfb0c
+md5_10_upper: 163C0BFB0C
+md5_5: 163c0
+md5_5_upper: 163C0
+md5_6: 163c0b
+md5_6_alpha: v8cr
+md5_6_alpha_upper: V8CR
+md5_6_upper: 163C0B
+name: Category Hardware Ziptie Extra Large
+name_no_class: Hardware Ziptie Extra Large
+name_no_size: Extra Large
+name_no_size_short: Extra Large
+name_no_type: Ziptie Extra Large
+oomp_key: oomp_category_hardware_ziptie_extra_large
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryhardware
+size: ziptie
+size_capital: Ziptie
+size_first_letter: z
+size_first_letter_upper: Z
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ZIPTIE
+type: hardware
+type_capital: Hardware
+type_first_letter: h
+type_first_letter_upper: H
+type_upper: HARDWARE

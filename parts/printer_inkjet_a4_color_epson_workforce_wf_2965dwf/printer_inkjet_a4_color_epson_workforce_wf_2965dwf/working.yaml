@@ -1,0 +1,93 @@
+classification: printer
+classification_capital: Printer
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_upper: PRINTER
+color: color
+color_capital: Color
+color_first_letter: c
+color_first_letter_upper: C
+color_upper: COLOR
+compatible_ink_bottles:
+- '503'
+- 503XL
+description_chat_gpt: Variant of WF-2960 with dual paper trays for extra capacity.
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'C '
+description_or_color_upper: 'C '
+directory: parts/printer_inkjet_a4_color_epson_workforce_wf_2965dwf
+distributors: []
+features:
+- duplex
+- dual_trays
+- touchscreen
+- adf
+- wifi
+id: printer_inkjet_a4_color_epson_workforce_wf_2965dwf
+id_no_class: inkjet_a4_color_epson_workforce_wf_2965dwf
+id_no_size: color_epson_workforce_wf_2965dwf
+id_no_type: a4_color_epson_workforce_wf_2965dwf
+ink_type: pigment_black_dye_colour
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_inkjet_a4_color_epson_workforce_wf_2965dwf
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_inkjet_a4_color_epson_workforce_wf_2965dwf
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_inkjet_a4_color_epson_workforce_wf_2965dwf
+manufacturer: epson_workforce
+manufacturer_capital: Epson Workforce
+manufacturer_first_letter: e
+manufacturer_first_letter_upper: E
+manufacturer_upper: EPSON_WORKFORCE
+manufacturers: []
+markdown_full: '[printer_inkjet_a4_color_epson_workforce_wf_2965dwf](none)<br>[](none)<br>[Printer
+    Inkjet A4 Color Epson Workforce Wf 2965Dwf](none)<br><br>'
+markdown_short: '[printer_inkjet_a4_color_epson_workforce_wf_2965dwf](none)<br><br>'
+md5: d08de5b1d69fec97e668d4f255e26ab8
+md5_10: d08de5b1d6
+md5_10_upper: D08DE5B1D6
+md5_5: d08de
+md5_5_upper: D08DE
+md5_6: d08de5
+md5_6_alpha: 84y5h
+md5_6_alpha_upper: 84Y5H
+md5_6_upper: D08DE5
+name: Printer Inkjet A4 Color Epson Workforce Wf 2965Dwf
+name_no_class: Inkjet A4 Color Epson Workforce Wf 2965Dwf
+name_no_size: Color Epson Workforce Wf 2965Dwf
+name_no_size_short: Color Epson Workforce Wf 2965Dwf
+name_no_type: A4 Color Epson Workforce Wf 2965Dwf
+nozzle_count_black: 400
+nozzle_count_per_colour: 128
+oomp_key: oomp_printer_inkjet_a4_color_epson_workforce_wf_2965dwf
+original_rrp_gbp: 139.99
+part_number: wf_2965dwf
+part_number_capital: Wf 2965Dwf
+part_number_first_letter: w
+part_number_first_letter_upper: W
+part_number_upper: WF_2965DWF
+printhead_technology: PrecisionCore
+short_code: ''
+short_code_upper: ''
+short_name: WorkForce WF-2965DWF
+size: a4
+size_capital: A4
+size_first_letter: a
+size_first_letter_upper: A
+size_only_numbers: '4'
+size_only_numbers_no_zeros: '4'
+size_upper: A4
+total_colours: 4
+type: inkjet
+type_capital: Inkjet
+type_first_letter: i
+type_first_letter_upper: I
+type_upper: INKJET

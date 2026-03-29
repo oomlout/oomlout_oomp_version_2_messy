@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: transport
+color_capital: Transport
+color_first_letter: t
+color_first_letter_upper: T
+color_upper: TRANSPORT
+description: category_book
+description_extra: old
+description_extra_capital: Old
+description_extra_first_letter: o
+description_extra_first_letter_upper: O
+description_extra_upper: OLD
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'T '
+description_or_color_upper: 'T '
+directory: parts/category_book_looking_transport_old
+distributors: []
+filter: ''
+from_yaml: false
+id: category_book_looking_transport_old
+id_no_class: book_looking_transport_old
+id_no_size: transport_old
+id_no_type: looking_transport_old
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_book_looking_transport_old
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_book_looking_transport_old
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_book_looking_transport_old
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_book_looking_transport_old](none)<br>[](none)<br>[Category
+    Book Looking Transport Old](none)<br><br>'
+markdown_short: '[category_book_looking_transport_old](none)<br><br>'
+md5: 97c1a10bf49c6664640d3dccbb7a1686
+md5_10: 97c1a10bf4
+md5_10_upper: 97C1A10BF4
+md5_5: 97c1a
+md5_5_upper: 97C1A
+md5_6: 97c1a1
+md5_6_alpha: 5x601
+md5_6_alpha_upper: 5X601
+md5_6_upper: 97C1A1
+name: Category Book Looking Transport Old
+name_no_class: Book Looking Transport Old
+name_no_size: Transport Old
+name_no_size_short: Transport Old
+name_no_type: Looking Transport Old
+oomp_key: oomp_category_book_looking_transport_old
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorybook
+size: looking
+size_capital: Looking
+size_first_letter: l
+size_first_letter_upper: L
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: LOOKING
+type: book
+type_capital: Book
+type_first_letter: b
+type_first_letter_upper: B
+type_upper: BOOK

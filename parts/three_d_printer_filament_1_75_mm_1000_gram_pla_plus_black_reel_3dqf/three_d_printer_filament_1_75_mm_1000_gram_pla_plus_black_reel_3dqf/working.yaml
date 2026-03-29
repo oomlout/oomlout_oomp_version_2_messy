@@ -1,0 +1,83 @@
+classification: three_d_printer
+classification_capital: Three D Printer
+classification_first_letter: t
+classification_first_letter_upper: T
+classification_upper: THREE_D_PRINTER
+color: pla_plus_black
+color_capital: Pla Plus Black
+color_first_letter: p
+color_first_letter_upper: P
+color_upper: PLA_PLUS_BLACK
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: reel
+description_main_capital: Reel
+description_main_first_letter: r
+description_main_first_letter_upper: R
+description_main_upper: REEL
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'P '
+description_or_color_upper: 'P '
+directory: parts/three_d_printer_filament_1_75_mm_1000_gram_pla_plus_black_reel_3dqf
+distributors: []
+id: three_d_printer_filament_1_75_mm_1000_gram_pla_plus_black_reel_3dqf
+id_no_class: filament_1_75_mm_1000_gram_pla_plus_black_reel_3dqf
+id_no_size: pla_plus_black_reel_3dqf
+id_no_type: 1_75_mm_1000_gram_pla_plus_black_reel_3dqf
+link_distributor_3dqf: https://www.3dqf.co.uk/product-page/deep-black-pla-plus-1-75mm-uk-made-3d-printer-filament
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/three_d_printer_filament_1_75_mm_1000_gram_pla_plus_black_reel_3dqf
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/three_d_printer_filament_1_75_mm_1000_gram_pla_plus_black_reel_3dqf
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/three_d_printer_filament_1_75_mm_1000_gram_pla_plus_black_reel_3dqf
+manufacturer: 3dqf
+manufacturer_capital: 3Dqf
+manufacturer_first_letter: '3'
+manufacturer_first_letter_upper: '3'
+manufacturer_upper: 3DQF
+manufacturers: []
+markdown_full: '[three_d_printer_filament_1_75_mm_1000_gram_pla_plus_black_reel_3dqf](none)<br>[](none)<br>[Three
+    D Printer Filament 1 75 Mm 1000 Gram Pla Plus Black Reel 3Dqf](none)<br><br>'
+markdown_short: '[three_d_printer_filament_1_75_mm_1000_gram_pla_plus_black_reel_3dqf](none)<br><br>'
+md5: 53880eb8e6d40f452356377cea542e72
+md5_10: 53880eb8e6
+md5_10_upper: 53880EB8E6
+md5_5: '53880'
+md5_5_upper: '53880'
+md5_6: 53880e
+md5_6_alpha: 39c0e
+md5_6_alpha_upper: 39C0E
+md5_6_upper: 53880E
+name: Three D Printer Filament 1 75 Mm 1000 Gram Pla Plus Black Reel 3Dqf
+name_no_class: Filament 1 75 Mm 1000 Gram Pla Plus Black Reel 3Dqf
+name_no_size: Pla Plus Black Reel 3Dqf
+name_no_size_short: Pla Plus Black Reel 3Dqf
+name_no_type: 1 75 Mm 1000 Gram Pla Plus Black Reel 3Dqf
+oomp_key: oomp_three_d_printer_filament_1_75_mm_1000_gram_pla_plus_black_reel_3dqf
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+price_current: 0.017491666666666666
+price_per: 0.017491666666666666
+price_per_gram: 0.017491666666666666
+price_per_kilogram: 17.491666666666667
+short_code: ''
+short_code_upper: ''
+short_name: Fila 1.75mm PLA Plus Black 1kg
+size: 1_75_mm_1000_gram
+size_capital: 1.75 mm 1000 Gram
+size_first_letter: '1'
+size_first_letter_upper: '1'
+size_only_numbers: '1751000'
+size_only_numbers_no_zeros: '1751'
+size_upper: 1_75_MM_1000_GRAM
+type: filament
+type_capital: Filament
+type_first_letter: f
+type_first_letter_upper: F
+type_upper: FILAMENT
+weight: 1000

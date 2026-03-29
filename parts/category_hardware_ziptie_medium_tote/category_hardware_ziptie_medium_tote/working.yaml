@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: medium
+color_capital: Medium
+color_first_letter: m
+color_first_letter_upper: M
+color_upper: MEDIUM
+description: category_hardware
+description_extra: tote
+description_extra_capital: Tote
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TOTE
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'M '
+description_or_color_upper: 'M '
+directory: parts/category_hardware_ziptie_medium_tote
+distributors: []
+filter: ''
+from_yaml: false
+id: category_hardware_ziptie_medium_tote
+id_no_class: hardware_ziptie_medium_tote
+id_no_size: medium_tote
+id_no_type: ziptie_medium_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_ziptie_medium_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_ziptie_medium_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_ziptie_medium_tote
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_hardware_ziptie_medium_tote](none)<br>[](none)<br>[Category
+    Hardware Ziptie Medium Tote](none)<br><br>'
+markdown_short: '[category_hardware_ziptie_medium_tote](none)<br><br>'
+md5: 9fb94ffe50e0af629e6a668f8211a283
+md5_10: 9fb94ffe50
+md5_10_upper: 9FB94FFE50
+md5_5: 9fb94
+md5_5_upper: 9FB94
+md5_6: 9fb94f
+md5_6_alpha: 68cwf
+md5_6_alpha_upper: 68CWF
+md5_6_upper: 9FB94F
+name: Category Hardware Ziptie Medium Tote
+name_no_class: Hardware Ziptie Medium Tote
+name_no_size: Medium Tote
+name_no_size_short: Medium Tote
+name_no_type: Ziptie Medium Tote
+oomp_key: oomp_category_hardware_ziptie_medium_tote
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryhardware
+size: ziptie
+size_capital: Ziptie
+size_first_letter: z
+size_first_letter_upper: Z
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ZIPTIE
+type: hardware
+type_capital: Hardware
+type_first_letter: h
+type_first_letter_upper: H
+type_upper: HARDWARE

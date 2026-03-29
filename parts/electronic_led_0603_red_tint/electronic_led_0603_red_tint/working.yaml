@@ -1,0 +1,99 @@
+classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_upper: ELECTRONIC
+color: red
+color_capital: Red
+color_first_letter: r
+color_first_letter_upper: R
+color_upper: RED
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: tint
+description_main_capital: Tint
+description_main_first_letter: t
+description_main_first_letter_upper: T
+description_main_upper: TINT
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'R '
+description_or_color_upper: 'R '
+directory: parts/electronic_led_0603_red_tint
+distributors:
+-   id: distributor_lcsc
+    link: https://lcsc.com/product-detail/C965799.html
+    name: LCSC
+    part_number: C965799
+-   id: distributor_lcsc
+    link: https://lcsc.com/product-detail/C2286.html
+    name: LCSC
+    part_number: C2286
+filter: ''
+from_yaml: false
+id: electronic_led_0603_red_tint
+id_no_class: led_0603_red_tint
+id_no_size: red_tint
+id_no_type: 0603_red_tint
+kicad_reference: L
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_0603_red_tint
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_0603_red_tint
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_0603_red_tint
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers:
+-   id: manufacturer_xinglight
+    link: ''
+    name: XINGLIGHT
+    part_number: XL-1608SURC-06
+markdown_full: '[electronic_led_0603_red_tint](none)<br>[l6r](none)<br>[Electronic
+    Led 0603 Red Tint](none)<br>[LCSC - C965799<br>](https://lcsc.com/product-detail/C965799.html)[LCSC
+    - C2286<br>](https://lcsc.com/product-detail/C2286.html)<br>[XINGLIGHT - XL-1608SURC-06]()
+    [(L)  ](https://www.lcsc.com/search?q=XL-1608SURC-06)[(D)  ](https://www.digikey.com/en/products?keywords=XL-1608SURC-06)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=XL-1608SURC-06)[(N)  ](https://www.newark.com/search?st=XL-1608SURC-06)[(SZ)  ](https://so.szlcsc.com/global.html?k=XL-1608SURC-06)<br>'
+markdown_short: '[electronic_led_0603_red_tint](none)<br>[LCSC - C965799<br>](https://lcsc.com/product-detail/C965799.html)[LCSC
+    - C2286<br>](https://lcsc.com/product-detail/C2286.html)<br>[XINGLIGHT - XL-1608SURC-06]()'
+md5: 36184a3f9be24c920813fd926a0e144c
+md5_10: 36184a3f9b
+md5_10_upper: 36184A3F9B
+md5_5: '36184'
+md5_5_upper: '36184'
+md5_6: 36184a
+md5_6_alpha: 23zgq
+md5_6_alpha_upper: 23ZGQ
+md5_6_upper: 36184A
+name: Electronic Led 0603 Red Tint
+name_no_class: Led 0603 Red Tint
+name_no_size: Red Tint
+name_no_size_short: Red Tint
+name_no_type: 0603 Red Tint
+oomp_key: oomp_electronic_led_0603_red_tint
+package_style: smd_tape
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: l6r
+short_code_upper: L6R
+short_name: 0603 Redtint Led
+size: '0603'
+size_capital: '0603'
+size_first_letter: '0'
+size_first_letter_upper: '0'
+size_only_numbers: '0603'
+size_only_numbers_no_zeros: '63'
+size_upper: '0603'
+smd_tape_depth: 1_5_mm
+smd_tape_pitch: 4_mm
+smd_tape_width: 8_mm
+type: led
+type_capital: Led
+type_first_letter: l
+type_first_letter_upper: L
+type_upper: LED

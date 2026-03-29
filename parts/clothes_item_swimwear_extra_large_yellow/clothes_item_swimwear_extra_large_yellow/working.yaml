@@ -1,0 +1,78 @@
+classification: clothes
+classification_capital: Clothes
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CLOTHES
+color: extra_large
+color_capital: Extra Large
+color_first_letter: e
+color_first_letter_upper: E
+color_upper: EXTRA_LARGE
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: yellow
+description_main_capital: Yellow
+description_main_first_letter: y
+description_main_first_letter_upper: Y
+description_main_upper: YELLOW
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'E '
+description_or_color_upper: 'E '
+directory: parts/clothes_item_swimwear_extra_large_yellow
+distributors: []
+filter: ''
+from_yaml: false
+id: clothes_item_swimwear_extra_large_yellow
+id_no_class: item_swimwear_extra_large_yellow
+id_no_size: extra_large_yellow
+id_no_type: swimwear_extra_large_yellow
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_swimwear_extra_large_yellow
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_swimwear_extra_large_yellow
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_swimwear_extra_large_yellow
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[clothes_item_swimwear_extra_large_yellow](none)<br>[](none)<br>[Clothes
+    Item Swimwear Extra Large Yellow](none)<br><br>'
+markdown_short: '[clothes_item_swimwear_extra_large_yellow](none)<br><br>'
+md5: 81b6d4f391aa6c23b2d276b6f2056e53
+md5_10: 81b6d4f391
+md5_10_upper: 81B6D4F391
+md5_5: 81b6d
+md5_5_upper: 81B6D
+md5_6: 81b6d4
+md5_6_alpha: 527dg
+md5_6_alpha_upper: 527DG
+md5_6_upper: 81B6D4
+name: Clothes Item Swimwear Extra Large Yellow
+name_no_class: Item Swimwear Extra Large Yellow
+name_no_size: Extra Large Yellow
+name_no_size_short: Extra Large Yellow
+name_no_type: Swimwear Extra Large Yellow
+oomp_key: oomp_clothes_item_swimwear_extra_large_yellow
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: swimwear
+size_capital: Swimwear
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SWIMWEAR
+type: item
+type_capital: Item
+type_first_letter: i
+type_first_letter_upper: I
+type_upper: ITEM

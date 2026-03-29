@@ -1,0 +1,83 @@
+classification: storage
+classification_capital: Storage
+classification_first_letter: s
+classification_first_letter_upper: S
+classification_upper: STORAGE
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 1500_ml_capacity_110_mm_diameter_230_mm_depth
+description_main_capital: 1500 Ml Capacity 110 mm Diameter 230 mm Depth
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_upper: 1500_ML_CAPACITY_110_MM_DIAMETER_230_MM_DEPTH
+description_only_numbers: '1500110230'
+description_only_numbers_short: 1M5
+description_or_color: 1M5
+description_or_color_upper: 1M5
+directory: parts/storage_jar_clip_top_kilner_1500_ml_capacity_110_mm_diameter_230_mm_depth_kilner_0025_492
+distributors: []
+id: storage_jar_clip_top_kilner_1500_ml_capacity_110_mm_diameter_230_mm_depth_kilner_0025_492
+id_no_class: jar_clip_top_kilner_1500_ml_capacity_110_mm_diameter_230_mm_depth_kilner_0025_492
+id_no_size: 1500mlcapacity110mmdiameter230mmdepthkilner0025492
+id_no_type: 1500_ml_capacity_110_mm_diameter_230_mm_depth_kilner_0025_492
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/storage_jar_clip_top_kilner_1500_ml_capacity_110_mm_diameter_230_mm_depth_kilner_0025_492
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/storage_jar_clip_top_kilner_1500_ml_capacity_110_mm_diameter_230_mm_depth_kilner_0025_492
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/storage_jar_clip_top_kilner_1500_ml_capacity_110_mm_diameter_230_mm_depth_kilner_0025_492
+link_short_1: kilner_1_5_litre
+link_short_2: kilner15l
+link_short_3: kilner15liter
+manufacturer: kilner
+manufacturer_capital: Kilner
+manufacturer_first_letter: k
+manufacturer_first_letter_upper: K
+manufacturer_upper: KILNER
+manufacturers: []
+markdown_full: '[storage_jar_clip_top_kilner_1500_ml_capacity_110_mm_diameter_230_mm_depth_kilner_0025_492](none)<br>[](none)<br>[Storage
+    Jar Clip Top Kilner 1500 Ml Capacity 110 Mm Diameter 230 Mm Depth Kilner 0025
+    492](none)<br><br>'
+markdown_short: '[storage_jar_clip_top_kilner_1500_ml_capacity_110_mm_diameter_230_mm_depth_kilner_0025_492](none)<br><br>'
+md5: 6859404401f2ad35949c5f5a10c8a1b5
+md5_10: '6859404401'
+md5_10_upper: '6859404401'
+md5_5: '68594'
+md5_5_upper: '68594'
+md5_6: '685940'
+md5_6_alpha: 42kow
+md5_6_alpha_upper: 42KOW
+md5_6_upper: '685940'
+name: Storage Jar Clip Top Kilner 1500 Ml Capacity 110 Mm Diameter 230 Mm Depth Kilner
+    0025 492
+name_no_class: Jar Clip Top Kilner 1500 Ml Capacity 110 Mm Diameter 230 Mm Depth Kilner
+    0025 492
+name_no_size: 1500Mlcapacity110Mmdiameter230Mmdepthkilner0025492
+name_no_size_short: 1500Mlcapacity110Mmdiameter230Mmdepthkilner0025492
+name_no_type: 1500 Ml Capacity 110 Mm Diameter 230 Mm Depth Kilner 0025 492
+oomp_key: oomp_storage_jar_clip_top_kilner_1500_ml_capacity_110_mm_diameter_230_mm_depth_kilner_0025_492
+part_number: 0025_492
+part_number_capital: '0025.492'
+part_number_exact: '0025.492'
+part_number_first_letter: '0'
+part_number_first_letter_upper: '0'
+part_number_upper: 0025_492
+short_code: ''
+short_code_upper: ''
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: jar_clip_top_kilner
+type_capital: Jar Clip Top Kilner
+type_first_letter: j
+type_first_letter_upper: J
+type_upper: JAR_CLIP_TOP_KILNER

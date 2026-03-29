@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: tqfp_100
+color_capital: Tqfp 100
+color_first_letter: t
+color_first_letter_upper: T
+color_upper: TQFP_100
+description: category_electronic
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'T '
+description_or_color_upper: 'T '
+directory: parts/category_electronic_ic_tqfp_100
+distributors: []
+filter: ''
+from_yaml: false
+id: category_electronic_ic_tqfp_100
+id_no_class: electronic_ic_tqfp_100
+id_no_size: tqfp_100
+id_no_type: ic_tqfp_100
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_ic_tqfp_100
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_ic_tqfp_100
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_ic_tqfp_100
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_electronic_ic_tqfp_100](none)<br>[](none)<br>[Category Electronic
+    Ic Tqfp 100](none)<br><br>'
+markdown_short: '[category_electronic_ic_tqfp_100](none)<br><br>'
+md5: e2e6f2a827ef0aa322773035078fb2f5
+md5_10: e2e6f2a827
+md5_10_upper: E2E6F2A827
+md5_5: e2e6f
+md5_5_upper: E2E6F
+md5_6: e2e6f2
+md5_6_alpha: 8upyq
+md5_6_alpha_upper: 8UPYQ
+md5_6_upper: E2E6F2
+name: Category Electronic Ic Tqfp 100
+name_no_class: Electronic Ic Tqfp 100
+name_no_size: Tqfp 100
+name_no_size_short: Tqfp 100
+name_no_type: Ic Tqfp 100
+oomp_key: oomp_category_electronic_ic_tqfp_100
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryelectronic
+size: ic
+size_capital: Ic
+size_first_letter: i
+size_first_letter_upper: I
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: IC
+type: electronic
+type_capital: Electronic
+type_first_letter: e
+type_first_letter_upper: E
+type_upper: ELECTRONIC

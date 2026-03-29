@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: sod_123
+color_capital: Sod 123
+color_first_letter: s
+color_first_letter_upper: S
+color_upper: SOD_123
+description: category_electronic
+description_extra: cubby_box
+description_extra_capital: Cubby Box
+description_extra_first_letter: c
+description_extra_first_letter_upper: C
+description_extra_upper: CUBBY_BOX
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'S '
+description_or_color_upper: 'S '
+directory: parts/category_electronic_diode_sod_123_cubby_box
+distributors: []
+filter: ''
+from_yaml: false
+id: category_electronic_diode_sod_123_cubby_box
+id_no_class: electronic_diode_sod_123_cubby_box
+id_no_size: sod_123_cubby_box
+id_no_type: diode_sod_123_cubby_box
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_diode_sod_123_cubby_box
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_diode_sod_123_cubby_box
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_diode_sod_123_cubby_box
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_electronic_diode_sod_123_cubby_box](none)<br>[](none)<br>[Category
+    Electronic Diode Sod 123 Cubby Box](none)<br><br>'
+markdown_short: '[category_electronic_diode_sod_123_cubby_box](none)<br><br>'
+md5: 5c6f257d195952019c22c47118ba3c60
+md5_10: 5c6f257d19
+md5_10_upper: 5C6F257D19
+md5_5: 5c6f2
+md5_5_upper: 5C6F2
+md5_6: 5c6f25
+md5_6_alpha: 3lu79
+md5_6_alpha_upper: 3LU79
+md5_6_upper: 5C6F25
+name: Category Electronic Diode Sod 123 Cubby Box
+name_no_class: Electronic Diode Sod 123 Cubby Box
+name_no_size: Sod 123 Cubby Box
+name_no_size_short: Sod 123 Cubby Box
+name_no_type: Diode Sod 123 Cubby Box
+oomp_key: oomp_category_electronic_diode_sod_123_cubby_box
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryelectronic
+size: diode
+size_capital: Diode
+size_first_letter: d
+size_first_letter_upper: D
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: DIODE
+type: electronic
+type_capital: Electronic
+type_first_letter: e
+type_first_letter_upper: E
+type_upper: ELECTRONIC

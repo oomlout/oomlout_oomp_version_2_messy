@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: m4
+color_capital: M4
+color_first_letter: m
+color_first_letter_upper: M
+color_upper: M4
+description: category_hardware
+description_extra: old
+description_extra_capital: Old
+description_extra_first_letter: o
+description_extra_first_letter_upper: O
+description_extra_upper: OLD
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'M '
+description_or_color_upper: 'M '
+directory: parts/category_hardware_screw_socket_cap_low_head_m4_old
+distributors: []
+filter: ''
+from_yaml: false
+id: category_hardware_screw_socket_cap_low_head_m4_old
+id_no_class: hardware_screw_socket_cap_low_head_m4_old
+id_no_size: m4_old
+id_no_type: screw_socket_cap_low_head_m4_old
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_screw_socket_cap_low_head_m4_old
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_screw_socket_cap_low_head_m4_old
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_screw_socket_cap_low_head_m4_old
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_hardware_screw_socket_cap_low_head_m4_old](none)<br>[](none)<br>[Category
+    Hardware Screw Socket Cap Low Head M4 Old](none)<br><br>'
+markdown_short: '[category_hardware_screw_socket_cap_low_head_m4_old](none)<br><br>'
+md5: 813b135172f630cfcf6b2afc62c380e1
+md5_10: 813b135172
+md5_10_upper: 813B135172
+md5_5: 813b1
+md5_5_upper: 813B1
+md5_6: 813b13
+md5_6_alpha: 51ixf
+md5_6_alpha_upper: 51IXF
+md5_6_upper: 813B13
+name: Category Hardware Screw Socket Cap Low Head M4 Old
+name_no_class: Hardware Screw Socket Cap Low Head M4 Old
+name_no_size: M4 Old
+name_no_size_short: M4 Old
+name_no_type: Screw Socket Cap Low Head M4 Old
+oomp_key: oomp_category_hardware_screw_socket_cap_low_head_m4_old
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryhardware
+size: screw_socket_cap_low_head
+size_capital: Screw Socket Cap Low Head
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SCREW_SOCKET_CAP_LOW_HEAD
+type: hardware
+type_capital: Hardware
+type_first_letter: h
+type_first_letter_upper: H
+type_upper: HARDWARE

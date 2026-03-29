@@ -1,0 +1,81 @@
+classification: electrical
+classification_capital: Electrical
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_upper: ELECTRICAL
+color: uk_socket
+color_capital: Uk Socket
+color_first_letter: u
+color_first_letter_upper: U
+color_upper: UK_SOCKET
+description_extra: 2_1_mm_barrel_plug_center_positive
+description_extra_capital: 2.1 mm Barrel Plug Center Positive
+description_extra_first_letter: '2'
+description_extra_first_letter_upper: '2'
+description_extra_upper: 2_1_MM_BARREL_PLUG_CENTER_POSITIVE
+description_main: 5_volt_4_amp_output
+description_main_capital: 5 Volt 4 Amp Output
+description_main_first_letter: '5'
+description_main_first_letter_upper: '5'
+description_main_upper: 5_VOLT_4_AMP_OUTPUT
+description_only_numbers: '54'
+description_only_numbers_short: '54'
+description_or_color: U54
+description_or_color_upper: U54
+directory: parts/electrical_wall_wart_240_volt_input_uk_socket_5_volt_4_amp_output_2_1_mm_barrel_plug_center_positive
+distributors: []
+id: electrical_wall_wart_240_volt_input_uk_socket_5_volt_4_amp_output_2_1_mm_barrel_plug_center_positive
+id_no_class: wall_wart_240_volt_input_uk_socket_5_volt_4_amp_output_2_1_mm_barrel_plug_center_positive
+id_no_size: uk_socket_5_volt_4_amp_output_2_1_mm_barrel_plug_center_positive
+id_no_type: 240_volt_input_uk_socket_5_volt_4_amp_output_2_1_mm_barrel_plug_center_positive
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electrical_wall_wart_240_volt_input_uk_socket_5_volt_4_amp_output_2_1_mm_barrel_plug_center_positive
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electrical_wall_wart_240_volt_input_uk_socket_5_volt_4_amp_output_2_1_mm_barrel_plug_center_positive
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electrical_wall_wart_240_volt_input_uk_socket_5_volt_4_amp_output_2_1_mm_barrel_plug_center_positive
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[electrical_wall_wart_240_volt_input_uk_socket_5_volt_4_amp_output_2_1_mm_barrel_plug_center_positive](none)<br>[](none)<br>[Electrical
+    Wall Wart 240 Volt Input Uk Socket 5 Volt 4 Amp Output 2 1 Mm Barrel Plug Center
+    Positive](none)<br><br>'
+markdown_short: '[electrical_wall_wart_240_volt_input_uk_socket_5_volt_4_amp_output_2_1_mm_barrel_plug_center_positive](none)<br><br>'
+md5: 361ca519e5e931ef4001cbfdd31dd9b5
+md5_10: 361ca519e5
+md5_10_upper: 361CA519E5
+md5_5: 361ca
+md5_5_upper: 361CA
+md5_6: 361ca5
+md5_6_alpha: 240bp
+md5_6_alpha_upper: 240BP
+md5_6_upper: 361CA5
+name: Electrical Wall Wart 240 Volt Input Uk Socket 5 Volt 4 Amp Output 2 1 Mm Barrel
+    Plug Center Positive
+name_no_class: Wall Wart 240 Volt Input Uk Socket 5 Volt 4 Amp Output 2 1 Mm Barrel
+    Plug Center Positive
+name_no_size: Uk Socket 5 Volt 4 Amp Output 2 1 Mm Barrel Plug Center Positive
+name_no_size_short: Uk Socket 5 Volt 4 Amp Output 2 1 Mm Barrel Plug Center Positive
+name_no_type: 240 Volt Input Uk Socket 5 Volt 4 Amp Output 2 1 Mm Barrel Plug Center
+    Positive
+oomp_key: oomp_electrical_wall_wart_240_volt_input_uk_socket_5_volt_4_amp_output_2_1_mm_barrel_plug_center_positive
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: 240_volt_input
+size_capital: 240 Volt Input
+size_first_letter: '2'
+size_first_letter_upper: '2'
+size_only_numbers: '240'
+size_only_numbers_no_zeros: '24'
+size_upper: 240_VOLT_INPUT
+type: wall_wart
+type_capital: Wall Wart
+type_first_letter: w
+type_first_letter_upper: W
+type_upper: WALL_WART

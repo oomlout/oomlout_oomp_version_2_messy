@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: oomlout_owner
+color_capital: Oomlout Owner
+color_first_letter: o
+color_first_letter_upper: O
+color_upper: OOMLOUT_OWNER
+description: category_warehouse
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'O '
+description_or_color_upper: 'O '
+directory: parts/category_warehouse_storage_container_oomlout_owner
+distributors: []
+filter: ''
+from_yaml: false
+id: category_warehouse_storage_container_oomlout_owner
+id_no_class: warehouse_storage_container_oomlout_owner
+id_no_size: oomlout_owner
+id_no_type: storage_container_oomlout_owner
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_warehouse_storage_container_oomlout_owner
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_warehouse_storage_container_oomlout_owner
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_warehouse_storage_container_oomlout_owner
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_warehouse_storage_container_oomlout_owner](none)<br>[](none)<br>[Category
+    Warehouse Storage Container Oomlout Owner](none)<br><br>'
+markdown_short: '[category_warehouse_storage_container_oomlout_owner](none)<br><br>'
+md5: e40d6ff49d9d5b643652e4e184f1c571
+md5_10: e40d6ff49d
+md5_10_upper: E40D6FF49D
+md5_5: e40d6
+md5_5_upper: E40D6
+md5_6: e40d6f
+md5_6_alpha: 8wc4v
+md5_6_alpha_upper: 8WC4V
+md5_6_upper: E40D6F
+name: Category Warehouse Storage Container Oomlout Owner
+name_no_class: Warehouse Storage Container Oomlout Owner
+name_no_size: Oomlout Owner
+name_no_size_short: Oomlout Owner
+name_no_type: Storage Container Oomlout Owner
+oomp_key: oomp_category_warehouse_storage_container_oomlout_owner
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorywarehouse
+size: storage_container
+size_capital: Storage Container
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: STORAGE_CONTAINER
+type: warehouse
+type_capital: Warehouse
+type_first_letter: w
+type_first_letter_upper: W
+type_upper: WAREHOUSE

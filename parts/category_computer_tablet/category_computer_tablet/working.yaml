@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_computer_tablet
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_computer_tablet
+distributors: []
+filter: ''
+from_yaml: false
+id: category_computer_tablet
+id_no_class: computer_tablet
+id_no_size: computertablet
+id_no_type: computer_tablet
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_tablet
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_tablet
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_tablet
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_computer_tablet](none)<br>[](none)<br>[Category Computer
+    Tablet](none)<br><br>'
+markdown_short: '[category_computer_tablet](none)<br><br>'
+md5: 9b14e4ee7a5aa277a21e447c9c52217f
+md5_10: 9b14e4ee7a
+md5_10_upper: 9B14E4EE7A
+md5_5: 9b14e
+md5_5_upper: 9B14E
+md5_6: 9b14e4
+md5_6_alpha: 61u5g
+md5_6_alpha_upper: 61U5G
+md5_6_upper: 9B14E4
+name: Category Computer Tablet
+name_no_class: Computer Tablet
+name_no_size: Computertablet
+name_no_size_short: Computertablet
+name_no_type: Computer Tablet
+oomp_key: oomp_category_computer_tablet
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorycomputertablet
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: computer_tablet
+type_capital: Computer Tablet
+type_first_letter: c
+type_first_letter_upper: C
+type_upper: COMPUTER_TABLET

@@ -1,0 +1,78 @@
+classification: clothes
+classification_capital: Clothes
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CLOTHES
+color: double_extra_large
+color_capital: Double Extra Large
+color_first_letter: d
+color_first_letter_upper: D
+color_upper: DOUBLE_EXTRA_LARGE
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: black
+description_main_capital: Black
+description_main_first_letter: b
+description_main_first_letter_upper: B
+description_main_upper: BLACK
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'D '
+description_or_color_upper: 'D '
+directory: parts/clothes_item_shorts_double_extra_large_black
+distributors: []
+filter: ''
+from_yaml: false
+id: clothes_item_shorts_double_extra_large_black
+id_no_class: item_shorts_double_extra_large_black
+id_no_size: double_extra_large_black
+id_no_type: shorts_double_extra_large_black
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_shorts_double_extra_large_black
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_shorts_double_extra_large_black
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_shorts_double_extra_large_black
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[clothes_item_shorts_double_extra_large_black](none)<br>[](none)<br>[Clothes
+    Item Shorts Double Extra Large Black](none)<br><br>'
+markdown_short: '[clothes_item_shorts_double_extra_large_black](none)<br><br>'
+md5: cdf23787b24b29ec13f152808b677901
+md5_10: cdf23787b2
+md5_10_upper: CDF23787B2
+md5_5: cdf23
+md5_5_upper: CDF23
+md5_6: cdf237
+md5_6_alpha: 81a9j
+md5_6_alpha_upper: 81A9J
+md5_6_upper: CDF237
+name: Clothes Item Shorts Double Extra Large Black
+name_no_class: Item Shorts Double Extra Large Black
+name_no_size: Double Extra Large Black
+name_no_size_short: Double Extra Large Black
+name_no_type: Shorts Double Extra Large Black
+oomp_key: oomp_clothes_item_shorts_double_extra_large_black
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: shorts
+size_capital: Shorts
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SHORTS
+type: item
+type_capital: Item
+type_first_letter: i
+type_first_letter_upper: I
+type_upper: ITEM

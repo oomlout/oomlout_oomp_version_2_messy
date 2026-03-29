@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: 5200_series
+color_capital: 5200 Series
+color_first_letter: '5'
+color_first_letter_upper: '5'
+color_upper: 5200_SERIES
+description: category_hardware
+description_extra: tote
+description_extra_capital: Tote
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TOTE
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: '5 '
+description_or_color_upper: '5 '
+directory: parts/category_hardware_bearing_5200_series_tote
+distributors: []
+filter: ''
+from_yaml: false
+id: category_hardware_bearing_5200_series_tote
+id_no_class: hardware_bearing_5200_series_tote
+id_no_size: 5200_series_tote
+id_no_type: bearing_5200_series_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_bearing_5200_series_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_bearing_5200_series_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_bearing_5200_series_tote
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_hardware_bearing_5200_series_tote](none)<br>[](none)<br>[Category
+    Hardware Bearing 5200 Series Tote](none)<br><br>'
+markdown_short: '[category_hardware_bearing_5200_series_tote](none)<br><br>'
+md5: 1b2ef823b9bde5e9bb0b5ba7342d5b1a
+md5_10: 1b2ef823b9
+md5_10_upper: 1B2EF823B9
+md5_5: 1b2ef
+md5_5_upper: 1B2EF
+md5_6: 1b2ef8
+md5_6_alpha: 126m0
+md5_6_alpha_upper: 126M0
+md5_6_upper: 1B2EF8
+name: Category Hardware Bearing 5200 Series Tote
+name_no_class: Hardware Bearing 5200 Series Tote
+name_no_size: 5200 Series Tote
+name_no_size_short: 5200 Series Tote
+name_no_type: Bearing 5200 Series Tote
+oomp_key: oomp_category_hardware_bearing_5200_series_tote
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryhardware
+size: bearing
+size_capital: Bearing
+size_first_letter: b
+size_first_letter_upper: B
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: BEARING
+type: hardware
+type_capital: Hardware
+type_first_letter: h
+type_first_letter_upper: H
+type_upper: HARDWARE

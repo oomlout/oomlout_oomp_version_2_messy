@@ -1,0 +1,83 @@
+classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_upper: ELECTRONIC
+color: surface_mount
+color_capital: Surface Mount
+color_first_letter: s
+color_first_letter_upper: S
+color_upper: SURFACE_MOUNT
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: single_pole_double_throw
+description_main_capital: Single Pole Double Throw
+description_main_first_letter: s
+description_main_first_letter_upper: S
+description_main_upper: SINGLE_POLE_DOUBLE_THROW
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'S '
+description_or_color_upper: 'S '
+directory: parts/electronic_switch_slide_2_54_header_surface_mount_single_pole_double_throw
+distributors:
+-   id: distributor_lcsc
+    link: https://lcsc.com/product-detail/C431540.html
+    name: LCSC
+    part_number: C431540
+id: electronic_switch_slide_2_54_header_surface_mount_single_pole_double_throw
+id_no_class: switch_slide_2_54_header_surface_mount_single_pole_double_throw
+id_no_size: surface_mount_single_pole_double_throw
+id_no_type: 2_54_header_surface_mount_single_pole_double_throw
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_switch_slide_2_54_header_surface_mount_single_pole_double_throw
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_switch_slide_2_54_header_surface_mount_single_pole_double_throw
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_switch_slide_2_54_header_surface_mount_single_pole_double_throw
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[electronic_switch_slide_2_54_header_surface_mount_single_pole_double_throw](none)<br>[swsi1hs](none)<br>[Electronic
+    Switch Slide 2 54 Header Surface Mount Single Pole Double Throw](none)<br>[LCSC
+    - C431540<br>](https://lcsc.com/product-detail/C431540.html)<br>'
+markdown_short: '[electronic_switch_slide_2_54_header_surface_mount_single_pole_double_throw](none)<br>[LCSC
+    - C431540<br>](https://lcsc.com/product-detail/C431540.html)<br>'
+md5: 0468632b34e10d5b7294280ac59b3c79
+md5_10: 0468632b34
+md5_10_upper: 0468632B34
+md5_5: 04686
+md5_5_upper: 04686
+md5_6: 046863
+md5_6_alpha: 66w3
+md5_6_alpha_upper: 66W3
+md5_6_upper: 046863
+name: Electronic Switch Slide 2 54 Header Surface Mount Single Pole Double Throw
+name_no_class: Switch Slide 2 54 Header Surface Mount Single Pole Double Throw
+name_no_size: Surface Mount Single Pole Double Throw
+name_no_size_short: Surface Mount Single Pole Double Throw
+name_no_type: 2 54 Header Surface Mount Single Pole Double Throw
+oomp_key: oomp_electronic_switch_slide_2_54_header_surface_mount_single_pole_double_throw
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: swsi1hs
+short_code_upper: SWSI1HS
+short_name: ''
+size: 2_54_header
+size_capital: 2.54 Header
+size_first_letter: '2'
+size_first_letter_upper: '2'
+size_only_numbers: '254'
+size_only_numbers_no_zeros: '254'
+size_upper: 2_54_HEADER
+type: switch_slide
+type_capital: Switch Slide
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: SWITCH_SLIDE

@@ -1,0 +1,79 @@
+classification: garden
+classification_capital: Garden
+classification_first_letter: g
+classification_first_letter_upper: G
+classification_upper: GARDEN
+color: lupin
+color_capital: Lupin
+color_first_letter: l
+color_first_letter_upper: L
+color_upper: LUPIN
+description_extra: seed_packet
+description_extra_capital: Seed Packet
+description_extra_first_letter: s
+description_extra_first_letter_upper: S
+description_extra_upper: SEED_PACKET
+description_main: mix_gallery
+description_main_capital: Mix Gallery
+description_main_first_letter: m
+description_main_first_letter_upper: M
+description_main_upper: MIX_GALLERY
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'L '
+description_or_color_upper: 'L '
+directory: parts/garden_plant_flower_lupin_mix_gallery_seed_packet
+distributor_sutton_seeds: '142035'
+distributors: []
+id: garden_plant_flower_lupin_mix_gallery_seed_packet
+id_no_class: plant_flower_lupin_mix_gallery_seed_packet
+id_no_size: lupin_mix_gallery_seed_packet
+id_no_type: flower_lupin_mix_gallery_seed_packet
+link_distributor_sutton_seeds: https://www.suttons.co.uk/flower-seeds/all/lupin-seeds-gallery-mix_MH-623
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/garden_plant_flower_lupin_mix_gallery_seed_packet
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/garden_plant_flower_lupin_mix_gallery_seed_packet
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/garden_plant_flower_lupin_mix_gallery_seed_packet
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[garden_plant_flower_lupin_mix_gallery_seed_packet](none)<br>[](none)<br>[Garden
+    Plant Flower Lupin Mix Gallery Seed Packet](none)<br><br>'
+markdown_short: '[garden_plant_flower_lupin_mix_gallery_seed_packet](none)<br><br>'
+md5: 95ae3fbe2c9051a3f8327a5ec19a4bee
+md5_10: 95ae3fbe2c
+md5_10_upper: 95AE3FBE2C
+md5_5: 95ae3
+md5_5_upper: 95AE3
+md5_6: 95ae3f
+md5_6_alpha: 5u91b
+md5_6_alpha_upper: 5U91B
+md5_6_upper: 95AE3F
+name: Garden Plant Flower Lupin Mix Gallery Seed Packet
+name_no_class: Plant Flower Lupin Mix Gallery Seed Packet
+name_no_size: Lupin Mix Gallery Seed Packet
+name_no_size_short: Lupin Mix Gallery Seed Packet
+name_no_type: Flower Lupin Mix Gallery Seed Packet
+oomp_key: oomp_garden_plant_flower_lupin_mix_gallery_seed_packet
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: flower
+size_capital: Flower
+size_first_letter: f
+size_first_letter_upper: F
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: FLOWER
+type: plant
+type_capital: Plant
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PLANT

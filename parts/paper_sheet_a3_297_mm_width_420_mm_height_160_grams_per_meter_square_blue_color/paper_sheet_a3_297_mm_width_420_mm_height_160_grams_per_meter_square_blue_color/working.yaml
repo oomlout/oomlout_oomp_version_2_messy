@@ -1,0 +1,81 @@
+classification: paper
+classification_capital: Paper
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_upper: PAPER
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: blue_color
+description_extra_capital: Blue Color
+description_extra_first_letter: b
+description_extra_first_letter_upper: B
+description_extra_upper: BLUE_COLOR
+description_main: 160_grams_per_meter_square
+description_main_capital: 160 Grams Per Meter Square
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_upper: 160_GRAMS_PER_METER_SQUARE
+description_only_numbers: '160'
+description_only_numbers_short: '160'
+description_or_color: '160'
+description_or_color_upper: '160'
+directory: parts/paper_sheet_a3_297_mm_width_420_mm_height_160_grams_per_meter_square_blue_color
+distributors: []
+filter: ''
+from_yaml: false
+height: 420 mm
+id: paper_sheet_a3_297_mm_width_420_mm_height_160_grams_per_meter_square_blue_color
+id_no_class: sheet_a3_297_mm_width_420_mm_height_160_grams_per_meter_square_blue_color
+id_no_size: 160_grams_per_meter_square_blue_color
+id_no_type: a3_297_mm_width_420_mm_height_160_grams_per_meter_square_blue_color
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a3_297_mm_width_420_mm_height_160_grams_per_meter_square_blue_color
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a3_297_mm_width_420_mm_height_160_grams_per_meter_square_blue_color
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a3_297_mm_width_420_mm_height_160_grams_per_meter_square_blue_color
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[paper_sheet_a3_297_mm_width_420_mm_height_160_grams_per_meter_square_blue_color](none)<br>[](none)<br>[Paper
+    Sheet A3 297 Mm Width 420 Mm Height 160 Grams Per Meter Square Blue Color](none)<br><br>'
+markdown_short: '[paper_sheet_a3_297_mm_width_420_mm_height_160_grams_per_meter_square_blue_color](none)<br><br>'
+md5: 9e6c900b0e2d7d2ddb34dfc188fb5b2b
+md5_10: 9e6c900b0e
+md5_10_upper: 9E6C900B0E
+md5_5: 9e6c9
+md5_5_upper: 9E6C9
+md5_6: 9e6c90
+md5_6_alpha: 66j68
+md5_6_alpha_upper: 66J68
+md5_6_upper: 9E6C90
+name: Paper Sheet A3 297 Mm Width 420 Mm Height 160 Grams Per Meter Square Blue Color
+name_no_class: Sheet A3 297 Mm Width 420 Mm Height 160 Grams Per Meter Square Blue
+    Color
+name_no_size: 160 Grams Per Meter Square Blue Color
+name_no_size_short: 160 Grams Per Meter Square Blue Color
+name_no_type: A3 297 Mm Width 420 Mm Height 160 Grams Per Meter Square Blue Color
+oomp_key: oomp_paper_sheet_a3_297_mm_width_420_mm_height_160_grams_per_meter_square_blue_color
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: a3_297_mm_width_420_mm_height
+size_capital: A3.297 mm Width 420 mm Height
+size_first_letter: a
+size_first_letter_upper: A
+size_only_numbers: '3297420'
+size_only_numbers_no_zeros: '329742'
+size_upper: A3_297_MM_WIDTH_420_MM_HEIGHT
+type: sheet
+type_capital: Sheet
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: SHEET
+width: 297 mm

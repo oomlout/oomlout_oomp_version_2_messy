@@ -1,0 +1,93 @@
+classification: printer
+classification_capital: Printer
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_upper: PRINTER
+color: color
+color_capital: Color
+color_first_letter: c
+color_first_letter_upper: C
+color_upper: COLOR
+compatible_ink_bottles:
+- '27'
+- 27XL
+description_chat_gpt: Fast 4-in-1 with duplex ADF and 250-sheet tray.
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'C '
+description_or_color_upper: 'C '
+directory: parts/printer_inkjet_a4_color_epson_workforce_wf_3520dwf
+distributors: []
+features:
+- duplex_print_scan
+- ethernet
+- wifi
+- adf
+- fax
+id: printer_inkjet_a4_color_epson_workforce_wf_3520dwf
+id_no_class: inkjet_a4_color_epson_workforce_wf_3520dwf
+id_no_size: color_epson_workforce_wf_3520dwf
+id_no_type: a4_color_epson_workforce_wf_3520dwf
+ink_type: pigment
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_inkjet_a4_color_epson_workforce_wf_3520dwf
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_inkjet_a4_color_epson_workforce_wf_3520dwf
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_inkjet_a4_color_epson_workforce_wf_3520dwf
+manufacturer: epson_workforce
+manufacturer_capital: Epson Workforce
+manufacturer_first_letter: e
+manufacturer_first_letter_upper: E
+manufacturer_upper: EPSON_WORKFORCE
+manufacturers: []
+markdown_full: '[printer_inkjet_a4_color_epson_workforce_wf_3520dwf](none)<br>[](none)<br>[Printer
+    Inkjet A4 Color Epson Workforce Wf 3520Dwf](none)<br><br>'
+markdown_short: '[printer_inkjet_a4_color_epson_workforce_wf_3520dwf](none)<br><br>'
+md5: 16a9f49e1745237bae1adb80e6f70be1
+md5_10: 16a9f49e17
+md5_10_upper: 16A9F49E17
+md5_5: 16a9f
+md5_5_upper: 16A9F
+md5_6: 16a9f4
+md5_6_alpha: vu2c
+md5_6_alpha_upper: VU2C
+md5_6_upper: 16A9F4
+name: Printer Inkjet A4 Color Epson Workforce Wf 3520Dwf
+name_no_class: Inkjet A4 Color Epson Workforce Wf 3520Dwf
+name_no_size: Color Epson Workforce Wf 3520Dwf
+name_no_size_short: Color Epson Workforce Wf 3520Dwf
+name_no_type: A4 Color Epson Workforce Wf 3520Dwf
+nozzle_count_black: 384
+nozzle_count_per_colour: 128
+oomp_key: oomp_printer_inkjet_a4_color_epson_workforce_wf_3520dwf
+original_rrp_gbp: 149.99
+part_number: wf_3520dwf
+part_number_capital: Wf 3520Dwf
+part_number_first_letter: w
+part_number_first_letter_upper: W
+part_number_upper: WF_3520DWF
+printhead_technology: Micro Piezo
+short_code: ''
+short_code_upper: ''
+short_name: WorkForce WF-3520DWF
+size: a4
+size_capital: A4
+size_first_letter: a
+size_first_letter_upper: A
+size_only_numbers: '4'
+size_only_numbers_no_zeros: '4'
+size_upper: A4
+total_colours: 4
+type: inkjet
+type_capital: Inkjet
+type_first_letter: i
+type_first_letter_upper: I
+type_upper: INKJET

@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: anycubic_vyper
+color_capital: Anycubic Vyper
+color_first_letter: a
+color_first_letter_upper: A
+color_upper: ANYCUBIC_VYPER
+description: category_three_d_printer
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'A '
+description_or_color_upper: 'A '
+directory: parts/category_three_d_printer_spare_part_anycubic_vyper
+distributors: []
+filter: ''
+from_yaml: false
+id: category_three_d_printer_spare_part_anycubic_vyper
+id_no_class: three_d_printer_spare_part_anycubic_vyper
+id_no_size: anycubic_vyper
+id_no_type: spare_part_anycubic_vyper
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_three_d_printer_spare_part_anycubic_vyper
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_three_d_printer_spare_part_anycubic_vyper
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_three_d_printer_spare_part_anycubic_vyper
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_three_d_printer_spare_part_anycubic_vyper](none)<br>[](none)<br>[Category
+    Three D Printer Spare Part Anycubic Vyper](none)<br><br>'
+markdown_short: '[category_three_d_printer_spare_part_anycubic_vyper](none)<br><br>'
+md5: 2381a54ea7186728ebf0a32243f5d64f
+md5_10: 2381a54ea7
+md5_10_upper: 2381A54EA7
+md5_5: 2381a
+md5_5_upper: 2381A
+md5_6: 2381a5
+md5_6_alpha: 1dvhh
+md5_6_alpha_upper: 1DVHH
+md5_6_upper: 2381A5
+name: Category Three D Printer Spare Part Anycubic Vyper
+name_no_class: Three D Printer Spare Part Anycubic Vyper
+name_no_size: Anycubic Vyper
+name_no_size_short: Anycubic Vyper
+name_no_type: Spare Part Anycubic Vyper
+oomp_key: oomp_category_three_d_printer_spare_part_anycubic_vyper
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorythreedprinter
+size: spare_part
+size_capital: Spare Part
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SPARE_PART
+type: three_d_printer
+type_capital: Three D Printer
+type_first_letter: t
+type_first_letter_upper: T
+type_upper: THREE_D_PRINTER

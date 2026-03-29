@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: m6
+color_capital: M6
+color_first_letter: m
+color_first_letter_upper: M
+color_upper: M6
+description: category_hardware
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'M '
+description_or_color_upper: 'M '
+directory: parts/category_hardware_bolt_m6
+distributors: []
+filter: ''
+from_yaml: false
+id: category_hardware_bolt_m6
+id_no_class: hardware_bolt_m6
+id_no_size: m6
+id_no_type: bolt_m6
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_bolt_m6
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_bolt_m6
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_bolt_m6
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_hardware_bolt_m6](none)<br>[](none)<br>[Category Hardware
+    Bolt M6](none)<br><br>'
+markdown_short: '[category_hardware_bolt_m6](none)<br><br>'
+md5: 4a72b2bf613186f3dac265ea6a2fe0c5
+md5_10: 4a72b2bf61
+md5_10_upper: 4A72B2BF61
+md5_5: 4a72b
+md5_5_upper: 4A72B
+md5_6: 4a72b2
+md5_6_alpha: 2wkoi
+md5_6_alpha_upper: 2WKOI
+md5_6_upper: 4A72B2
+name: Category Hardware Bolt M6
+name_no_class: Hardware Bolt M6
+name_no_size: M6
+name_no_size_short: M6
+name_no_type: Bolt M6
+oomp_key: oomp_category_hardware_bolt_m6
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryhardware
+size: bolt
+size_capital: Bolt
+size_first_letter: b
+size_first_letter_upper: B
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: BOLT
+type: hardware
+type_capital: Hardware
+type_first_letter: h
+type_first_letter_upper: H
+type_upper: HARDWARE

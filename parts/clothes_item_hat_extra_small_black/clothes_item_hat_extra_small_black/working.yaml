@@ -1,0 +1,78 @@
+classification: clothes
+classification_capital: Clothes
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CLOTHES
+color: extra_small
+color_capital: Extra Small
+color_first_letter: e
+color_first_letter_upper: E
+color_upper: EXTRA_SMALL
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: black
+description_main_capital: Black
+description_main_first_letter: b
+description_main_first_letter_upper: B
+description_main_upper: BLACK
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'E '
+description_or_color_upper: 'E '
+directory: parts/clothes_item_hat_extra_small_black
+distributors: []
+filter: ''
+from_yaml: false
+id: clothes_item_hat_extra_small_black
+id_no_class: item_hat_extra_small_black
+id_no_size: extra_small_black
+id_no_type: hat_extra_small_black
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_hat_extra_small_black
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_hat_extra_small_black
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_hat_extra_small_black
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[clothes_item_hat_extra_small_black](none)<br>[](none)<br>[Clothes
+    Item Hat Extra Small Black](none)<br><br>'
+markdown_short: '[clothes_item_hat_extra_small_black](none)<br><br>'
+md5: b393e04231c16207c5375a1edba1d4ff
+md5_10: b393e04231
+md5_10_upper: B393E04231
+md5_5: b393e
+md5_5_upper: B393E
+md5_6: b393e0
+md5_6_alpha: 708v4
+md5_6_alpha_upper: 708V4
+md5_6_upper: B393E0
+name: Clothes Item Hat Extra Small Black
+name_no_class: Item Hat Extra Small Black
+name_no_size: Extra Small Black
+name_no_size_short: Extra Small Black
+name_no_type: Hat Extra Small Black
+oomp_key: oomp_clothes_item_hat_extra_small_black
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: hat
+size_capital: Hat
+size_first_letter: h
+size_first_letter_upper: H
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: HAT
+type: item
+type_capital: Item
+type_first_letter: i
+type_first_letter_upper: I
+type_upper: ITEM

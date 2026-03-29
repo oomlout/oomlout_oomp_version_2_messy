@@ -1,0 +1,82 @@
+classification: company_oomlout
+classification_capital: Company Oomlout
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: COMPANY_OOMLOUT
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: version_1
+description_extra_capital: Version 1
+description_extra_first_letter: v
+description_extra_first_letter_upper: V
+description_extra_upper: VERSION_1
+description_main: hardware_screw_socket_cap_m3_black_hex_head
+description_main_capital: Hardware Screw Socket Cap M3 Black Hex Head
+description_main_first_letter: h
+description_main_first_letter_upper: H
+description_main_upper: HARDWARE_SCREW_SOCKET_CAP_M3_BLACK_HEX_HEAD
+description_only_numbers: '3'
+description_only_numbers_short: '3'
+description_or_color: '3'
+description_or_color_upper: '3'
+directory: parts/company_oomlout_product_prototyping_tin_hardware_screw_socket_cap_m3_black_hex_head_version_1
+distributors: []
+filter: ''
+from_yaml: false
+id: company_oomlout_product_prototyping_tin_hardware_screw_socket_cap_m3_black_hex_head_version_1
+id_no_class: product_prototyping_tin_hardware_screw_socket_cap_m3_black_hex_head_version_1
+id_no_size: hardware_screw_socket_cap_m3_black_hex_head_version_1
+id_no_type: prototyping_tin_hardware_screw_socket_cap_m3_black_hex_head_version_1
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/company_oomlout_product_prototyping_tin_hardware_screw_socket_cap_m3_black_hex_head_version_1
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/company_oomlout_product_prototyping_tin_hardware_screw_socket_cap_m3_black_hex_head_version_1
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/company_oomlout_product_prototyping_tin_hardware_screw_socket_cap_m3_black_hex_head_version_1
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[company_oomlout_product_prototyping_tin_hardware_screw_socket_cap_m3_black_hex_head_version_1](none)<br>[](none)<br>[Company
+    Oomlout Product Prototyping Tin Hardware Screw Socket Cap M3 Black Hex Head Version
+    1](none)<br><br>'
+markdown_short: '[company_oomlout_product_prototyping_tin_hardware_screw_socket_cap_m3_black_hex_head_version_1](none)<br><br>'
+md5: a45477d1317e06ca19c00ba545bc6443
+md5_10: a45477d131
+md5_10_upper: A45477D131
+md5_5: a4547
+md5_5_upper: A4547
+md5_6: a45477
+md5_6_alpha: 6ettj
+md5_6_alpha_upper: 6ETTJ
+md5_6_upper: A45477
+name: Company Oomlout Product Prototyping Tin Hardware Screw Socket Cap M3 Black Hex
+    Head Version 1
+name_no_class: Product Prototyping Tin Hardware Screw Socket Cap M3 Black Hex Head
+    Version 1
+name_no_size: Hardware Screw Socket Cap M3 Black Hex Head Version 1
+name_no_size_short: Hardware Screw Socket Cap M3 Black Hex Head Version 1
+name_no_type: Prototyping Tin Hardware Screw Socket Cap M3 Black Hex Head Version
+    1
+oomp_key: oomp_company_oomlout_product_prototyping_tin_hardware_screw_socket_cap_m3_black_hex_head_version_1
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: prototyping_tin
+size_capital: Prototyping Tin
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PROTOTYPING_TIN
+type: product
+type_capital: Product
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PRODUCT

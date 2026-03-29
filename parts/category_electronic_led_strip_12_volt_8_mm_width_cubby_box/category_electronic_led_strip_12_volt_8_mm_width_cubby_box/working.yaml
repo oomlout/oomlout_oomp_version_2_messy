@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: strip_12_volt_8_mm_width
+color_capital: Strip 12 Volt 8 mm Width
+color_first_letter: s
+color_first_letter_upper: S
+color_upper: STRIP_12_VOLT_8_MM_WIDTH
+description: category_electronic
+description_extra: cubby_box
+description_extra_capital: Cubby Box
+description_extra_first_letter: c
+description_extra_first_letter_upper: C
+description_extra_upper: CUBBY_BOX
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'S '
+description_or_color_upper: 'S '
+directory: parts/category_electronic_led_strip_12_volt_8_mm_width_cubby_box
+distributors: []
+filter: ''
+from_yaml: false
+id: category_electronic_led_strip_12_volt_8_mm_width_cubby_box
+id_no_class: electronic_led_strip_12_volt_8_mm_width_cubby_box
+id_no_size: strip_12_volt_8_mm_width_cubby_box
+id_no_type: led_strip_12_volt_8_mm_width_cubby_box
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_led_strip_12_volt_8_mm_width_cubby_box
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_led_strip_12_volt_8_mm_width_cubby_box
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_led_strip_12_volt_8_mm_width_cubby_box
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_electronic_led_strip_12_volt_8_mm_width_cubby_box](none)<br>[](none)<br>[Category
+    Electronic Led Strip 12 Volt 8 Mm Width Cubby Box](none)<br><br>'
+markdown_short: '[category_electronic_led_strip_12_volt_8_mm_width_cubby_box](none)<br><br>'
+md5: f5f1836b24303c2542032cdeea10e1c7
+md5_10: f5f1836b24
+md5_10_upper: F5F1836B24
+md5_5: f5f18
+md5_5_upper: F5F18
+md5_6: f5f183
+md5_6_alpha: 9lgub
+md5_6_alpha_upper: 9LGUB
+md5_6_upper: F5F183
+name: Category Electronic Led Strip 12 Volt 8 Mm Width Cubby Box
+name_no_class: Electronic Led Strip 12 Volt 8 Mm Width Cubby Box
+name_no_size: Strip 12 Volt 8 Mm Width Cubby Box
+name_no_size_short: Strip 12 Volt 8 Mm Width Cubby Box
+name_no_type: Led Strip 12 Volt 8 Mm Width Cubby Box
+oomp_key: oomp_category_electronic_led_strip_12_volt_8_mm_width_cubby_box
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryelectronic
+size: led
+size_capital: Led
+size_first_letter: l
+size_first_letter_upper: L
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: LED
+type: electronic
+type_capital: Electronic
+type_first_letter: e
+type_first_letter_upper: E
+type_upper: ELECTRONIC

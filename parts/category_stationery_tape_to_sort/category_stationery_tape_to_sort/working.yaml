@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_stationery
+description_extra: to_sort
+description_extra_capital: To Sort
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TO_SORT
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_stationery_tape_to_sort
+distributors: []
+filter: ''
+from_yaml: false
+id: category_stationery_tape_to_sort
+id_no_class: stationery_tape_to_sort
+id_no_size: to_sort
+id_no_type: tape_to_sort
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_stationery_tape_to_sort
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_stationery_tape_to_sort
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_stationery_tape_to_sort
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_stationery_tape_to_sort](none)<br>[](none)<br>[Category
+    Stationery Tape To Sort](none)<br><br>'
+markdown_short: '[category_stationery_tape_to_sort](none)<br><br>'
+md5: 220d346f03e54d44502158546835bb43
+md5_10: 220d346f03
+md5_10_upper: 220D346F03
+md5_5: 220d3
+md5_5_upper: 220D3
+md5_6: 220d34
+md5_6_alpha: 1btx0
+md5_6_alpha_upper: 1BTX0
+md5_6_upper: 220D34
+name: Category Stationery Tape To Sort
+name_no_class: Stationery Tape To Sort
+name_no_size: To Sort
+name_no_size_short: To Sort
+name_no_type: Tape To Sort
+oomp_key: oomp_category_stationery_tape_to_sort
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorystationery
+size: tape
+size_capital: Tape
+size_first_letter: t
+size_first_letter_upper: T
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: TAPE
+type: stationery
+type_capital: Stationery
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: STATIONERY

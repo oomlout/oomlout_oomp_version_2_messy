@@ -1,0 +1,78 @@
+classification: clothes
+classification_capital: Clothes
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CLOTHES
+color: small
+color_capital: Small
+color_first_letter: s
+color_first_letter_upper: S
+color_upper: SMALL
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: lime
+description_main_capital: Lime
+description_main_first_letter: l
+description_main_first_letter_upper: L
+description_main_upper: LIME
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'S '
+description_or_color_upper: 'S '
+directory: parts/clothes_item_gloves_small_lime
+distributors: []
+filter: ''
+from_yaml: false
+id: clothes_item_gloves_small_lime
+id_no_class: item_gloves_small_lime
+id_no_size: small_lime
+id_no_type: gloves_small_lime
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_gloves_small_lime
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_gloves_small_lime
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_gloves_small_lime
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[clothes_item_gloves_small_lime](none)<br>[](none)<br>[Clothes Item
+    Gloves Small Lime](none)<br><br>'
+markdown_short: '[clothes_item_gloves_small_lime](none)<br><br>'
+md5: c51d1c4abf92546390e8bd0ecccf31d8
+md5_10: c51d1c4abf
+md5_10_upper: C51D1C4ABF
+md5_5: c51d1
+md5_5_upper: C51D1
+md5_6: c51d1c
+md5_6_alpha: 7ovmk
+md5_6_alpha_upper: 7OVMK
+md5_6_upper: C51D1C
+name: Clothes Item Gloves Small Lime
+name_no_class: Item Gloves Small Lime
+name_no_size: Small Lime
+name_no_size_short: Small Lime
+name_no_type: Gloves Small Lime
+oomp_key: oomp_clothes_item_gloves_small_lime
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: gloves
+size_capital: Gloves
+size_first_letter: g
+size_first_letter_upper: G
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: GLOVES
+type: item
+type_capital: Item
+type_first_letter: i
+type_first_letter_upper: I
+type_upper: ITEM

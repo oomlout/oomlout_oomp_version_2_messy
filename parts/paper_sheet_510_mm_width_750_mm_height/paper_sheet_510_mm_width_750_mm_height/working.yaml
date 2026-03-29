@@ -1,0 +1,80 @@
+classification: paper
+classification_capital: Paper
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_upper: PAPER
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/paper_sheet_510_mm_width_750_mm_height
+distributors: []
+filter: ''
+from_yaml: false
+height: 750 mm
+id: paper_sheet_510_mm_width_750_mm_height
+id_no_class: sheet_510_mm_width_750_mm_height
+id_no_size: 510_mm_width_750_mm_height
+id_no_type: 510_mm_width_750_mm_height
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_510_mm_width_750_mm_height
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_510_mm_width_750_mm_height
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_510_mm_width_750_mm_height
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[paper_sheet_510_mm_width_750_mm_height](none)<br>[](none)<br>[Paper
+    Sheet 510 Mm Width 750 Mm Height](none)<br><br>'
+markdown_short: '[paper_sheet_510_mm_width_750_mm_height](none)<br><br>'
+md5: 0dc321213e3b7bccf49ce7e0228ab62f
+md5_10: 0dc321213e
+md5_10_upper: 0DC321213E
+md5_5: 0dc32
+md5_5_upper: 0DC32
+md5_6: 0dc321
+md5_6_alpha: jbxd
+md5_6_alpha_upper: JBXD
+md5_6_upper: 0DC321
+name: Paper Sheet 510 Mm Width 750 Mm Height
+name_no_class: Sheet 510 Mm Width 750 Mm Height
+name_no_size: 510 Mm Width 750 Mm Height
+name_no_size_short: 510 Mm Width 750 Mm Height
+name_no_type: 510 Mm Width 750 Mm Height
+oomp_key: oomp_paper_sheet_510_mm_width_750_mm_height
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: 510_mm_width_750_mm_height
+size_capital: 510 mm Width 750 mm Height
+size_first_letter: '5'
+size_first_letter_upper: '5'
+size_only_numbers: '510750'
+size_only_numbers_no_zeros: '5175'
+size_upper: 510_MM_WIDTH_750_MM_HEIGHT
+type: sheet
+type_capital: Sheet
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: SHEET
+width: 510 mm

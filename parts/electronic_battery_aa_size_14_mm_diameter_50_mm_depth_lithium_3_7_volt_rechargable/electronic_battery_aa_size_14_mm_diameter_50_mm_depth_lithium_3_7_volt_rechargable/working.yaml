@@ -1,0 +1,78 @@
+classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_upper: ELECTRONIC
+color: lithium_3_7_volt_rechargable
+color_capital: Lithium 3.7 Volt Rechargable
+color_first_letter: l
+color_first_letter_upper: L
+color_upper: LITHIUM_3_7_VOLT_RECHARGABLE
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'L '
+description_or_color_upper: 'L '
+directory: parts/electronic_battery_aa_size_14_mm_diameter_50_mm_depth_lithium_3_7_volt_rechargable
+distributors: []
+id: electronic_battery_aa_size_14_mm_diameter_50_mm_depth_lithium_3_7_volt_rechargable
+id_no_class: battery_aa_size_14_mm_diameter_50_mm_depth_lithium_3_7_volt_rechargable
+id_no_size: lithium_3_7_volt_rechargable
+id_no_type: aa_size_14_mm_diameter_50_mm_depth_lithium_3_7_volt_rechargable
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_battery_aa_size_14_mm_diameter_50_mm_depth_lithium_3_7_volt_rechargable
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_battery_aa_size_14_mm_diameter_50_mm_depth_lithium_3_7_volt_rechargable
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_battery_aa_size_14_mm_diameter_50_mm_depth_lithium_3_7_volt_rechargable
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[electronic_battery_aa_size_14_mm_diameter_50_mm_depth_lithium_3_7_volt_rechargable](none)<br>[](none)<br>[Electronic
+    Battery Aa Size 14 Mm Diameter 50 Mm Depth Lithium 3 7 Volt Rechargable](none)<br><br>'
+markdown_short: '[electronic_battery_aa_size_14_mm_diameter_50_mm_depth_lithium_3_7_volt_rechargable](none)<br><br>'
+md5: 4f0d2fef1949e9598235ad5844fedc33
+md5_10: 4f0d2fef19
+md5_10_upper: 4F0D2FEF19
+md5_5: 4f0d2
+md5_5_upper: 4F0D2
+md5_6: 4f0d2f
+md5_6_alpha: 331gv
+md5_6_alpha_upper: 331GV
+md5_6_upper: 4F0D2F
+name: Electronic Battery Aa Size 14 Mm Diameter 50 Mm Depth Lithium 3 7 Volt Rechargable
+name_no_class: Battery Aa Size 14 Mm Diameter 50 Mm Depth Lithium 3 7 Volt Rechargable
+name_no_size: Lithium 3 7 Volt Rechargable
+name_no_size_short: Lithium 3 7 Volt Rechargable
+name_no_type: Aa Size 14 Mm Diameter 50 Mm Depth Lithium 3 7 Volt Rechargable
+oomp_key: oomp_electronic_battery_aa_size_14_mm_diameter_50_mm_depth_lithium_3_7_volt_rechargable
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: aa_size_14_mm_diameter_50_mm_depth
+size_capital: Aa Size 14 mm Diameter 50 mm Depth
+size_first_letter: a
+size_first_letter_upper: A
+size_only_numbers: '1450'
+size_only_numbers_no_zeros: '145'
+size_upper: AA_SIZE_14_MM_DIAMETER_50_MM_DEPTH
+type: battery
+type_capital: Battery
+type_first_letter: b
+type_first_letter_upper: B
+type_upper: BATTERY

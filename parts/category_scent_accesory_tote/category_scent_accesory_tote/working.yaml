@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_scent
+description_extra: tote
+description_extra_capital: Tote
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TOTE
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_scent_accesory_tote
+distributors: []
+filter: ''
+from_yaml: false
+id: category_scent_accesory_tote
+id_no_class: scent_accesory_tote
+id_no_size: tote
+id_no_type: accesory_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_scent_accesory_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_scent_accesory_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_scent_accesory_tote
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_scent_accesory_tote](none)<br>[](none)<br>[Category Scent
+    Accesory Tote](none)<br><br>'
+markdown_short: '[category_scent_accesory_tote](none)<br><br>'
+md5: 082c9a05cbbcf996f5616a008a953f2f
+md5_10: 082c9a05cb
+md5_10_upper: 082C9A05CB
+md5_5: 082c9
+md5_5_upper: 082C9
+md5_6: 082c9a
+md5_6_alpha: bhcq
+md5_6_alpha_upper: BHCQ
+md5_6_upper: 082C9A
+name: Category Scent Accesory Tote
+name_no_class: Scent Accesory Tote
+name_no_size: Tote
+name_no_size_short: Tote
+name_no_type: Accesory Tote
+oomp_key: oomp_category_scent_accesory_tote
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryscent
+size: accesory
+size_capital: Accesory
+size_first_letter: a
+size_first_letter_upper: A
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ACCESORY
+type: scent
+type_capital: Scent
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: SCENT

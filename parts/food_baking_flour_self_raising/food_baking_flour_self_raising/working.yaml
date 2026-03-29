@@ -1,0 +1,80 @@
+classification: food
+classification_capital: Food
+classification_first_letter: f
+classification_first_letter_upper: F
+classification_upper: FOOD
+color: self_raising
+color_capital: Self Raising
+color_first_letter: s
+color_first_letter_upper: S
+color_upper: SELF_RAISING
+description: flour_self_raising
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'S '
+description_or_color_upper: 'S '
+directory: parts/food_baking_flour_self_raising
+distributors: []
+filter: ''
+from_yaml: false
+id: food_baking_flour_self_raising
+id_no_class: baking_flour_self_raising
+id_no_size: self_raising
+id_no_type: flour_self_raising
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_baking_flour_self_raising
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_baking_flour_self_raising
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_baking_flour_self_raising
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[food_baking_flour_self_raising](none)<br>[](none)<br>[Food Baking
+    Flour Self Raising](none)<br><br>'
+markdown_short: '[food_baking_flour_self_raising](none)<br><br>'
+md5: 90321ae20e393e1c83bb8f69b1d33791
+md5_10: 90321ae20e
+md5_10_upper: 90321AE20E
+md5_5: '90321'
+md5_5_upper: '90321'
+md5_6: 90321a
+md5_6_alpha: 5mjoa
+md5_6_alpha_upper: 5MJOA
+md5_6_upper: 90321A
+name: Food Baking Flour Self Raising
+name_no_class: Baking Flour Self Raising
+name_no_size: Self Raising
+name_no_size_short: Self Raising
+name_no_type: Flour Self Raising
+name_short: Flour Self Raising
+oomp_key: oomp_food_baking_flour_self_raising
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: flour
+size_capital: Flour
+size_first_letter: f
+size_first_letter_upper: F
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: FLOUR
+type: baking
+type_capital: Baking
+type_first_letter: b
+type_first_letter_upper: B
+type_upper: BAKING

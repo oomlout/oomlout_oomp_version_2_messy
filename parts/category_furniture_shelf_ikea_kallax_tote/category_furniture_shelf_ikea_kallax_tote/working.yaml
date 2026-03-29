@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ikea_kallax
+color_capital: Ikea Kallax
+color_first_letter: i
+color_first_letter_upper: I
+color_upper: IKEA_KALLAX
+description: category_furniture
+description_extra: tote
+description_extra_capital: Tote
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TOTE
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'I '
+description_or_color_upper: 'I '
+directory: parts/category_furniture_shelf_ikea_kallax_tote
+distributors: []
+filter: ''
+from_yaml: false
+id: category_furniture_shelf_ikea_kallax_tote
+id_no_class: furniture_shelf_ikea_kallax_tote
+id_no_size: ikea_kallax_tote
+id_no_type: shelf_ikea_kallax_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_furniture_shelf_ikea_kallax_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_furniture_shelf_ikea_kallax_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_furniture_shelf_ikea_kallax_tote
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_furniture_shelf_ikea_kallax_tote](none)<br>[](none)<br>[Category
+    Furniture Shelf Ikea Kallax Tote](none)<br><br>'
+markdown_short: '[category_furniture_shelf_ikea_kallax_tote](none)<br><br>'
+md5: bc2a48cba1f6549a4df74f7858044c61
+md5_10: bc2a48cba1
+md5_10_upper: BC2A48CBA1
+md5_5: bc2a4
+md5_5_upper: BC2A4
+md5_6: bc2a48
+md5_6_alpha: 7cb48
+md5_6_alpha_upper: 7CB48
+md5_6_upper: BC2A48
+name: Category Furniture Shelf Ikea Kallax Tote
+name_no_class: Furniture Shelf Ikea Kallax Tote
+name_no_size: Ikea Kallax Tote
+name_no_size_short: Ikea Kallax Tote
+name_no_type: Shelf Ikea Kallax Tote
+oomp_key: oomp_category_furniture_shelf_ikea_kallax_tote
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryfurniture
+size: shelf
+size_capital: Shelf
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SHELF
+type: furniture
+type_capital: Furniture
+type_first_letter: f
+type_first_letter_upper: F
+type_upper: FURNITURE

@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: 45_micron_thickness
+color_capital: 45 Micron Thickness
+color_first_letter: '4'
+color_first_letter_upper: '4'
+color_upper: 45_MICRON_THICKNESS
+description: category_packaging
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: '4 '
+description_or_color_upper: '4 '
+directory: parts/category_packaging_bag_grip_seal_45_micron_thickness
+distributors: []
+filter: ''
+from_yaml: false
+id: category_packaging_bag_grip_seal_45_micron_thickness
+id_no_class: packaging_bag_grip_seal_45_micron_thickness
+id_no_size: 45_micron_thickness
+id_no_type: bag_grip_seal_45_micron_thickness
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_packaging_bag_grip_seal_45_micron_thickness
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_packaging_bag_grip_seal_45_micron_thickness
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_packaging_bag_grip_seal_45_micron_thickness
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_packaging_bag_grip_seal_45_micron_thickness](none)<br>[](none)<br>[Category
+    Packaging Bag Grip Seal 45 Micron Thickness](none)<br><br>'
+markdown_short: '[category_packaging_bag_grip_seal_45_micron_thickness](none)<br><br>'
+md5: c97c05ff330924e2c2c507a948743694
+md5_10: c97c05ff33
+md5_10_upper: C97C05FF33
+md5_5: c97c0
+md5_5_upper: C97C0
+md5_6: c97c05
+md5_6_alpha: 7v0n9
+md5_6_alpha_upper: 7V0N9
+md5_6_upper: C97C05
+name: Category Packaging Bag Grip Seal 45 Micron Thickness
+name_no_class: Packaging Bag Grip Seal 45 Micron Thickness
+name_no_size: 45 Micron Thickness
+name_no_size_short: 45 Micron Thickness
+name_no_type: Bag Grip Seal 45 Micron Thickness
+oomp_key: oomp_category_packaging_bag_grip_seal_45_micron_thickness
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorypackaging
+size: bag_grip_seal
+size_capital: Bag Grip Seal
+size_first_letter: b
+size_first_letter_upper: B
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: BAG_GRIP_SEAL
+type: packaging
+type_capital: Packaging
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PACKAGING

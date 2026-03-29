@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: camera
+color_capital: Camera
+color_first_letter: c
+color_first_letter_upper: C
+color_upper: CAMERA
+description: category_computer
+description_extra: cubby_box
+description_extra_capital: Cubby Box
+description_extra_first_letter: c
+description_extra_first_letter_upper: C
+description_extra_upper: CUBBY_BOX
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'C '
+description_or_color_upper: 'C '
+directory: parts/category_computer_video_conferencing_camera_cubby_box
+distributors: []
+filter: ''
+from_yaml: false
+id: category_computer_video_conferencing_camera_cubby_box
+id_no_class: computer_video_conferencing_camera_cubby_box
+id_no_size: camera_cubby_box
+id_no_type: video_conferencing_camera_cubby_box
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_video_conferencing_camera_cubby_box
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_video_conferencing_camera_cubby_box
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_video_conferencing_camera_cubby_box
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_computer_video_conferencing_camera_cubby_box](none)<br>[](none)<br>[Category
+    Computer Video Conferencing Camera Cubby Box](none)<br><br>'
+markdown_short: '[category_computer_video_conferencing_camera_cubby_box](none)<br><br>'
+md5: e4735825c644682604a7fb1d60db3f1b
+md5_10: e4735825c6
+md5_10_upper: E4735825C6
+md5_5: e4735
+md5_5_upper: E4735
+md5_6: e47358
+md5_6_alpha: 8ww9k
+md5_6_alpha_upper: 8WW9K
+md5_6_upper: E47358
+name: Category Computer Video Conferencing Camera Cubby Box
+name_no_class: Computer Video Conferencing Camera Cubby Box
+name_no_size: Camera Cubby Box
+name_no_size_short: Camera Cubby Box
+name_no_type: Video Conferencing Camera Cubby Box
+oomp_key: oomp_category_computer_video_conferencing_camera_cubby_box
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorycomputer
+size: video_conferencing
+size_capital: Video Conferencing
+size_first_letter: v
+size_first_letter_upper: V
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: VIDEO_CONFERENCING
+type: computer
+type_capital: Computer
+type_first_letter: c
+type_first_letter_upper: C
+type_upper: COMPUTER

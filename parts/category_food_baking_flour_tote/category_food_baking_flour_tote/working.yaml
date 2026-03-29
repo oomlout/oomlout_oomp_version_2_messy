@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: flour
+color_capital: Flour
+color_first_letter: f
+color_first_letter_upper: F
+color_upper: FLOUR
+description: category_food
+description_extra: tote
+description_extra_capital: Tote
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TOTE
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'F '
+description_or_color_upper: 'F '
+directory: parts/category_food_baking_flour_tote
+distributors: []
+filter: ''
+from_yaml: false
+id: category_food_baking_flour_tote
+id_no_class: food_baking_flour_tote
+id_no_size: flour_tote
+id_no_type: baking_flour_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_baking_flour_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_baking_flour_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_baking_flour_tote
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_food_baking_flour_tote](none)<br>[](none)<br>[Category Food
+    Baking Flour Tote](none)<br><br>'
+markdown_short: '[category_food_baking_flour_tote](none)<br><br>'
+md5: 803be7b2e454ddcacab4b7357e5d5e94
+md5_10: 803be7b2e4
+md5_10_upper: 803BE7B2E4
+md5_5: 803be
+md5_5_upper: 803BE
+md5_6: 803be7
+md5_6_alpha: 504iv
+md5_6_alpha_upper: 504IV
+md5_6_upper: 803BE7
+name: Category Food Baking Flour Tote
+name_no_class: Food Baking Flour Tote
+name_no_size: Flour Tote
+name_no_size_short: Flour Tote
+name_no_type: Baking Flour Tote
+oomp_key: oomp_category_food_baking_flour_tote
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryfood
+size: baking
+size_capital: Baking
+size_first_letter: b
+size_first_letter_upper: B
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: BAKING
+type: food
+type_capital: Food
+type_first_letter: f
+type_first_letter_upper: F
+type_upper: FOOD

@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: salt_and_pepper
+color_capital: Salt And Pepper
+color_first_letter: s
+color_first_letter_upper: S
+color_upper: SALT_AND_PEPPER
+description: category_food
+description_extra: cubby_box
+description_extra_capital: Cubby Box
+description_extra_first_letter: c
+description_extra_first_letter_upper: C
+description_extra_upper: CUBBY_BOX
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'S '
+description_or_color_upper: 'S '
+directory: parts/category_food_seasoning_salt_and_pepper_cubby_box
+distributors: []
+filter: ''
+from_yaml: false
+id: category_food_seasoning_salt_and_pepper_cubby_box
+id_no_class: food_seasoning_salt_and_pepper_cubby_box
+id_no_size: salt_and_pepper_cubby_box
+id_no_type: seasoning_salt_and_pepper_cubby_box
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_seasoning_salt_and_pepper_cubby_box
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_seasoning_salt_and_pepper_cubby_box
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_seasoning_salt_and_pepper_cubby_box
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_food_seasoning_salt_and_pepper_cubby_box](none)<br>[](none)<br>[Category
+    Food Seasoning Salt And Pepper Cubby Box](none)<br><br>'
+markdown_short: '[category_food_seasoning_salt_and_pepper_cubby_box](none)<br><br>'
+md5: 46973ffe3a050670a94216401d899199
+md5_10: 46973ffe3a
+md5_10_upper: 46973FFE3A
+md5_5: '46973'
+md5_5_upper: '46973'
+md5_6: 46973f
+md5_6_alpha: 2r5mn
+md5_6_alpha_upper: 2R5MN
+md5_6_upper: 46973F
+name: Category Food Seasoning Salt And Pepper Cubby Box
+name_no_class: Food Seasoning Salt And Pepper Cubby Box
+name_no_size: Salt And Pepper Cubby Box
+name_no_size_short: Salt And Pepper Cubby Box
+name_no_type: Seasoning Salt And Pepper Cubby Box
+oomp_key: oomp_category_food_seasoning_salt_and_pepper_cubby_box
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryfood
+size: seasoning
+size_capital: Seasoning
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SEASONING
+type: food
+type_capital: Food
+type_first_letter: f
+type_first_letter_upper: F
+type_upper: FOOD

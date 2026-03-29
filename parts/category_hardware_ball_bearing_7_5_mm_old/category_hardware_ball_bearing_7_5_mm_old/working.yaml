@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: 7_5_mm
+color_capital: 7.5 mm
+color_first_letter: '7'
+color_first_letter_upper: '7'
+color_upper: 7_5_MM
+description: category_hardware
+description_extra: old
+description_extra_capital: Old
+description_extra_first_letter: o
+description_extra_first_letter_upper: O
+description_extra_upper: OLD
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: '7 '
+description_or_color_upper: '7 '
+directory: parts/category_hardware_ball_bearing_7_5_mm_old
+distributors: []
+filter: ''
+from_yaml: false
+id: category_hardware_ball_bearing_7_5_mm_old
+id_no_class: hardware_ball_bearing_7_5_mm_old
+id_no_size: 7_5_mm_old
+id_no_type: ball_bearing_7_5_mm_old
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_ball_bearing_7_5_mm_old
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_ball_bearing_7_5_mm_old
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_ball_bearing_7_5_mm_old
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_hardware_ball_bearing_7_5_mm_old](none)<br>[](none)<br>[Category
+    Hardware Ball Bearing 7 5 Mm Old](none)<br><br>'
+markdown_short: '[category_hardware_ball_bearing_7_5_mm_old](none)<br><br>'
+md5: 260ae5ec62347c1c6a72647363a67c1f
+md5_10: 260ae5ec62
+md5_10_upper: 260AE5EC62
+md5_5: 260ae
+md5_5_upper: 260AE
+md5_6: 260ae5
+md5_6_alpha: 1hfqd
+md5_6_alpha_upper: 1HFQD
+md5_6_upper: 260AE5
+name: Category Hardware Ball Bearing 7 5 Mm Old
+name_no_class: Hardware Ball Bearing 7 5 Mm Old
+name_no_size: 7 5 Mm Old
+name_no_size_short: 7 5 Mm Old
+name_no_type: Ball Bearing 7 5 Mm Old
+oomp_key: oomp_category_hardware_ball_bearing_7_5_mm_old
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryhardware
+size: ball_bearing
+size_capital: Ball Bearing
+size_first_letter: b
+size_first_letter_upper: B
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: BALL_BEARING
+type: hardware
+type_capital: Hardware
+type_first_letter: h
+type_first_letter_upper: H
+type_upper: HARDWARE

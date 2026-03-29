@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: m5
+color_capital: M5
+color_first_letter: m
+color_first_letter_upper: M
+color_upper: M5
+description: category_hardware
+description_extra: to_sort
+description_extra_capital: To Sort
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TO_SORT
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'M '
+description_or_color_upper: 'M '
+directory: parts/category_hardware_screw_socket_cap_low_head_m5_to_sort
+distributors: []
+filter: ''
+from_yaml: false
+id: category_hardware_screw_socket_cap_low_head_m5_to_sort
+id_no_class: hardware_screw_socket_cap_low_head_m5_to_sort
+id_no_size: m5_to_sort
+id_no_type: screw_socket_cap_low_head_m5_to_sort
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_screw_socket_cap_low_head_m5_to_sort
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_screw_socket_cap_low_head_m5_to_sort
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_screw_socket_cap_low_head_m5_to_sort
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_hardware_screw_socket_cap_low_head_m5_to_sort](none)<br>[](none)<br>[Category
+    Hardware Screw Socket Cap Low Head M5 To Sort](none)<br><br>'
+markdown_short: '[category_hardware_screw_socket_cap_low_head_m5_to_sort](none)<br><br>'
+md5: af2af720027817c7286ed3034943df14
+md5_10: af2af72002
+md5_10_upper: AF2AF72002
+md5_5: af2af
+md5_5_upper: AF2AF
+md5_6: af2af7
+md5_6_alpha: 6u1vb
+md5_6_alpha_upper: 6U1VB
+md5_6_upper: AF2AF7
+name: Category Hardware Screw Socket Cap Low Head M5 To Sort
+name_no_class: Hardware Screw Socket Cap Low Head M5 To Sort
+name_no_size: M5 To Sort
+name_no_size_short: M5 To Sort
+name_no_type: Screw Socket Cap Low Head M5 To Sort
+oomp_key: oomp_category_hardware_screw_socket_cap_low_head_m5_to_sort
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryhardware
+size: screw_socket_cap_low_head
+size_capital: Screw Socket Cap Low Head
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SCREW_SOCKET_CAP_LOW_HEAD
+type: hardware
+type_capital: Hardware
+type_first_letter: h
+type_first_letter_upper: H
+type_upper: HARDWARE

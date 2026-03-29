@@ -1,0 +1,76 @@
+classification: printer
+classification_capital: Printer
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_upper: PRINTER
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: supply
+description_main_capital: Supply
+description_main_first_letter: s
+description_main_first_letter_upper: S
+description_main_upper: SUPPLY
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/printer_ink_cleaning_supply_epson
+distributors: []
+id: printer_ink_cleaning_supply_epson
+id_no_class: ink_cleaning_supply_epson
+id_no_size: supply_epson
+id_no_type: cleaning_supply_epson
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_ink_cleaning_supply_epson
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_ink_cleaning_supply_epson
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_ink_cleaning_supply_epson
+manufacturer: epson
+manufacturer_capital: Epson
+manufacturer_first_letter: e
+manufacturer_first_letter_upper: E
+manufacturer_upper: EPSON
+manufacturers: []
+markdown_full: '[printer_ink_cleaning_supply_epson](none)<br>[](none)<br>[Printer
+    Ink Cleaning Supply Epson](none)<br><br>'
+markdown_short: '[printer_ink_cleaning_supply_epson](none)<br><br>'
+md5: 299b09251e861b5529c1252d1f8c8c68
+md5_10: 299b09251e
+md5_10_upper: 299B09251E
+md5_5: 299b0
+md5_5_upper: 299B0
+md5_6: 299b09
+md5_6_alpha: 1mfwp
+md5_6_alpha_upper: 1MFWP
+md5_6_upper: 299B09
+name: Printer Ink Cleaning Supply Epson
+name_no_class: Ink Cleaning Supply Epson
+name_no_size: Supply Epson
+name_no_size_short: Supply Epson
+name_no_type: Cleaning Supply Epson
+oomp_key: oomp_printer_ink_cleaning_supply_epson
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: cleaning
+size_capital: Cleaning
+size_first_letter: c
+size_first_letter_upper: C
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: CLEANING
+type: ink
+type_capital: Ink
+type_first_letter: i
+type_first_letter_upper: I
+type_upper: INK

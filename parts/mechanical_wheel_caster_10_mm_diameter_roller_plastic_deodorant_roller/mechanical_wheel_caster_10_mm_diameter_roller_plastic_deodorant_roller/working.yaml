@@ -1,0 +1,77 @@
+classification: mechanical
+classification_capital: Mechanical
+classification_first_letter: m
+classification_first_letter_upper: M
+classification_upper: MECHANICAL
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: deodorant_roller
+description_extra_capital: Deodorant Roller
+description_extra_first_letter: d
+description_extra_first_letter_upper: D
+description_extra_upper: DEODORANT_ROLLER
+description_main: 10_mm_diameter_roller_plastic
+description_main_capital: 10 mm Diameter Roller Plastic
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_upper: 10_MM_DIAMETER_ROLLER_PLASTIC
+description_only_numbers: '10'
+description_only_numbers_short: '10'
+description_or_color: '10'
+description_or_color_upper: '10'
+directory: parts/mechanical_wheel_caster_10_mm_diameter_roller_plastic_deodorant_roller
+distributors: []
+id: mechanical_wheel_caster_10_mm_diameter_roller_plastic_deodorant_roller
+id_no_class: wheel_caster_10_mm_diameter_roller_plastic_deodorant_roller
+id_no_size: 10_mm_diameter_roller_plastic_deodorant_roller
+id_no_type: caster_10_mm_diameter_roller_plastic_deodorant_roller
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_wheel_caster_10_mm_diameter_roller_plastic_deodorant_roller
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_wheel_caster_10_mm_diameter_roller_plastic_deodorant_roller
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_wheel_caster_10_mm_diameter_roller_plastic_deodorant_roller
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[mechanical_wheel_caster_10_mm_diameter_roller_plastic_deodorant_roller](none)<br>[](none)<br>[Mechanical
+    Wheel Caster 10 Mm Diameter Roller Plastic Deodorant Roller](none)<br><br>'
+markdown_short: '[mechanical_wheel_caster_10_mm_diameter_roller_plastic_deodorant_roller](none)<br><br>'
+md5: 18961732a08ae146f9cf250138f41924
+md5_10: 18961732a0
+md5_10_upper: 18961732A0
+md5_5: '18961'
+md5_5_upper: '18961'
+md5_6: '189617'
+md5_6_alpha: yj9z
+md5_6_alpha_upper: YJ9Z
+md5_6_upper: '189617'
+name: Mechanical Wheel Caster 10 Mm Diameter Roller Plastic Deodorant Roller
+name_no_class: Wheel Caster 10 Mm Diameter Roller Plastic Deodorant Roller
+name_no_size: 10 Mm Diameter Roller Plastic Deodorant Roller
+name_no_size_short: 10 Mm Diameter Roller Plastic Deodorant Roller
+name_no_type: Caster 10 Mm Diameter Roller Plastic Deodorant Roller
+oomp_key: oomp_mechanical_wheel_caster_10_mm_diameter_roller_plastic_deodorant_roller
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Roller Ball 10mm Diameter
+size: caster
+size_capital: Caster
+size_first_letter: c
+size_first_letter_upper: C
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: CASTER
+type: wheel
+type_capital: Wheel
+type_first_letter: w
+type_first_letter_upper: W
+type_upper: WHEEL

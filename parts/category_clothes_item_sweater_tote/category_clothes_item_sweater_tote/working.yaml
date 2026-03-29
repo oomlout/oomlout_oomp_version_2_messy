@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: sweater
+color_capital: Sweater
+color_first_letter: s
+color_first_letter_upper: S
+color_upper: SWEATER
+description: category_clothes
+description_extra: tote
+description_extra_capital: Tote
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TOTE
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'S '
+description_or_color_upper: 'S '
+directory: parts/category_clothes_item_sweater_tote
+distributors: []
+filter: ''
+from_yaml: false
+id: category_clothes_item_sweater_tote
+id_no_class: clothes_item_sweater_tote
+id_no_size: sweater_tote
+id_no_type: item_sweater_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_clothes_item_sweater_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_clothes_item_sweater_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_clothes_item_sweater_tote
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_clothes_item_sweater_tote](none)<br>[](none)<br>[Category
+    Clothes Item Sweater Tote](none)<br><br>'
+markdown_short: '[category_clothes_item_sweater_tote](none)<br><br>'
+md5: 82f2d3e8cbd4d5e482657a900c4be18e
+md5_10: 82f2d3e8cb
+md5_10_upper: 82F2D3E8CB
+md5_5: 82f2d
+md5_5_upper: 82F2D
+md5_6: 82f2d3
+md5_6_alpha: 53xsj
+md5_6_alpha_upper: 53XSJ
+md5_6_upper: 82F2D3
+name: Category Clothes Item Sweater Tote
+name_no_class: Clothes Item Sweater Tote
+name_no_size: Sweater Tote
+name_no_size_short: Sweater Tote
+name_no_type: Item Sweater Tote
+oomp_key: oomp_category_clothes_item_sweater_tote
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryclothes
+size: item
+size_capital: Item
+size_first_letter: i
+size_first_letter_upper: I
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ITEM
+type: clothes
+type_capital: Clothes
+type_first_letter: c
+type_first_letter_upper: C
+type_upper: CLOTHES

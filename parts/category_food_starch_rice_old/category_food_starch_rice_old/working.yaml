@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: rice
+color_capital: Rice
+color_first_letter: r
+color_first_letter_upper: R
+color_upper: RICE
+description: category_food
+description_extra: old
+description_extra_capital: Old
+description_extra_first_letter: o
+description_extra_first_letter_upper: O
+description_extra_upper: OLD
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'R '
+description_or_color_upper: 'R '
+directory: parts/category_food_starch_rice_old
+distributors: []
+filter: ''
+from_yaml: false
+id: category_food_starch_rice_old
+id_no_class: food_starch_rice_old
+id_no_size: rice_old
+id_no_type: starch_rice_old
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_starch_rice_old
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_starch_rice_old
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_starch_rice_old
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_food_starch_rice_old](none)<br>[](none)<br>[Category Food
+    Starch Rice Old](none)<br><br>'
+markdown_short: '[category_food_starch_rice_old](none)<br><br>'
+md5: aac2f6c8a4cc59b1b1fa4abb8cedd39c
+md5_10: aac2f6c8a4
+md5_10_upper: AAC2F6C8A4
+md5_5: aac2f
+md5_5_upper: AAC2F
+md5_6: aac2f6
+md5_6_alpha: 6nv1y
+md5_6_alpha_upper: 6NV1Y
+md5_6_upper: AAC2F6
+name: Category Food Starch Rice Old
+name_no_class: Food Starch Rice Old
+name_no_size: Rice Old
+name_no_size_short: Rice Old
+name_no_type: Starch Rice Old
+oomp_key: oomp_category_food_starch_rice_old
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryfood
+size: starch
+size_capital: Starch
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: STARCH
+type: food
+type_capital: Food
+type_first_letter: f
+type_first_letter_upper: F
+type_upper: FOOD

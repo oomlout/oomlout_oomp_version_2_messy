@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: a3
+color_capital: A3
+color_first_letter: a
+color_first_letter_upper: A
+color_upper: A3
+description: category_printer
+description_extra: old
+description_extra_capital: Old
+description_extra_first_letter: o
+description_extra_first_letter_upper: O
+description_extra_upper: OLD
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'A '
+description_or_color_upper: 'A '
+directory: parts/category_printer_risograph_a3_old
+distributors: []
+filter: ''
+from_yaml: false
+id: category_printer_risograph_a3_old
+id_no_class: printer_risograph_a3_old
+id_no_size: a3_old
+id_no_type: risograph_a3_old
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_printer_risograph_a3_old
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_printer_risograph_a3_old
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_printer_risograph_a3_old
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_printer_risograph_a3_old](none)<br>[](none)<br>[Category
+    Printer Risograph A3 Old](none)<br><br>'
+markdown_short: '[category_printer_risograph_a3_old](none)<br><br>'
+md5: 4503daa32e13920dbbd48eef2ff19cc5
+md5_10: 4503daa32e
+md5_10_upper: 4503DAA32E
+md5_5: 4503d
+md5_5_upper: 4503D
+md5_6: 4503da
+md5_6_alpha: 2oxy2
+md5_6_alpha_upper: 2OXY2
+md5_6_upper: 4503DA
+name: Category Printer Risograph A3 Old
+name_no_class: Printer Risograph A3 Old
+name_no_size: A3 Old
+name_no_size_short: A3 Old
+name_no_type: Risograph A3 Old
+oomp_key: oomp_category_printer_risograph_a3_old
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryprinter
+size: risograph
+size_capital: Risograph
+size_first_letter: r
+size_first_letter_upper: R
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: RISOGRAPH
+type: printer
+type_capital: Printer
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PRINTER

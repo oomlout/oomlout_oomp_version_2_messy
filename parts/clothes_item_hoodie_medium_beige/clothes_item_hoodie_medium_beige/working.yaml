@@ -1,0 +1,78 @@
+classification: clothes
+classification_capital: Clothes
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CLOTHES
+color: medium
+color_capital: Medium
+color_first_letter: m
+color_first_letter_upper: M
+color_upper: MEDIUM
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: beige
+description_main_capital: Beige
+description_main_first_letter: b
+description_main_first_letter_upper: B
+description_main_upper: BEIGE
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'M '
+description_or_color_upper: 'M '
+directory: parts/clothes_item_hoodie_medium_beige
+distributors: []
+filter: ''
+from_yaml: false
+id: clothes_item_hoodie_medium_beige
+id_no_class: item_hoodie_medium_beige
+id_no_size: medium_beige
+id_no_type: hoodie_medium_beige
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_hoodie_medium_beige
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_hoodie_medium_beige
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_hoodie_medium_beige
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[clothes_item_hoodie_medium_beige](none)<br>[](none)<br>[Clothes Item
+    Hoodie Medium Beige](none)<br><br>'
+markdown_short: '[clothes_item_hoodie_medium_beige](none)<br><br>'
+md5: 35e4c16b052b1826d20b6e43e33d51d0
+md5_10: 35e4c16b05
+md5_10_upper: 35E4C16B05
+md5_5: 35e4c
+md5_5_upper: 35E4C
+md5_6: 35e4c1
+md5_6_alpha: 23pa9
+md5_6_alpha_upper: 23PA9
+md5_6_upper: 35E4C1
+name: Clothes Item Hoodie Medium Beige
+name_no_class: Item Hoodie Medium Beige
+name_no_size: Medium Beige
+name_no_size_short: Medium Beige
+name_no_type: Hoodie Medium Beige
+oomp_key: oomp_clothes_item_hoodie_medium_beige
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: hoodie
+size_capital: Hoodie
+size_first_letter: h
+size_first_letter_upper: H
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: HOODIE
+type: item
+type_capital: Item
+type_first_letter: i
+type_first_letter_upper: I
+type_upper: ITEM

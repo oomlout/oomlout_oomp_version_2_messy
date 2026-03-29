@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: 2_4_ghz_controller
+color_capital: 2.4 Ghz Controller
+color_first_letter: '2'
+color_first_letter_upper: '2'
+color_upper: 2_4_GHZ_CONTROLLER
+description: category_toy
+description_extra: old
+description_extra_capital: Old
+description_extra_first_letter: o
+description_extra_first_letter_upper: O
+description_extra_upper: OLD
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: '2 '
+description_or_color_upper: '2 '
+directory: parts/category_toy_remote_control_2_4_ghz_controller_old
+distributors: []
+filter: ''
+from_yaml: false
+id: category_toy_remote_control_2_4_ghz_controller_old
+id_no_class: toy_remote_control_2_4_ghz_controller_old
+id_no_size: 2_4_ghz_controller_old
+id_no_type: remote_control_2_4_ghz_controller_old
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_toy_remote_control_2_4_ghz_controller_old
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_toy_remote_control_2_4_ghz_controller_old
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_toy_remote_control_2_4_ghz_controller_old
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_toy_remote_control_2_4_ghz_controller_old](none)<br>[](none)<br>[Category
+    Toy Remote Control 2 4 Ghz Controller Old](none)<br><br>'
+markdown_short: '[category_toy_remote_control_2_4_ghz_controller_old](none)<br><br>'
+md5: 5e88db6624da08cd9fbc45902b706896
+md5_10: 5e88db6624
+md5_10_upper: 5E88DB6624
+md5_5: 5e88d
+md5_5_upper: 5E88D
+md5_6: 5e88db
+md5_6_alpha: 3osez
+md5_6_alpha_upper: 3OSEZ
+md5_6_upper: 5E88DB
+name: Category Toy Remote Control 2 4 Ghz Controller Old
+name_no_class: Toy Remote Control 2 4 Ghz Controller Old
+name_no_size: 2 4 Ghz Controller Old
+name_no_size_short: 2 4 Ghz Controller Old
+name_no_type: Remote Control 2 4 Ghz Controller Old
+oomp_key: oomp_category_toy_remote_control_2_4_ghz_controller_old
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorytoy
+size: remote_control
+size_capital: Remote Control
+size_first_letter: r
+size_first_letter_upper: R
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: REMOTE_CONTROL
+type: toy
+type_capital: Toy
+type_first_letter: t
+type_first_letter_upper: T
+type_upper: TOY

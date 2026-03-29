@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_sheet_stock
+description_extra: to_sort
+description_extra_capital: To Sort
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TO_SORT
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_sheet_stock_acrylic_to_sort
+distributors: []
+filter: ''
+from_yaml: false
+id: category_sheet_stock_acrylic_to_sort
+id_no_class: sheet_stock_acrylic_to_sort
+id_no_size: to_sort
+id_no_type: acrylic_to_sort
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_sheet_stock_acrylic_to_sort
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_sheet_stock_acrylic_to_sort
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_sheet_stock_acrylic_to_sort
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_sheet_stock_acrylic_to_sort](none)<br>[](none)<br>[Category
+    Sheet Stock Acrylic To Sort](none)<br><br>'
+markdown_short: '[category_sheet_stock_acrylic_to_sort](none)<br><br>'
+md5: 59bbf8e4a4777864b601f6d40d161009
+md5_10: 59bbf8e4a4
+md5_10_upper: 59BBF8E4A4
+md5_5: 59bbf
+md5_5_upper: 59BBF
+md5_6: 59bbf8
+md5_6_alpha: 3i1o8
+md5_6_alpha_upper: 3I1O8
+md5_6_upper: 59BBF8
+name: Category Sheet Stock Acrylic To Sort
+name_no_class: Sheet Stock Acrylic To Sort
+name_no_size: To Sort
+name_no_size_short: To Sort
+name_no_type: Acrylic To Sort
+oomp_key: oomp_category_sheet_stock_acrylic_to_sort
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorysheetstock
+size: acrylic
+size_capital: Acrylic
+size_first_letter: a
+size_first_letter_upper: A
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ACRYLIC
+type: sheet_stock
+type_capital: Sheet Stock
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: SHEET_STOCK

@@ -1,0 +1,147 @@
+classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_upper: ELECTRONIC
+color: drv8825
+color_capital: Drv8825
+color_first_letter: d
+color_first_letter_upper: D
+color_upper: DRV8825
+description: A common breakout format for a stepper motor driver
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 15_24_mm_width_20_32_mm_length
+description_main_capital: 15.24 mm Width 20 32 mm Length
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_upper: 15_24_MM_WIDTH_20_32_MM_LENGTH
+description_only_numbers: '15242032'
+description_only_numbers_short: 1M5
+description_or_color: D1M5
+description_or_color_upper: D1M5
+directory: parts/electronic_breakout_board_motor_driver_step_stick_drv8825_15_24_mm_width_20_32_mm_length
+distributors: []
+id: electronic_breakout_board_motor_driver_step_stick_drv8825_15_24_mm_width_20_32_mm_length
+id_no_class: breakout_board_motor_driver_step_stick_drv8825_15_24_mm_width_20_32_mm_length
+id_no_size: drv8825_15_24_mm_width_20_32_mm_length
+id_no_type: step_stick_drv8825_15_24_mm_width_20_32_mm_length
+kicad_reference: BB
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_motor_driver_step_stick_drv8825_15_24_mm_width_20_32_mm_length
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_motor_driver_step_stick_drv8825_15_24_mm_width_20_32_mm_length
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_motor_driver_step_stick_drv8825_15_24_mm_width_20_32_mm_length
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[electronic_breakout_board_motor_driver_step_stick_drv8825_15_24_mm_width_20_32_mm_length](none)<br>[ss](none)<br>[Electronic
+    Breakout Board Motor Driver Step Stick Drv8825 15 24 Mm Width 20 32 Mm Length](none)<br><br>'
+markdown_short: '[electronic_breakout_board_motor_driver_step_stick_drv8825_15_24_mm_width_20_32_mm_length](none)<br><br>'
+md5: a12c40ca5ff26453c1886286e22ba369
+md5_10: a12c40ca5f
+md5_10_upper: A12C40CA5F
+md5_5: a12c4
+md5_5_upper: A12C4
+md5_6: a12c40
+md5_6_alpha: 6ae68
+md5_6_alpha_upper: 6AE68
+md5_6_upper: A12C40
+name: Electronic Breakout Board Motor Driver Step Stick Drv8825 15 24 Mm Width 20
+    32 Mm Length
+name_no_class: Breakout Board Motor Driver Step Stick Drv8825 15 24 Mm Width 20 32
+    Mm Length
+name_no_size: Drv8825 15 24 Mm Width 20 32 Mm Length
+name_no_size_short: Drv8825 15 24 Mm Width 20 32 Mm Length
+name_no_type: Step Stick Drv8825 15 24 Mm Width 20 32 Mm Length
+notes: []
+oomp_key: oomp_electronic_breakout_board_motor_driver_step_stick_drv8825_15_24_mm_width_20_32_mm_length
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+pins:
+    pin_1:
+        name: en
+        number: '1'
+        type: signal
+    pin_10:
+        name: vdd
+        number: '10'
+        type: signal
+    pin_11:
+        name: 1b
+        number: '11'
+        type: signal
+    pin_12:
+        name: 1a
+        number: '12'
+        type: signal
+    pin_13:
+        name: 2a
+        number: '13'
+        type: signal
+    pin_14:
+        name: 2b
+        number: '14'
+        type: signal
+    pin_15:
+        name: gnd
+        number: '15'
+        type: signal
+    pin_16:
+        name: vmot
+        number: '16'
+        type: signal
+    pin_2:
+        name: ms1
+        number: '2'
+        type: signal
+    pin_3:
+        name: ms2
+        number: '3'
+        type: signal
+    pin_4:
+        name: ms3
+        number: '4'
+        type: power
+    pin_5:
+        name: rst
+        number: '5'
+        type: signal
+    pin_6:
+        name: slp
+        number: '6'
+        type: signal
+    pin_7:
+        name: step
+        number: '7'
+        type: signal
+    pin_8:
+        name: dir
+        number: '8'
+        type: signal
+    pin_9:
+        name: gnd
+        number: '9'
+        type: signal
+short_code: ss
+short_code_upper: SS
+short_name: ''
+size: step_stick
+size_capital: Step Stick
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: STEP_STICK
+type: breakout_board_motor_driver
+type_capital: Breakout Board Motor Driver
+type_first_letter: b
+type_first_letter_upper: B
+type_upper: BREAKOUT_BOARD_MOTOR_DRIVER

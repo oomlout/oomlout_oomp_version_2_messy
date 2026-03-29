@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: '0402'
+color_capital: '0402'
+color_first_letter: '0'
+color_first_letter_upper: '0'
+color_upper: '0402'
+description: category_electronic
+description_extra: to_sort
+description_extra_capital: To Sort
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TO_SORT
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: '0 '
+description_or_color_upper: '0 '
+directory: parts/category_electronic_capacitor_0402_to_sort
+distributors: []
+filter: ''
+from_yaml: false
+id: category_electronic_capacitor_0402_to_sort
+id_no_class: electronic_capacitor_0402_to_sort
+id_no_size: 0402_to_sort
+id_no_type: capacitor_0402_to_sort
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_capacitor_0402_to_sort
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_capacitor_0402_to_sort
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_capacitor_0402_to_sort
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_electronic_capacitor_0402_to_sort](none)<br>[](none)<br>[Category
+    Electronic Capacitor 0402 To Sort](none)<br><br>'
+markdown_short: '[category_electronic_capacitor_0402_to_sort](none)<br><br>'
+md5: 62c60cd6ccfe8e6815b40effe51ee262
+md5_10: 62c60cd6cc
+md5_10_upper: 62C60CD6CC
+md5_5: 62c60
+md5_5_upper: 62C60
+md5_6: 62c60c
+md5_6_alpha: 3uqrw
+md5_6_alpha_upper: 3UQRW
+md5_6_upper: 62C60C
+name: Category Electronic Capacitor 0402 To Sort
+name_no_class: Electronic Capacitor 0402 To Sort
+name_no_size: 0402 To Sort
+name_no_size_short: 0402 To Sort
+name_no_type: Capacitor 0402 To Sort
+oomp_key: oomp_category_electronic_capacitor_0402_to_sort
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryelectronic
+size: capacitor
+size_capital: Capacitor
+size_first_letter: c
+size_first_letter_upper: C
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: CAPACITOR
+type: electronic
+type_capital: Electronic
+type_first_letter: e
+type_first_letter_upper: E
+type_upper: ELECTRONIC

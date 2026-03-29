@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: 460_mm_width_640_mm_height
+color_capital: 460 mm Width 640 mm Height
+color_first_letter: '4'
+color_first_letter_upper: '4'
+color_upper: 460_MM_WIDTH_640_MM_HEIGHT
+description: category_paper
+description_extra: tote
+description_extra_capital: Tote
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TOTE
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: '4 '
+description_or_color_upper: '4 '
+directory: parts/category_paper_sheet_460_mm_width_640_mm_height_tote
+distributors: []
+filter: ''
+from_yaml: false
+id: category_paper_sheet_460_mm_width_640_mm_height_tote
+id_no_class: paper_sheet_460_mm_width_640_mm_height_tote
+id_no_size: 460_mm_width_640_mm_height_tote
+id_no_type: sheet_460_mm_width_640_mm_height_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_paper_sheet_460_mm_width_640_mm_height_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_paper_sheet_460_mm_width_640_mm_height_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_paper_sheet_460_mm_width_640_mm_height_tote
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_paper_sheet_460_mm_width_640_mm_height_tote](none)<br>[](none)<br>[Category
+    Paper Sheet 460 Mm Width 640 Mm Height Tote](none)<br><br>'
+markdown_short: '[category_paper_sheet_460_mm_width_640_mm_height_tote](none)<br><br>'
+md5: bc53ea6c0fc8558e192b83e7d134edb1
+md5_10: bc53ea6c0f
+md5_10_upper: BC53EA6C0F
+md5_5: bc53e
+md5_5_upper: BC53E
+md5_6: bc53ea
+md5_6_alpha: 7cjca
+md5_6_alpha_upper: 7CJCA
+md5_6_upper: BC53EA
+name: Category Paper Sheet 460 Mm Width 640 Mm Height Tote
+name_no_class: Paper Sheet 460 Mm Width 640 Mm Height Tote
+name_no_size: 460 Mm Width 640 Mm Height Tote
+name_no_size_short: 460 Mm Width 640 Mm Height Tote
+name_no_type: Sheet 460 Mm Width 640 Mm Height Tote
+oomp_key: oomp_category_paper_sheet_460_mm_width_640_mm_height_tote
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorypaper
+size: sheet
+size_capital: Sheet
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SHEET
+type: paper
+type_capital: Paper
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PAPER

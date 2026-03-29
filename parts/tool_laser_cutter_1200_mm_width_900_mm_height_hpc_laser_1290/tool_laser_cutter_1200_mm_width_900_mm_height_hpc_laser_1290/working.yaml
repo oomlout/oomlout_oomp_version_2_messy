@@ -1,0 +1,78 @@
+classification: tool
+classification_capital: Tool
+classification_first_letter: t
+classification_first_letter_upper: T
+classification_upper: TOOL
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/tool_laser_cutter_1200_mm_width_900_mm_height_hpc_laser_1290
+distributors: []
+filter: ''
+from_yaml: false
+id: tool_laser_cutter_1200_mm_width_900_mm_height_hpc_laser_1290
+id_no_class: laser_cutter_1200_mm_width_900_mm_height_hpc_laser_1290
+id_no_size: hpc_laser_1290
+id_no_type: 1200_mm_width_900_mm_height_hpc_laser_1290
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_laser_cutter_1200_mm_width_900_mm_height_hpc_laser_1290
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_laser_cutter_1200_mm_width_900_mm_height_hpc_laser_1290
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_laser_cutter_1200_mm_width_900_mm_height_hpc_laser_1290
+manufacturer: hpc_laser
+manufacturer_capital: Hpc Laser
+manufacturer_first_letter: h
+manufacturer_first_letter_upper: H
+manufacturer_upper: HPC_LASER
+manufacturers: []
+markdown_full: '[tool_laser_cutter_1200_mm_width_900_mm_height_hpc_laser_1290](none)<br>[](none)<br>[Tool
+    Laser Cutter 1200 Mm Width 900 Mm Height Hpc Laser 1290](none)<br><br>'
+markdown_short: '[tool_laser_cutter_1200_mm_width_900_mm_height_hpc_laser_1290](none)<br><br>'
+md5: 2191a78b8fead010d9f9cb8171de28a5
+md5_10: 2191a78b8f
+md5_10_upper: 2191A78B8F
+md5_5: 2191a
+md5_5_upper: 2191A
+md5_6: 2191a7
+md5_6_alpha: 1b5if
+md5_6_alpha_upper: 1B5IF
+md5_6_upper: 2191A7
+name: Tool Laser Cutter 1200 Mm Width 900 Mm Height Hpc Laser 1290
+name_no_class: Laser Cutter 1200 Mm Width 900 Mm Height Hpc Laser 1290
+name_no_size: Hpc Laser 1290
+name_no_size_short: Hpc Laser 1290
+name_no_type: 1200 Mm Width 900 Mm Height Hpc Laser 1290
+oomp_key: oomp_tool_laser_cutter_1200_mm_width_900_mm_height_hpc_laser_1290
+part_number: '1290'
+part_number_capital: '1290'
+part_number_first_letter: '1'
+part_number_first_letter_upper: '1'
+part_number_upper: '1290'
+short_code: ''
+short_code_upper: ''
+size: 1200_mm_width_900_mm_height
+size_capital: 1200 mm Width 900 mm Height
+size_first_letter: '1'
+size_first_letter_upper: '1'
+size_only_numbers: '1200900'
+size_only_numbers_no_zeros: '129'
+size_upper: 1200_MM_WIDTH_900_MM_HEIGHT
+type: laser_cutter
+type_capital: Laser Cutter
+type_first_letter: l
+type_first_letter_upper: L
+type_upper: LASER_CUTTER

@@ -1,0 +1,78 @@
+classification: clothes
+classification_capital: Clothes
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CLOTHES
+color: extra_small
+color_capital: Extra Small
+color_first_letter: e
+color_first_letter_upper: E
+color_upper: EXTRA_SMALL
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: beige
+description_main_capital: Beige
+description_main_first_letter: b
+description_main_first_letter_upper: B
+description_main_upper: BEIGE
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'E '
+description_or_color_upper: 'E '
+directory: parts/clothes_item_underwear_extra_small_beige
+distributors: []
+filter: ''
+from_yaml: false
+id: clothes_item_underwear_extra_small_beige
+id_no_class: item_underwear_extra_small_beige
+id_no_size: extra_small_beige
+id_no_type: underwear_extra_small_beige
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_underwear_extra_small_beige
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_underwear_extra_small_beige
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_underwear_extra_small_beige
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[clothes_item_underwear_extra_small_beige](none)<br>[](none)<br>[Clothes
+    Item Underwear Extra Small Beige](none)<br><br>'
+markdown_short: '[clothes_item_underwear_extra_small_beige](none)<br><br>'
+md5: edbfaa9f6c1ab47a7b687183a6a8e1f3
+md5_10: edbfaa9f6c
+md5_10_upper: EDBFAA9F6C
+md5_5: edbfa
+md5_5_upper: EDBFA
+md5_6: edbfaa
+md5_6_alpha: 99yga
+md5_6_alpha_upper: 99YGA
+md5_6_upper: EDBFAA
+name: Clothes Item Underwear Extra Small Beige
+name_no_class: Item Underwear Extra Small Beige
+name_no_size: Extra Small Beige
+name_no_size_short: Extra Small Beige
+name_no_type: Underwear Extra Small Beige
+oomp_key: oomp_clothes_item_underwear_extra_small_beige
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: underwear
+size_capital: Underwear
+size_first_letter: u
+size_first_letter_upper: U
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: UNDERWEAR
+type: item
+type_capital: Item
+type_first_letter: i
+type_first_letter_upper: I
+type_upper: ITEM

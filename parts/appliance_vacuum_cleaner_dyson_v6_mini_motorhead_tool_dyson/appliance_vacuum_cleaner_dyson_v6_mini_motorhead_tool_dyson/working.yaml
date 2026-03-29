@@ -1,0 +1,76 @@
+classification: appliance
+classification_capital: Appliance
+classification_first_letter: a
+classification_first_letter_upper: A
+classification_upper: APPLIANCE
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: mini_motorhead_tool
+description_main_capital: Mini Motorhead Tool
+description_main_first_letter: m
+description_main_first_letter_upper: M
+description_main_upper: MINI_MOTORHEAD_TOOL
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/appliance_vacuum_cleaner_dyson_v6_mini_motorhead_tool_dyson
+distributors: []
+id: appliance_vacuum_cleaner_dyson_v6_mini_motorhead_tool_dyson
+id_no_class: vacuum_cleaner_dyson_v6_mini_motorhead_tool_dyson
+id_no_size: mini_motorhead_tool_dyson
+id_no_type: dyson_v6_mini_motorhead_tool_dyson
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/appliance_vacuum_cleaner_dyson_v6_mini_motorhead_tool_dyson
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/appliance_vacuum_cleaner_dyson_v6_mini_motorhead_tool_dyson
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/appliance_vacuum_cleaner_dyson_v6_mini_motorhead_tool_dyson
+manufacturer: dyson
+manufacturer_capital: Dyson
+manufacturer_first_letter: d
+manufacturer_first_letter_upper: D
+manufacturer_upper: DYSON
+manufacturers: []
+markdown_full: '[appliance_vacuum_cleaner_dyson_v6_mini_motorhead_tool_dyson](none)<br>[](none)<br>[Appliance
+    Vacuum Cleaner Dyson V6 Mini Motorhead Tool Dyson](none)<br><br>'
+markdown_short: '[appliance_vacuum_cleaner_dyson_v6_mini_motorhead_tool_dyson](none)<br><br>'
+md5: c6b0ff05b6caeb88d794e562131145c5
+md5_10: c6b0ff05b6
+md5_10_upper: C6B0FF05B6
+md5_5: c6b0f
+md5_5_upper: C6B0F
+md5_6: c6b0ff
+md5_6_alpha: 7r3en
+md5_6_alpha_upper: 7R3EN
+md5_6_upper: C6B0FF
+name: Appliance Vacuum Cleaner Dyson V6 Mini Motorhead Tool Dyson
+name_no_class: Vacuum Cleaner Dyson V6 Mini Motorhead Tool Dyson
+name_no_size: Mini Motorhead Tool Dyson
+name_no_size_short: Mini Motorhead Tool Dyson
+name_no_type: Dyson V6 Mini Motorhead Tool Dyson
+oomp_key: oomp_appliance_vacuum_cleaner_dyson_v6_mini_motorhead_tool_dyson
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: dyson_v6
+size_capital: Dyson V6
+size_first_letter: d
+size_first_letter_upper: D
+size_only_numbers: '6'
+size_only_numbers_no_zeros: '6'
+size_upper: DYSON_V6
+type: vacuum_cleaner
+type_capital: Vacuum Cleaner
+type_first_letter: v
+type_first_letter_upper: V
+type_upper: VACUUM_CLEANER

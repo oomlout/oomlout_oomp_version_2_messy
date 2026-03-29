@@ -1,0 +1,77 @@
+classification: phone
+classification_capital: Phone
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_upper: PHONE
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: 74_mm_width_156_mm_height_9_mm_depth
+description_extra_capital: 74 mm Width 156 mm Height 9 mm Depth
+description_extra_first_letter: '7'
+description_extra_first_letter_upper: '7'
+description_extra_upper: 74_MM_WIDTH_156_MM_HEIGHT_9_MM_DEPTH
+description_main: pixel_7
+description_main_capital: Pixel 7
+description_main_first_letter: p
+description_main_first_letter_upper: P
+description_main_upper: PIXEL_7
+description_only_numbers: '7'
+description_only_numbers_short: '7'
+description_or_color: '7'
+description_or_color_upper: '7'
+directory: parts/phone_android_google_pixel_pixel_7_74_mm_width_156_mm_height_9_mm_depth
+distributors: []
+id: phone_android_google_pixel_pixel_7_74_mm_width_156_mm_height_9_mm_depth
+id_no_class: android_google_pixel_pixel_7_74_mm_width_156_mm_height_9_mm_depth
+id_no_size: pixel_7_74_mm_width_156_mm_height_9_mm_depth
+id_no_type: google_pixel_pixel_7_74_mm_width_156_mm_height_9_mm_depth
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/phone_android_google_pixel_pixel_7_74_mm_width_156_mm_height_9_mm_depth
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/phone_android_google_pixel_pixel_7_74_mm_width_156_mm_height_9_mm_depth
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/phone_android_google_pixel_pixel_7_74_mm_width_156_mm_height_9_mm_depth
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[phone_android_google_pixel_pixel_7_74_mm_width_156_mm_height_9_mm_depth](none)<br>[](none)<br>[Phone
+    Android Google Pixel Pixel 7 74 Mm Width 156 Mm Height 9 Mm Depth](none)<br><br>'
+markdown_short: '[phone_android_google_pixel_pixel_7_74_mm_width_156_mm_height_9_mm_depth](none)<br><br>'
+md5: e3f2eb0c5b563fe737cb88bab928872e
+md5_10: e3f2eb0c5b
+md5_10_upper: E3F2EB0C5B
+md5_5: e3f2e
+md5_5_upper: E3F2E
+md5_6: e3f2eb
+md5_6_alpha: 8w6wb
+md5_6_alpha_upper: 8W6WB
+md5_6_upper: E3F2EB
+name: Phone Android Google Pixel Pixel 7 74 Mm Width 156 Mm Height 9 Mm Depth
+name_no_class: Android Google Pixel Pixel 7 74 Mm Width 156 Mm Height 9 Mm Depth
+name_no_size: Pixel 7 74 Mm Width 156 Mm Height 9 Mm Depth
+name_no_size_short: Pixel 7 74 Mm Width 156 Mm Height 9 Mm Depth
+name_no_type: Google Pixel Pixel 7 74 Mm Width 156 Mm Height 9 Mm Depth
+oomp_key: oomp_phone_android_google_pixel_pixel_7_74_mm_width_156_mm_height_9_mm_depth
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Google Pixel 7
+size: google_pixel
+size_capital: Google Pixel
+size_first_letter: g
+size_first_letter_upper: G
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: GOOGLE_PIXEL
+type: android
+type_capital: Android
+type_first_letter: a
+type_first_letter_upper: A
+type_upper: ANDROID

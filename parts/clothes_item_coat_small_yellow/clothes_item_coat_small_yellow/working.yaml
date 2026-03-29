@@ -1,0 +1,78 @@
+classification: clothes
+classification_capital: Clothes
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CLOTHES
+color: small
+color_capital: Small
+color_first_letter: s
+color_first_letter_upper: S
+color_upper: SMALL
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: yellow
+description_main_capital: Yellow
+description_main_first_letter: y
+description_main_first_letter_upper: Y
+description_main_upper: YELLOW
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'S '
+description_or_color_upper: 'S '
+directory: parts/clothes_item_coat_small_yellow
+distributors: []
+filter: ''
+from_yaml: false
+id: clothes_item_coat_small_yellow
+id_no_class: item_coat_small_yellow
+id_no_size: small_yellow
+id_no_type: coat_small_yellow
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_coat_small_yellow
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_coat_small_yellow
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_coat_small_yellow
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[clothes_item_coat_small_yellow](none)<br>[](none)<br>[Clothes Item
+    Coat Small Yellow](none)<br><br>'
+markdown_short: '[clothes_item_coat_small_yellow](none)<br><br>'
+md5: 1b95e87e8064d1bb06cfb89dc8fe9ce8
+md5_10: 1b95e87e80
+md5_10_upper: 1B95E87E80
+md5_5: 1b95e
+md5_5_upper: 1B95E
+md5_6: 1b95e8
+md5_6_alpha: 12qy0
+md5_6_alpha_upper: 12QY0
+md5_6_upper: 1B95E8
+name: Clothes Item Coat Small Yellow
+name_no_class: Item Coat Small Yellow
+name_no_size: Small Yellow
+name_no_size_short: Small Yellow
+name_no_type: Coat Small Yellow
+oomp_key: oomp_clothes_item_coat_small_yellow
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: coat
+size_capital: Coat
+size_first_letter: c
+size_first_letter_upper: C
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: COAT
+type: item
+type_capital: Item
+type_first_letter: i
+type_first_letter_upper: I
+type_upper: ITEM

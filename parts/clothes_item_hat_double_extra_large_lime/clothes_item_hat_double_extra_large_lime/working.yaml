@@ -1,0 +1,78 @@
+classification: clothes
+classification_capital: Clothes
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CLOTHES
+color: double_extra_large
+color_capital: Double Extra Large
+color_first_letter: d
+color_first_letter_upper: D
+color_upper: DOUBLE_EXTRA_LARGE
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: lime
+description_main_capital: Lime
+description_main_first_letter: l
+description_main_first_letter_upper: L
+description_main_upper: LIME
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'D '
+description_or_color_upper: 'D '
+directory: parts/clothes_item_hat_double_extra_large_lime
+distributors: []
+filter: ''
+from_yaml: false
+id: clothes_item_hat_double_extra_large_lime
+id_no_class: item_hat_double_extra_large_lime
+id_no_size: double_extra_large_lime
+id_no_type: hat_double_extra_large_lime
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_hat_double_extra_large_lime
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_hat_double_extra_large_lime
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_hat_double_extra_large_lime
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[clothes_item_hat_double_extra_large_lime](none)<br>[](none)<br>[Clothes
+    Item Hat Double Extra Large Lime](none)<br><br>'
+markdown_short: '[clothes_item_hat_double_extra_large_lime](none)<br><br>'
+md5: 1730f023bfb25cfd106bb126d03c6dc2
+md5_10: 1730f023bf
+md5_10_upper: 1730F023BF
+md5_5: 1730f
+md5_5_upper: 1730F
+md5_6: 1730f0
+md5_6_alpha: wkq8
+md5_6_alpha_upper: WKQ8
+md5_6_upper: 1730F0
+name: Clothes Item Hat Double Extra Large Lime
+name_no_class: Item Hat Double Extra Large Lime
+name_no_size: Double Extra Large Lime
+name_no_size_short: Double Extra Large Lime
+name_no_type: Hat Double Extra Large Lime
+oomp_key: oomp_clothes_item_hat_double_extra_large_lime
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: hat
+size_capital: Hat
+size_first_letter: h
+size_first_letter_upper: H
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: HAT
+type: item
+type_capital: Item
+type_first_letter: i
+type_first_letter_upper: I
+type_upper: ITEM

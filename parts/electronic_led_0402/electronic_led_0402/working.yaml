@@ -1,0 +1,83 @@
+classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_upper: ELECTRONIC
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/electronic_led_0402
+distributors: []
+filter: ''
+from_yaml: false
+id: electronic_led_0402
+id_no_class: led_0402
+id_no_size: '0402'
+id_no_type: '0402'
+kicad_reference: L
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_0402
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_0402
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_0402
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[electronic_led_0402](none)<br>[l4](none)<br>[Electronic Led 0402](none)<br><br>'
+markdown_short: '[electronic_led_0402](none)<br><br>'
+md5: d33b648a8a749fae6a9a74b760467fb2
+md5_10: d33b648a8a
+md5_10_upper: D33B648A8A
+md5_5: d33b6
+md5_5_upper: D33B6
+md5_6: d33b64
+md5_6_alpha: 88pk4
+md5_6_alpha_upper: 88PK4
+md5_6_upper: D33B64
+name: Electronic Led 0402
+name_no_class: Led 0402
+name_no_size: '0402'
+name_no_size_short: '0402'
+name_no_type: '0402'
+oomp_key: oomp_electronic_led_0402
+package_style: smd_tape
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: l4
+short_code_upper: L4
+short_name: 0402 Led
+size: '0402'
+size_capital: '0402'
+size_first_letter: '0'
+size_first_letter_upper: '0'
+size_only_numbers: '0402'
+size_only_numbers_no_zeros: '42'
+size_upper: '0402'
+smd_tape_depth: 1_5_mm
+smd_tape_pitch: 2_mm
+smd_tape_width: 8_mm
+type: led
+type_capital: Led
+type_first_letter: l
+type_first_letter_upper: L
+type_upper: LED

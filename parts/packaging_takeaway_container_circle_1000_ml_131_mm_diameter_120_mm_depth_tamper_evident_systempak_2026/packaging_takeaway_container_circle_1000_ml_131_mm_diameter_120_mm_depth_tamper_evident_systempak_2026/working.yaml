@@ -1,0 +1,86 @@
+box_quantity: '197'
+classification: packaging
+classification_capital: Packaging
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_upper: PACKAGING
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+cost_per: "\xA30.299"
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 131_mm_diameter_120_mm_depth_tamper_evident
+description_main_capital: 131 mm Diameter 120 mm Depth Tamper Evident
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_upper: 131_MM_DIAMETER_120_MM_DEPTH_TAMPER_EVIDENT
+description_only_numbers: '131120'
+description_only_numbers_short: 131k
+description_or_color: 131k
+description_or_color_upper: 131K
+directory: parts/packaging_takeaway_container_circle_1000_ml_131_mm_diameter_120_mm_depth_tamper_evident_systempak_2026
+distributors: []
+id: packaging_takeaway_container_circle_1000_ml_131_mm_diameter_120_mm_depth_tamper_evident_systempak_2026
+id_no_class: takeaway_container_circle_1000_ml_131_mm_diameter_120_mm_depth_tamper_evident_systempak_2026
+id_no_size: 131_mm_diameter_120_mm_depth_tamper_evident_systempak_2026
+id_no_type: 1000_ml_131_mm_diameter_120_mm_depth_tamper_evident_systempak_2026
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/packaging_takeaway_container_circle_1000_ml_131_mm_diameter_120_mm_depth_tamper_evident_systempak_2026
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/packaging_takeaway_container_circle_1000_ml_131_mm_diameter_120_mm_depth_tamper_evident_systempak_2026
+link_purchase:
+- https://systempak.net/product/1000ml-round-131mm-diameter-tamper-evident-containers-with-handles-and-lids/
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/packaging_takeaway_container_circle_1000_ml_131_mm_diameter_120_mm_depth_tamper_evident_systempak_2026
+manufacturer: systempak
+manufacturer_capital: Systempak
+manufacturer_first_letter: s
+manufacturer_first_letter_upper: S
+manufacturer_upper: SYSTEMPAK
+manufacturers: []
+markdown_full: '[packaging_takeaway_container_circle_1000_ml_131_mm_diameter_120_mm_depth_tamper_evident_systempak_2026](none)<br>[](none)<br>[Packaging
+    Takeaway Container Circle 1000 Ml 131 Mm Diameter 120 Mm Depth Tamper Evident
+    Systempak 2026](none)<br><br>'
+markdown_short: '[packaging_takeaway_container_circle_1000_ml_131_mm_diameter_120_mm_depth_tamper_evident_systempak_2026](none)<br><br>'
+md5: a7b4932f82c4deb7a72b86f6d71c65d2
+md5_10: a7b4932f82
+md5_10_upper: A7B4932F82
+md5_5: a7b49
+md5_5_upper: A7B49
+md5_6: a7b493
+md5_6_alpha: 6jkib
+md5_6_alpha_upper: 6JKIB
+md5_6_upper: A7B493
+name: Packaging Takeaway Container Circle 1000 Ml 131 Mm Diameter 120 Mm Depth Tamper
+    Evident Systempak 2026
+name_no_class: Takeaway Container Circle 1000 Ml 131 Mm Diameter 120 Mm Depth Tamper
+    Evident Systempak 2026
+name_no_size: 131 Mm Diameter 120 Mm Depth Tamper Evident Systempak 2026
+name_no_size_short: 131 Mm Diameter 120 Mm Depth Tamper Evident Systempak 2026
+name_no_type: 1000 Ml 131 Mm Diameter 120 Mm Depth Tamper Evident Systempak 2026
+oomp_key: oomp_packaging_takeaway_container_circle_1000_ml_131_mm_diameter_120_mm_depth_tamper_evident_systempak_2026
+part_number: '2026'
+part_number_capital: '2026'
+part_number_first_letter: '2'
+part_number_first_letter_upper: '2'
+part_number_upper: '2026'
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: 1000_ml
+size_capital: 1000 Ml
+size_first_letter: '1'
+size_first_letter_upper: '1'
+size_only_numbers: '1000'
+size_only_numbers_no_zeros: '1'
+size_upper: 1000_ML
+type: takeaway_container_circle
+type_capital: Takeaway Container Circle
+type_first_letter: t
+type_first_letter_upper: T
+type_upper: TAKEAWAY_CONTAINER_CIRCLE
+upc_number: ''
+weight: 41 g

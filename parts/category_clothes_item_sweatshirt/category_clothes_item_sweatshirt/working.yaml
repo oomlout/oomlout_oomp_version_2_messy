@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: sweatshirt
+color_capital: Sweatshirt
+color_first_letter: s
+color_first_letter_upper: S
+color_upper: SWEATSHIRT
+description: category_clothes
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'S '
+description_or_color_upper: 'S '
+directory: parts/category_clothes_item_sweatshirt
+distributors: []
+filter: ''
+from_yaml: false
+id: category_clothes_item_sweatshirt
+id_no_class: clothes_item_sweatshirt
+id_no_size: sweatshirt
+id_no_type: item_sweatshirt
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_clothes_item_sweatshirt
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_clothes_item_sweatshirt
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_clothes_item_sweatshirt
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_clothes_item_sweatshirt](none)<br>[](none)<br>[Category
+    Clothes Item Sweatshirt](none)<br><br>'
+markdown_short: '[category_clothes_item_sweatshirt](none)<br><br>'
+md5: 32611c63fa56054820b2b8d924991f62
+md5_10: 32611c63fa
+md5_10_upper: 32611C63FA
+md5_5: '32611'
+md5_5_upper: '32611'
+md5_6: 32611c
+md5_6_alpha: 1yrks
+md5_6_alpha_upper: 1YRKS
+md5_6_upper: 32611C
+name: Category Clothes Item Sweatshirt
+name_no_class: Clothes Item Sweatshirt
+name_no_size: Sweatshirt
+name_no_size_short: Sweatshirt
+name_no_type: Item Sweatshirt
+oomp_key: oomp_category_clothes_item_sweatshirt
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryclothes
+size: item
+size_capital: Item
+size_first_letter: i
+size_first_letter_upper: I
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ITEM
+type: clothes
+type_capital: Clothes
+type_first_letter: c
+type_first_letter_upper: C
+type_upper: CLOTHES

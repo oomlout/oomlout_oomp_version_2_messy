@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_toy
+description_extra: old
+description_extra_capital: Old
+description_extra_first_letter: o
+description_extra_first_letter_upper: O
+description_extra_upper: OLD
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_toy_gem_rock_mineral_old
+distributors: []
+filter: ''
+from_yaml: false
+id: category_toy_gem_rock_mineral_old
+id_no_class: toy_gem_rock_mineral_old
+id_no_size: old
+id_no_type: gem_rock_mineral_old
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_toy_gem_rock_mineral_old
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_toy_gem_rock_mineral_old
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_toy_gem_rock_mineral_old
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_toy_gem_rock_mineral_old](none)<br>[](none)<br>[Category
+    Toy Gem Rock Mineral Old](none)<br><br>'
+markdown_short: '[category_toy_gem_rock_mineral_old](none)<br><br>'
+md5: 03bef913e4d7d4d8d34fea989f88a4d6
+md5_10: 03bef913e4
+md5_10_upper: 03BEF913E4
+md5_5: 03bef
+md5_5_upper: 03BEF
+md5_6: 03bef9
+md5_6_alpha: 59fd
+md5_6_alpha_upper: 59FD
+md5_6_upper: 03BEF9
+name: Category Toy Gem Rock Mineral Old
+name_no_class: Toy Gem Rock Mineral Old
+name_no_size: Old
+name_no_size_short: Old
+name_no_type: Gem Rock Mineral Old
+oomp_key: oomp_category_toy_gem_rock_mineral_old
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorytoy
+size: gem_rock_mineral
+size_capital: Gem Rock Mineral
+size_first_letter: g
+size_first_letter_upper: G
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: GEM_ROCK_MINERAL
+type: toy
+type_capital: Toy
+type_first_letter: t
+type_first_letter_upper: T
+type_upper: TOY

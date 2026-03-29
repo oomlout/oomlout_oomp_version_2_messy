@@ -1,0 +1,77 @@
+classification: hardware
+classification_capital: Hardware
+classification_first_letter: h
+classification_first_letter_upper: H
+classification_upper: HARDWARE
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/hardware_ziptie_small
+distributors: []
+filter: ''
+from_yaml: false
+id: hardware_ziptie_small
+id_no_class: ziptie_small
+id_no_size: small
+id_no_type: small
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_ziptie_small
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_ziptie_small
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_ziptie_small
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[hardware_ziptie_small](none)<br>[](none)<br>[Hardware Ziptie Small](none)<br><br>'
+markdown_short: '[hardware_ziptie_small](none)<br><br>'
+md5: 6e8c48e173e6472dcef643157b541483
+md5_10: 6e8c48e173
+md5_10_upper: 6E8C48E173
+md5_5: 6e8c4
+md5_5_upper: 6E8C4
+md5_6: 6e8c48
+md5_6_alpha: 4ba6g
+md5_6_alpha_upper: 4BA6G
+md5_6_upper: 6E8C48
+name: Hardware Ziptie Small
+name_no_class: Ziptie Small
+name_no_size: Small
+name_no_size_short: Small
+name_no_type: Small
+oomp_key: oomp_hardware_ziptie_small
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: small
+size_capital: Small
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SMALL
+type: ziptie
+type_capital: Ziptie
+type_first_letter: z
+type_first_letter_upper: Z
+type_upper: ZIPTIE

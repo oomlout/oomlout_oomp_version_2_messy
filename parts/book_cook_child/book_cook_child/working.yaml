@@ -1,0 +1,77 @@
+classification: book
+classification_capital: Book
+classification_first_letter: b
+classification_first_letter_upper: B
+classification_upper: BOOK
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/book_cook_child
+distributors: []
+filter: ''
+from_yaml: false
+id: book_cook_child
+id_no_class: cook_child
+id_no_size: child
+id_no_type: child
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/book_cook_child
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/book_cook_child
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/book_cook_child
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[book_cook_child](none)<br>[](none)<br>[Book Cook Child](none)<br><br>'
+markdown_short: '[book_cook_child](none)<br><br>'
+md5: 7dd0bea3abd45a28a6f662ca0205ecd1
+md5_10: 7dd0bea3ab
+md5_10_upper: 7DD0BEA3AB
+md5_5: 7dd0b
+md5_5_upper: 7DD0B
+md5_6: 7dd0be
+md5_6_alpha: 4wq7y
+md5_6_alpha_upper: 4WQ7Y
+md5_6_upper: 7DD0BE
+name: Book Cook Child
+name_no_class: Cook Child
+name_no_size: Child
+name_no_size_short: Child
+name_no_type: Child
+oomp_key: oomp_book_cook_child
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: child
+size_capital: Child
+size_first_letter: c
+size_first_letter_upper: C
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: CHILD
+type: cook
+type_capital: Cook
+type_first_letter: c
+type_first_letter_upper: C
+type_upper: COOK

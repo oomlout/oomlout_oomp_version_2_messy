@@ -1,0 +1,78 @@
+classification: printer
+classification_capital: Printer
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_upper: PRINTER
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/printer_uv_a3_generic_dem_jet_uv3
+distributors: []
+id: printer_uv_a3_generic_dem_jet_uv3
+id_no_class: uv_a3_generic_dem_jet_uv3
+id_no_size: generic_dem_jet_uv3
+id_no_type: a3_generic_dem_jet_uv3
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_uv_a3_generic_dem_jet_uv3
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_uv_a3_generic_dem_jet_uv3
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_uv_a3_generic_dem_jet_uv3
+manufacturer: generic
+manufacturer_capital: Generic
+manufacturer_first_letter: g
+manufacturer_first_letter_upper: G
+manufacturer_upper: GENERIC
+manufacturers: []
+markdown_full: '[printer_uv_a3_generic_dem_jet_uv3](none)<br>[](none)<br>[Printer
+    Uv A3 Generic Dem Jet Uv3](none)<br><br>'
+markdown_short: '[printer_uv_a3_generic_dem_jet_uv3](none)<br><br>'
+md5: 04277b184e52367ff981408db94d79d3
+md5_10: 04277b184e
+md5_10_upper: 04277B184E
+md5_5: '04277'
+md5_5_upper: '04277'
+md5_6: 04277b
+md5_6_alpha: 5u2j
+md5_6_alpha_upper: 5U2J
+md5_6_upper: 04277B
+name: Printer Uv A3 Generic Dem Jet Uv3
+name_no_class: Uv A3 Generic Dem Jet Uv3
+name_no_size: Generic Dem Jet Uv3
+name_no_size_short: Generic Dem Jet Uv3
+name_no_type: A3 Generic Dem Jet Uv3
+oomp_key: oomp_printer_uv_a3_generic_dem_jet_uv3
+part_number: dem_jet_uv3
+part_number_capital: Dem Jet Uv3
+part_number_exact: DEM-JET-UV3
+part_number_first_letter: d
+part_number_first_letter_upper: D
+part_number_upper: DEM_JET_UV3
+short_code: ''
+short_code_upper: ''
+short_name: Anycubic UV Printer
+size: a3
+size_capital: A3
+size_first_letter: a
+size_first_letter_upper: A
+size_only_numbers: '3'
+size_only_numbers_no_zeros: '3'
+size_upper: A3
+type: uv
+type_capital: Uv
+type_first_letter: u
+type_first_letter_upper: U
+type_upper: UV

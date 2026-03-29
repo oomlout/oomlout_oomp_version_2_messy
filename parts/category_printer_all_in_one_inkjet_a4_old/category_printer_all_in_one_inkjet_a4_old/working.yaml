@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: a4
+color_capital: A4
+color_first_letter: a
+color_first_letter_upper: A
+color_upper: A4
+description: category_printer
+description_extra: old
+description_extra_capital: Old
+description_extra_first_letter: o
+description_extra_first_letter_upper: O
+description_extra_upper: OLD
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'A '
+description_or_color_upper: 'A '
+directory: parts/category_printer_all_in_one_inkjet_a4_old
+distributors: []
+filter: ''
+from_yaml: false
+id: category_printer_all_in_one_inkjet_a4_old
+id_no_class: printer_all_in_one_inkjet_a4_old
+id_no_size: a4_old
+id_no_type: all_in_one_inkjet_a4_old
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_printer_all_in_one_inkjet_a4_old
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_printer_all_in_one_inkjet_a4_old
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_printer_all_in_one_inkjet_a4_old
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_printer_all_in_one_inkjet_a4_old](none)<br>[](none)<br>[Category
+    Printer All In One Inkjet A4 Old](none)<br><br>'
+markdown_short: '[category_printer_all_in_one_inkjet_a4_old](none)<br><br>'
+md5: bf8658ee2bb93bf9cae6173b83b39802
+md5_10: bf8658ee2b
+md5_10_upper: BF8658EE2B
+md5_5: bf865
+md5_5_upper: BF865
+md5_6: bf8658
+md5_6_alpha: 7h108
+md5_6_alpha_upper: 7H108
+md5_6_upper: BF8658
+name: Category Printer All In One Inkjet A4 Old
+name_no_class: Printer All In One Inkjet A4 Old
+name_no_size: A4 Old
+name_no_size_short: A4 Old
+name_no_type: All In One Inkjet A4 Old
+oomp_key: oomp_category_printer_all_in_one_inkjet_a4_old
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryprinter
+size: all_in_one_inkjet
+size_capital: All In One Inkjet
+size_first_letter: a
+size_first_letter_upper: A
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ALL_IN_ONE_INKJET
+type: printer
+type_capital: Printer
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PRINTER

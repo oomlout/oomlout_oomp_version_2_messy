@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_phone
+description_extra: old
+description_extra_capital: Old
+description_extra_first_letter: o
+description_extra_first_letter_upper: O
+description_extra_upper: OLD
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_phone_android_old
+distributors: []
+filter: ''
+from_yaml: false
+id: category_phone_android_old
+id_no_class: phone_android_old
+id_no_size: old
+id_no_type: android_old
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_phone_android_old
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_phone_android_old
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_phone_android_old
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_phone_android_old](none)<br>[](none)<br>[Category Phone
+    Android Old](none)<br><br>'
+markdown_short: '[category_phone_android_old](none)<br><br>'
+md5: 7b2b4386ea376695de4569f6c0e8d3ac
+md5_10: 7b2b4386ea
+md5_10_upper: 7B2B4386EA
+md5_5: 7b2b4
+md5_5_upper: 7B2B4
+md5_6: 7b2b43
+md5_6_alpha: 4t0eb
+md5_6_alpha_upper: 4T0EB
+md5_6_upper: 7B2B43
+name: Category Phone Android Old
+name_no_class: Phone Android Old
+name_no_size: Old
+name_no_size_short: Old
+name_no_type: Android Old
+oomp_key: oomp_category_phone_android_old
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryphone
+size: android
+size_capital: Android
+size_first_letter: a
+size_first_letter_upper: A
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ANDROID
+type: phone
+type_capital: Phone
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PHONE

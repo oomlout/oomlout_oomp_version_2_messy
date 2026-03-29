@@ -1,0 +1,77 @@
+classification: craft
+classification_capital: Craft
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CRAFT
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: mixed
+description_main_capital: Mixed
+description_main_first_letter: m
+description_main_first_letter_upper: M
+description_main_upper: MIXED
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/craft_sewing_pins_mixed
+distributors: []
+id: craft_sewing_pins_mixed
+id_no_class: sewing_pins_mixed
+id_no_size: mixed
+id_no_type: pins_mixed
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/craft_sewing_pins_mixed
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/craft_sewing_pins_mixed
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/craft_sewing_pins_mixed
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[craft_sewing_pins_mixed](none)<br>[](none)<br>[Craft Sewing Pins
+    Mixed](none)<br><br>'
+markdown_short: '[craft_sewing_pins_mixed](none)<br><br>'
+md5: dc2c2316fd576af6c26094bde3e881de
+md5_10: dc2c2316fd
+md5_10_upper: DC2C2316FD
+md5_5: dc2c2
+md5_5_upper: DC2C2
+md5_6: dc2c23
+md5_6_alpha: 8l9nn
+md5_6_alpha_upper: 8L9NN
+md5_6_upper: DC2C23
+name: Craft Sewing Pins Mixed
+name_no_class: Sewing Pins Mixed
+name_no_size: Mixed
+name_no_size_short: Mixed
+name_no_type: Pins Mixed
+oomp_key: oomp_craft_sewing_pins_mixed
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: pins
+size_capital: Pins
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PINS
+type: sewing
+type_capital: Sewing
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: SEWING

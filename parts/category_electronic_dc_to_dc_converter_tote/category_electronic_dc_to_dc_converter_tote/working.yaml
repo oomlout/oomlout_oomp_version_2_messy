@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_electronic
+description_extra: tote
+description_extra_capital: Tote
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TOTE
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_electronic_dc_to_dc_converter_tote
+distributors: []
+filter: ''
+from_yaml: false
+id: category_electronic_dc_to_dc_converter_tote
+id_no_class: electronic_dc_to_dc_converter_tote
+id_no_size: tote
+id_no_type: dc_to_dc_converter_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_dc_to_dc_converter_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_dc_to_dc_converter_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_dc_to_dc_converter_tote
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_electronic_dc_to_dc_converter_tote](none)<br>[](none)<br>[Category
+    Electronic Dc To Dc Converter Tote](none)<br><br>'
+markdown_short: '[category_electronic_dc_to_dc_converter_tote](none)<br><br>'
+md5: 80a49f0168e6187a3619f35493c5959b
+md5_10: 80a49f0168
+md5_10_upper: 80A49F0168
+md5_5: 80a49
+md5_5_upper: 80A49
+md5_6: 80a49f
+md5_6_alpha: 50p7j
+md5_6_alpha_upper: 50P7J
+md5_6_upper: 80A49F
+name: Category Electronic Dc To Dc Converter Tote
+name_no_class: Electronic Dc To Dc Converter Tote
+name_no_size: Tote
+name_no_size_short: Tote
+name_no_type: Dc To Dc Converter Tote
+oomp_key: oomp_category_electronic_dc_to_dc_converter_tote
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryelectronic
+size: dc_to_dc_converter
+size_capital: Dc To Dc Converter
+size_first_letter: d
+size_first_letter_upper: D
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: DC_TO_DC_CONVERTER
+type: electronic
+type_capital: Electronic
+type_first_letter: e
+type_first_letter_upper: E
+type_upper: ELECTRONIC

@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: '0201'
+color_capital: '0201'
+color_first_letter: '0'
+color_first_letter_upper: '0'
+color_upper: '0201'
+description: category_electronic
+description_extra: to_sort
+description_extra_capital: To Sort
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TO_SORT
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: '0 '
+description_or_color_upper: '0 '
+directory: parts/category_electronic_resistor_0201_to_sort
+distributors: []
+filter: ''
+from_yaml: false
+id: category_electronic_resistor_0201_to_sort
+id_no_class: electronic_resistor_0201_to_sort
+id_no_size: 0201_to_sort
+id_no_type: resistor_0201_to_sort
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_resistor_0201_to_sort
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_resistor_0201_to_sort
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_resistor_0201_to_sort
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_electronic_resistor_0201_to_sort](none)<br>[](none)<br>[Category
+    Electronic Resistor 0201 To Sort](none)<br><br>'
+markdown_short: '[category_electronic_resistor_0201_to_sort](none)<br><br>'
+md5: 9ed4bb173e40e84197199e31795a5b9d
+md5_10: 9ed4bb173e
+md5_10_upper: 9ED4BB173E
+md5_5: 9ed4b
+md5_5_upper: 9ED4B
+md5_6: 9ed4bb
+md5_6_alpha: 673qz
+md5_6_alpha_upper: 673QZ
+md5_6_upper: 9ED4BB
+name: Category Electronic Resistor 0201 To Sort
+name_no_class: Electronic Resistor 0201 To Sort
+name_no_size: 0201 To Sort
+name_no_size_short: 0201 To Sort
+name_no_type: Resistor 0201 To Sort
+oomp_key: oomp_category_electronic_resistor_0201_to_sort
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryelectronic
+size: resistor
+size_capital: Resistor
+size_first_letter: r
+size_first_letter_upper: R
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: RESISTOR
+type: electronic
+type_capital: Electronic
+type_first_letter: e
+type_first_letter_upper: E
+type_upper: ELECTRONIC

@@ -1,0 +1,89 @@
+classification: printer
+classification_capital: Printer
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_upper: PRINTER
+color: color
+color_capital: Color
+color_first_letter: c
+color_first_letter_upper: C
+color_upper: COLOR
+compatible_ink_bottles:
+- '104'
+description_chat_gpt: A4 3-in-1 (Print/Scan/Copy).
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'C '
+description_or_color_upper: 'C '
+directory: parts/printer_inkjet_a4_color_epson_ecotank_et_2820
+distributors: []
+features:
+- wifi
+- lcd
+id: printer_inkjet_a4_color_epson_ecotank_et_2820
+id_no_class: inkjet_a4_color_epson_ecotank_et_2820
+id_no_size: color_epson_ecotank_et_2820
+id_no_type: a4_color_epson_ecotank_et_2820
+ink_type: dye
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_inkjet_a4_color_epson_ecotank_et_2820
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_inkjet_a4_color_epson_ecotank_et_2820
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_inkjet_a4_color_epson_ecotank_et_2820
+manufacturer: epson_ecotank
+manufacturer_capital: Epson Ecotank
+manufacturer_first_letter: e
+manufacturer_first_letter_upper: E
+manufacturer_upper: EPSON_ECOTANK
+manufacturers: []
+markdown_full: '[printer_inkjet_a4_color_epson_ecotank_et_2820](none)<br>[](none)<br>[Printer
+    Inkjet A4 Color Epson Ecotank Et 2820](none)<br><br>'
+markdown_short: '[printer_inkjet_a4_color_epson_ecotank_et_2820](none)<br><br>'
+md5: 776ddcb2903999795531d23bb480b19a
+md5_10: 776ddcb290
+md5_10_upper: 776DDCB290
+md5_5: 776dd
+md5_5_upper: 776DD
+md5_6: 776ddc
+md5_6_alpha: 4nra4
+md5_6_alpha_upper: 4NRA4
+md5_6_upper: 776DDC
+name: Printer Inkjet A4 Color Epson Ecotank Et 2820
+name_no_class: Inkjet A4 Color Epson Ecotank Et 2820
+name_no_size: Color Epson Ecotank Et 2820
+name_no_size_short: Color Epson Ecotank Et 2820
+name_no_type: A4 Color Epson Ecotank Et 2820
+nozzle_count_black: 180
+nozzle_count_per_colour: 59
+oomp_key: oomp_printer_inkjet_a4_color_epson_ecotank_et_2820
+original_rrp_gbp: 239.99
+part_number: et_2820
+part_number_capital: Et 2820
+part_number_first_letter: e
+part_number_first_letter_upper: E
+part_number_upper: ET_2820
+printhead_technology: Micro Piezo
+short_code: ''
+short_code_upper: ''
+short_name: EcoTank ET-2820
+size: a4
+size_capital: A4
+size_first_letter: a
+size_first_letter_upper: A
+size_only_numbers: '4'
+size_only_numbers_no_zeros: '4'
+size_upper: A4
+total_colours: 4
+type: inkjet
+type_capital: Inkjet
+type_first_letter: i
+type_first_letter_upper: I
+type_upper: INKJET

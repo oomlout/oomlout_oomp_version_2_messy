@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: 870_ml
+color_capital: 870 Ml
+color_first_letter: '8'
+color_first_letter_upper: '8'
+color_upper: 870_ML
+description: category_packaging
+description_extra: to_sort
+description_extra_capital: To Sort
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TO_SORT
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: '8 '
+description_or_color_upper: '8 '
+directory: parts/category_packaging_takeaway_container_circle_870_ml_to_sort
+distributors: []
+filter: ''
+from_yaml: false
+id: category_packaging_takeaway_container_circle_870_ml_to_sort
+id_no_class: packaging_takeaway_container_circle_870_ml_to_sort
+id_no_size: 870_ml_to_sort
+id_no_type: takeaway_container_circle_870_ml_to_sort
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_packaging_takeaway_container_circle_870_ml_to_sort
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_packaging_takeaway_container_circle_870_ml_to_sort
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_packaging_takeaway_container_circle_870_ml_to_sort
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_packaging_takeaway_container_circle_870_ml_to_sort](none)<br>[](none)<br>[Category
+    Packaging Takeaway Container Circle 870 Ml To Sort](none)<br><br>'
+markdown_short: '[category_packaging_takeaway_container_circle_870_ml_to_sort](none)<br><br>'
+md5: 7e2349e75a83da03c7117a155ac4af29
+md5_10: 7e2349e75a
+md5_10_upper: 7E2349E75A
+md5_5: 7e234
+md5_5_upper: 7E234
+md5_6: 7e2349
+md5_6_alpha: 4x6ix
+md5_6_alpha_upper: 4X6IX
+md5_6_upper: 7E2349
+name: Category Packaging Takeaway Container Circle 870 Ml To Sort
+name_no_class: Packaging Takeaway Container Circle 870 Ml To Sort
+name_no_size: 870 Ml To Sort
+name_no_size_short: 870 Ml To Sort
+name_no_type: Takeaway Container Circle 870 Ml To Sort
+oomp_key: oomp_category_packaging_takeaway_container_circle_870_ml_to_sort
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorypackaging
+size: takeaway_container_circle
+size_capital: Takeaway Container Circle
+size_first_letter: t
+size_first_letter_upper: T
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: TAKEAWAY_CONTAINER_CIRCLE
+type: packaging
+type_capital: Packaging
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PACKAGING

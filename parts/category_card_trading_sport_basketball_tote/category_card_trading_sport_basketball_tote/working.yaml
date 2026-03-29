@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_card_trading
+description_extra: tote
+description_extra_capital: Tote
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TOTE
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_card_trading_sport_basketball_tote
+distributors: []
+filter: ''
+from_yaml: false
+id: category_card_trading_sport_basketball_tote
+id_no_class: card_trading_sport_basketball_tote
+id_no_size: tote
+id_no_type: sport_basketball_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_card_trading_sport_basketball_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_card_trading_sport_basketball_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_card_trading_sport_basketball_tote
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_card_trading_sport_basketball_tote](none)<br>[](none)<br>[Category
+    Card Trading Sport Basketball Tote](none)<br><br>'
+markdown_short: '[category_card_trading_sport_basketball_tote](none)<br><br>'
+md5: 814b16ed312d261f35b9fca4f7f9ed8f
+md5_10: 814b16ed31
+md5_10_upper: 814B16ED31
+md5_5: 814b1
+md5_5_upper: 814B1
+md5_6: 814b16
+md5_6_alpha: 51m3a
+md5_6_alpha_upper: 51M3A
+md5_6_upper: 814B16
+name: Category Card Trading Sport Basketball Tote
+name_no_class: Card Trading Sport Basketball Tote
+name_no_size: Tote
+name_no_size_short: Tote
+name_no_type: Sport Basketball Tote
+oomp_key: oomp_category_card_trading_sport_basketball_tote
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorycardtrading
+size: sport_basketball
+size_capital: Sport Basketball
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SPORT_BASKETBALL
+type: card_trading
+type_capital: Card Trading
+type_first_letter: c
+type_first_letter_upper: C
+type_upper: CARD_TRADING

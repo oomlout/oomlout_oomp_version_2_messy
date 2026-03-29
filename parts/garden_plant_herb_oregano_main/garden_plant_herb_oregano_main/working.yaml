@@ -1,0 +1,79 @@
+classification: garden
+classification_capital: Garden
+classification_first_letter: g
+classification_first_letter_upper: G
+classification_upper: GARDEN
+color: oregano
+color_capital: Oregano
+color_first_letter: o
+color_first_letter_upper: O
+color_upper: OREGANO
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: main
+description_main_capital: Main
+description_main_first_letter: m
+description_main_first_letter_upper: M
+description_main_upper: MAIN
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'O '
+description_or_color_upper: 'O '
+directory: parts/garden_plant_herb_oregano_main
+distributor_sutton_seeds: '142017'
+distributors: []
+id: garden_plant_herb_oregano_main
+id_no_class: plant_herb_oregano_main
+id_no_size: oregano_main
+id_no_type: herb_oregano_main
+link_distributor_sutton_seeds: https://www.suttons.co.uk/SUSGWE184/oregano-seeds-for-pollinators_mh-52697
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/garden_plant_herb_oregano_main
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/garden_plant_herb_oregano_main
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/garden_plant_herb_oregano_main
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[garden_plant_herb_oregano_main](none)<br>[](none)<br>[Garden Plant
+    Herb Oregano Main](none)<br><br>'
+markdown_short: '[garden_plant_herb_oregano_main](none)<br><br>'
+md5: 32f3ff771233fd06082faf893e0e6c46
+md5_10: 32f3ff7712
+md5_10_upper: 32F3FF7712
+md5_5: 32f3f
+md5_5_upper: 32F3F
+md5_6: 32f3ff
+md5_6_alpha: 1zklb
+md5_6_alpha_upper: 1ZKLB
+md5_6_upper: 32F3FF
+name: Garden Plant Herb Oregano Main
+name_no_class: Plant Herb Oregano Main
+name_no_size: Oregano Main
+name_no_size_short: Oregano Main
+name_no_type: Herb Oregano Main
+oomp_key: oomp_garden_plant_herb_oregano_main
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: herb
+size_capital: Herb
+size_first_letter: h
+size_first_letter_upper: H
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: HERB
+type: plant
+type_capital: Plant
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PLANT

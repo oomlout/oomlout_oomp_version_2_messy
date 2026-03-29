@@ -1,0 +1,77 @@
+classification: book
+classification_capital: Book
+classification_first_letter: b
+classification_first_letter_upper: B
+classification_upper: BOOK
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/book_looking_nature
+distributors: []
+filter: ''
+from_yaml: false
+id: book_looking_nature
+id_no_class: looking_nature
+id_no_size: nature
+id_no_type: nature
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/book_looking_nature
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/book_looking_nature
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/book_looking_nature
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[book_looking_nature](none)<br>[](none)<br>[Book Looking Nature](none)<br><br>'
+markdown_short: '[book_looking_nature](none)<br><br>'
+md5: 0338eb3099e955e9daead3ada322a9e6
+md5_10: 0338eb3099
+md5_10_upper: 0338EB3099
+md5_5: 0338e
+md5_5_upper: 0338E
+md5_6: 0338eb
+md5_6_alpha: 4iy3
+md5_6_alpha_upper: 4IY3
+md5_6_upper: 0338EB
+name: Book Looking Nature
+name_no_class: Looking Nature
+name_no_size: Nature
+name_no_size_short: Nature
+name_no_type: Nature
+oomp_key: oomp_book_looking_nature
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: nature
+size_capital: Nature
+size_first_letter: n
+size_first_letter_upper: N
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: NATURE
+type: looking
+type_capital: Looking
+type_first_letter: l
+type_first_letter_upper: L
+type_upper: LOOKING

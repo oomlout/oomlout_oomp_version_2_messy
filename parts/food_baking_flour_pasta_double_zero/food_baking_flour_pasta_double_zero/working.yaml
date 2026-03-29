@@ -1,0 +1,80 @@
+classification: food
+classification_capital: Food
+classification_first_letter: f
+classification_first_letter_upper: F
+classification_upper: FOOD
+color: pasta_double_zero
+color_capital: Pasta Double Zero
+color_first_letter: p
+color_first_letter_upper: P
+color_upper: PASTA_DOUBLE_ZERO
+description: flour_pasta_double_zero
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'P '
+description_or_color_upper: 'P '
+directory: parts/food_baking_flour_pasta_double_zero
+distributors: []
+filter: ''
+from_yaml: false
+id: food_baking_flour_pasta_double_zero
+id_no_class: baking_flour_pasta_double_zero
+id_no_size: pasta_double_zero
+id_no_type: flour_pasta_double_zero
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_baking_flour_pasta_double_zero
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_baking_flour_pasta_double_zero
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_baking_flour_pasta_double_zero
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[food_baking_flour_pasta_double_zero](none)<br>[](none)<br>[Food Baking
+    Flour Pasta Double Zero](none)<br><br>'
+markdown_short: '[food_baking_flour_pasta_double_zero](none)<br><br>'
+md5: f48067930e2bad21266d3395a5248e34
+md5_10: f48067930e
+md5_10_upper: F48067930E
+md5_5: f4806
+md5_5_upper: F4806
+md5_6: f48067
+md5_6_alpha: 9jfxj
+md5_6_alpha_upper: 9JFXJ
+md5_6_upper: F48067
+name: Food Baking Flour Pasta Double Zero
+name_no_class: Baking Flour Pasta Double Zero
+name_no_size: Pasta Double Zero
+name_no_size_short: Pasta Double Zero
+name_no_type: Flour Pasta Double Zero
+name_short: Flour Pasta Double Zero
+oomp_key: oomp_food_baking_flour_pasta_double_zero
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: flour
+size_capital: Flour
+size_first_letter: f
+size_first_letter_upper: F
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: FLOUR
+type: baking
+type_capital: Baking
+type_first_letter: b
+type_first_letter_upper: B
+type_upper: BAKING

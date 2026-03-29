@@ -1,0 +1,79 @@
+classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_upper: ELECTRONIC
+color: through_hole
+color_capital: Through Hole
+color_first_letter: t
+color_first_letter_upper: T
+color_upper: THROUGH_HOLE
+description_extra: ps4_compatible
+description_extra_capital: Ps4 Compatible
+description_extra_first_letter: p
+description_extra_first_letter_upper: P
+description_extra_upper: PS4_COMPATIBLE
+description_main: dual_axis_with_button
+description_main_capital: Dual Axis With Button
+description_main_first_letter: d
+description_main_first_letter_upper: D
+description_main_upper: DUAL_AXIS_WITH_BUTTON
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'T '
+description_or_color_upper: 'T '
+directory: parts/electronic_joystick_16_mm_width_16_mm_height_through_hole_dual_axis_with_button_ps4_compatible
+distributors: []
+id: electronic_joystick_16_mm_width_16_mm_height_through_hole_dual_axis_with_button_ps4_compatible
+id_no_class: joystick_16_mm_width_16_mm_height_through_hole_dual_axis_with_button_ps4_compatible
+id_no_size: through_hole_dual_axis_with_button_ps4_compatible
+id_no_type: 16_mm_width_16_mm_height_through_hole_dual_axis_with_button_ps4_compatible
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_joystick_16_mm_width_16_mm_height_through_hole_dual_axis_with_button_ps4_compatible
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_joystick_16_mm_width_16_mm_height_through_hole_dual_axis_with_button_ps4_compatible
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_joystick_16_mm_width_16_mm_height_through_hole_dual_axis_with_button_ps4_compatible
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[electronic_joystick_16_mm_width_16_mm_height_through_hole_dual_axis_with_button_ps4_compatible](none)<br>[](none)<br>[Electronic
+    Joystick 16 Mm Width 16 Mm Height Through Hole Dual Axis With Button Ps4 Compatible](none)<br><br>'
+markdown_short: '[electronic_joystick_16_mm_width_16_mm_height_through_hole_dual_axis_with_button_ps4_compatible](none)<br><br>'
+md5: 3502907e103cb0e5d955bc050771d2b1
+md5_10: 3502907e10
+md5_10_upper: 3502907E10
+md5_5: '35029'
+md5_5_upper: '35029'
+md5_6: '350290'
+md5_6_alpha: 22gls
+md5_6_alpha_upper: 22GLS
+md5_6_upper: '350290'
+name: Electronic Joystick 16 Mm Width 16 Mm Height Through Hole Dual Axis With Button
+    Ps4 Compatible
+name_no_class: Joystick 16 Mm Width 16 Mm Height Through Hole Dual Axis With Button
+    Ps4 Compatible
+name_no_size: Through Hole Dual Axis With Button Ps4 Compatible
+name_no_size_short: Through Hole Dual Axis With Button Ps4 Compatible
+name_no_type: 16 Mm Width 16 Mm Height Through Hole Dual Axis With Button Ps4 Compatible
+oomp_key: oomp_electronic_joystick_16_mm_width_16_mm_height_through_hole_dual_axis_with_button_ps4_compatible
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: 16_mm_width_16_mm_height
+size_capital: 16 mm Width 16 mm Height
+size_first_letter: '1'
+size_first_letter_upper: '1'
+size_only_numbers: '1616'
+size_only_numbers_no_zeros: '1616'
+size_upper: 16_MM_WIDTH_16_MM_HEIGHT
+type: joystick
+type_capital: Joystick
+type_first_letter: j
+type_first_letter_upper: J
+type_upper: JOYSTICK

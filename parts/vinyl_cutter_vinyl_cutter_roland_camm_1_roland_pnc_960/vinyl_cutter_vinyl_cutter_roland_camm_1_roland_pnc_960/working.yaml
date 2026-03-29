@@ -1,0 +1,79 @@
+classification: vinyl_cutter
+classification_capital: Vinyl Cutter
+classification_first_letter: v
+classification_first_letter_upper: V
+classification_upper: VINYL_CUTTER
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: camm_1
+description_main_capital: Camm 1
+description_main_first_letter: c
+description_main_first_letter_upper: C
+description_main_upper: CAMM_1
+description_only_numbers: '1'
+description_only_numbers_short: '1'
+description_or_color: '1'
+description_or_color_upper: '1'
+directory: parts/vinyl_cutter_vinyl_cutter_roland_camm_1_roland_pnc_960
+distributors: []
+filter: ''
+from_yaml: false
+id: vinyl_cutter_vinyl_cutter_roland_camm_1_roland_pnc_960
+id_no_class: roland_camm_1_roland_pnc_960
+id_no_size: camm_1_pnc_960
+id_no_type: roland_camm_1_roland_pnc_960
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/vinyl_cutter_vinyl_cutter_roland_camm_1_roland_pnc_960
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/vinyl_cutter_vinyl_cutter_roland_camm_1_roland_pnc_960
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/vinyl_cutter_vinyl_cutter_roland_camm_1_roland_pnc_960
+manufacturer: roland
+manufacturer_capital: Roland
+manufacturer_first_letter: r
+manufacturer_first_letter_upper: R
+manufacturer_upper: ROLAND
+manufacturers: []
+markdown_full: '[vinyl_cutter_vinyl_cutter_roland_camm_1_roland_pnc_960](none)<br>[](none)<br>[Vinyl
+    Cutter Vinyl Cutter Roland Camm 1 Roland Pnc 960](none)<br><br>'
+markdown_short: '[vinyl_cutter_vinyl_cutter_roland_camm_1_roland_pnc_960](none)<br><br>'
+md5: 455a5ee4522612d6470b99996c49e211
+md5_10: 455a5ee452
+md5_10_upper: 455A5EE452
+md5_5: 455a5
+md5_5_upper: 455A5
+md5_6: 455a5e
+md5_6_alpha: 2pf1a
+md5_6_alpha_upper: 2PF1A
+md5_6_upper: 455A5E
+name: Vinyl Cutter Vinyl Cutter Roland Camm 1 Roland Pnc 960
+name_no_class: Roland Camm 1 Roland Pnc 960
+name_no_size: Camm 1 Pnc 960
+name_no_size_short: Camm 1 Pnc 960
+name_no_type: Roland Camm 1 Roland Pnc 960
+oomp_key: oomp_vinyl_cutter_vinyl_cutter_roland_camm_1_roland_pnc_960
+part_number: pnc_960
+part_number_capital: Pnc 960
+part_number_exact: PNC-960
+part_number_first_letter: p
+part_number_first_letter_upper: P
+part_number_upper: PNC_960
+short_code: ''
+short_code_upper: ''
+size: roland
+size_capital: Roland
+size_first_letter: r
+size_first_letter_upper: R
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ROLAND
+type: vinyl_cutter
+type_capital: Vinyl Cutter
+type_first_letter: v
+type_first_letter_upper: V
+type_upper: VINYL_CUTTER

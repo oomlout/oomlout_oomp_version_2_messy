@@ -1,0 +1,80 @@
+classification: food
+classification_capital: Food
+classification_first_letter: f
+classification_first_letter_upper: F
+classification_upper: FOOD
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: salt celery
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: salt_celery
+description_main_capital: Salt Celery
+description_main_first_letter: s
+description_main_first_letter_upper: S
+description_main_upper: SALT_CELERY
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/food_seasoning_salt_and_pepper_salt_celery
+distributors: []
+filter: ''
+from_yaml: false
+id: food_seasoning_salt_and_pepper_salt_celery
+id_no_class: seasoning_salt_and_pepper_salt_celery
+id_no_size: salt_celery
+id_no_type: salt_and_pepper_salt_celery
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_salt_and_pepper_salt_celery
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_salt_and_pepper_salt_celery
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_salt_and_pepper_salt_celery
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[food_seasoning_salt_and_pepper_salt_celery](none)<br>[](none)<br>[Food
+    Seasoning Salt And Pepper Salt Celery](none)<br><br>'
+markdown_short: '[food_seasoning_salt_and_pepper_salt_celery](none)<br><br>'
+md5: e3c00e48b2dc84ac5478db1038abe768
+md5_10: e3c00e48b2
+md5_10_upper: E3C00E48B2
+md5_5: e3c00
+md5_5_upper: E3C00
+md5_6: e3c00e
+md5_6_alpha: 8vwum
+md5_6_alpha_upper: 8VWUM
+md5_6_upper: E3C00E
+name: Food Seasoning Salt And Pepper Salt Celery
+name_no_class: Seasoning Salt And Pepper Salt Celery
+name_no_size: Salt Celery
+name_no_size_short: Salt Celery
+name_no_type: Salt And Pepper Salt Celery
+name_short: Salt Celery
+oomp_key: oomp_food_seasoning_salt_and_pepper_salt_celery
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: salt_and_pepper
+size_capital: Salt And Pepper
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SALT_AND_PEPPER
+type: seasoning
+type_capital: Seasoning
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: SEASONING

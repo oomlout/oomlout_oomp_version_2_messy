@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_robot_vacuum
+description_extra: tote
+description_extra_capital: Tote
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TOTE
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_robot_vacuum_tote
+distributors: []
+filter: ''
+from_yaml: false
+id: category_robot_vacuum_tote
+id_no_class: robot_vacuum_tote
+id_no_size: tote
+id_no_type: tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_robot_vacuum_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_robot_vacuum_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_robot_vacuum_tote
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_robot_vacuum_tote](none)<br>[](none)<br>[Category Robot
+    Vacuum Tote](none)<br><br>'
+markdown_short: '[category_robot_vacuum_tote](none)<br><br>'
+md5: 5637b30bb990a7cb0ecac91e7f23ad11
+md5_10: 5637b30bb9
+md5_10_upper: 5637B30BB9
+md5_5: 5637b
+md5_5_upper: 5637B
+md5_6: 5637b3
+md5_6_alpha: 3d3ub
+md5_6_alpha_upper: 3D3UB
+md5_6_upper: 5637B3
+name: Category Robot Vacuum Tote
+name_no_class: Robot Vacuum Tote
+name_no_size: Tote
+name_no_size_short: Tote
+name_no_type: Tote
+oomp_key: oomp_category_robot_vacuum_tote
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryrobotvacuum
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: robot_vacuum
+type_capital: Robot Vacuum
+type_first_letter: r
+type_first_letter_upper: R
+type_upper: ROBOT_VACUUM

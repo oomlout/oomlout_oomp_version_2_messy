@@ -1,0 +1,83 @@
+classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_upper: ELECTRONIC
+color: red_black_yellow_green_color
+color_capital: Red Black Yellow Green Color
+color_first_letter: r
+color_first_letter_upper: R
+color_upper: RED_BLACK_YELLOW_GREEN_COLOR
+description_extra: qwiic_stemma_i2c_bus_compatible
+description_extra_capital: Qwiic Stemma I2C Bus Compatible
+description_extra_first_letter: q
+description_extra_first_letter_upper: Q
+description_extra_upper: QWIIC_STEMMA_I2C_BUS_COMPATIBLE
+description_main: 100_mm_length
+description_main_capital: 100 mm Length
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_upper: 100_MM_LENGTH
+description_only_numbers: '100'
+description_only_numbers_short: '100'
+description_or_color: R100
+description_or_color_upper: R100
+directory: parts/electronic_wire_pigtail_crimp_housing_1_mm_jst_sh_4_pin_socket_red_black_yellow_green_color_100_mm_length_qwiic_stemma_i2c_bus_compatible
+distributors: []
+id: electronic_wire_pigtail_crimp_housing_1_mm_jst_sh_4_pin_socket_red_black_yellow_green_color_100_mm_length_qwiic_stemma_i2c_bus_compatible
+id_no_class: wire_pigtail_crimp_housing_1_mm_jst_sh_4_pin_socket_red_black_yellow_green_color_100_mm_length_qwiic_stemma_i2c_bus_compatible
+id_no_size: red_black_yellow_green_color_100_mm_length_qwiic_stemma_i2c_bus_compatible
+id_no_type: crimp_housing_1_mm_jst_sh_4_pin_socket_red_black_yellow_green_color_100_mm_length_qwiic_stemma_i2c_bus_compatible
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_wire_pigtail_crimp_housing_1_mm_jst_sh_4_pin_socket_red_black_yellow_green_color_100_mm_length_qwiic_stemma_i2c_bus_compatible
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_wire_pigtail_crimp_housing_1_mm_jst_sh_4_pin_socket_red_black_yellow_green_color_100_mm_length_qwiic_stemma_i2c_bus_compatible
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_wire_pigtail_crimp_housing_1_mm_jst_sh_4_pin_socket_red_black_yellow_green_color_100_mm_length_qwiic_stemma_i2c_bus_compatible
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[electronic_wire_pigtail_crimp_housing_1_mm_jst_sh_4_pin_socket_red_black_yellow_green_color_100_mm_length_qwiic_stemma_i2c_bus_compatible](none)<br>[](none)<br>[Electronic
+    Wire Pigtail Crimp Housing 1 Mm Jst Sh 4 Pin Socket Red Black Yellow Green Color
+    100 Mm Length Qwiic Stemma I2C Bus Compatible](none)<br><br>'
+markdown_short: '[electronic_wire_pigtail_crimp_housing_1_mm_jst_sh_4_pin_socket_red_black_yellow_green_color_100_mm_length_qwiic_stemma_i2c_bus_compatible](none)<br><br>'
+md5: 92bb738090b1322bd993f6746e4f1fed
+md5_10: 92bb738090
+md5_10_upper: 92BB738090
+md5_5: 92bb7
+md5_5_upper: 92BB7
+md5_6: 92bb73
+md5_6_alpha: 5q3xv
+md5_6_alpha_upper: 5Q3XV
+md5_6_upper: 92BB73
+name: Electronic Wire Pigtail Crimp Housing 1 Mm Jst Sh 4 Pin Socket Red Black Yellow
+    Green Color 100 Mm Length Qwiic Stemma I2C Bus Compatible
+name_no_class: Wire Pigtail Crimp Housing 1 Mm Jst Sh 4 Pin Socket Red Black Yellow
+    Green Color 100 Mm Length Qwiic Stemma I2C Bus Compatible
+name_no_size: Red Black Yellow Green Color 100 Mm Length Qwiic Stemma I2C Bus Compatible
+name_no_size_short: Red Black Yellow Green Color 100 Mm Length Qwiic Stemma I2C Bus
+    Compatible
+name_no_type: Crimp Housing 1 Mm Jst Sh 4 Pin Socket Red Black Yellow Green Color
+    100 Mm Length Qwiic Stemma I2C Bus Compatible
+oomp_key: oomp_electronic_wire_pigtail_crimp_housing_1_mm_jst_sh_4_pin_socket_red_black_yellow_green_color_100_mm_length_qwiic_stemma_i2c_bus_compatible
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: crimp_housing_1_mm_jst_sh_4_pin_socket
+size_capital: Crimp Housing 1 mm Jst Sh 4 Pin Socket
+size_first_letter: c
+size_first_letter_upper: C
+size_only_numbers: '14'
+size_only_numbers_no_zeros: '14'
+size_upper: CRIMP_HOUSING_1_MM_JST_SH_4_PIN_SOCKET
+type: wire_pigtail
+type_capital: Wire Pigtail
+type_first_letter: w
+type_first_letter_upper: W
+type_upper: WIRE_PIGTAIL

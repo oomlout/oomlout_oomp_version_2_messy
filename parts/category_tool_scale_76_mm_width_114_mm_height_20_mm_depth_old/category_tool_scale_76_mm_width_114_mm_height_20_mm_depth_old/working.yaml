@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: 76_mm_width_114_mm_height_20_mm_depth
+color_capital: 76 mm Width 114 mm Height 20 mm Depth
+color_first_letter: '7'
+color_first_letter_upper: '7'
+color_upper: 76_MM_WIDTH_114_MM_HEIGHT_20_MM_DEPTH
+description: category_tool
+description_extra: old
+description_extra_capital: Old
+description_extra_first_letter: o
+description_extra_first_letter_upper: O
+description_extra_upper: OLD
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: '7 '
+description_or_color_upper: '7 '
+directory: parts/category_tool_scale_76_mm_width_114_mm_height_20_mm_depth_old
+distributors: []
+filter: ''
+from_yaml: false
+id: category_tool_scale_76_mm_width_114_mm_height_20_mm_depth_old
+id_no_class: tool_scale_76_mm_width_114_mm_height_20_mm_depth_old
+id_no_size: 76_mm_width_114_mm_height_20_mm_depth_old
+id_no_type: scale_76_mm_width_114_mm_height_20_mm_depth_old
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_scale_76_mm_width_114_mm_height_20_mm_depth_old
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_scale_76_mm_width_114_mm_height_20_mm_depth_old
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_scale_76_mm_width_114_mm_height_20_mm_depth_old
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_tool_scale_76_mm_width_114_mm_height_20_mm_depth_old](none)<br>[](none)<br>[Category
+    Tool Scale 76 Mm Width 114 Mm Height 20 Mm Depth Old](none)<br><br>'
+markdown_short: '[category_tool_scale_76_mm_width_114_mm_height_20_mm_depth_old](none)<br><br>'
+md5: 272ac66e04b317dad7533cb0269f06b4
+md5_10: 272ac66e04
+md5_10_upper: 272AC66E04
+md5_5: 272ac
+md5_5_upper: 272AC
+md5_6: 272ac6
+md5_6_alpha: 1j0li
+md5_6_alpha_upper: 1J0LI
+md5_6_upper: 272AC6
+name: Category Tool Scale 76 Mm Width 114 Mm Height 20 Mm Depth Old
+name_no_class: Tool Scale 76 Mm Width 114 Mm Height 20 Mm Depth Old
+name_no_size: 76 Mm Width 114 Mm Height 20 Mm Depth Old
+name_no_size_short: 76 Mm Width 114 Mm Height 20 Mm Depth Old
+name_no_type: Scale 76 Mm Width 114 Mm Height 20 Mm Depth Old
+oomp_key: oomp_category_tool_scale_76_mm_width_114_mm_height_20_mm_depth_old
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorytool
+size: scale
+size_capital: Scale
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SCALE
+type: tool
+type_capital: Tool
+type_first_letter: t
+type_first_letter_upper: T
+type_upper: TOOL

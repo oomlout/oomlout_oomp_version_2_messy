@@ -1,0 +1,78 @@
+classification: tool
+classification_capital: Tool
+classification_first_letter: t
+classification_first_letter_upper: T
+classification_upper: TOOL
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 17_mm_blade
+description_main_capital: 17 mm Blade
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_upper: 17_MM_BLADE
+description_only_numbers: '17'
+description_only_numbers_short: '17'
+description_or_color: '17'
+description_or_color_upper: '17'
+directory: parts/tool_knife_utility_17_mm_blade
+distributors: []
+filter: ''
+from_yaml: false
+id: tool_knife_utility_17_mm_blade
+id_no_class: knife_utility_17_mm_blade
+id_no_size: 17mmblade
+id_no_type: 17_mm_blade
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_knife_utility_17_mm_blade
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_knife_utility_17_mm_blade
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_knife_utility_17_mm_blade
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[tool_knife_utility_17_mm_blade](none)<br>[](none)<br>[Tool Knife
+    Utility 17 Mm Blade](none)<br><br>'
+markdown_short: '[tool_knife_utility_17_mm_blade](none)<br><br>'
+md5: 12fa6b828960ffb9eb9722fd0baea506
+md5_10: 12fa6b8289
+md5_10_upper: 12FA6B8289
+md5_5: 12fa6
+md5_5_upper: 12FA6
+md5_6: 12fa6b
+md5_6_alpha: qnor
+md5_6_alpha_upper: QNOR
+md5_6_upper: 12FA6B
+name: Tool Knife Utility 17 Mm Blade
+name_no_class: Knife Utility 17 Mm Blade
+name_no_size: 17Mmblade
+name_no_size_short: 17Mmblade
+name_no_type: 17 Mm Blade
+oomp_key: oomp_tool_knife_utility_17_mm_blade
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: knife_utility
+type_capital: Knife Utility
+type_first_letter: k
+type_first_letter_upper: K
+type_upper: KNIFE_UTILITY

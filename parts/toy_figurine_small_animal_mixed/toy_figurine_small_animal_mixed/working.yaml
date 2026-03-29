@@ -1,0 +1,77 @@
+classification: toy
+classification_capital: Toy
+classification_first_letter: t
+classification_first_letter_upper: T
+classification_upper: TOY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: animal_mixed
+description_main_capital: Animal Mixed
+description_main_first_letter: a
+description_main_first_letter_upper: A
+description_main_upper: ANIMAL_MIXED
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/toy_figurine_small_animal_mixed
+distributors: []
+id: toy_figurine_small_animal_mixed
+id_no_class: figurine_small_animal_mixed
+id_no_size: animal_mixed
+id_no_type: small_animal_mixed
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_figurine_small_animal_mixed
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_figurine_small_animal_mixed
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_figurine_small_animal_mixed
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[toy_figurine_small_animal_mixed](none)<br>[](none)<br>[Toy Figurine
+    Small Animal Mixed](none)<br><br>'
+markdown_short: '[toy_figurine_small_animal_mixed](none)<br><br>'
+md5: b2fd4eb0157019c333d3c65edfd7f498
+md5_10: b2fd4eb015
+md5_10_upper: B2FD4EB015
+md5_5: b2fd4
+md5_5_upper: B2FD4
+md5_6: b2fd4e
+md5_6_alpha: 6zf4e
+md5_6_alpha_upper: 6ZF4E
+md5_6_upper: B2FD4E
+name: Toy Figurine Small Animal Mixed
+name_no_class: Figurine Small Animal Mixed
+name_no_size: Animal Mixed
+name_no_size_short: Animal Mixed
+name_no_type: Small Animal Mixed
+oomp_key: oomp_toy_figurine_small_animal_mixed
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: small
+size_capital: Small
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SMALL
+type: figurine
+type_capital: Figurine
+type_first_letter: f
+type_first_letter_upper: F
+type_upper: FIGURINE

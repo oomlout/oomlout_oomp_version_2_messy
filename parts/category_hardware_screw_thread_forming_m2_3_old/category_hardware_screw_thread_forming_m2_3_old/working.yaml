@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: m2_3
+color_capital: M2.3
+color_first_letter: m
+color_first_letter_upper: M
+color_upper: M2_3
+description: category_hardware
+description_extra: old
+description_extra_capital: Old
+description_extra_first_letter: o
+description_extra_first_letter_upper: O
+description_extra_upper: OLD
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'M '
+description_or_color_upper: 'M '
+directory: parts/category_hardware_screw_thread_forming_m2_3_old
+distributors: []
+filter: ''
+from_yaml: false
+id: category_hardware_screw_thread_forming_m2_3_old
+id_no_class: hardware_screw_thread_forming_m2_3_old
+id_no_size: m2_3_old
+id_no_type: screw_thread_forming_m2_3_old
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_screw_thread_forming_m2_3_old
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_screw_thread_forming_m2_3_old
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_screw_thread_forming_m2_3_old
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_hardware_screw_thread_forming_m2_3_old](none)<br>[](none)<br>[Category
+    Hardware Screw Thread Forming M2 3 Old](none)<br><br>'
+markdown_short: '[category_hardware_screw_thread_forming_m2_3_old](none)<br><br>'
+md5: 4c5af91e44e9d8597771de1ead88d0ee
+md5_10: 4c5af91e44
+md5_10_upper: 4C5AF91E44
+md5_5: 4c5af
+md5_5_upper: 4C5AF
+md5_6: 4c5af9
+md5_6_alpha: 2z94p
+md5_6_alpha_upper: 2Z94P
+md5_6_upper: 4C5AF9
+name: Category Hardware Screw Thread Forming M2 3 Old
+name_no_class: Hardware Screw Thread Forming M2 3 Old
+name_no_size: M2 3 Old
+name_no_size_short: M2 3 Old
+name_no_type: Screw Thread Forming M2 3 Old
+oomp_key: oomp_category_hardware_screw_thread_forming_m2_3_old
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryhardware
+size: screw_thread_forming
+size_capital: Screw Thread Forming
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SCREW_THREAD_FORMING
+type: hardware
+type_capital: Hardware
+type_first_letter: h
+type_first_letter_upper: H
+type_upper: HARDWARE

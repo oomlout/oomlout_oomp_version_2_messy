@@ -1,0 +1,80 @@
+classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_upper: ELECTRONIC
+color: red
+color_capital: Red
+color_first_letter: r
+color_first_letter_upper: R
+color_upper: RED
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: banana_socket_and_spade_connect_panel_mount
+description_main_capital: Banana Socket And Spade Connect Panel Mount
+description_main_first_letter: b
+description_main_first_letter_upper: B
+description_main_upper: BANANA_SOCKET_AND_SPADE_CONNECT_PANEL_MOUNT
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'R '
+description_or_color_upper: 'R '
+directory: parts/electronic_connector_banana_style_4_mm_red_banana_socket_and_spade_connect_panel_mount
+distributors: []
+filter: ''
+from_yaml: false
+id: electronic_connector_banana_style_4_mm_red_banana_socket_and_spade_connect_panel_mount
+id_no_class: connector_banana_style_4_mm_red_banana_socket_and_spade_connect_panel_mount
+id_no_size: red_banana_socket_and_spade_connect_panel_mount
+id_no_type: banana_style_4_mm_red_banana_socket_and_spade_connect_panel_mount
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_connector_banana_style_4_mm_red_banana_socket_and_spade_connect_panel_mount
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_connector_banana_style_4_mm_red_banana_socket_and_spade_connect_panel_mount
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_connector_banana_style_4_mm_red_banana_socket_and_spade_connect_panel_mount
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[electronic_connector_banana_style_4_mm_red_banana_socket_and_spade_connect_panel_mount](none)<br>[conr](none)<br>[Electronic
+    Connector Banana Style 4 Mm Red Banana Socket And Spade Connect Panel Mount](none)<br><br>'
+markdown_short: '[electronic_connector_banana_style_4_mm_red_banana_socket_and_spade_connect_panel_mount](none)<br><br>'
+md5: 62f8c1466abd4d949be3174e06af6f00
+md5_10: 62f8c1466a
+md5_10_upper: 62F8C1466A
+md5_5: 62f8c
+md5_5_upper: 62F8C
+md5_6: 62f8c1
+md5_6_alpha: 3v0sh
+md5_6_alpha_upper: 3V0SH
+md5_6_upper: 62F8C1
+name: Electronic Connector Banana Style 4 Mm Red Banana Socket And Spade Connect Panel
+    Mount
+name_no_class: Connector Banana Style 4 Mm Red Banana Socket And Spade Connect Panel
+    Mount
+name_no_size: Red Banana Socket And Spade Connect Panel Mount
+name_no_size_short: Red Banana Socket And Spade Connect Panel Mount
+name_no_type: Banana Style 4 Mm Red Banana Socket And Spade Connect Panel Mount
+oomp_key: oomp_electronic_connector_banana_style_4_mm_red_banana_socket_and_spade_connect_panel_mount
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: conr
+short_code_upper: CONR
+size: banana_style_4_mm
+size_capital: Banana Style 4 mm
+size_first_letter: b
+size_first_letter_upper: B
+size_only_numbers: '4'
+size_only_numbers_no_zeros: '4'
+size_upper: BANANA_STYLE_4_MM
+type: connector
+type_capital: Connector
+type_first_letter: c
+type_first_letter_upper: C
+type_upper: CONNECTOR

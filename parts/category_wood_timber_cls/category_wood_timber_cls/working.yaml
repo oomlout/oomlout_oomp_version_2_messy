@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_wood
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_wood_timber_cls
+distributors: []
+filter: ''
+from_yaml: false
+id: category_wood_timber_cls
+id_no_class: wood_timber_cls
+id_no_size: timber_cls
+id_no_type: timber_cls
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_wood_timber_cls
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_wood_timber_cls
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_wood_timber_cls
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_wood_timber_cls](none)<br>[](none)<br>[Category Wood Timber
+    Cls](none)<br><br>'
+markdown_short: '[category_wood_timber_cls](none)<br><br>'
+md5: aedeb52363aca5b318098a0fe91e212e
+md5_10: aedeb52363
+md5_10_upper: AEDEB52363
+md5_5: aedeb
+md5_5_upper: AEDEB
+md5_6: aedeb5
+md5_6_alpha: 6tmt1
+md5_6_alpha_upper: 6TMT1
+md5_6_upper: AEDEB5
+name: Category Wood Timber Cls
+name_no_class: Wood Timber Cls
+name_no_size: Timber Cls
+name_no_size_short: Timber Cls
+name_no_type: Timber Cls
+oomp_key: oomp_category_wood_timber_cls
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorywood
+size: timber_cls
+size_capital: Timber Cls
+size_first_letter: t
+size_first_letter_upper: T
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: TIMBER_CLS
+type: wood
+type_capital: Wood
+type_first_letter: w
+type_first_letter_upper: W
+type_upper: WOOD

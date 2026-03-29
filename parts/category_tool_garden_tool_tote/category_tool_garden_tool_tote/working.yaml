@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_tool
+description_extra: tote
+description_extra_capital: Tote
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TOTE
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_tool_garden_tool_tote
+distributors: []
+filter: ''
+from_yaml: false
+id: category_tool_garden_tool_tote
+id_no_class: tool_garden_tool_tote
+id_no_size: garden_tote
+id_no_type: garden_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_garden_tool_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_garden_tool_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_garden_tool_tote
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_tool_garden_tool_tote](none)<br>[](none)<br>[Category Tool
+    Garden Tool Tote](none)<br><br>'
+markdown_short: '[category_tool_garden_tool_tote](none)<br><br>'
+md5: 51dbbdb4f3c28fede75af7ffa50d1ab6
+md5_10: 51dbbdb4f3
+md5_10_upper: 51DBBDB4F3
+md5_5: 51dbb
+md5_5_upper: 51DBB
+md5_6: 51dbbd
+md5_6_alpha: 36zel
+md5_6_alpha_upper: 36ZEL
+md5_6_upper: 51DBBD
+name: Category Tool Garden Tool Tote
+name_no_class: Tool Garden Tool Tote
+name_no_size: Garden Tote
+name_no_size_short: Garden Tote
+name_no_type: Garden Tote
+oomp_key: oomp_category_tool_garden_tool_tote
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorytool
+size: garden_tool
+size_capital: Garden Tool
+size_first_letter: g
+size_first_letter_upper: G
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: GARDEN_TOOL
+type: tool
+type_capital: Tool
+type_first_letter: t
+type_first_letter_upper: T
+type_upper: TOOL

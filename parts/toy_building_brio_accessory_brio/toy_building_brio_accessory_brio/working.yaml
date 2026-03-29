@@ -1,0 +1,77 @@
+classification: toy
+classification_capital: Toy
+classification_first_letter: t
+classification_first_letter_upper: T
+classification_upper: TOY
+color: accessory
+color_capital: Accessory
+color_first_letter: a
+color_first_letter_upper: A
+color_upper: ACCESSORY
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'A '
+description_or_color_upper: 'A '
+directory: parts/toy_building_brio_accessory_brio
+distributors: []
+id: toy_building_brio_accessory_brio
+id_no_class: building_brio_accessory_brio
+id_no_size: accessory_brio
+id_no_type: brio_accessory_brio
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_building_brio_accessory_brio
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_building_brio_accessory_brio
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_building_brio_accessory_brio
+manufacturer: brio
+manufacturer_capital: Brio
+manufacturer_first_letter: b
+manufacturer_first_letter_upper: B
+manufacturer_upper: BRIO
+manufacturers: []
+markdown_full: '[toy_building_brio_accessory_brio](none)<br>[](none)<br>[Toy Building
+    Brio Accessory Brio](none)<br><br>'
+markdown_short: '[toy_building_brio_accessory_brio](none)<br><br>'
+md5: b13752b484634468c99865c43b24fc0a
+md5_10: b13752b484
+md5_10_upper: B13752B484
+md5_5: b1375
+md5_5_upper: B1375
+md5_6: b13752
+md5_6_alpha: 6wxg2
+md5_6_alpha_upper: 6WXG2
+md5_6_upper: B13752
+name: Toy Building Brio Accessory Brio
+name_no_class: Building Brio Accessory Brio
+name_no_size: Accessory Brio
+name_no_size_short: Accessory Brio
+name_no_type: Brio Accessory Brio
+oomp_key: oomp_toy_building_brio_accessory_brio
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: brio
+size_capital: Brio
+size_first_letter: b
+size_first_letter_upper: B
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: BRIO
+type: building
+type_capital: Building
+type_first_letter: b
+type_first_letter_upper: B
+type_upper: BUILDING

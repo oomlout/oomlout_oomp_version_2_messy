@@ -1,0 +1,80 @@
+classification: food
+classification_capital: Food
+classification_first_letter: f
+classification_first_letter_upper: F
+classification_upper: FOOD
+color: dong_bei
+color_capital: Dong Bei
+color_first_letter: d
+color_first_letter_upper: D
+color_upper: DONG_BEI
+description: rice_dong_bei
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'D '
+description_or_color_upper: 'D '
+directory: parts/food_starch_rice_dong_bei
+distributors: []
+filter: ''
+from_yaml: false
+id: food_starch_rice_dong_bei
+id_no_class: starch_rice_dong_bei
+id_no_size: dong_bei
+id_no_type: rice_dong_bei
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_rice_dong_bei
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_rice_dong_bei
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_rice_dong_bei
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[food_starch_rice_dong_bei](none)<br>[](none)<br>[Food Starch Rice
+    Dong Bei](none)<br><br>'
+markdown_short: '[food_starch_rice_dong_bei](none)<br><br>'
+md5: e496dae776c63bd49d1d6475f3e3fd55
+md5_10: e496dae776
+md5_10_upper: E496DAE776
+md5_5: e496d
+md5_5_upper: E496D
+md5_6: e496da
+md5_6_alpha: 8x3a2
+md5_6_alpha_upper: 8X3A2
+md5_6_upper: E496DA
+name: Food Starch Rice Dong Bei
+name_no_class: Starch Rice Dong Bei
+name_no_size: Dong Bei
+name_no_size_short: Dong Bei
+name_no_type: Rice Dong Bei
+name_short: Rice dong_bei
+oomp_key: oomp_food_starch_rice_dong_bei
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: rice
+size_capital: Rice
+size_first_letter: r
+size_first_letter_upper: R
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: RICE
+type: starch
+type_capital: Starch
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: STARCH

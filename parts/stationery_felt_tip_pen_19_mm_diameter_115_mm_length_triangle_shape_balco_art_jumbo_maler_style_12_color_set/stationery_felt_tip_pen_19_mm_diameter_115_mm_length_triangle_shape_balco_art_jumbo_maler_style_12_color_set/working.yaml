@@ -1,0 +1,81 @@
+classification: stationery
+classification_capital: Stationery
+classification_first_letter: s
+classification_first_letter_upper: S
+classification_upper: STATIONERY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: balco_art_jumbo_maler_style_12_color_set
+description_extra_capital: Balco Art Jumbo Maler Style 12 Color Set
+description_extra_first_letter: b
+description_extra_first_letter_upper: B
+description_extra_upper: BALCO_ART_JUMBO_MALER_STYLE_12_COLOR_SET
+description_main: 19_mm_diameter_115_mm_length_triangle_shape
+description_main_capital: 19 mm Diameter 115 mm Length Triangle Shape
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_upper: 19_MM_DIAMETER_115_MM_LENGTH_TRIANGLE_SHAPE
+description_only_numbers: '19115'
+description_only_numbers_short: 19k
+description_or_color: 19k
+description_or_color_upper: 19K
+directory: parts/stationery_felt_tip_pen_19_mm_diameter_115_mm_length_triangle_shape_balco_art_jumbo_maler_style_12_color_set
+distributors: []
+id: stationery_felt_tip_pen_19_mm_diameter_115_mm_length_triangle_shape_balco_art_jumbo_maler_style_12_color_set
+id_no_class: felt_tip_pen_19_mm_diameter_115_mm_length_triangle_shape_balco_art_jumbo_maler_style_12_color_set
+id_no_size: 19mmdiameter115mmlengthtriangleshapebalcoartjumbomalerstyle12colorset
+id_no_type: 19_mm_diameter_115_mm_length_triangle_shape_balco_art_jumbo_maler_style_12_color_set
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_felt_tip_pen_19_mm_diameter_115_mm_length_triangle_shape_balco_art_jumbo_maler_style_12_color_set
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_felt_tip_pen_19_mm_diameter_115_mm_length_triangle_shape_balco_art_jumbo_maler_style_12_color_set
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_felt_tip_pen_19_mm_diameter_115_mm_length_triangle_shape_balco_art_jumbo_maler_style_12_color_set
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[stationery_felt_tip_pen_19_mm_diameter_115_mm_length_triangle_shape_balco_art_jumbo_maler_style_12_color_set](none)<br>[](none)<br>[Stationery
+    Felt Tip Pen 19 Mm Diameter 115 Mm Length Triangle Shape Balco Art Jumbo Maler
+    Style 12 Color Set](none)<br><br>'
+markdown_short: '[stationery_felt_tip_pen_19_mm_diameter_115_mm_length_triangle_shape_balco_art_jumbo_maler_style_12_color_set](none)<br><br>'
+md5: 564809f2bde93a28731b18f3df53336f
+md5_10: 564809f2bd
+md5_10_upper: 564809F2BD
+md5_5: '56480'
+md5_5_upper: '56480'
+md5_6: '564809'
+md5_6_alpha: 3d72h
+md5_6_alpha_upper: 3D72H
+md5_6_upper: '564809'
+name: Stationery Felt Tip Pen 19 Mm Diameter 115 Mm Length Triangle Shape Balco Art
+    Jumbo Maler Style 12 Color Set
+name_no_class: Felt Tip Pen 19 Mm Diameter 115 Mm Length Triangle Shape Balco Art
+    Jumbo Maler Style 12 Color Set
+name_no_size: 19Mmdiameter115Mmlengthtriangleshapebalcoartjumbomalerstyle12Colorset
+name_no_size_short: 19Mmdiameter115Mmlengthtriangleshapebalcoartjumbomalerstyle12Colorset
+name_no_type: 19 Mm Diameter 115 Mm Length Triangle Shape Balco Art Jumbo Maler Style
+    12 Color Set
+oomp_key: oomp_stationery_felt_tip_pen_19_mm_diameter_115_mm_length_triangle_shape_balco_art_jumbo_maler_style_12_color_set
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: felt_tip_pen
+type_capital: Felt Tip Pen
+type_first_letter: f
+type_first_letter_upper: F
+type_upper: FELT_TIP_PEN

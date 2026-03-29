@@ -1,0 +1,77 @@
+classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_upper: ELECTRONIC
+color: i2c
+color_capital: I2C
+color_first_letter: i
+color_first_letter_upper: I
+color_upper: I2C
+description_extra: through_hole_right_angle
+description_extra_capital: Through Hole Right Angle
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: THROUGH_HOLE_RIGHT_ANGLE
+description_main: single
+description_main_capital: Single
+description_main_first_letter: s
+description_main_first_letter_upper: S
+description_main_upper: SINGLE
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'I '
+description_or_color_upper: 'I '
+directory: parts/electronic_header_oobb_i2c_single_through_hole_right_angle
+distributors: []
+id: electronic_header_oobb_i2c_single_through_hole_right_angle
+id_no_class: header_oobb_i2c_single_through_hole_right_angle
+id_no_size: i2c_single_through_hole_right_angle
+id_no_type: oobb_i2c_single_through_hole_right_angle
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_header_oobb_i2c_single_through_hole_right_angle
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_header_oobb_i2c_single_through_hole_right_angle
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_header_oobb_i2c_single_through_hole_right_angle
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[electronic_header_oobb_i2c_single_through_hole_right_angle](none)<br>[hob1thra](none)<br>[Electronic
+    Header Oobb I2C Single Through Hole Right Angle](none)<br><br>'
+markdown_short: '[electronic_header_oobb_i2c_single_through_hole_right_angle](none)<br><br>'
+md5: 4456779cced84238da6c1f33679c44f2
+md5_10: 4456779cce
+md5_10_upper: 4456779CCE
+md5_5: '44567'
+md5_5_upper: '44567'
+md5_6: '445677'
+md5_6_alpha: 2nzp3
+md5_6_alpha_upper: 2NZP3
+md5_6_upper: '445677'
+name: Electronic Header Oobb I2C Single Through Hole Right Angle
+name_no_class: Header Oobb I2C Single Through Hole Right Angle
+name_no_size: I2C Single Through Hole Right Angle
+name_no_size_short: I2C Single Through Hole Right Angle
+name_no_type: Oobb I2C Single Through Hole Right Angle
+oomp_key: oomp_electronic_header_oobb_i2c_single_through_hole_right_angle
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: hob1thra
+short_code_upper: HOB1THRA
+short_name: ''
+size: oobb
+size_capital: Oobb
+size_first_letter: o
+size_first_letter_upper: O
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: OOBB
+type: header
+type_capital: Header
+type_first_letter: h
+type_first_letter_upper: H
+type_upper: HEADER

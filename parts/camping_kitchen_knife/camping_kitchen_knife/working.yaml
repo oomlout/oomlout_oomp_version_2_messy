@@ -1,0 +1,77 @@
+classification: camping
+classification_capital: Camping
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CAMPING
+color: knife
+color_capital: Knife
+color_first_letter: k
+color_first_letter_upper: K
+color_upper: KNIFE
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'K '
+description_or_color_upper: 'K '
+directory: parts/camping_kitchen_knife
+distributors: []
+filter: ''
+from_yaml: false
+id: camping_kitchen_knife
+id_no_class: kitchen_knife
+id_no_size: knife
+id_no_type: knife
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/camping_kitchen_knife
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/camping_kitchen_knife
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/camping_kitchen_knife
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[camping_kitchen_knife](none)<br>[](none)<br>[Camping Kitchen Knife](none)<br><br>'
+markdown_short: '[camping_kitchen_knife](none)<br><br>'
+md5: 348ca3918f55ad1f47f724e544dbd2c5
+md5_10: 348ca3918f
+md5_10_upper: 348CA3918F
+md5_5: 348ca
+md5_5_upper: 348CA
+md5_6: 348ca3
+md5_6_alpha: 21tb7
+md5_6_alpha_upper: 21TB7
+md5_6_upper: 348CA3
+name: Camping Kitchen Knife
+name_no_class: Kitchen Knife
+name_no_size: Knife
+name_no_size_short: Knife
+name_no_type: Knife
+oomp_key: oomp_camping_kitchen_knife
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: kitchen
+type_capital: Kitchen
+type_first_letter: k
+type_first_letter_upper: K
+type_upper: KITCHEN

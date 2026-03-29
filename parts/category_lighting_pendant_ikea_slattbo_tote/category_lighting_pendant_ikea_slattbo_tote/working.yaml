@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ikea_slattbo
+color_capital: Ikea Slattbo
+color_first_letter: i
+color_first_letter_upper: I
+color_upper: IKEA_SLATTBO
+description: category_lighting
+description_extra: tote
+description_extra_capital: Tote
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TOTE
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'I '
+description_or_color_upper: 'I '
+directory: parts/category_lighting_pendant_ikea_slattbo_tote
+distributors: []
+filter: ''
+from_yaml: false
+id: category_lighting_pendant_ikea_slattbo_tote
+id_no_class: lighting_pendant_ikea_slattbo_tote
+id_no_size: ikea_slattbo_tote
+id_no_type: pendant_ikea_slattbo_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_lighting_pendant_ikea_slattbo_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_lighting_pendant_ikea_slattbo_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_lighting_pendant_ikea_slattbo_tote
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_lighting_pendant_ikea_slattbo_tote](none)<br>[](none)<br>[Category
+    Lighting Pendant Ikea Slattbo Tote](none)<br><br>'
+markdown_short: '[category_lighting_pendant_ikea_slattbo_tote](none)<br><br>'
+md5: 30d5b923155e588e76d1a54007ed1fd9
+md5_10: 30d5b92315
+md5_10_upper: 30D5B92315
+md5_5: 30d5b
+md5_5_upper: 30D5B
+md5_6: 30d5b9
+md5_6_alpha: 1wlh5
+md5_6_alpha_upper: 1WLH5
+md5_6_upper: 30D5B9
+name: Category Lighting Pendant Ikea Slattbo Tote
+name_no_class: Lighting Pendant Ikea Slattbo Tote
+name_no_size: Ikea Slattbo Tote
+name_no_size_short: Ikea Slattbo Tote
+name_no_type: Pendant Ikea Slattbo Tote
+oomp_key: oomp_category_lighting_pendant_ikea_slattbo_tote
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorylighting
+size: pendant
+size_capital: Pendant
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PENDANT
+type: lighting
+type_capital: Lighting
+type_first_letter: l
+type_first_letter_upper: L
+type_upper: LIGHTING

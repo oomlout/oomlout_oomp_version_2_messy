@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_household_toy
+description_extra: tote
+description_extra_capital: Tote
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TOTE
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_household_toy_pretend_kitchen_utensil_tote
+distributors: []
+filter: ''
+from_yaml: false
+id: category_household_toy_pretend_kitchen_utensil_tote
+id_no_class: household_toy_pretend_kitchen_utensil_tote
+id_no_size: tote
+id_no_type: pretend_kitchen_utensil_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_toy_pretend_kitchen_utensil_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_toy_pretend_kitchen_utensil_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_toy_pretend_kitchen_utensil_tote
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_household_toy_pretend_kitchen_utensil_tote](none)<br>[](none)<br>[Category
+    Household Toy Pretend Kitchen Utensil Tote](none)<br><br>'
+markdown_short: '[category_household_toy_pretend_kitchen_utensil_tote](none)<br><br>'
+md5: 6b8cbe4363bcd42fb06425c5e9ea5858
+md5_10: 6b8cbe4363
+md5_10_upper: 6B8CBE4363
+md5_5: 6b8cb
+md5_5_upper: 6B8CB
+md5_6: 6b8cbe
+md5_6_alpha: 472ke
+md5_6_alpha_upper: 472KE
+md5_6_upper: 6B8CBE
+name: Category Household Toy Pretend Kitchen Utensil Tote
+name_no_class: Household Toy Pretend Kitchen Utensil Tote
+name_no_size: Tote
+name_no_size_short: Tote
+name_no_type: Pretend Kitchen Utensil Tote
+oomp_key: oomp_category_household_toy_pretend_kitchen_utensil_tote
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryhouseholdtoy
+size: pretend_kitchen_utensil
+size_capital: Pretend Kitchen Utensil
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PRETEND_KITCHEN_UTENSIL
+type: household_toy
+type_capital: Household Toy
+type_first_letter: h
+type_first_letter_upper: H
+type_upper: HOUSEHOLD_TOY

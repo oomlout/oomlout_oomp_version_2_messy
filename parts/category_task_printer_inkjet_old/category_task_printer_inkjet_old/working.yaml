@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: inkjet
+color_capital: Inkjet
+color_first_letter: i
+color_first_letter_upper: I
+color_upper: INKJET
+description: category_task
+description_extra: old
+description_extra_capital: Old
+description_extra_first_letter: o
+description_extra_first_letter_upper: O
+description_extra_upper: OLD
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'I '
+description_or_color_upper: 'I '
+directory: parts/category_task_printer_inkjet_old
+distributors: []
+filter: ''
+from_yaml: false
+id: category_task_printer_inkjet_old
+id_no_class: task_printer_inkjet_old
+id_no_size: inkjet_old
+id_no_type: printer_inkjet_old
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_task_printer_inkjet_old
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_task_printer_inkjet_old
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_task_printer_inkjet_old
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_task_printer_inkjet_old](none)<br>[](none)<br>[Category
+    Task Printer Inkjet Old](none)<br><br>'
+markdown_short: '[category_task_printer_inkjet_old](none)<br><br>'
+md5: 614628454f917562f0e37ece89e13b8f
+md5_10: 614628454f
+md5_10_upper: 614628454F
+md5_5: '61462'
+md5_5_upper: '61462'
+md5_6: '614628'
+md5_6_alpha: 3smy0
+md5_6_alpha_upper: 3SMY0
+md5_6_upper: '614628'
+name: Category Task Printer Inkjet Old
+name_no_class: Task Printer Inkjet Old
+name_no_size: Inkjet Old
+name_no_size_short: Inkjet Old
+name_no_type: Printer Inkjet Old
+oomp_key: oomp_category_task_printer_inkjet_old
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorytask
+size: printer
+size_capital: Printer
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PRINTER
+type: task
+type_capital: Task
+type_first_letter: t
+type_first_letter_upper: T
+type_upper: TASK

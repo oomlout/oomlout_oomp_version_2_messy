@@ -1,0 +1,81 @@
+classification: paper
+classification_capital: Paper
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_upper: PAPER
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: gray_color
+description_extra_capital: Gray Color
+description_extra_first_letter: g
+description_extra_first_letter_upper: G
+description_extra_upper: GRAY_COLOR
+description_main: 90_grams_per_meter_square
+description_main_capital: 90 Grams Per Meter Square
+description_main_first_letter: '9'
+description_main_first_letter_upper: '9'
+description_main_upper: 90_GRAMS_PER_METER_SQUARE
+description_only_numbers: '90'
+description_only_numbers_short: '90'
+description_or_color: '90'
+description_or_color_upper: '90'
+directory: parts/paper_sheet_a4_210_mm_width_297_mm_height_90_grams_per_meter_square_gray_color
+distributors: []
+filter: ''
+from_yaml: false
+height: 297 mm
+id: paper_sheet_a4_210_mm_width_297_mm_height_90_grams_per_meter_square_gray_color
+id_no_class: sheet_a4_210_mm_width_297_mm_height_90_grams_per_meter_square_gray_color
+id_no_size: 90_grams_per_meter_square_gray_color
+id_no_type: a4_210_mm_width_297_mm_height_90_grams_per_meter_square_gray_color
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a4_210_mm_width_297_mm_height_90_grams_per_meter_square_gray_color
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a4_210_mm_width_297_mm_height_90_grams_per_meter_square_gray_color
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a4_210_mm_width_297_mm_height_90_grams_per_meter_square_gray_color
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[paper_sheet_a4_210_mm_width_297_mm_height_90_grams_per_meter_square_gray_color](none)<br>[](none)<br>[Paper
+    Sheet A4 210 Mm Width 297 Mm Height 90 Grams Per Meter Square Gray Color](none)<br><br>'
+markdown_short: '[paper_sheet_a4_210_mm_width_297_mm_height_90_grams_per_meter_square_gray_color](none)<br><br>'
+md5: b9db68f07df906918a1aa547e111c604
+md5_10: b9db68f07d
+md5_10_upper: B9DB68F07D
+md5_5: b9db6
+md5_5_upper: B9DB6
+md5_6: b9db68
+md5_6_alpha: 792eg
+md5_6_alpha_upper: 792EG
+md5_6_upper: B9DB68
+name: Paper Sheet A4 210 Mm Width 297 Mm Height 90 Grams Per Meter Square Gray Color
+name_no_class: Sheet A4 210 Mm Width 297 Mm Height 90 Grams Per Meter Square Gray
+    Color
+name_no_size: 90 Grams Per Meter Square Gray Color
+name_no_size_short: 90 Grams Per Meter Square Gray Color
+name_no_type: A4 210 Mm Width 297 Mm Height 90 Grams Per Meter Square Gray Color
+oomp_key: oomp_paper_sheet_a4_210_mm_width_297_mm_height_90_grams_per_meter_square_gray_color
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: a4_210_mm_width_297_mm_height
+size_capital: A4.210 mm Width 297 mm Height
+size_first_letter: a
+size_first_letter_upper: A
+size_only_numbers: '4210297'
+size_only_numbers_no_zeros: '421297'
+size_upper: A4_210_MM_WIDTH_297_MM_HEIGHT
+type: sheet
+type_capital: Sheet
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: SHEET
+width: 210 mm

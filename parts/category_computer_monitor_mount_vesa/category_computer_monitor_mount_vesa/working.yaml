@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: vesa
+color_capital: Vesa
+color_first_letter: v
+color_first_letter_upper: V
+color_upper: VESA
+description: category_computer
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'V '
+description_or_color_upper: 'V '
+directory: parts/category_computer_monitor_mount_vesa
+distributors: []
+filter: ''
+from_yaml: false
+id: category_computer_monitor_mount_vesa
+id_no_class: computer_monitor_mount_vesa
+id_no_size: vesa
+id_no_type: monitor_mount_vesa
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_monitor_mount_vesa
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_monitor_mount_vesa
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_monitor_mount_vesa
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_computer_monitor_mount_vesa](none)<br>[](none)<br>[Category
+    Computer Monitor Mount Vesa](none)<br><br>'
+markdown_short: '[category_computer_monitor_mount_vesa](none)<br><br>'
+md5: cebdbe8c3c017b08df2993e8d311f8b0
+md5_10: cebdbe8c3c
+md5_10_upper: CEBDBE8C3C
+md5_5: cebdb
+md5_5_upper: CEBDB
+md5_6: cebdbe
+md5_6_alpha: 82egu
+md5_6_alpha_upper: 82EGU
+md5_6_upper: CEBDBE
+name: Category Computer Monitor Mount Vesa
+name_no_class: Computer Monitor Mount Vesa
+name_no_size: Vesa
+name_no_size_short: Vesa
+name_no_type: Monitor Mount Vesa
+oomp_key: oomp_category_computer_monitor_mount_vesa
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorycomputer
+size: monitor_mount
+size_capital: Monitor Mount
+size_first_letter: m
+size_first_letter_upper: M
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: MONITOR_MOUNT
+type: computer
+type_capital: Computer
+type_first_letter: c
+type_first_letter_upper: C
+type_upper: COMPUTER

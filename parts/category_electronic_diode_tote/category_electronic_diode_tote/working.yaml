@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_electronic
+description_extra: tote
+description_extra_capital: Tote
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TOTE
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_electronic_diode_tote
+distributors: []
+filter: ''
+from_yaml: false
+id: category_electronic_diode_tote
+id_no_class: electronic_diode_tote
+id_no_size: tote
+id_no_type: diode_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_diode_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_diode_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_diode_tote
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_electronic_diode_tote](none)<br>[](none)<br>[Category Electronic
+    Diode Tote](none)<br><br>'
+markdown_short: '[category_electronic_diode_tote](none)<br><br>'
+md5: 599a15155b728f682e5c909ed3b6e763
+md5_10: 599a15155b
+md5_10_upper: 599A15155B
+md5_5: 599a1
+md5_5_upper: 599A1
+md5_6: 599a15
+md5_6_alpha: 3huz9
+md5_6_alpha_upper: 3HUZ9
+md5_6_upper: 599A15
+name: Category Electronic Diode Tote
+name_no_class: Electronic Diode Tote
+name_no_size: Tote
+name_no_size_short: Tote
+name_no_type: Diode Tote
+oomp_key: oomp_category_electronic_diode_tote
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryelectronic
+size: diode
+size_capital: Diode
+size_first_letter: d
+size_first_letter_upper: D
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: DIODE
+type: electronic
+type_capital: Electronic
+type_first_letter: e
+type_first_letter_upper: E
+type_upper: ELECTRONIC

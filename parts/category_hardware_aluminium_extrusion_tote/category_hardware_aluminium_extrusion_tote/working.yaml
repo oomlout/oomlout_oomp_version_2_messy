@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_hardware
+description_extra: tote
+description_extra_capital: Tote
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TOTE
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_hardware_aluminium_extrusion_tote
+distributors: []
+filter: ''
+from_yaml: false
+id: category_hardware_aluminium_extrusion_tote
+id_no_class: hardware_aluminium_extrusion_tote
+id_no_size: tote
+id_no_type: aluminium_extrusion_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_aluminium_extrusion_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_aluminium_extrusion_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_aluminium_extrusion_tote
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_hardware_aluminium_extrusion_tote](none)<br>[](none)<br>[Category
+    Hardware Aluminium Extrusion Tote](none)<br><br>'
+markdown_short: '[category_hardware_aluminium_extrusion_tote](none)<br><br>'
+md5: 5b9ed13b53dbf4d0c5103c955e3656df
+md5_10: 5b9ed13b53
+md5_10_upper: 5B9ED13B53
+md5_5: 5b9ed
+md5_5_upper: 5B9ED
+md5_6: 5b9ed1
+md5_6_alpha: 3kp1t
+md5_6_alpha_upper: 3KP1T
+md5_6_upper: 5B9ED1
+name: Category Hardware Aluminium Extrusion Tote
+name_no_class: Hardware Aluminium Extrusion Tote
+name_no_size: Tote
+name_no_size_short: Tote
+name_no_type: Aluminium Extrusion Tote
+oomp_key: oomp_category_hardware_aluminium_extrusion_tote
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryhardware
+size: aluminium_extrusion
+size_capital: Aluminium Extrusion
+size_first_letter: a
+size_first_letter_upper: A
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ALUMINIUM_EXTRUSION
+type: hardware
+type_capital: Hardware
+type_first_letter: h
+type_first_letter_upper: H
+type_upper: HARDWARE

@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: camera_and_speaker
+color_capital: Camera And Speaker
+color_first_letter: c
+color_first_letter_upper: C
+color_upper: CAMERA_AND_SPEAKER
+description: category_computer
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'C '
+description_or_color_upper: 'C '
+directory: parts/category_computer_video_conferencing_camera_and_speaker
+distributors: []
+filter: ''
+from_yaml: false
+id: category_computer_video_conferencing_camera_and_speaker
+id_no_class: computer_video_conferencing_camera_and_speaker
+id_no_size: camera_and_speaker
+id_no_type: video_conferencing_camera_and_speaker
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_video_conferencing_camera_and_speaker
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_video_conferencing_camera_and_speaker
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_video_conferencing_camera_and_speaker
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_computer_video_conferencing_camera_and_speaker](none)<br>[](none)<br>[Category
+    Computer Video Conferencing Camera And Speaker](none)<br><br>'
+markdown_short: '[category_computer_video_conferencing_camera_and_speaker](none)<br><br>'
+md5: a8505110704548f2fd00dbba6ddbc220
+md5_10: a850511070
+md5_10_upper: A850511070
+md5_5: a8505
+md5_5_upper: A8505
+md5_6: a85051
+md5_6_alpha: 6kf9t
+md5_6_alpha_upper: 6KF9T
+md5_6_upper: A85051
+name: Category Computer Video Conferencing Camera And Speaker
+name_no_class: Computer Video Conferencing Camera And Speaker
+name_no_size: Camera And Speaker
+name_no_size_short: Camera And Speaker
+name_no_type: Video Conferencing Camera And Speaker
+oomp_key: oomp_category_computer_video_conferencing_camera_and_speaker
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorycomputer
+size: video_conferencing
+size_capital: Video Conferencing
+size_first_letter: v
+size_first_letter_upper: V
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: VIDEO_CONFERENCING
+type: computer
+type_capital: Computer
+type_first_letter: c
+type_first_letter_upper: C
+type_upper: COMPUTER

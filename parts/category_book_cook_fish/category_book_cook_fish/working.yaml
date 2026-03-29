@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: fish
+color_capital: Fish
+color_first_letter: f
+color_first_letter_upper: F
+color_upper: FISH
+description: category_book
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'F '
+description_or_color_upper: 'F '
+directory: parts/category_book_cook_fish
+distributors: []
+filter: ''
+from_yaml: false
+id: category_book_cook_fish
+id_no_class: book_cook_fish
+id_no_size: fish
+id_no_type: cook_fish
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_book_cook_fish
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_book_cook_fish
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_book_cook_fish
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_book_cook_fish](none)<br>[](none)<br>[Category Book Cook
+    Fish](none)<br><br>'
+markdown_short: '[category_book_cook_fish](none)<br><br>'
+md5: 3610cbc4bb1e2113feac4ed39a031de5
+md5_10: 3610cbc4bb
+md5_10_upper: 3610CBC4BB
+md5_5: 3610c
+md5_5_upper: 3610C
+md5_6: 3610cb
+md5_6_alpha: 23xzf
+md5_6_alpha_upper: 23XZF
+md5_6_upper: 3610CB
+name: Category Book Cook Fish
+name_no_class: Book Cook Fish
+name_no_size: Fish
+name_no_size_short: Fish
+name_no_type: Cook Fish
+oomp_key: oomp_category_book_cook_fish
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorybook
+size: cook
+size_capital: Cook
+size_first_letter: c
+size_first_letter_upper: C
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: COOK
+type: book
+type_capital: Book
+type_first_letter: b
+type_first_letter_upper: B
+type_upper: BOOK

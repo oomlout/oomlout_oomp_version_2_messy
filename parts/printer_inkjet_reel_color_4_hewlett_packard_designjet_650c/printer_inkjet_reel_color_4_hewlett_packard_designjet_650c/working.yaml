@@ -1,0 +1,78 @@
+classification: printer
+classification_capital: Printer
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_upper: PRINTER
+color: color_4
+color_capital: Color 4
+color_first_letter: c
+color_first_letter_upper: C
+color_upper: COLOR_4
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'C '
+description_or_color_upper: 'C '
+directory: parts/printer_inkjet_reel_color_4_hewlett_packard_designjet_650c
+distributors: []
+id: printer_inkjet_reel_color_4_hewlett_packard_designjet_650c
+id_no_class: inkjet_reel_color_4_hewlett_packard_designjet_650c
+id_no_size: color_4_hewlett_packard_designjet_650c
+id_no_type: reel_color_4_hewlett_packard_designjet_650c
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_inkjet_reel_color_4_hewlett_packard_designjet_650c
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_inkjet_reel_color_4_hewlett_packard_designjet_650c
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_inkjet_reel_color_4_hewlett_packard_designjet_650c
+manufacturer: hewlett_packard
+manufacturer_capital: Hewlett Packard
+manufacturer_first_letter: h
+manufacturer_first_letter_upper: H
+manufacturer_upper: HEWLETT_PACKARD
+manufacturers: []
+markdown_full: '[printer_inkjet_reel_color_4_hewlett_packard_designjet_650c](none)<br>[](none)<br>[Printer
+    Inkjet Reel Color 4 Hewlett Packard Designjet 650C](none)<br><br>'
+markdown_short: '[printer_inkjet_reel_color_4_hewlett_packard_designjet_650c](none)<br><br>'
+md5: 176af04c79ca98240d56ea977aecd959
+md5_10: 176af04c79
+md5_10_upper: 176AF04C79
+md5_5: 176af
+md5_5_upper: 176AF
+md5_6: 176af0
+md5_6_alpha: ww6o
+md5_6_alpha_upper: WW6O
+md5_6_upper: 176AF0
+name: Printer Inkjet Reel Color 4 Hewlett Packard Designjet 650C
+name_no_class: Inkjet Reel Color 4 Hewlett Packard Designjet 650C
+name_no_size: Color 4 Hewlett Packard Designjet 650C
+name_no_size_short: Color 4 Hewlett Packard Designjet 650C
+name_no_type: Reel Color 4 Hewlett Packard Designjet 650C
+oomp_key: oomp_printer_inkjet_reel_color_4_hewlett_packard_designjet_650c
+part_number: designjet_650c
+part_number_capital: Designjet 650C
+part_number_exact: Designjet 650C
+part_number_first_letter: d
+part_number_first_letter_upper: D
+part_number_upper: DESIGNJET_650C
+short_code: ''
+short_code_upper: ''
+short_name: Hewlett Packard Designjet 650C
+size: reel
+size_capital: Reel
+size_first_letter: r
+size_first_letter_upper: R
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: REEL
+type: inkjet
+type_capital: Inkjet
+type_first_letter: i
+type_first_letter_upper: I
+type_upper: INKJET

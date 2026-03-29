@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: 30_mm_diameter
+color_capital: 30 mm Diameter
+color_first_letter: '3'
+color_first_letter_upper: '3'
+color_upper: 30_MM_DIAMETER
+description: category_mechanical
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: '3 '
+description_or_color_upper: '3 '
+directory: parts/category_mechanical_motor_with_encoder_30_mm_diameter
+distributors: []
+filter: ''
+from_yaml: false
+id: category_mechanical_motor_with_encoder_30_mm_diameter
+id_no_class: mechanical_motor_with_encoder_30_mm_diameter
+id_no_size: 30_mm_diameter
+id_no_type: motor_with_encoder_30_mm_diameter
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_motor_with_encoder_30_mm_diameter
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_motor_with_encoder_30_mm_diameter
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_motor_with_encoder_30_mm_diameter
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_mechanical_motor_with_encoder_30_mm_diameter](none)<br>[](none)<br>[Category
+    Mechanical Motor With Encoder 30 Mm Diameter](none)<br><br>'
+markdown_short: '[category_mechanical_motor_with_encoder_30_mm_diameter](none)<br><br>'
+md5: bd3b9e593a7332467766b05ce79bcfff
+md5_10: bd3b9e593a
+md5_10_upper: BD3B9E593A
+md5_5: bd3b9
+md5_5_upper: BD3B9
+md5_6: bd3b9e
+md5_6_alpha: 7dt3y
+md5_6_alpha_upper: 7DT3Y
+md5_6_upper: BD3B9E
+name: Category Mechanical Motor With Encoder 30 Mm Diameter
+name_no_class: Mechanical Motor With Encoder 30 Mm Diameter
+name_no_size: 30 Mm Diameter
+name_no_size_short: 30 Mm Diameter
+name_no_type: Motor With Encoder 30 Mm Diameter
+oomp_key: oomp_category_mechanical_motor_with_encoder_30_mm_diameter
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorymechanical
+size: motor_with_encoder
+size_capital: Motor With Encoder
+size_first_letter: m
+size_first_letter_upper: M
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: MOTOR_WITH_ENCODER
+type: mechanical
+type_capital: Mechanical
+type_first_letter: m
+type_first_letter_upper: M
+type_upper: MECHANICAL

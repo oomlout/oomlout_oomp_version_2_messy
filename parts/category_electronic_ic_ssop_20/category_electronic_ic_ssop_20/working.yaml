@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ssop_20
+color_capital: Ssop 20
+color_first_letter: s
+color_first_letter_upper: S
+color_upper: SSOP_20
+description: category_electronic
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'S '
+description_or_color_upper: 'S '
+directory: parts/category_electronic_ic_ssop_20
+distributors: []
+filter: ''
+from_yaml: false
+id: category_electronic_ic_ssop_20
+id_no_class: electronic_ic_ssop_20
+id_no_size: ssop_20
+id_no_type: ic_ssop_20
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_ic_ssop_20
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_ic_ssop_20
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_ic_ssop_20
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_electronic_ic_ssop_20](none)<br>[](none)<br>[Category Electronic
+    Ic Ssop 20](none)<br><br>'
+markdown_short: '[category_electronic_ic_ssop_20](none)<br><br>'
+md5: 1e7254611eda49c321caec8573b29d30
+md5_10: 1e7254611e
+md5_10_upper: 1E7254611E
+md5_5: 1e725
+md5_5_upper: 1E725
+md5_6: 1e7254
+md5_6_alpha: 16rmc
+md5_6_alpha_upper: 16RMC
+md5_6_upper: 1E7254
+name: Category Electronic Ic Ssop 20
+name_no_class: Electronic Ic Ssop 20
+name_no_size: Ssop 20
+name_no_size_short: Ssop 20
+name_no_type: Ic Ssop 20
+oomp_key: oomp_category_electronic_ic_ssop_20
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryelectronic
+size: ic
+size_capital: Ic
+size_first_letter: i
+size_first_letter_upper: I
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: IC
+type: electronic
+type_capital: Electronic
+type_first_letter: e
+type_first_letter_upper: E
+type_upper: ELECTRONIC

@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_remote_control
+description_extra: old
+description_extra_capital: Old
+description_extra_first_letter: o
+description_extra_first_letter_upper: O
+description_extra_upper: OLD
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_remote_control_transmitter_receiver_kit_old
+distributors: []
+filter: ''
+from_yaml: false
+id: category_remote_control_transmitter_receiver_kit_old
+id_no_class: remote_control_transmitter_receiver_kit_old
+id_no_size: old
+id_no_type: transmitter_receiver_kit_old
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_remote_control_transmitter_receiver_kit_old
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_remote_control_transmitter_receiver_kit_old
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_remote_control_transmitter_receiver_kit_old
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_remote_control_transmitter_receiver_kit_old](none)<br>[](none)<br>[Category
+    Remote Control Transmitter Receiver Kit Old](none)<br><br>'
+markdown_short: '[category_remote_control_transmitter_receiver_kit_old](none)<br><br>'
+md5: a101df0843ee4747279893780d0b9a7f
+md5_10: a101df0843
+md5_10_upper: A101DF0843
+md5_5: a101d
+md5_5_upper: A101D
+md5_6: a101df
+md5_6_alpha: 6a5sv
+md5_6_alpha_upper: 6A5SV
+md5_6_upper: A101DF
+name: Category Remote Control Transmitter Receiver Kit Old
+name_no_class: Remote Control Transmitter Receiver Kit Old
+name_no_size: Old
+name_no_size_short: Old
+name_no_type: Transmitter Receiver Kit Old
+oomp_key: oomp_category_remote_control_transmitter_receiver_kit_old
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryremotecontrol
+size: transmitter_receiver_kit
+size_capital: Transmitter Receiver Kit
+size_first_letter: t
+size_first_letter_upper: T
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: TRANSMITTER_RECEIVER_KIT
+type: remote_control
+type_capital: Remote Control
+type_first_letter: r
+type_first_letter_upper: R
+type_upper: REMOTE_CONTROL

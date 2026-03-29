@@ -1,0 +1,83 @@
+classification: toy
+classification_capital: Toy
+classification_first_letter: t
+classification_first_letter_upper: T
+classification_upper: TOY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: stunt_car_green_165_mm_width_155_mm_height_75_mm_depth
+description_main_capital: Stunt Car Green 165 mm Width 155 mm Height 75 mm Depth
+description_main_first_letter: s
+description_main_first_letter_upper: S
+description_main_upper: STUNT_CAR_GREEN_165_MM_WIDTH_155_MM_HEIGHT_75_MM_DEPTH
+description_only_numbers: '16515575'
+description_only_numbers_short: 1M6
+description_or_color: 1M6
+description_or_color_upper: 1M6
+directory: parts/toy_remote_control_2_4_ghz_controller_stunt_car_green_165_mm_width_155_mm_height_75_mm_depth
+distributor_aliexpress: '1005006841176949'
+distributors: []
+id: toy_remote_control_2_4_ghz_controller_stunt_car_green_165_mm_width_155_mm_height_75_mm_depth
+id_no_class: remote_control_2_4_ghz_controller_stunt_car_green_165_mm_width_155_mm_height_75_mm_depth
+id_no_size: stunt_car_green_165_mm_width_155_mm_height_75_mm_depth
+id_no_type: 2_4_ghz_controller_stunt_car_green_165_mm_width_155_mm_height_75_mm_depth
+link_distributor_aliexpress: https://www.aliexpress.com/item/1005006841176949.html
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_remote_control_2_4_ghz_controller_stunt_car_green_165_mm_width_155_mm_height_75_mm_depth
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_remote_control_2_4_ghz_controller_stunt_car_green_165_mm_width_155_mm_height_75_mm_depth
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_remote_control_2_4_ghz_controller_stunt_car_green_165_mm_width_155_mm_height_75_mm_depth
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[toy_remote_control_2_4_ghz_controller_stunt_car_green_165_mm_width_155_mm_height_75_mm_depth](none)<br>[](none)<br>[Toy
+    Remote Control 2 4 Ghz Controller Stunt Car Green 165 Mm Width 155 Mm Height 75
+    Mm Depth](none)<br><br>'
+markdown_short: '[toy_remote_control_2_4_ghz_controller_stunt_car_green_165_mm_width_155_mm_height_75_mm_depth](none)<br><br>'
+md5: b3cc79e393524bf5798f389b3283d2c4
+md5_10: b3cc79e393
+md5_10_upper: B3CC79E393
+md5_5: b3cc7
+md5_5_upper: B3CC7
+md5_6: b3cc79
+md5_6_alpha: 70k1l
+md5_6_alpha_upper: 70K1L
+md5_6_upper: B3CC79
+name: Toy Remote Control 2 4 Ghz Controller Stunt Car Green 165 Mm Width 155 Mm Height
+    75 Mm Depth
+name_no_class: Remote Control 2 4 Ghz Controller Stunt Car Green 165 Mm Width 155
+    Mm Height 75 Mm Depth
+name_no_size: Stunt Car Green 165 Mm Width 155 Mm Height 75 Mm Depth
+name_no_size_short: Stunt Car Green 165 Mm Width 155 Mm Height 75 Mm Depth
+name_no_type: 2 4 Ghz Controller Stunt Car Green 165 Mm Width 155 Mm Height 75 Mm
+    Depth
+oomp_key: oomp_toy_remote_control_2_4_ghz_controller_stunt_car_green_165_mm_width_155_mm_height_75_mm_depth
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: 2_4_ghz_controller
+size_capital: 2.4 Ghz Controller
+size_first_letter: '2'
+size_first_letter_upper: '2'
+size_only_numbers: '24'
+size_only_numbers_no_zeros: '24'
+size_upper: 2_4_GHZ_CONTROLLER
+type: remote_control
+type_capital: Remote Control
+type_first_letter: r
+type_first_letter_upper: R
+type_upper: REMOTE_CONTROL

@@ -1,0 +1,80 @@
+classification: food
+classification_capital: Food
+classification_first_letter: f
+classification_first_letter_upper: F
+classification_upper: FOOD
+color: porridge
+color_capital: Porridge
+color_first_letter: p
+color_first_letter_upper: P
+color_upper: PORRIDGE
+description: oats_porridge
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'P '
+description_or_color_upper: 'P '
+directory: parts/food_starch_oats_porridge
+distributors: []
+filter: ''
+from_yaml: false
+id: food_starch_oats_porridge
+id_no_class: starch_oats_porridge
+id_no_size: porridge
+id_no_type: oats_porridge
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_oats_porridge
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_oats_porridge
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_oats_porridge
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[food_starch_oats_porridge](none)<br>[](none)<br>[Food Starch Oats
+    Porridge](none)<br><br>'
+markdown_short: '[food_starch_oats_porridge](none)<br><br>'
+md5: 4fe3ecdf2ca27368fd3720ee1e78b0bd
+md5_10: 4fe3ecdf2c
+md5_10_upper: 4FE3ECDF2C
+md5_5: 4fe3e
+md5_5_upper: 4FE3E
+md5_6: 4fe3ec
+md5_6_alpha: 347vw
+md5_6_alpha_upper: 347VW
+md5_6_upper: 4FE3EC
+name: Food Starch Oats Porridge
+name_no_class: Starch Oats Porridge
+name_no_size: Porridge
+name_no_size_short: Porridge
+name_no_type: Oats Porridge
+name_short: Oats Porridge
+oomp_key: oomp_food_starch_oats_porridge
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: oats
+size_capital: Oats
+size_first_letter: o
+size_first_letter_upper: O
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: OATS
+type: starch
+type_capital: Starch
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: STARCH

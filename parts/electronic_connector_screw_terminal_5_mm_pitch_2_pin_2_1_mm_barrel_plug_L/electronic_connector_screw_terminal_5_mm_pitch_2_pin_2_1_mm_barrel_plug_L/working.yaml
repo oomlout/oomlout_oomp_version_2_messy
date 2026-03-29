@@ -1,0 +1,79 @@
+classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_upper: ELECTRONIC
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 2_1_mm_barrel_plug
+description_main_capital: 2.1 mm Barrel Plug
+description_main_first_letter: '2'
+description_main_first_letter_upper: '2'
+description_main_upper: 2_1_MM_BARREL_PLUG
+description_only_numbers: '21'
+description_only_numbers_short: '21'
+description_or_color: '21'
+description_or_color_upper: '21'
+directory: parts/electronic_connector_screw_terminal_5_mm_pitch_2_pin_2_1_mm_barrel_plug_L
+distributors: []
+filter: ''
+from_yaml: false
+id: electronic_connector_screw_terminal_5_mm_pitch_2_pin_2_1_mm_barrel_plug_L
+id_no_class: connector_screw_terminal_5_mm_pitch_2_pin_2_1_mm_barrel_plug_L
+id_no_size: 2_1_mm_barrel_plug_L
+id_no_type: screw_terminal_5_mm_pitch_2_pin_2_1_mm_barrel_plug_L
+kicad_reference: L
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_connector_screw_terminal_5_mm_pitch_2_pin_2_1_mm_barrel_plug_L
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_connector_screw_terminal_5_mm_pitch_2_pin_2_1_mm_barrel_plug_L
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_connector_screw_terminal_5_mm_pitch_2_pin_2_1_mm_barrel_plug_L
+manufacturer: L
+manufacturer_capital: L
+manufacturer_first_letter: L
+manufacturer_first_letter_upper: L
+manufacturer_upper: L
+manufacturers: []
+markdown_full: '[electronic_connector_screw_terminal_5_mm_pitch_2_pin_2_1_mm_barrel_plug_L](none)<br>[con](none)<br>[Electronic
+    Connector Screw Terminal 5 Mm Pitch 2 Pin 2 1 Mm Barrel Plug L](none)<br><br>'
+markdown_short: '[electronic_connector_screw_terminal_5_mm_pitch_2_pin_2_1_mm_barrel_plug_L](none)<br><br>'
+md5: f22a2dc75f88ee8395d023aaf7f8a1dd
+md5_10: f22a2dc75f
+md5_10_upper: F22A2DC75F
+md5_5: f22a2
+md5_5_upper: F22A2
+md5_6: f22a2d
+md5_6_alpha: 9g5rh
+md5_6_alpha_upper: 9G5RH
+md5_6_upper: F22A2D
+name: Electronic Connector Screw Terminal 5 Mm Pitch 2 Pin 2 1 Mm Barrel Plug L
+name_no_class: Connector Screw Terminal 5 Mm Pitch 2 Pin 2 1 Mm Barrel Plug L
+name_no_size: 2 1 Mm Barrel Plug L
+name_no_size_short: 2 1 Mm Barrel Plug L
+name_no_type: Screw Terminal 5 Mm Pitch 2 Pin 2 1 Mm Barrel Plug L
+oomp_key: oomp_electronic_connector_screw_terminal_5_mm_pitch_2_pin_2_1_mm_barrel_plug_L
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: con
+short_code_upper: CON
+size: screw_terminal_5_mm_pitch_2_pin
+size_capital: Screw Terminal 5 mm Pitch 2 Pin
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: '52'
+size_only_numbers_no_zeros: '52'
+size_upper: SCREW_TERMINAL_5_MM_PITCH_2_PIN
+type: connector
+type_capital: Connector
+type_first_letter: c
+type_first_letter_upper: C
+type_upper: CONNECTOR

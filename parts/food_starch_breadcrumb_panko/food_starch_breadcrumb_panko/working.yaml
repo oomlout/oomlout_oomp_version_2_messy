@@ -1,0 +1,80 @@
+classification: food
+classification_capital: Food
+classification_first_letter: f
+classification_first_letter_upper: F
+classification_upper: FOOD
+color: panko
+color_capital: Panko
+color_first_letter: p
+color_first_letter_upper: P
+color_upper: PANKO
+description: breadcrumb_panko
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'P '
+description_or_color_upper: 'P '
+directory: parts/food_starch_breadcrumb_panko
+distributors: []
+filter: ''
+from_yaml: false
+id: food_starch_breadcrumb_panko
+id_no_class: starch_breadcrumb_panko
+id_no_size: panko
+id_no_type: breadcrumb_panko
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_breadcrumb_panko
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_breadcrumb_panko
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_breadcrumb_panko
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[food_starch_breadcrumb_panko](none)<br>[](none)<br>[Food Starch Breadcrumb
+    Panko](none)<br><br>'
+markdown_short: '[food_starch_breadcrumb_panko](none)<br><br>'
+md5: 6bc9944bf9f7f928b3d03732269182fb
+md5_10: 6bc9944bf9
+md5_10_upper: 6BC9944BF9
+md5_5: 6bc99
+md5_5_upper: 6BC99
+md5_6: 6bc994
+md5_6_alpha: 47el0
+md5_6_alpha_upper: 47EL0
+md5_6_upper: 6BC994
+name: Food Starch Breadcrumb Panko
+name_no_class: Starch Breadcrumb Panko
+name_no_size: Panko
+name_no_size_short: Panko
+name_no_type: Breadcrumb Panko
+name_short: Breadcrumb Panko
+oomp_key: oomp_food_starch_breadcrumb_panko
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: breadcrumb
+size_capital: Breadcrumb
+size_first_letter: b
+size_first_letter_upper: B
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: BREADCRUMB
+type: starch
+type_capital: Starch
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: STARCH

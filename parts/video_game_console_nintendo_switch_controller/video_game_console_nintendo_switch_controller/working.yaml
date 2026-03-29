@@ -1,0 +1,76 @@
+classification: video_game_console
+classification_capital: Video Game Console
+classification_first_letter: v
+classification_first_letter_upper: V
+classification_upper: VIDEO_GAME_CONSOLE
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: controller
+description_main_capital: Controller
+description_main_first_letter: c
+description_main_first_letter_upper: C
+description_main_upper: CONTROLLER
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/video_game_console_nintendo_switch_controller
+distributors: []
+id: video_game_console_nintendo_switch_controller
+id_no_class: nintendo_switch_controller
+id_no_size: controller
+id_no_type: controller
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/video_game_console_nintendo_switch_controller
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/video_game_console_nintendo_switch_controller
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/video_game_console_nintendo_switch_controller
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[video_game_console_nintendo_switch_controller](none)<br>[](none)<br>[Video
+    Game Console Nintendo Switch Controller](none)<br><br>'
+markdown_short: '[video_game_console_nintendo_switch_controller](none)<br><br>'
+md5: c9d8482acf929b3a98125a192209a86f
+md5_10: c9d8482acf
+md5_10_upper: C9D8482ACF
+md5_5: c9d84
+md5_5_upper: C9D84
+md5_6: c9d848
+md5_6_alpha: 7vivc
+md5_6_alpha_upper: 7VIVC
+md5_6_upper: C9D848
+name: Video Game Console Nintendo Switch Controller
+name_no_class: Nintendo Switch Controller
+name_no_size: Controller
+name_no_size_short: Controller
+name_no_type: Controller
+oomp_key: oomp_video_game_console_nintendo_switch_controller
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: nintendo_switch
+type_capital: Nintendo Switch
+type_first_letter: n
+type_first_letter_upper: N
+type_upper: NINTENDO_SWITCH

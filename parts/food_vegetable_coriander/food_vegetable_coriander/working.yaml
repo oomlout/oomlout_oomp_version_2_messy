@@ -1,0 +1,80 @@
+classification: food
+classification_capital: Food
+classification_first_letter: f
+classification_first_letter_upper: F
+classification_upper: FOOD
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: Cook With M&S Coriander
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: coriander
+description_main_capital: Coriander
+description_main_first_letter: c
+description_main_first_letter_upper: C
+description_main_upper: CORIANDER
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/food_vegetable_coriander
+distributors: []
+filter: ''
+from_yaml: false
+id: food_vegetable_coriander
+id_no_class: vegetable_coriander
+id_no_size: coriander
+id_no_type: coriander
+link_distributor_ocado: https://www.ocado.com/search?entry=518580011
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_vegetable_coriander
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_vegetable_coriander
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_vegetable_coriander
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[food_vegetable_coriander](none)<br>[](none)<br>[Food Vegetable Coriander](none)<br><br>'
+markdown_short: '[food_vegetable_coriander](none)<br><br>'
+md5: a0b27a0e5eddcba29314feb17c6c7c06
+md5_10: a0b27a0e5e
+md5_10_upper: A0B27A0E5E
+md5_5: a0b27
+md5_5_upper: A0B27
+md5_6: a0b27a
+md5_6_alpha: 69q4a
+md5_6_alpha_upper: 69Q4A
+md5_6_upper: A0B27A
+name: Food Vegetable Coriander
+name_no_class: Vegetable Coriander
+name_no_size: Coriander
+name_no_size_short: Coriander
+name_no_type: Coriander
+oomp_key: oomp_food_vegetable_coriander
+part_number: ''
+part_number_capital: ''
+part_number_distributor_ocado: '518580011'
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: vegetable
+type_capital: Vegetable
+type_first_letter: v
+type_first_letter_upper: V
+type_upper: VEGETABLE

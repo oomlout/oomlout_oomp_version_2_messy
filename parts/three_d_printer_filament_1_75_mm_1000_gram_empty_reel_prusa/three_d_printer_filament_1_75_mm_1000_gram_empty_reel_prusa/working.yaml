@@ -1,0 +1,77 @@
+classification: three_d_printer
+classification_capital: Three D Printer
+classification_first_letter: t
+classification_first_letter_upper: T
+classification_upper: THREE_D_PRINTER
+color: empty
+color_capital: Empty
+color_first_letter: e
+color_first_letter_upper: E
+color_upper: EMPTY
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: reel
+description_main_capital: Reel
+description_main_first_letter: r
+description_main_first_letter_upper: R
+description_main_upper: REEL
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'E '
+description_or_color_upper: 'E '
+directory: parts/three_d_printer_filament_1_75_mm_1000_gram_empty_reel_prusa
+distributors: []
+id: three_d_printer_filament_1_75_mm_1000_gram_empty_reel_prusa
+id_no_class: filament_1_75_mm_1000_gram_empty_reel_prusa
+id_no_size: empty_reel_prusa
+id_no_type: 1_75_mm_1000_gram_empty_reel_prusa
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/three_d_printer_filament_1_75_mm_1000_gram_empty_reel_prusa
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/three_d_printer_filament_1_75_mm_1000_gram_empty_reel_prusa
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/three_d_printer_filament_1_75_mm_1000_gram_empty_reel_prusa
+manufacturer: prusa
+manufacturer_capital: Prusa
+manufacturer_first_letter: p
+manufacturer_first_letter_upper: P
+manufacturer_upper: PRUSA
+manufacturers: []
+markdown_full: '[three_d_printer_filament_1_75_mm_1000_gram_empty_reel_prusa](none)<br>[](none)<br>[Three
+    D Printer Filament 1 75 Mm 1000 Gram Empty Reel Prusa](none)<br><br>'
+markdown_short: '[three_d_printer_filament_1_75_mm_1000_gram_empty_reel_prusa](none)<br><br>'
+md5: 43def849543cc46c0f3901735e6e3991
+md5_10: 43def84954
+md5_10_upper: 43DEF84954
+md5_5: 43def
+md5_5_upper: 43DEF
+md5_6: 43def8
+md5_6_alpha: 2nc3c
+md5_6_alpha_upper: 2NC3C
+md5_6_upper: 43DEF8
+name: Three D Printer Filament 1 75 Mm 1000 Gram Empty Reel Prusa
+name_no_class: Filament 1 75 Mm 1000 Gram Empty Reel Prusa
+name_no_size: Empty Reel Prusa
+name_no_size_short: Empty Reel Prusa
+name_no_type: 1 75 Mm 1000 Gram Empty Reel Prusa
+oomp_key: oomp_three_d_printer_filament_1_75_mm_1000_gram_empty_reel_prusa
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: 1_75_mm_1000_gram
+size_capital: 1.75 mm 1000 Gram
+size_first_letter: '1'
+size_first_letter_upper: '1'
+size_only_numbers: '1751000'
+size_only_numbers_no_zeros: '1751'
+size_upper: 1_75_MM_1000_GRAM
+type: filament
+type_capital: Filament
+type_first_letter: f
+type_first_letter_upper: F
+type_upper: FILAMENT

@@ -1,0 +1,80 @@
+classification: dish
+classification_capital: Dish
+classification_first_letter: d
+classification_first_letter_upper: D
+classification_upper: DISH
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: 1000_ml_170_mm_diameter
+description_extra_capital: 1000 Ml 170 mm Diameter
+description_extra_first_letter: '1'
+description_extra_first_letter_upper: '1'
+description_extra_upper: 1000_ML_170_MM_DIAMETER
+description_main: bowl
+description_main_capital: Bowl
+description_main_first_letter: b
+description_main_first_letter_upper: B
+description_main_upper: BOWL
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/dish_baking_pyrex_bowl_1000_ml_170_mm_diameter_pyrex_179B000
+distributors: []
+filter: ''
+from_yaml: false
+id: dish_baking_pyrex_bowl_1000_ml_170_mm_diameter_pyrex_179B000
+id_no_class: baking_pyrex_bowl_1000_ml_170_mm_diameter_pyrex_179B000
+id_no_size: bowl_1000_ml_170_mm_diameter_179B000
+id_no_type: pyrex_bowl_1000_ml_170_mm_diameter_pyrex_179B000
+link_distributor_pyrex: https://pyrex.co.uk/products/classic-glass-bowl-high-resistance?variant=14730280665123
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/dish_baking_pyrex_bowl_1000_ml_170_mm_diameter_pyrex_179B000
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/dish_baking_pyrex_bowl_1000_ml_170_mm_diameter_pyrex_179B000
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/dish_baking_pyrex_bowl_1000_ml_170_mm_diameter_pyrex_179B000
+manufacturer: pyrex
+manufacturer_capital: Pyrex
+manufacturer_first_letter: p
+manufacturer_first_letter_upper: P
+manufacturer_upper: PYREX
+manufacturers: []
+markdown_full: '[dish_baking_pyrex_bowl_1000_ml_170_mm_diameter_pyrex_179B000](none)<br>[](none)<br>[Dish
+    Baking Pyrex Bowl 1000 Ml 170 Mm Diameter Pyrex 179B000](none)<br><br>'
+markdown_short: '[dish_baking_pyrex_bowl_1000_ml_170_mm_diameter_pyrex_179B000](none)<br><br>'
+md5: 77c3e89c9215b2c54dce4358c2840376
+md5_10: 77c3e89c92
+md5_10_upper: 77C3E89C92
+md5_5: 77c3e
+md5_5_upper: 77C3E
+md5_6: 77c3e8
+md5_6_alpha: 4o8a0
+md5_6_alpha_upper: 4O8A0
+md5_6_upper: 77C3E8
+name: Dish Baking Pyrex Bowl 1000 Ml 170 Mm Diameter Pyrex 179B000
+name_no_class: Baking Pyrex Bowl 1000 Ml 170 Mm Diameter Pyrex 179B000
+name_no_size: Bowl 1000 Ml 170 Mm Diameter 179B000
+name_no_size_short: Bowl 1000 Ml 170 Mm Diameter 179B000
+name_no_type: Pyrex Bowl 1000 Ml 170 Mm Diameter Pyrex 179B000
+oomp_key: oomp_dish_baking_pyrex_bowl_1000_ml_170_mm_diameter_pyrex_179B000
+part_number: 179B000
+part_number_capital: 179B000
+part_number_exact: 179B000
+part_number_first_letter: '1'
+part_number_first_letter_upper: '1'
+part_number_upper: 179B000
+short_code: ''
+short_code_upper: ''
+size: pyrex
+size_capital: Pyrex
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PYREX
+type: baking
+type_capital: Baking
+type_first_letter: b
+type_first_letter_upper: B
+type_upper: BAKING

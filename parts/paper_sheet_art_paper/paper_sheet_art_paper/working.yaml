@@ -1,0 +1,77 @@
+classification: paper
+classification_capital: Paper
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_upper: PAPER
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/paper_sheet_art_paper
+distributors: []
+filter: ''
+from_yaml: false
+id: paper_sheet_art_paper
+id_no_class: sheet_art_paper
+id_no_size: art_paper
+id_no_type: art_paper
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_art_paper
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_art_paper
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_art_paper
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[paper_sheet_art_paper](none)<br>[](none)<br>[Paper Sheet Art Paper](none)<br><br>'
+markdown_short: '[paper_sheet_art_paper](none)<br><br>'
+md5: dea029b6e1643d6ab6ededa83f0c6bab
+md5_10: dea029b6e1
+md5_10_upper: DEA029B6E1
+md5_5: dea02
+md5_5_upper: DEA02
+md5_6: dea029
+md5_6_alpha: 8oppl
+md5_6_alpha_upper: 8OPPL
+md5_6_upper: DEA029
+name: Paper Sheet Art Paper
+name_no_class: Sheet Art Paper
+name_no_size: Art Paper
+name_no_size_short: Art Paper
+name_no_type: Art Paper
+oomp_key: oomp_paper_sheet_art_paper
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: art_paper
+size_capital: Art Paper
+size_first_letter: a
+size_first_letter_upper: A
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ART_PAPER
+type: sheet
+type_capital: Sheet
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: SHEET

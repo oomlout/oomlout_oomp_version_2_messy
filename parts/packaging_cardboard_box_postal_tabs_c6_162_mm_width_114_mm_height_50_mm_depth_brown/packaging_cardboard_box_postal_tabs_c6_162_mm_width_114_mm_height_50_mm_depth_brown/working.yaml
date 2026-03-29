@@ -1,0 +1,91 @@
+classification: packaging
+classification_capital: Packaging
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_upper: PACKAGING
+color: brown
+color_capital: Brown
+color_first_letter: b
+color_first_letter_upper: B
+color_upper: BROWN
+cost_per: "\xA30.67"
+cost_per_500: "\xA30.518"
+cost_per_ebay: "\xA31.44"
+depth_internal:
+- 50 mm
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'B '
+description_or_color_upper: 'B '
+directory: parts/packaging_cardboard_box_postal_tabs_c6_162_mm_width_114_mm_height_50_mm_depth_brown
+distributors: []
+height_internal:
+- 110 mm
+id: packaging_cardboard_box_postal_tabs_c6_162_mm_width_114_mm_height_50_mm_depth_brown
+id_no_class: cardboard_box_postal_tabs_c6_162_mm_width_114_mm_height_50_mm_depth_brown
+id_no_size: brown
+id_no_type: c6_162_mm_width_114_mm_height_50_mm_depth_brown
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/packaging_cardboard_box_postal_tabs_c6_162_mm_width_114_mm_height_50_mm_depth_brown
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/packaging_cardboard_box_postal_tabs_c6_162_mm_width_114_mm_height_50_mm_depth_brown
+link_purchase:
+- https://www.ebay.co.uk/itm/174060319073?var=474544173601
+- https://www.eco-craft.co.uk/deep-postal-box-c6.html
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/packaging_cardboard_box_postal_tabs_c6_162_mm_width_114_mm_height_50_mm_depth_brown
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[packaging_cardboard_box_postal_tabs_c6_162_mm_width_114_mm_height_50_mm_depth_brown](none)<br>[br](none)<br>[Packaging
+    Cardboard Box Postal Tabs C6 162 Mm Width 114 Mm Height 50 Mm Depth Brown](none)<br><br>'
+markdown_short: '[packaging_cardboard_box_postal_tabs_c6_162_mm_width_114_mm_height_50_mm_depth_brown](none)<br><br>'
+md5: f44e20bab6acafa5a9d24c9b297cab99
+md5_10: f44e20bab6
+md5_10_upper: F44E20BAB6
+md5_5: f44e2
+md5_5_upper: F44E2
+md5_6: f44e20
+md5_6_alpha: 9j600
+md5_6_alpha_upper: 9J600
+md5_6_upper: F44E20
+name: Packaging Cardboard Box Postal Tabs C6 162 Mm Width 114 Mm Height 50 Mm Depth
+    Brown
+name_no_class: Cardboard Box Postal Tabs C6 162 Mm Width 114 Mm Height 50 Mm Depth
+    Brown
+name_no_size: Brown
+name_no_size_short: Brown
+name_no_type: C6 162 Mm Width 114 Mm Height 50 Mm Depth Brown
+oomp_key: oomp_packaging_cardboard_box_postal_tabs_c6_162_mm_width_114_mm_height_50_mm_depth_brown
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: br
+short_code_upper: BR
+short_name: ''
+size: c6_162_mm_width_114_mm_height_50_mm_depth
+size_capital: C6.162 mm Width 114 mm Height 50 mm Depth
+size_first_letter: c
+size_first_letter_upper: C
+size_only_numbers: '616211450'
+size_only_numbers_no_zeros: '61621145'
+size_upper: C6_162_MM_WIDTH_114_MM_HEIGHT_50_MM_DEPTH
+type: cardboard_box_postal_tabs
+type_capital: Cardboard Box Postal Tabs
+type_first_letter: c
+type_first_letter_upper: C
+type_upper: CARDBOARD_BOX_POSTAL_TABS
+width_internal:
+- 160 mm

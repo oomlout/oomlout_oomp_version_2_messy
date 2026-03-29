@@ -1,0 +1,78 @@
+classification: clothes
+classification_capital: Clothes
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CLOTHES
+color: triple_extra_large
+color_capital: Triple Extra Large
+color_first_letter: t
+color_first_letter_upper: T
+color_upper: TRIPLE_EXTRA_LARGE
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: red
+description_main_capital: Red
+description_main_first_letter: r
+description_main_first_letter_upper: R
+description_main_upper: RED
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'T '
+description_or_color_upper: 'T '
+directory: parts/clothes_item_pants_triple_extra_large_red
+distributors: []
+filter: ''
+from_yaml: false
+id: clothes_item_pants_triple_extra_large_red
+id_no_class: item_pants_triple_extra_large_red
+id_no_size: triple_extra_large_red
+id_no_type: pants_triple_extra_large_red
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_pants_triple_extra_large_red
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_pants_triple_extra_large_red
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_pants_triple_extra_large_red
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[clothes_item_pants_triple_extra_large_red](none)<br>[](none)<br>[Clothes
+    Item Pants Triple Extra Large Red](none)<br><br>'
+markdown_short: '[clothes_item_pants_triple_extra_large_red](none)<br><br>'
+md5: 9612e7c9a068e42fb41a13eda23828c7
+md5_10: 9612e7c9a0
+md5_10_upper: 9612E7C9A0
+md5_5: 9612e
+md5_5_upper: 9612E
+md5_6: 9612e7
+md5_6_alpha: 5usx3
+md5_6_alpha_upper: 5USX3
+md5_6_upper: 9612E7
+name: Clothes Item Pants Triple Extra Large Red
+name_no_class: Item Pants Triple Extra Large Red
+name_no_size: Triple Extra Large Red
+name_no_size_short: Triple Extra Large Red
+name_no_type: Pants Triple Extra Large Red
+oomp_key: oomp_clothes_item_pants_triple_extra_large_red
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: pants
+size_capital: Pants
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PANTS
+type: item
+type_capital: Item
+type_first_letter: i
+type_first_letter_upper: I
+type_upper: ITEM

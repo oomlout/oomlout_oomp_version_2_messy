@@ -1,0 +1,78 @@
+classification: hardware
+classification_capital: Hardware
+classification_first_letter: h
+classification_first_letter_upper: H
+classification_upper: HARDWARE
+color: m3_pot
+color_capital: M3 Pot
+color_first_letter: m
+color_first_letter_upper: M
+color_upper: M3_POT
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 16_mm_diameter_115_mm_depth_m4_hole
+description_main_capital: 16 mm Diameter 115 mm Depth M4 Hole
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_upper: 16_MM_DIAMETER_115_MM_DEPTH_M4_HOLE
+description_only_numbers: '161154'
+description_only_numbers_short: 161k
+description_or_color: M161k
+description_or_color_upper: M161K
+directory: parts/hardware_magnet_pot_m3_pot_16_mm_diameter_115_mm_depth_m4_hole
+distributors: []
+filter: ''
+from_yaml: false
+id: hardware_magnet_pot_m3_pot_16_mm_diameter_115_mm_depth_m4_hole
+id_no_class: magnet_pot_m3_pot_16_mm_diameter_115_mm_depth_m4_hole
+id_no_size: m3_16_mm_diameter_115_mm_depth_m4_hole
+id_no_type: pot_m3_pot_16_mm_diameter_115_mm_depth_m4_hole
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_magnet_pot_m3_pot_16_mm_diameter_115_mm_depth_m4_hole
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_magnet_pot_m3_pot_16_mm_diameter_115_mm_depth_m4_hole
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_magnet_pot_m3_pot_16_mm_diameter_115_mm_depth_m4_hole
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[hardware_magnet_pot_m3_pot_16_mm_diameter_115_mm_depth_m4_hole](none)<br>[](none)<br>[Hardware
+    Magnet Pot M3 Pot 16 Mm Diameter 115 Mm Depth M4 Hole](none)<br><br>'
+markdown_short: '[hardware_magnet_pot_m3_pot_16_mm_diameter_115_mm_depth_m4_hole](none)<br><br>'
+md5: ba41a7db313d02a84b7f9198bed563e1
+md5_10: ba41a7db31
+md5_10_upper: BA41A7DB31
+md5_5: ba41a
+md5_5_upper: BA41A
+md5_6: ba41a7
+md5_6_alpha: 79mlj
+md5_6_alpha_upper: 79MLJ
+md5_6_upper: BA41A7
+name: Hardware Magnet Pot M3 Pot 16 Mm Diameter 115 Mm Depth M4 Hole
+name_no_class: Magnet Pot M3 Pot 16 Mm Diameter 115 Mm Depth M4 Hole
+name_no_size: M3 16 Mm Diameter 115 Mm Depth M4 Hole
+name_no_size_short: M3 16 Mm Diameter 115 Mm Depth M4 Hole
+name_no_type: Pot M3 Pot 16 Mm Diameter 115 Mm Depth M4 Hole
+oomp_key: oomp_hardware_magnet_pot_m3_pot_16_mm_diameter_115_mm_depth_m4_hole
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: pot
+size_capital: Pot
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: POT
+type: magnet
+type_capital: Magnet
+type_first_letter: m
+type_first_letter_upper: M
+type_upper: MAGNET

@@ -1,0 +1,80 @@
+classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_upper: ELECTRONIC
+color: white
+color_capital: White
+color_first_letter: w
+color_first_letter_upper: W
+color_upper: WHITE
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: tint
+description_main_capital: Tint
+description_main_first_letter: t
+description_main_first_letter_upper: T
+description_main_upper: TINT
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'W '
+description_or_color_upper: 'W '
+directory: parts/electronic_led_0201_white_tint
+distributors: []
+filter: ''
+from_yaml: false
+id: electronic_led_0201_white_tint
+id_no_class: led_0201_white_tint
+id_no_size: white_tint
+id_no_type: 0201_white_tint
+kicad_reference: L
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_0201_white_tint
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_0201_white_tint
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_0201_white_tint
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[electronic_led_0201_white_tint](none)<br>[lw](none)<br>[Electronic
+    Led 0201 White Tint](none)<br><br>'
+markdown_short: '[electronic_led_0201_white_tint](none)<br><br>'
+md5: 4bf5653d0a1413349bc59da2bb995e52
+md5_10: 4bf5653d0a
+md5_10_upper: 4BF5653D0A
+md5_5: 4bf56
+md5_5_upper: 4BF56
+md5_6: 4bf565
+md5_6_alpha: 2yp2d
+md5_6_alpha_upper: 2YP2D
+md5_6_upper: 4BF565
+name: Electronic Led 0201 White Tint
+name_no_class: Led 0201 White Tint
+name_no_size: White Tint
+name_no_size_short: White Tint
+name_no_type: 0201 White Tint
+oomp_key: oomp_electronic_led_0201_white_tint
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: lw
+short_code_upper: LW
+short_name: 0201 Whitetint Led
+size: '0201'
+size_capital: '0201'
+size_first_letter: '0'
+size_first_letter_upper: '0'
+size_only_numbers: '0201'
+size_only_numbers_no_zeros: '21'
+size_upper: '0201'
+type: led
+type_capital: Led
+type_first_letter: l
+type_first_letter_upper: L
+type_upper: LED

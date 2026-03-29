@@ -1,0 +1,79 @@
+classification: food
+classification_capital: Food
+classification_first_letter: f
+classification_first_letter_upper: F
+classification_upper: FOOD
+color: savoury
+color_capital: Savoury
+color_first_letter: s
+color_first_letter_upper: S
+color_upper: SAVOURY
+description_extra: bottle_squeeze_910_gram
+description_extra_capital: Bottle Squeeze 910 Gram
+description_extra_first_letter: b
+description_extra_first_letter_upper: B
+description_extra_upper: BOTTLE_SQUEEZE_910_GRAM
+description_main: ketchup
+description_main_capital: Ketchup
+description_main_first_letter: k
+description_main_first_letter_upper: K
+description_main_upper: KETCHUP
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'S '
+description_or_color_upper: 'S '
+directory: parts/food_condiment_savoury_ketchup_bottle_squeeze_910_gram_heinz
+distributors: []
+filter: ''
+from_yaml: false
+id: food_condiment_savoury_ketchup_bottle_squeeze_910_gram_heinz
+id_no_class: condiment_savoury_ketchup_bottle_squeeze_910_gram_heinz
+id_no_size: savouryketchupbottlesqueeze910gramheinz
+id_no_type: savoury_ketchup_bottle_squeeze_910_gram_heinz
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_condiment_savoury_ketchup_bottle_squeeze_910_gram_heinz
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_condiment_savoury_ketchup_bottle_squeeze_910_gram_heinz
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_condiment_savoury_ketchup_bottle_squeeze_910_gram_heinz
+manufacturer: heinz
+manufacturer_capital: Heinz
+manufacturer_first_letter: h
+manufacturer_first_letter_upper: H
+manufacturer_upper: HEINZ
+manufacturers: []
+markdown_full: '[food_condiment_savoury_ketchup_bottle_squeeze_910_gram_heinz](none)<br>[](none)<br>[Food
+    Condiment Savoury Ketchup Bottle Squeeze 910 Gram Heinz](none)<br><br>'
+markdown_short: '[food_condiment_savoury_ketchup_bottle_squeeze_910_gram_heinz](none)<br><br>'
+md5: 1547639691d10b1cf671040591f9c465
+md5_10: '1547639691'
+md5_10_upper: '1547639691'
+md5_5: '15476'
+md5_5_upper: '15476'
+md5_6: '154763'
+md5_6_alpha: tw0z
+md5_6_alpha_upper: TW0Z
+md5_6_upper: '154763'
+name: Food Condiment Savoury Ketchup Bottle Squeeze 910 Gram Heinz
+name_no_class: Condiment Savoury Ketchup Bottle Squeeze 910 Gram Heinz
+name_no_size: Savouryketchupbottlesqueeze910Gramheinz
+name_no_size_short: Savouryketchupbottlesqueeze910Gramheinz
+name_no_type: Savoury Ketchup Bottle Squeeze 910 Gram Heinz
+name_short: Ketchup
+oomp_key: oomp_food_condiment_savoury_ketchup_bottle_squeeze_910_gram_heinz
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: condiment
+type_capital: Condiment
+type_first_letter: c
+type_first_letter_upper: C
+type_upper: CONDIMENT

@@ -1,0 +1,80 @@
+classification: food
+classification_capital: Food
+classification_first_letter: f
+classification_first_letter_upper: F
+classification_upper: FOOD
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: parsley flat leaf
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: parsley_flat_leaf
+description_main_capital: Parsley Flat Leaf
+description_main_first_letter: p
+description_main_first_letter_upper: P
+description_main_upper: PARSLEY_FLAT_LEAF
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/food_seasoning_herb_parsley_flat_leaf
+distributors: []
+filter: ''
+from_yaml: false
+id: food_seasoning_herb_parsley_flat_leaf
+id_no_class: seasoning_herb_parsley_flat_leaf
+id_no_size: parsley_flat_leaf
+id_no_type: herb_parsley_flat_leaf
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_herb_parsley_flat_leaf
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_herb_parsley_flat_leaf
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_herb_parsley_flat_leaf
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[food_seasoning_herb_parsley_flat_leaf](none)<br>[](none)<br>[Food
+    Seasoning Herb Parsley Flat Leaf](none)<br><br>'
+markdown_short: '[food_seasoning_herb_parsley_flat_leaf](none)<br><br>'
+md5: c5fb935145cbc83aa6aaffab9b102448
+md5_10: c5fb935145
+md5_10_upper: C5FB935145
+md5_5: c5fb9
+md5_5_upper: C5FB9
+md5_6: c5fb93
+md5_6_alpha: 7q3kj
+md5_6_alpha_upper: 7Q3KJ
+md5_6_upper: C5FB93
+name: Food Seasoning Herb Parsley Flat Leaf
+name_no_class: Seasoning Herb Parsley Flat Leaf
+name_no_size: Parsley Flat Leaf
+name_no_size_short: Parsley Flat Leaf
+name_no_type: Herb Parsley Flat Leaf
+name_short: Parsley Flat Leaf
+oomp_key: oomp_food_seasoning_herb_parsley_flat_leaf
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: herb
+size_capital: Herb
+size_first_letter: h
+size_first_letter_upper: H
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: HERB
+type: seasoning
+type_capital: Seasoning
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: SEASONING

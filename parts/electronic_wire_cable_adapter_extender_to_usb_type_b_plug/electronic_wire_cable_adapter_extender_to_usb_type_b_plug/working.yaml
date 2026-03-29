@@ -1,0 +1,78 @@
+classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_upper: ELECTRONIC
+color: extender
+color_capital: Extender
+color_first_letter: e
+color_first_letter_upper: E
+color_upper: EXTENDER
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: to_usb_type_b_plug
+description_main_capital: To Usb Type B Plug
+description_main_first_letter: t
+description_main_first_letter_upper: T
+description_main_upper: TO_USB_TYPE_B_PLUG
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'E '
+description_or_color_upper: 'E '
+directory: parts/electronic_wire_cable_adapter_extender_to_usb_type_b_plug
+distributors: []
+filter: ''
+from_yaml: false
+id: electronic_wire_cable_adapter_extender_to_usb_type_b_plug
+id_no_class: wire_cable_adapter_extender_to_usb_type_b_plug
+id_no_size: extender_to_usb_type_b_plug
+id_no_type: adapter_extender_to_usb_type_b_plug
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_wire_cable_adapter_extender_to_usb_type_b_plug
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_wire_cable_adapter_extender_to_usb_type_b_plug
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_wire_cable_adapter_extender_to_usb_type_b_plug
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[electronic_wire_cable_adapter_extender_to_usb_type_b_plug](none)<br>[](none)<br>[Electronic
+    Wire Cable Adapter Extender To Usb Type B Plug](none)<br><br>'
+markdown_short: '[electronic_wire_cable_adapter_extender_to_usb_type_b_plug](none)<br><br>'
+md5: 5f2b262a6865feac251f49060aca868a
+md5_10: 5f2b262a68
+md5_10_upper: 5F2B262A68
+md5_5: 5f2b2
+md5_5_upper: 5F2B2
+md5_6: 5f2b26
+md5_6_alpha: 3poh2
+md5_6_alpha_upper: 3POH2
+md5_6_upper: 5F2B26
+name: Electronic Wire Cable Adapter Extender To Usb Type B Plug
+name_no_class: Wire Cable Adapter Extender To Usb Type B Plug
+name_no_size: Extender To Usb Type B Plug
+name_no_size_short: Extender To Usb Type B Plug
+name_no_type: Adapter Extender To Usb Type B Plug
+oomp_key: oomp_electronic_wire_cable_adapter_extender_to_usb_type_b_plug
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: adapter
+size_capital: Adapter
+size_first_letter: a
+size_first_letter_upper: A
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ADAPTER
+type: wire_cable
+type_capital: Wire Cable
+type_first_letter: w
+type_first_letter_upper: W
+type_upper: WIRE_CABLE

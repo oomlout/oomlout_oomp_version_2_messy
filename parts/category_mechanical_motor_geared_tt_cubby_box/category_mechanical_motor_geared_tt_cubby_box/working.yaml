@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: tt
+color_capital: Tt
+color_first_letter: t
+color_first_letter_upper: T
+color_upper: TT
+description: category_mechanical
+description_extra: cubby_box
+description_extra_capital: Cubby Box
+description_extra_first_letter: c
+description_extra_first_letter_upper: C
+description_extra_upper: CUBBY_BOX
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'T '
+description_or_color_upper: 'T '
+directory: parts/category_mechanical_motor_geared_tt_cubby_box
+distributors: []
+filter: ''
+from_yaml: false
+id: category_mechanical_motor_geared_tt_cubby_box
+id_no_class: mechanical_motor_geared_tt_cubby_box
+id_no_size: tt_cubby_box
+id_no_type: motor_geared_tt_cubby_box
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_motor_geared_tt_cubby_box
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_motor_geared_tt_cubby_box
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_motor_geared_tt_cubby_box
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_mechanical_motor_geared_tt_cubby_box](none)<br>[](none)<br>[Category
+    Mechanical Motor Geared Tt Cubby Box](none)<br><br>'
+markdown_short: '[category_mechanical_motor_geared_tt_cubby_box](none)<br><br>'
+md5: 2012e02a469f59e2ce91ab3d0b38a9e8
+md5_10: 2012e02a46
+md5_10_upper: 2012E02A46
+md5_5: 2012e
+md5_5_upper: 2012E
+md5_6: 2012e0
+md5_6_alpha: 191wg
+md5_6_alpha_upper: 191WG
+md5_6_upper: 2012E0
+name: Category Mechanical Motor Geared Tt Cubby Box
+name_no_class: Mechanical Motor Geared Tt Cubby Box
+name_no_size: Tt Cubby Box
+name_no_size_short: Tt Cubby Box
+name_no_type: Motor Geared Tt Cubby Box
+oomp_key: oomp_category_mechanical_motor_geared_tt_cubby_box
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorymechanical
+size: motor_geared
+size_capital: Motor Geared
+size_first_letter: m
+size_first_letter_upper: M
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: MOTOR_GEARED
+type: mechanical
+type_capital: Mechanical
+type_first_letter: m
+type_first_letter_upper: M
+type_upper: MECHANICAL

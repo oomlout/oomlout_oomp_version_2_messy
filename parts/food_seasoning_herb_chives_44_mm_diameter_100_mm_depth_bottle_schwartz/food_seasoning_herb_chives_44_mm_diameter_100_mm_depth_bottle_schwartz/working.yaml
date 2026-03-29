@@ -1,0 +1,80 @@
+classification: food
+classification_capital: Food
+classification_first_letter: f
+classification_first_letter_upper: F
+classification_upper: FOOD
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: chives
+description_extra: 44_mm_diameter_100_mm_depth_bottle
+description_extra_capital: 44 mm Diameter 100 mm Depth Bottle
+description_extra_first_letter: '4'
+description_extra_first_letter_upper: '4'
+description_extra_upper: 44_MM_DIAMETER_100_MM_DEPTH_BOTTLE
+description_main: chives
+description_main_capital: Chives
+description_main_first_letter: c
+description_main_first_letter_upper: C
+description_main_upper: CHIVES
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/food_seasoning_herb_chives_44_mm_diameter_100_mm_depth_bottle_schwartz
+distributors: []
+filter: ''
+from_yaml: false
+id: food_seasoning_herb_chives_44_mm_diameter_100_mm_depth_bottle_schwartz
+id_no_class: seasoning_herb_chives_44_mm_diameter_100_mm_depth_bottle_schwartz
+id_no_size: chives_44_mm_diameter_100_mm_depth_bottle_schwartz
+id_no_type: herb_chives_44_mm_diameter_100_mm_depth_bottle_schwartz
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_herb_chives_44_mm_diameter_100_mm_depth_bottle_schwartz
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_herb_chives_44_mm_diameter_100_mm_depth_bottle_schwartz
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_herb_chives_44_mm_diameter_100_mm_depth_bottle_schwartz
+manufacturer: schwartz
+manufacturer_capital: Schwartz
+manufacturer_first_letter: s
+manufacturer_first_letter_upper: S
+manufacturer_upper: SCHWARTZ
+manufacturers: []
+markdown_full: '[food_seasoning_herb_chives_44_mm_diameter_100_mm_depth_bottle_schwartz](none)<br>[](none)<br>[Food
+    Seasoning Herb Chives 44 Mm Diameter 100 Mm Depth Bottle Schwartz](none)<br><br>'
+markdown_short: '[food_seasoning_herb_chives_44_mm_diameter_100_mm_depth_bottle_schwartz](none)<br><br>'
+md5: 6e7941120dfe68c6f7a16b8ce6ed3168
+md5_10: 6e7941120d
+md5_10_upper: 6E7941120D
+md5_5: 6e794
+md5_5_upper: 6E794
+md5_6: 6e7941
+md5_6_alpha: 4b6f5
+md5_6_alpha_upper: 4B6F5
+md5_6_upper: 6E7941
+name: Food Seasoning Herb Chives 44 Mm Diameter 100 Mm Depth Bottle Schwartz
+name_no_class: Seasoning Herb Chives 44 Mm Diameter 100 Mm Depth Bottle Schwartz
+name_no_size: Chives 44 Mm Diameter 100 Mm Depth Bottle Schwartz
+name_no_size_short: Chives 44 Mm Diameter 100 Mm Depth Bottle Schwartz
+name_no_type: Herb Chives 44 Mm Diameter 100 Mm Depth Bottle Schwartz
+name_short: Chives
+oomp_key: oomp_food_seasoning_herb_chives_44_mm_diameter_100_mm_depth_bottle_schwartz
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: herb
+size_capital: Herb
+size_first_letter: h
+size_first_letter_upper: H
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: HERB
+type: seasoning
+type_capital: Seasoning
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: SEASONING

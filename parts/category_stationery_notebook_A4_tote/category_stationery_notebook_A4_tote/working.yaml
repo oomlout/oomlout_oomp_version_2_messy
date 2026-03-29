@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: A4
+color_capital: A4
+color_first_letter: A
+color_first_letter_upper: A
+color_upper: A4
+description: category_stationery
+description_extra: tote
+description_extra_capital: Tote
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TOTE
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'A '
+description_or_color_upper: 'A '
+directory: parts/category_stationery_notebook_A4_tote
+distributors: []
+filter: ''
+from_yaml: false
+id: category_stationery_notebook_A4_tote
+id_no_class: stationery_notebook_A4_tote
+id_no_size: A4_tote
+id_no_type: notebook_A4_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_stationery_notebook_A4_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_stationery_notebook_A4_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_stationery_notebook_A4_tote
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_stationery_notebook_A4_tote](none)<br>[](none)<br>[Category
+    Stationery Notebook A4 Tote](none)<br><br>'
+markdown_short: '[category_stationery_notebook_A4_tote](none)<br><br>'
+md5: bb9120c7d834adbc1d571327d672cd8f
+md5_10: bb9120c7d8
+md5_10_upper: BB9120C7D8
+md5_5: bb912
+md5_5_upper: BB912
+md5_6: bb9120
+md5_6_alpha: 7bgv4
+md5_6_alpha_upper: 7BGV4
+md5_6_upper: BB9120
+name: Category Stationery Notebook A4 Tote
+name_no_class: Stationery Notebook A4 Tote
+name_no_size: A4 Tote
+name_no_size_short: A4 Tote
+name_no_type: Notebook A4 Tote
+oomp_key: oomp_category_stationery_notebook_A4_tote
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorystationery
+size: notebook
+size_capital: Notebook
+size_first_letter: n
+size_first_letter_upper: N
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: NOTEBOOK
+type: stationery
+type_capital: Stationery
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: STATIONERY

@@ -1,0 +1,77 @@
+classification: printer
+classification_capital: Printer
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_upper: PRINTER
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/printer_inkjet_photo_epson_picturemate_personal_photo_lab
+distributors: []
+id: printer_inkjet_photo_epson_picturemate_personal_photo_lab
+id_no_class: inkjet_photo_epson_picturemate_personal_photo_lab
+id_no_size: epson_picturemate_personal_lab
+id_no_type: photo_epson_picturemate_personal_photo_lab
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_inkjet_photo_epson_picturemate_personal_photo_lab
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_inkjet_photo_epson_picturemate_personal_photo_lab
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_inkjet_photo_epson_picturemate_personal_photo_lab
+manufacturer: epson_picturemate
+manufacturer_capital: Epson Picturemate
+manufacturer_first_letter: e
+manufacturer_first_letter_upper: E
+manufacturer_upper: EPSON_PICTUREMATE
+manufacturers: []
+markdown_full: '[printer_inkjet_photo_epson_picturemate_personal_photo_lab](none)<br>[](none)<br>[Printer
+    Inkjet Photo Epson Picturemate Personal Photo Lab](none)<br><br>'
+markdown_short: '[printer_inkjet_photo_epson_picturemate_personal_photo_lab](none)<br><br>'
+md5: 17ce9f856111d9a9e51c9325705faea4
+md5_10: 17ce9f8561
+md5_10_upper: 17CE9F8561
+md5_5: 17ce9
+md5_5_upper: 17CE9
+md5_6: 17ce9f
+md5_6_alpha: xfvj
+md5_6_alpha_upper: XFVJ
+md5_6_upper: 17CE9F
+name: Printer Inkjet Photo Epson Picturemate Personal Photo Lab
+name_no_class: Inkjet Photo Epson Picturemate Personal Photo Lab
+name_no_size: Epson Picturemate Personal Lab
+name_no_size_short: Epson Picturemate Personal Lab
+name_no_type: Photo Epson Picturemate Personal Photo Lab
+oomp_key: oomp_printer_inkjet_photo_epson_picturemate_personal_photo_lab
+part_number: personal_photo_lab
+part_number_capital: Personal Photo Lab
+part_number_first_letter: p
+part_number_first_letter_upper: P
+part_number_upper: PERSONAL_PHOTO_LAB
+short_code: ''
+short_code_upper: ''
+short_name: Printer Epson Picturemate Personal Photo Lab
+size: photo
+size_capital: Photo
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PHOTO
+type: inkjet
+type_capital: Inkjet
+type_first_letter: i
+type_first_letter_upper: I
+type_upper: INKJET

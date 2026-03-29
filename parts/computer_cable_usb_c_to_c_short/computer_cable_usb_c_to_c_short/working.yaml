@@ -1,0 +1,78 @@
+classification: computer
+classification_capital: Computer
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: COMPUTER
+color: c_to_c
+color_capital: C To C
+color_first_letter: c
+color_first_letter_upper: C
+color_upper: C_TO_C
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: short
+description_main_capital: Short
+description_main_first_letter: s
+description_main_first_letter_upper: S
+description_main_upper: SHORT
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'C '
+description_or_color_upper: 'C '
+directory: parts/computer_cable_usb_c_to_c_short
+distributors: []
+filter: ''
+from_yaml: false
+id: computer_cable_usb_c_to_c_short
+id_no_class: cable_usb_c_to_c_short
+id_no_size: c_to_c_short
+id_no_type: usb_c_to_c_short
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_cable_usb_c_to_c_short
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_cable_usb_c_to_c_short
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_cable_usb_c_to_c_short
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[computer_cable_usb_c_to_c_short](none)<br>[](none)<br>[Computer Cable
+    Usb C To C Short](none)<br><br>'
+markdown_short: '[computer_cable_usb_c_to_c_short](none)<br><br>'
+md5: 6eee4a99391aebd5459cd39b2ae467fc
+md5_10: 6eee4a9939
+md5_10_upper: 6EEE4A9939
+md5_5: 6eee4
+md5_5_upper: 6EEE4
+md5_6: 6eee4a
+md5_6_alpha: 4btje
+md5_6_alpha_upper: 4BTJE
+md5_6_upper: 6EEE4A
+name: Computer Cable Usb C To C Short
+name_no_class: Cable Usb C To C Short
+name_no_size: C To C Short
+name_no_size_short: C To C Short
+name_no_type: Usb C To C Short
+oomp_key: oomp_computer_cable_usb_c_to_c_short
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: usb
+size_capital: Usb
+size_first_letter: u
+size_first_letter_upper: U
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: USB
+type: cable
+type_capital: Cable
+type_first_letter: c
+type_first_letter_upper: C
+type_upper: CABLE

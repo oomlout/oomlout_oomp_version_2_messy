@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: vegetarian
+color_capital: Vegetarian
+color_first_letter: v
+color_first_letter_upper: V
+color_upper: VEGETARIAN
+description: category_book
+description_extra: tote
+description_extra_capital: Tote
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TOTE
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'V '
+description_or_color_upper: 'V '
+directory: parts/category_book_cook_vegetarian_tote
+distributors: []
+filter: ''
+from_yaml: false
+id: category_book_cook_vegetarian_tote
+id_no_class: book_cook_vegetarian_tote
+id_no_size: vegetarian_tote
+id_no_type: cook_vegetarian_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_book_cook_vegetarian_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_book_cook_vegetarian_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_book_cook_vegetarian_tote
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_book_cook_vegetarian_tote](none)<br>[](none)<br>[Category
+    Book Cook Vegetarian Tote](none)<br><br>'
+markdown_short: '[category_book_cook_vegetarian_tote](none)<br><br>'
+md5: 8a18947956bd4e69623b6a71b9bf8011
+md5_10: 8a18947956
+md5_10_upper: 8A18947956
+md5_5: 8a189
+md5_5_upper: 8A189
+md5_6: 8a1894
+md5_6_alpha: 5dz84
+md5_6_alpha_upper: 5DZ84
+md5_6_upper: 8A1894
+name: Category Book Cook Vegetarian Tote
+name_no_class: Book Cook Vegetarian Tote
+name_no_size: Vegetarian Tote
+name_no_size_short: Vegetarian Tote
+name_no_type: Cook Vegetarian Tote
+oomp_key: oomp_category_book_cook_vegetarian_tote
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorybook
+size: cook
+size_capital: Cook
+size_first_letter: c
+size_first_letter_upper: C
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: COOK
+type: book
+type_capital: Book
+type_first_letter: b
+type_first_letter_upper: B
+type_upper: BOOK

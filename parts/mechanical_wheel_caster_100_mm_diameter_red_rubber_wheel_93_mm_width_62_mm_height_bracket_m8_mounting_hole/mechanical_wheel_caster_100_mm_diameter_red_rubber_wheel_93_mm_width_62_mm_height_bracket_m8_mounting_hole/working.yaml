@@ -1,0 +1,83 @@
+classification: mechanical
+classification_capital: Mechanical
+classification_first_letter: m
+classification_first_letter_upper: M
+classification_upper: MECHANICAL
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: 93_mm_width_62_mm_height_bracket_m8_mounting_hole
+description_extra_capital: 93 mm Width 62 mm Height Bracket M8 Mounting Hole
+description_extra_first_letter: '9'
+description_extra_first_letter_upper: '9'
+description_extra_upper: 93_MM_WIDTH_62_MM_HEIGHT_BRACKET_M8_MOUNTING_HOLE
+description_main: 100_mm_diameter_red_rubber_wheel
+description_main_capital: 100 mm Diameter Red Rubber Wheel
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_upper: 100_MM_DIAMETER_RED_RUBBER_WHEEL
+description_only_numbers: '100'
+description_only_numbers_short: '100'
+description_or_color: '100'
+description_or_color_upper: '100'
+directory: parts/mechanical_wheel_caster_100_mm_diameter_red_rubber_wheel_93_mm_width_62_mm_height_bracket_m8_mounting_hole
+distributors: []
+id: mechanical_wheel_caster_100_mm_diameter_red_rubber_wheel_93_mm_width_62_mm_height_bracket_m8_mounting_hole
+id_no_class: wheel_caster_100_mm_diameter_red_rubber_wheel_93_mm_width_62_mm_height_bracket_m8_mounting_hole
+id_no_size: 100_mm_diameter_red_rubber_93_mm_width_62_mm_height_bracket_m8_mounting_hole
+id_no_type: caster_100_mm_diameter_red_rubber_93_mm_width_62_mm_height_bracket_m8_mounting_hole
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_wheel_caster_100_mm_diameter_red_rubber_wheel_93_mm_width_62_mm_height_bracket_m8_mounting_hole
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_wheel_caster_100_mm_diameter_red_rubber_wheel_93_mm_width_62_mm_height_bracket_m8_mounting_hole
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_wheel_caster_100_mm_diameter_red_rubber_wheel_93_mm_width_62_mm_height_bracket_m8_mounting_hole
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[mechanical_wheel_caster_100_mm_diameter_red_rubber_wheel_93_mm_width_62_mm_height_bracket_m8_mounting_hole](none)<br>[](none)<br>[Mechanical
+    Wheel Caster 100 Mm Diameter Red Rubber Wheel 93 Mm Width 62 Mm Height Bracket
+    M8 Mounting Hole](none)<br><br>'
+markdown_short: '[mechanical_wheel_caster_100_mm_diameter_red_rubber_wheel_93_mm_width_62_mm_height_bracket_m8_mounting_hole](none)<br><br>'
+md5: 1f3129155430a72b0889672feac39ccb
+md5_10: 1f31291554
+md5_10_upper: 1F31291554
+md5_5: 1f312
+md5_5_upper: 1F312
+md5_6: 1f3129
+md5_6_alpha: 17tbd
+md5_6_alpha_upper: 17TBD
+md5_6_upper: 1F3129
+name: Mechanical Wheel Caster 100 Mm Diameter Red Rubber Wheel 93 Mm Width 62 Mm Height
+    Bracket M8 Mounting Hole
+name_no_class: Wheel Caster 100 Mm Diameter Red Rubber Wheel 93 Mm Width 62 Mm Height
+    Bracket M8 Mounting Hole
+name_no_size: 100 Mm Diameter Red Rubber 93 Mm Width 62 Mm Height Bracket M8 Mounting
+    Hole
+name_no_size_short: 100 Mm Diameter Red Rubber 93 Mm Width 62 Mm Height Bracket M8
+    Mounting Hole
+name_no_type: Caster 100 Mm Diameter Red Rubber 93 Mm Width 62 Mm Height Bracket M8
+    Mounting Hole
+oomp_key: oomp_mechanical_wheel_caster_100_mm_diameter_red_rubber_wheel_93_mm_width_62_mm_height_bracket_m8_mounting_hole
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Caster Wheel 100mm Red
+size: caster
+size_capital: Caster
+size_first_letter: c
+size_first_letter_upper: C
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: CASTER
+type: wheel
+type_capital: Wheel
+type_first_letter: w
+type_first_letter_upper: W
+type_upper: WHEEL

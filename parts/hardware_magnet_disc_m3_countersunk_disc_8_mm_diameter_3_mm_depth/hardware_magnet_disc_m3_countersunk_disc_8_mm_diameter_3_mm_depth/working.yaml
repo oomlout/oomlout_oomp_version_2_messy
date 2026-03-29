@@ -1,0 +1,81 @@
+classification: hardware
+classification_capital: Hardware
+classification_first_letter: h
+classification_first_letter_upper: H
+classification_upper: HARDWARE
+color: m3_countersunk_disc
+color_capital: M3 Countersunk Disc
+color_first_letter: m
+color_first_letter_upper: M
+color_upper: M3_COUNTERSUNK_DISC
+depth: 3
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 8_mm_diameter_3_mm_depth
+description_main_capital: 8 mm Diameter 3 mm Depth
+description_main_first_letter: '8'
+description_main_first_letter_upper: '8'
+description_main_upper: 8_MM_DIAMETER_3_MM_DEPTH
+description_only_numbers: '83'
+description_only_numbers_short: '83'
+description_or_color: M83
+description_or_color_upper: M83
+diameter: 8
+directory: parts/hardware_magnet_disc_m3_countersunk_disc_8_mm_diameter_3_mm_depth
+distributors: []
+filter: ''
+from_yaml: false
+id: hardware_magnet_disc_m3_countersunk_disc_8_mm_diameter_3_mm_depth
+id_no_class: magnet_disc_m3_countersunk_disc_8_mm_diameter_3_mm_depth
+id_no_size: m3_countersunk_8_mm_diameter_3_mm_depth
+id_no_type: disc_m3_countersunk_disc_8_mm_diameter_3_mm_depth
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_magnet_disc_m3_countersunk_disc_8_mm_diameter_3_mm_depth
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_magnet_disc_m3_countersunk_disc_8_mm_diameter_3_mm_depth
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_magnet_disc_m3_countersunk_disc_8_mm_diameter_3_mm_depth
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[hardware_magnet_disc_m3_countersunk_disc_8_mm_diameter_3_mm_depth](none)<br>[](none)<br>[Hardware
+    Magnet Disc M3 Countersunk Disc 8 Mm Diameter 3 Mm Depth](none)<br><br>'
+markdown_short: '[hardware_magnet_disc_m3_countersunk_disc_8_mm_diameter_3_mm_depth](none)<br><br>'
+md5: b9ba332cfd2d0f5dd7fe88b4758f087a
+md5_10: b9ba332cfd
+md5_10_upper: B9BA332CFD
+md5_5: b9ba3
+md5_5_upper: B9BA3
+md5_6: b9ba33
+md5_6_alpha: 78vub
+md5_6_alpha_upper: 78VUB
+md5_6_upper: B9BA33
+name: Hardware Magnet Disc M3 Countersunk Disc 8 Mm Diameter 3 Mm Depth
+name_no_class: Magnet Disc M3 Countersunk Disc 8 Mm Diameter 3 Mm Depth
+name_no_size: M3 Countersunk 8 Mm Diameter 3 Mm Depth
+name_no_size_short: M3 Countersunk 8 Mm Diameter 3 Mm Depth
+name_no_type: Disc M3 Countersunk Disc 8 Mm Diameter 3 Mm Depth
+oomp_key: oomp_hardware_magnet_disc_m3_countersunk_disc_8_mm_diameter_3_mm_depth
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: disc
+size_capital: Disc
+size_first_letter: d
+size_first_letter_upper: D
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: DISC
+thickness: 3
+type: magnet
+type_capital: Magnet
+type_first_letter: m
+type_first_letter_upper: M
+type_upper: MAGNET

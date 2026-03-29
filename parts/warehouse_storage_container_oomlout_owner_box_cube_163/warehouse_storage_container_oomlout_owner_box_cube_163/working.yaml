@@ -1,0 +1,78 @@
+classification: warehouse
+classification_capital: Warehouse
+classification_first_letter: w
+classification_first_letter_upper: W
+classification_upper: WAREHOUSE
+color: box_cube
+color_capital: Box Cube
+color_first_letter: b
+color_first_letter_upper: B
+color_upper: BOX_CUBE
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: '163'
+description_main_capital: '163'
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_upper: '163'
+description_only_numbers: '163'
+description_only_numbers_short: '163'
+description_or_color: B163
+description_or_color_upper: B163
+directory: parts/warehouse_storage_container_oomlout_owner_box_cube_163
+distributors: []
+id: warehouse_storage_container_oomlout_owner_box_cube_163
+id_no_class: storage_container_oomlout_owner_box_cube_163
+id_no_size: box_cube_163
+id_no_type: oomlout_owner_box_cube_163
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/warehouse_storage_container_oomlout_owner_box_cube_163
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/warehouse_storage_container_oomlout_owner_box_cube_163
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/warehouse_storage_container_oomlout_owner_box_cube_163
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[warehouse_storage_container_oomlout_owner_box_cube_163](none)<br>[](none)<br>[Warehouse
+    Storage Container Oomlout Owner Box Cube 163](none)<br><br>'
+markdown_short: '[warehouse_storage_container_oomlout_owner_box_cube_163](none)<br><br>'
+md5: a6518a5a7c1b0c1da6b326754809fdd6
+md5_10: a6518a5a7c
+md5_10_upper: A6518A5A7C
+md5_5: a6518
+md5_5_upper: A6518
+md5_6: a6518a
+md5_6_alpha: 6hmdm
+md5_6_alpha_upper: 6HMDM
+md5_6_upper: A6518A
+name: Warehouse Storage Container Oomlout Owner Box Cube 163
+name_no_class: Storage Container Oomlout Owner Box Cube 163
+name_no_size: Box Cube 163
+name_no_size_short: Box Cube 163
+name_no_type: Oomlout Owner Box Cube 163
+oomp_key: oomp_warehouse_storage_container_oomlout_owner_box_cube_163
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: oomlout_owner
+size_capital: Oomlout Owner
+size_first_letter: o
+size_first_letter_upper: O
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: OOMLOUT_OWNER
+type: storage_container
+type_capital: Storage Container
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: STORAGE_CONTAINER

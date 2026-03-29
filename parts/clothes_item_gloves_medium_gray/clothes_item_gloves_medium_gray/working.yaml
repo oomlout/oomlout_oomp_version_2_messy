@@ -1,0 +1,78 @@
+classification: clothes
+classification_capital: Clothes
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CLOTHES
+color: medium
+color_capital: Medium
+color_first_letter: m
+color_first_letter_upper: M
+color_upper: MEDIUM
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: gray
+description_main_capital: Gray
+description_main_first_letter: g
+description_main_first_letter_upper: G
+description_main_upper: GRAY
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'M '
+description_or_color_upper: 'M '
+directory: parts/clothes_item_gloves_medium_gray
+distributors: []
+filter: ''
+from_yaml: false
+id: clothes_item_gloves_medium_gray
+id_no_class: item_gloves_medium_gray
+id_no_size: medium_gray
+id_no_type: gloves_medium_gray
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_gloves_medium_gray
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_gloves_medium_gray
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_gloves_medium_gray
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[clothes_item_gloves_medium_gray](none)<br>[](none)<br>[Clothes Item
+    Gloves Medium Gray](none)<br><br>'
+markdown_short: '[clothes_item_gloves_medium_gray](none)<br><br>'
+md5: 8af0c9181f39f2374dcb904b7119cfc3
+md5_10: 8af0c9181f
+md5_10_upper: 8AF0C9181F
+md5_5: 8af0c
+md5_5_upper: 8AF0C
+md5_6: 8af0c9
+md5_6_alpha: 5f5xl
+md5_6_alpha_upper: 5F5XL
+md5_6_upper: 8AF0C9
+name: Clothes Item Gloves Medium Gray
+name_no_class: Item Gloves Medium Gray
+name_no_size: Medium Gray
+name_no_size_short: Medium Gray
+name_no_type: Gloves Medium Gray
+oomp_key: oomp_clothes_item_gloves_medium_gray
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: gloves
+size_capital: Gloves
+size_first_letter: g
+size_first_letter_upper: G
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: GLOVES
+type: item
+type_capital: Item
+type_first_letter: i
+type_first_letter_upper: I
+type_upper: ITEM

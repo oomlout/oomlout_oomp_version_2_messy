@@ -1,0 +1,77 @@
+classification: stationery
+classification_capital: Stationery
+classification_first_letter: s
+classification_first_letter_upper: S
+classification_upper: STATIONERY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/stationery_notebook_A4
+distributors: []
+id: stationery_notebook_A4
+id_no_class: notebook_A4
+id_no_size: A4
+id_no_type: A4
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_notebook_A4
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_notebook_A4
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_notebook_A4
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[stationery_notebook_A4](none)<br>[](none)<br>[Stationery Notebook
+    A4](none)<br><br>'
+markdown_short: '[stationery_notebook_A4](none)<br><br>'
+md5: 5318faccd320410ef3160461e8dd4b37
+md5_10: 5318faccd3
+md5_10_upper: 5318FACCD3
+md5_5: 5318f
+md5_5_upper: 5318F
+md5_6: 5318fa
+md5_6_alpha: 38q2i
+md5_6_alpha_upper: 38Q2I
+md5_6_upper: 5318FA
+name: Stationery Notebook A4
+name_no_class: Notebook A4
+name_no_size: A4
+name_no_size_short: A4
+name_no_type: A4
+oomp_key: oomp_stationery_notebook_A4
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: A4
+size_capital: A4
+size_first_letter: A
+size_first_letter_upper: A
+size_only_numbers: '4'
+size_only_numbers_no_zeros: '4'
+size_upper: A4
+type: notebook
+type_capital: Notebook
+type_first_letter: n
+type_first_letter_upper: N
+type_upper: NOTEBOOK

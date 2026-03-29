@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: large
+color_capital: Large
+color_first_letter: l
+color_first_letter_upper: L
+color_upper: LARGE
+description: category_hardware
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'L '
+description_or_color_upper: 'L '
+directory: parts/category_hardware_ziptie_large
+distributors: []
+filter: ''
+from_yaml: false
+id: category_hardware_ziptie_large
+id_no_class: hardware_ziptie_large
+id_no_size: large
+id_no_type: ziptie_large
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_ziptie_large
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_ziptie_large
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_ziptie_large
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_hardware_ziptie_large](none)<br>[](none)<br>[Category Hardware
+    Ziptie Large](none)<br><br>'
+markdown_short: '[category_hardware_ziptie_large](none)<br><br>'
+md5: 7652e5a2615984abc5e61f134a98be45
+md5_10: 7652e5a261
+md5_10_upper: 7652E5A261
+md5_5: 7652e
+md5_5_upper: 7652E
+md5_6: 7652e5
+md5_6_alpha: 4m7dx
+md5_6_alpha_upper: 4M7DX
+md5_6_upper: 7652E5
+name: Category Hardware Ziptie Large
+name_no_class: Hardware Ziptie Large
+name_no_size: Large
+name_no_size_short: Large
+name_no_type: Ziptie Large
+oomp_key: oomp_category_hardware_ziptie_large
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryhardware
+size: ziptie
+size_capital: Ziptie
+size_first_letter: z
+size_first_letter_upper: Z
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ZIPTIE
+type: hardware
+type_capital: Hardware
+type_first_letter: h
+type_first_letter_upper: H
+type_upper: HARDWARE

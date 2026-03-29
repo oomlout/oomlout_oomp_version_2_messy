@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: nut
+color_capital: Nut
+color_first_letter: n
+color_first_letter_upper: N
+color_upper: NUT
+description: category_food
+description_extra: cubby_box
+description_extra_capital: Cubby Box
+description_extra_first_letter: c
+description_extra_first_letter_upper: C
+description_extra_upper: CUBBY_BOX
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'N '
+description_or_color_upper: 'N '
+directory: parts/category_food_baking_nut_cubby_box
+distributors: []
+filter: ''
+from_yaml: false
+id: category_food_baking_nut_cubby_box
+id_no_class: food_baking_nut_cubby_box
+id_no_size: nut_cubby_box
+id_no_type: baking_nut_cubby_box
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_baking_nut_cubby_box
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_baking_nut_cubby_box
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_baking_nut_cubby_box
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_food_baking_nut_cubby_box](none)<br>[](none)<br>[Category
+    Food Baking Nut Cubby Box](none)<br><br>'
+markdown_short: '[category_food_baking_nut_cubby_box](none)<br><br>'
+md5: d576f29fb2d97d614b955774db5045d9
+md5_10: d576f29fb2
+md5_10_upper: D576F29FB2
+md5_5: d576f
+md5_5_upper: D576F
+md5_6: d576f2
+md5_6_alpha: 8bugi
+md5_6_alpha_upper: 8BUGI
+md5_6_upper: D576F2
+name: Category Food Baking Nut Cubby Box
+name_no_class: Food Baking Nut Cubby Box
+name_no_size: Nut Cubby Box
+name_no_size_short: Nut Cubby Box
+name_no_type: Baking Nut Cubby Box
+oomp_key: oomp_category_food_baking_nut_cubby_box
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryfood
+size: baking
+size_capital: Baking
+size_first_letter: b
+size_first_letter_upper: B
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: BAKING
+type: food
+type_capital: Food
+type_first_letter: f
+type_first_letter_upper: F
+type_upper: FOOD

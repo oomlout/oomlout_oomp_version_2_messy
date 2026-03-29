@@ -1,0 +1,79 @@
+classification: food
+classification_capital: Food
+classification_first_letter: f
+classification_first_letter_upper: F
+classification_upper: FOOD
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: tin_125_gram
+description_extra_capital: Tin 125 Gram
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TIN_125_GRAM
+description_main: tuna_in_sunflower_oil
+description_main_capital: Tuna In Sunflower Oil
+description_main_first_letter: t
+description_main_first_letter_upper: T
+description_main_upper: TUNA_IN_SUNFLOWER_OIL
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/food_meat_tuna_in_sunflower_oil_tin_125_gram
+distributors: []
+filter: ''
+from_yaml: false
+id: food_meat_tuna_in_sunflower_oil_tin_125_gram
+id_no_class: meat_tuna_in_sunflower_oil_tin_125_gram
+id_no_size: tunainsunfloweroiltin125gram
+id_no_type: tuna_in_sunflower_oil_tin_125_gram
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_meat_tuna_in_sunflower_oil_tin_125_gram
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_meat_tuna_in_sunflower_oil_tin_125_gram
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_meat_tuna_in_sunflower_oil_tin_125_gram
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[food_meat_tuna_in_sunflower_oil_tin_125_gram](none)<br>[](none)<br>[Food
+    Meat Tuna In Sunflower Oil Tin 125 Gram](none)<br><br>'
+markdown_short: '[food_meat_tuna_in_sunflower_oil_tin_125_gram](none)<br><br>'
+md5: be4fc540d10dc201634151c3524b4d5d
+md5_10: be4fc540d1
+md5_10_upper: BE4FC540D1
+md5_5: be4fc
+md5_5_upper: BE4FC
+md5_6: be4fc5
+md5_6_alpha: 7fbnp
+md5_6_alpha_upper: 7FBNP
+md5_6_upper: BE4FC5
+name: Food Meat Tuna In Sunflower Oil Tin 125 Gram
+name_no_class: Meat Tuna In Sunflower Oil Tin 125 Gram
+name_no_size: Tunainsunfloweroiltin125Gram
+name_no_size_short: Tunainsunfloweroiltin125Gram
+name_no_type: Tuna In Sunflower Oil Tin 125 Gram
+name_short: Tuna in Sunflower Oil
+oomp_key: oomp_food_meat_tuna_in_sunflower_oil_tin_125_gram
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: meat
+type_capital: Meat
+type_first_letter: m
+type_first_letter_upper: M
+type_upper: MEAT

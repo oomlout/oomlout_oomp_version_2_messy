@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: inkjet_sublimation
+color_capital: Inkjet Sublimation
+color_first_letter: i
+color_first_letter_upper: I
+color_upper: INKJET_SUBLIMATION
+description: category_printer
+description_extra: tote
+description_extra_capital: Tote
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TOTE
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'I '
+description_or_color_upper: 'I '
+directory: parts/category_printer_ink_inkjet_sublimation_tote
+distributors: []
+filter: ''
+from_yaml: false
+id: category_printer_ink_inkjet_sublimation_tote
+id_no_class: printer_ink_inkjet_sublimation_tote
+id_no_size: inkjet_sublimation_tote
+id_no_type: ink_inkjet_sublimation_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_printer_ink_inkjet_sublimation_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_printer_ink_inkjet_sublimation_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_printer_ink_inkjet_sublimation_tote
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_printer_ink_inkjet_sublimation_tote](none)<br>[](none)<br>[Category
+    Printer Ink Inkjet Sublimation Tote](none)<br><br>'
+markdown_short: '[category_printer_ink_inkjet_sublimation_tote](none)<br><br>'
+md5: 4ac5cb0c5faa45b4ce1e5be0db568d29
+md5_10: 4ac5cb0c5f
+md5_10_upper: 4AC5CB0C5F
+md5_5: 4ac5c
+md5_5_upper: 4AC5C
+md5_6: 4ac5cb
+md5_6_alpha: 2x13f
+md5_6_alpha_upper: 2X13F
+md5_6_upper: 4AC5CB
+name: Category Printer Ink Inkjet Sublimation Tote
+name_no_class: Printer Ink Inkjet Sublimation Tote
+name_no_size: Inkjet Sublimation Tote
+name_no_size_short: Inkjet Sublimation Tote
+name_no_type: Ink Inkjet Sublimation Tote
+oomp_key: oomp_category_printer_ink_inkjet_sublimation_tote
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryprinter
+size: ink
+size_capital: Ink
+size_first_letter: i
+size_first_letter_upper: I
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: INK
+type: printer
+type_capital: Printer
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PRINTER

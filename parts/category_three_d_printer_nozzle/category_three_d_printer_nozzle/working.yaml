@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_three_d_printer
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_three_d_printer_nozzle
+distributors: []
+filter: ''
+from_yaml: false
+id: category_three_d_printer_nozzle
+id_no_class: three_d_printer_nozzle
+id_no_size: nozzle
+id_no_type: nozzle
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_three_d_printer_nozzle
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_three_d_printer_nozzle
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_three_d_printer_nozzle
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_three_d_printer_nozzle](none)<br>[](none)<br>[Category Three
+    D Printer Nozzle](none)<br><br>'
+markdown_short: '[category_three_d_printer_nozzle](none)<br><br>'
+md5: 5a1461d8bd69a91b523ba875fba7adaa
+md5_10: 5a1461d8bd
+md5_10_upper: 5A1461D8BD
+md5_5: 5a146
+md5_5_upper: 5A146
+md5_6: 5a1461
+md5_6_alpha: 3ij4x
+md5_6_alpha_upper: 3IJ4X
+md5_6_upper: 5A1461
+name: Category Three D Printer Nozzle
+name_no_class: Three D Printer Nozzle
+name_no_size: Nozzle
+name_no_size_short: Nozzle
+name_no_type: Nozzle
+oomp_key: oomp_category_three_d_printer_nozzle
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorythreedprinter
+size: nozzle
+size_capital: Nozzle
+size_first_letter: n
+size_first_letter_upper: N
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: NOZZLE
+type: three_d_printer
+type_capital: Three D Printer
+type_first_letter: t
+type_first_letter_upper: T
+type_upper: THREE_D_PRINTER

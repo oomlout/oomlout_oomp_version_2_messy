@@ -1,0 +1,81 @@
+classification: hardware
+classification_capital: Hardware
+classification_first_letter: h
+classification_first_letter_upper: H
+classification_upper: HARDWARE
+color: m3_countersunk_disc
+color_capital: M3 Countersunk Disc
+color_first_letter: m
+color_first_letter_upper: M
+color_upper: M3_COUNTERSUNK_DISC
+depth: 3
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 15_mm_diameter_3_mm_depth
+description_main_capital: 15 mm Diameter 3 mm Depth
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_upper: 15_MM_DIAMETER_3_MM_DEPTH
+description_only_numbers: '153'
+description_only_numbers_short: '153'
+description_or_color: M153
+description_or_color_upper: M153
+diameter: 15
+directory: parts/hardware_magnet_disc_m3_countersunk_disc_15_mm_diameter_3_mm_depth
+distributors: []
+filter: ''
+from_yaml: false
+id: hardware_magnet_disc_m3_countersunk_disc_15_mm_diameter_3_mm_depth
+id_no_class: magnet_disc_m3_countersunk_disc_15_mm_diameter_3_mm_depth
+id_no_size: m3_countersunk_15_mm_diameter_3_mm_depth
+id_no_type: disc_m3_countersunk_disc_15_mm_diameter_3_mm_depth
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_magnet_disc_m3_countersunk_disc_15_mm_diameter_3_mm_depth
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_magnet_disc_m3_countersunk_disc_15_mm_diameter_3_mm_depth
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_magnet_disc_m3_countersunk_disc_15_mm_diameter_3_mm_depth
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[hardware_magnet_disc_m3_countersunk_disc_15_mm_diameter_3_mm_depth](none)<br>[](none)<br>[Hardware
+    Magnet Disc M3 Countersunk Disc 15 Mm Diameter 3 Mm Depth](none)<br><br>'
+markdown_short: '[hardware_magnet_disc_m3_countersunk_disc_15_mm_diameter_3_mm_depth](none)<br><br>'
+md5: 7b2024074e4e55faea1467e965b0e96d
+md5_10: 7b2024074e
+md5_10_upper: 7B2024074E
+md5_5: 7b202
+md5_5_upper: 7B202
+md5_6: 7b2024
+md5_6_alpha: 4sy78
+md5_6_alpha_upper: 4SY78
+md5_6_upper: 7B2024
+name: Hardware Magnet Disc M3 Countersunk Disc 15 Mm Diameter 3 Mm Depth
+name_no_class: Magnet Disc M3 Countersunk Disc 15 Mm Diameter 3 Mm Depth
+name_no_size: M3 Countersunk 15 Mm Diameter 3 Mm Depth
+name_no_size_short: M3 Countersunk 15 Mm Diameter 3 Mm Depth
+name_no_type: Disc M3 Countersunk Disc 15 Mm Diameter 3 Mm Depth
+oomp_key: oomp_hardware_magnet_disc_m3_countersunk_disc_15_mm_diameter_3_mm_depth
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: disc
+size_capital: Disc
+size_first_letter: d
+size_first_letter_upper: D
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: DISC
+thickness: 3
+type: magnet
+type_capital: Magnet
+type_first_letter: m
+type_first_letter_upper: M
+type_upper: MAGNET

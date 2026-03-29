@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: dewalt_xr
+color_capital: Dewalt Xr
+color_first_letter: d
+color_first_letter_upper: D
+color_upper: DEWALT_XR
+description: category_electronic
+description_extra: tote
+description_extra_capital: Tote
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TOTE
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'D '
+description_or_color_upper: 'D '
+directory: parts/category_electronic_battery_box_dewalt_xr_tote
+distributors: []
+filter: ''
+from_yaml: false
+id: category_electronic_battery_box_dewalt_xr_tote
+id_no_class: electronic_battery_box_dewalt_xr_tote
+id_no_size: dewalt_xr_tote
+id_no_type: battery_box_dewalt_xr_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_battery_box_dewalt_xr_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_battery_box_dewalt_xr_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_battery_box_dewalt_xr_tote
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_electronic_battery_box_dewalt_xr_tote](none)<br>[](none)<br>[Category
+    Electronic Battery Box Dewalt Xr Tote](none)<br><br>'
+markdown_short: '[category_electronic_battery_box_dewalt_xr_tote](none)<br><br>'
+md5: f7a0fef2281321aa975e88321b4e1d63
+md5_10: f7a0fef228
+md5_10_upper: F7A0FEF228
+md5_5: f7a0f
+md5_5_upper: F7A0F
+md5_6: f7a0fe
+md5_6_alpha: 9nu2m
+md5_6_alpha_upper: 9NU2M
+md5_6_upper: F7A0FE
+name: Category Electronic Battery Box Dewalt Xr Tote
+name_no_class: Electronic Battery Box Dewalt Xr Tote
+name_no_size: Dewalt Xr Tote
+name_no_size_short: Dewalt Xr Tote
+name_no_type: Battery Box Dewalt Xr Tote
+oomp_key: oomp_category_electronic_battery_box_dewalt_xr_tote
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryelectronic
+size: battery_box
+size_capital: Battery Box
+size_first_letter: b
+size_first_letter_upper: B
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: BATTERY_BOX
+type: electronic
+type_capital: Electronic
+type_first_letter: e
+type_first_letter_upper: E
+type_upper: ELECTRONIC

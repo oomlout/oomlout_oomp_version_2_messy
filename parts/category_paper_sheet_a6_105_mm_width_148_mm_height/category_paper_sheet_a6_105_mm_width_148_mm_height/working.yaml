@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: a6_105_mm_width_148_mm_height
+color_capital: A6.105 mm Width 148 mm Height
+color_first_letter: a
+color_first_letter_upper: A
+color_upper: A6_105_MM_WIDTH_148_MM_HEIGHT
+description: category_paper
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'A '
+description_or_color_upper: 'A '
+directory: parts/category_paper_sheet_a6_105_mm_width_148_mm_height
+distributors: []
+filter: ''
+from_yaml: false
+id: category_paper_sheet_a6_105_mm_width_148_mm_height
+id_no_class: paper_sheet_a6_105_mm_width_148_mm_height
+id_no_size: a6_105_mm_width_148_mm_height
+id_no_type: sheet_a6_105_mm_width_148_mm_height
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_paper_sheet_a6_105_mm_width_148_mm_height
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_paper_sheet_a6_105_mm_width_148_mm_height
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_paper_sheet_a6_105_mm_width_148_mm_height
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_paper_sheet_a6_105_mm_width_148_mm_height](none)<br>[](none)<br>[Category
+    Paper Sheet A6 105 Mm Width 148 Mm Height](none)<br><br>'
+markdown_short: '[category_paper_sheet_a6_105_mm_width_148_mm_height](none)<br><br>'
+md5: 1fafdafd323cd429e15df43f7f5f0600
+md5_10: 1fafdafd32
+md5_10_upper: 1FAFDAFD32
+md5_5: 1fafd
+md5_5_upper: 1FAFD
+md5_6: 1fafda
+md5_6_alpha: 18ica
+md5_6_alpha_upper: 18ICA
+md5_6_upper: 1FAFDA
+name: Category Paper Sheet A6 105 Mm Width 148 Mm Height
+name_no_class: Paper Sheet A6 105 Mm Width 148 Mm Height
+name_no_size: A6 105 Mm Width 148 Mm Height
+name_no_size_short: A6 105 Mm Width 148 Mm Height
+name_no_type: Sheet A6 105 Mm Width 148 Mm Height
+oomp_key: oomp_category_paper_sheet_a6_105_mm_width_148_mm_height
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorypaper
+size: sheet
+size_capital: Sheet
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SHEET
+type: paper
+type_capital: Paper
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PAPER

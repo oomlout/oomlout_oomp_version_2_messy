@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_video_game_console
+description_extra: old
+description_extra_capital: Old
+description_extra_first_letter: o
+description_extra_first_letter_upper: O
+description_extra_upper: OLD
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_video_game_console_super_nintendo_entertainment_system_old
+distributors: []
+filter: ''
+from_yaml: false
+id: category_video_game_console_super_nintendo_entertainment_system_old
+id_no_class: video_game_console_super_nintendo_entertainment_system_old
+id_no_size: old
+id_no_type: super_nintendo_entertainment_system_old
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_video_game_console_super_nintendo_entertainment_system_old
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_video_game_console_super_nintendo_entertainment_system_old
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_video_game_console_super_nintendo_entertainment_system_old
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_video_game_console_super_nintendo_entertainment_system_old](none)<br>[](none)<br>[Category
+    Video Game Console Super Nintendo Entertainment System Old](none)<br><br>'
+markdown_short: '[category_video_game_console_super_nintendo_entertainment_system_old](none)<br><br>'
+md5: 9a26ace36c85b8c984ec4e5608c60d6f
+md5_10: 9a26ace36c
+md5_10_upper: 9A26ACE36C
+md5_5: 9a26a
+md5_5_upper: 9A26A
+md5_6: 9a26ac
+md5_6_alpha: 60j3g
+md5_6_alpha_upper: 60J3G
+md5_6_upper: 9A26AC
+name: Category Video Game Console Super Nintendo Entertainment System Old
+name_no_class: Video Game Console Super Nintendo Entertainment System Old
+name_no_size: Old
+name_no_size_short: Old
+name_no_type: Super Nintendo Entertainment System Old
+oomp_key: oomp_category_video_game_console_super_nintendo_entertainment_system_old
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryvideogameconsole
+size: super_nintendo_entertainment_system
+size_capital: Super Nintendo Entertainment System
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SUPER_NINTENDO_ENTERTAINMENT_SYSTEM
+type: video_game_console
+type_capital: Video Game Console
+type_first_letter: v
+type_first_letter_upper: V
+type_upper: VIDEO_GAME_CONSOLE

@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: 3mm_depth
+color_capital: 3mm Depth
+color_first_letter: '3'
+color_first_letter_upper: '3'
+color_upper: 3MM_DEPTH
+description: category_sheet_stock
+description_extra: cubby_box
+description_extra_capital: Cubby Box
+description_extra_first_letter: c
+description_extra_first_letter_upper: C
+description_extra_upper: CUBBY_BOX
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: '3 '
+description_or_color_upper: '3 '
+directory: parts/category_sheet_stock_plywood_3mm_depth_cubby_box
+distributors: []
+filter: ''
+from_yaml: false
+id: category_sheet_stock_plywood_3mm_depth_cubby_box
+id_no_class: sheet_stock_plywood_3mm_depth_cubby_box
+id_no_size: 3mm_depth_cubby_box
+id_no_type: plywood_3mm_depth_cubby_box
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_sheet_stock_plywood_3mm_depth_cubby_box
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_sheet_stock_plywood_3mm_depth_cubby_box
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_sheet_stock_plywood_3mm_depth_cubby_box
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_sheet_stock_plywood_3mm_depth_cubby_box](none)<br>[](none)<br>[Category
+    Sheet Stock Plywood 3Mm Depth Cubby Box](none)<br><br>'
+markdown_short: '[category_sheet_stock_plywood_3mm_depth_cubby_box](none)<br><br>'
+md5: 85ba47899fd62a4d949840a628eddfee
+md5_10: 85ba47899f
+md5_10_upper: 85BA47899F
+md5_5: 85ba4
+md5_5_upper: 85BA4
+md5_6: 85ba47
+md5_6_alpha: 57ubr
+md5_6_alpha_upper: 57UBR
+md5_6_upper: 85BA47
+name: Category Sheet Stock Plywood 3Mm Depth Cubby Box
+name_no_class: Sheet Stock Plywood 3Mm Depth Cubby Box
+name_no_size: 3Mm Depth Cubby Box
+name_no_size_short: 3Mm Depth Cubby Box
+name_no_type: Plywood 3Mm Depth Cubby Box
+oomp_key: oomp_category_sheet_stock_plywood_3mm_depth_cubby_box
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorysheetstock
+size: plywood
+size_capital: Plywood
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PLYWOOD
+type: sheet_stock
+type_capital: Sheet Stock
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: SHEET_STOCK

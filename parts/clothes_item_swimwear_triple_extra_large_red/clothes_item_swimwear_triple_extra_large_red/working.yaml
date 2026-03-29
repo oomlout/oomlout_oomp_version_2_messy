@@ -1,0 +1,78 @@
+classification: clothes
+classification_capital: Clothes
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CLOTHES
+color: triple_extra_large
+color_capital: Triple Extra Large
+color_first_letter: t
+color_first_letter_upper: T
+color_upper: TRIPLE_EXTRA_LARGE
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: red
+description_main_capital: Red
+description_main_first_letter: r
+description_main_first_letter_upper: R
+description_main_upper: RED
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'T '
+description_or_color_upper: 'T '
+directory: parts/clothes_item_swimwear_triple_extra_large_red
+distributors: []
+filter: ''
+from_yaml: false
+id: clothes_item_swimwear_triple_extra_large_red
+id_no_class: item_swimwear_triple_extra_large_red
+id_no_size: triple_extra_large_red
+id_no_type: swimwear_triple_extra_large_red
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_swimwear_triple_extra_large_red
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_swimwear_triple_extra_large_red
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_swimwear_triple_extra_large_red
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[clothes_item_swimwear_triple_extra_large_red](none)<br>[](none)<br>[Clothes
+    Item Swimwear Triple Extra Large Red](none)<br><br>'
+markdown_short: '[clothes_item_swimwear_triple_extra_large_red](none)<br><br>'
+md5: 8385b79669a38de944320d0fe4586825
+md5_10: 8385b79669
+md5_10_upper: 8385B79669
+md5_5: 8385b
+md5_5_upper: 8385B
+md5_6: 8385b7
+md5_6_alpha: 54qt3
+md5_6_alpha_upper: 54QT3
+md5_6_upper: 8385B7
+name: Clothes Item Swimwear Triple Extra Large Red
+name_no_class: Item Swimwear Triple Extra Large Red
+name_no_size: Triple Extra Large Red
+name_no_size_short: Triple Extra Large Red
+name_no_type: Swimwear Triple Extra Large Red
+oomp_key: oomp_clothes_item_swimwear_triple_extra_large_red
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: swimwear
+size_capital: Swimwear
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SWIMWEAR
+type: item
+type_capital: Item
+type_first_letter: i
+type_first_letter_upper: I
+type_upper: ITEM

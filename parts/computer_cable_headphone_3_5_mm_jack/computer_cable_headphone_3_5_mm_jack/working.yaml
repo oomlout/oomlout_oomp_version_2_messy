@@ -1,0 +1,78 @@
+classification: computer
+classification_capital: Computer
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: COMPUTER
+color: 3_5_mm_jack
+color_capital: 3.5 mm Jack
+color_first_letter: '3'
+color_first_letter_upper: '3'
+color_upper: 3_5_MM_JACK
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: '3 '
+description_or_color_upper: '3 '
+directory: parts/computer_cable_headphone_3_5_mm_jack
+distributors: []
+filter: ''
+from_yaml: false
+id: computer_cable_headphone_3_5_mm_jack
+id_no_class: cable_headphone_3_5_mm_jack
+id_no_size: 3_5_mm_jack
+id_no_type: headphone_3_5_mm_jack
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_cable_headphone_3_5_mm_jack
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_cable_headphone_3_5_mm_jack
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_cable_headphone_3_5_mm_jack
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[computer_cable_headphone_3_5_mm_jack](none)<br>[](none)<br>[Computer
+    Cable Headphone 3 5 Mm Jack](none)<br><br>'
+markdown_short: '[computer_cable_headphone_3_5_mm_jack](none)<br><br>'
+md5: dd895cb5a27c384352ff81bac3b651a3
+md5_10: dd895cb5a2
+md5_10_upper: DD895CB5A2
+md5_5: dd895
+md5_5_upper: DD895
+md5_6: dd895c
+md5_6_alpha: 8n6n0
+md5_6_alpha_upper: 8N6N0
+md5_6_upper: DD895C
+name: Computer Cable Headphone 3 5 Mm Jack
+name_no_class: Cable Headphone 3 5 Mm Jack
+name_no_size: 3 5 Mm Jack
+name_no_size_short: 3 5 Mm Jack
+name_no_type: Headphone 3 5 Mm Jack
+oomp_key: oomp_computer_cable_headphone_3_5_mm_jack
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: headphone
+size_capital: Headphone
+size_first_letter: h
+size_first_letter_upper: H
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: HEADPHONE
+type: cable
+type_capital: Cable
+type_first_letter: c
+type_first_letter_upper: C
+type_upper: CABLE

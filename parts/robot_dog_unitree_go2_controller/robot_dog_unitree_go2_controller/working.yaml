@@ -1,0 +1,78 @@
+classification: robot_dog
+classification_capital: Robot Dog
+classification_first_letter: r
+classification_first_letter_upper: R
+classification_upper: ROBOT_DOG
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: controller
+description_main_capital: Controller
+description_main_first_letter: c
+description_main_first_letter_upper: C
+description_main_upper: CONTROLLER
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/robot_dog_unitree_go2_controller
+distributors: []
+filter: ''
+from_yaml: false
+id: robot_dog_unitree_go2_controller
+id_no_class: unitree_go2_controller
+id_no_size: controller
+id_no_type: go2_controller
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/robot_dog_unitree_go2_controller
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/robot_dog_unitree_go2_controller
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/robot_dog_unitree_go2_controller
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[robot_dog_unitree_go2_controller](none)<br>[](none)<br>[Robot Dog
+    Unitree Go2 Controller](none)<br><br>'
+markdown_short: '[robot_dog_unitree_go2_controller](none)<br><br>'
+md5: e2b3548c548a99bb7ecaf5564e326452
+md5_10: e2b3548c54
+md5_10_upper: E2B3548C54
+md5_5: e2b35
+md5_5_upper: E2B35
+md5_6: e2b354
+md5_6_alpha: 8ufro
+md5_6_alpha_upper: 8UFRO
+md5_6_upper: E2B354
+name: Robot Dog Unitree Go2 Controller
+name_no_class: Unitree Go2 Controller
+name_no_size: Controller
+name_no_size_short: Controller
+name_no_type: Go2 Controller
+oomp_key: oomp_robot_dog_unitree_go2_controller
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: go2
+size_capital: Go2
+size_first_letter: g
+size_first_letter_upper: G
+size_only_numbers: '2'
+size_only_numbers_no_zeros: '2'
+size_upper: GO2
+type: unitree
+type_capital: Unitree
+type_first_letter: u
+type_first_letter_upper: U
+type_upper: UNITREE

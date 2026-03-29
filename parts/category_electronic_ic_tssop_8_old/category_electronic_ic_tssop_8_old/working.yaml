@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: tssop_8
+color_capital: Tssop 8
+color_first_letter: t
+color_first_letter_upper: T
+color_upper: TSSOP_8
+description: category_electronic
+description_extra: old
+description_extra_capital: Old
+description_extra_first_letter: o
+description_extra_first_letter_upper: O
+description_extra_upper: OLD
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'T '
+description_or_color_upper: 'T '
+directory: parts/category_electronic_ic_tssop_8_old
+distributors: []
+filter: ''
+from_yaml: false
+id: category_electronic_ic_tssop_8_old
+id_no_class: electronic_ic_tssop_8_old
+id_no_size: tssop_8_old
+id_no_type: ic_tssop_8_old
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_ic_tssop_8_old
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_ic_tssop_8_old
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_ic_tssop_8_old
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_electronic_ic_tssop_8_old](none)<br>[](none)<br>[Category
+    Electronic Ic Tssop 8 Old](none)<br><br>'
+markdown_short: '[category_electronic_ic_tssop_8_old](none)<br><br>'
+md5: dbd2a8deb86f2eb0d4ec3bcd146c0715
+md5_10: dbd2a8deb8
+md5_10_upper: DBD2A8DEB8
+md5_5: dbd2a
+md5_5_upper: DBD2A
+md5_6: dbd2a8
+md5_6_alpha: 8krzc
+md5_6_alpha_upper: 8KRZC
+md5_6_upper: DBD2A8
+name: Category Electronic Ic Tssop 8 Old
+name_no_class: Electronic Ic Tssop 8 Old
+name_no_size: Tssop 8 Old
+name_no_size_short: Tssop 8 Old
+name_no_type: Ic Tssop 8 Old
+oomp_key: oomp_category_electronic_ic_tssop_8_old
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryelectronic
+size: ic
+size_capital: Ic
+size_first_letter: i
+size_first_letter_upper: I
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: IC
+type: electronic
+type_capital: Electronic
+type_first_letter: e
+type_first_letter_upper: E
+type_upper: ELECTRONIC

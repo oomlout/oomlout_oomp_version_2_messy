@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_electrical
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_electrical_light_panel
+distributors: []
+filter: ''
+from_yaml: false
+id: category_electrical_light_panel
+id_no_class: electrical_light_panel
+id_no_size: light_panel
+id_no_type: light_panel
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electrical_light_panel
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electrical_light_panel
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electrical_light_panel
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_electrical_light_panel](none)<br>[](none)<br>[Category Electrical
+    Light Panel](none)<br><br>'
+markdown_short: '[category_electrical_light_panel](none)<br><br>'
+md5: f191c110a1e5917bcf57bbfb1be67442
+md5_10: f191c110a1
+md5_10_upper: F191C110A1
+md5_5: f191c
+md5_5_upper: F191C
+md5_6: f191c1
+md5_6_alpha: 9fbnl
+md5_6_alpha_upper: 9FBNL
+md5_6_upper: F191C1
+name: Category Electrical Light Panel
+name_no_class: Electrical Light Panel
+name_no_size: Light Panel
+name_no_size_short: Light Panel
+name_no_type: Light Panel
+oomp_key: oomp_category_electrical_light_panel
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryelectrical
+size: light_panel
+size_capital: Light Panel
+size_first_letter: l
+size_first_letter_upper: L
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: LIGHT_PANEL
+type: electrical
+type_capital: Electrical
+type_first_letter: e
+type_first_letter_upper: E
+type_upper: ELECTRICAL

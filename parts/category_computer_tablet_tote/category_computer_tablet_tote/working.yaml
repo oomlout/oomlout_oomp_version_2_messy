@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_computer_tablet
+description_extra: tote
+description_extra_capital: Tote
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TOTE
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_computer_tablet_tote
+distributors: []
+filter: ''
+from_yaml: false
+id: category_computer_tablet_tote
+id_no_class: computer_tablet_tote
+id_no_size: tote
+id_no_type: tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_tablet_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_tablet_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_tablet_tote
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_computer_tablet_tote](none)<br>[](none)<br>[Category Computer
+    Tablet Tote](none)<br><br>'
+markdown_short: '[category_computer_tablet_tote](none)<br><br>'
+md5: b05bd91a1806a7b1c9ba061f1f00c9e1
+md5_10: b05bd91a18
+md5_10_upper: B05BD91A18
+md5_5: b05bd
+md5_5_upper: B05BD
+md5_6: b05bd9
+md5_6_alpha: 6vq3d
+md5_6_alpha_upper: 6VQ3D
+md5_6_upper: B05BD9
+name: Category Computer Tablet Tote
+name_no_class: Computer Tablet Tote
+name_no_size: Tote
+name_no_size_short: Tote
+name_no_type: Tote
+oomp_key: oomp_category_computer_tablet_tote
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorycomputertablet
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: computer_tablet
+type_capital: Computer Tablet
+type_first_letter: c
+type_first_letter_upper: C
+type_upper: COMPUTER_TABLET

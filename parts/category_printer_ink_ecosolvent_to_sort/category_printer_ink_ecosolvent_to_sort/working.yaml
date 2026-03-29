@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ecosolvent
+color_capital: Ecosolvent
+color_first_letter: e
+color_first_letter_upper: E
+color_upper: ECOSOLVENT
+description: category_printer
+description_extra: to_sort
+description_extra_capital: To Sort
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TO_SORT
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'E '
+description_or_color_upper: 'E '
+directory: parts/category_printer_ink_ecosolvent_to_sort
+distributors: []
+filter: ''
+from_yaml: false
+id: category_printer_ink_ecosolvent_to_sort
+id_no_class: printer_ink_ecosolvent_to_sort
+id_no_size: ecosolvent_to_sort
+id_no_type: ink_ecosolvent_to_sort
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_printer_ink_ecosolvent_to_sort
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_printer_ink_ecosolvent_to_sort
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_printer_ink_ecosolvent_to_sort
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_printer_ink_ecosolvent_to_sort](none)<br>[](none)<br>[Category
+    Printer Ink Ecosolvent To Sort](none)<br><br>'
+markdown_short: '[category_printer_ink_ecosolvent_to_sort](none)<br><br>'
+md5: 17b1e2da1ddbfd24fee55245203706b9
+md5_10: 17b1e2da1d
+md5_10_upper: 17B1E2DA1D
+md5_5: 17b1e
+md5_5_upper: 17B1E
+md5_6: 17b1e2
+md5_6_alpha: xa76
+md5_6_alpha_upper: XA76
+md5_6_upper: 17B1E2
+name: Category Printer Ink Ecosolvent To Sort
+name_no_class: Printer Ink Ecosolvent To Sort
+name_no_size: Ecosolvent To Sort
+name_no_size_short: Ecosolvent To Sort
+name_no_type: Ink Ecosolvent To Sort
+oomp_key: oomp_category_printer_ink_ecosolvent_to_sort
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryprinter
+size: ink
+size_capital: Ink
+size_first_letter: i
+size_first_letter_upper: I
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: INK
+type: printer
+type_capital: Printer
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PRINTER

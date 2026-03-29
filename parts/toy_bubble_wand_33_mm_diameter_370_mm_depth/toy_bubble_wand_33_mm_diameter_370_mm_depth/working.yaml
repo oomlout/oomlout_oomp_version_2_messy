@@ -1,0 +1,79 @@
+classification: toy
+classification_capital: Toy
+classification_first_letter: t
+classification_first_letter_upper: T
+classification_upper: TOY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 33_mm_diameter_370_mm_depth
+description_main_capital: 33 mm Diameter 370 mm Depth
+description_main_first_letter: '3'
+description_main_first_letter_upper: '3'
+description_main_upper: 33_MM_DIAMETER_370_MM_DEPTH
+description_only_numbers: '33370'
+description_only_numbers_short: 33k
+description_or_color: 33k
+description_or_color_upper: 33K
+directory: parts/toy_bubble_wand_33_mm_diameter_370_mm_depth
+distributor_amazon: B0CLSHKHM1
+distributors: []
+id: toy_bubble_wand_33_mm_diameter_370_mm_depth
+id_no_class: bubble_wand_33_mm_diameter_370_mm_depth
+id_no_size: 33_mm_diameter_370_mm_depth
+id_no_type: wand_33_mm_diameter_370_mm_depth
+link_distributor_amazon: https://www.amazon.com/dp/B0CLSHKHM1
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_bubble_wand_33_mm_diameter_370_mm_depth
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_bubble_wand_33_mm_diameter_370_mm_depth
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_bubble_wand_33_mm_diameter_370_mm_depth
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[toy_bubble_wand_33_mm_diameter_370_mm_depth](none)<br>[](none)<br>[Toy
+    Bubble Wand 33 Mm Diameter 370 Mm Depth](none)<br><br>'
+markdown_short: '[toy_bubble_wand_33_mm_diameter_370_mm_depth](none)<br><br>'
+md5: 620be008ad945ac4e5ccbab96480c757
+md5_10: 620be008ad
+md5_10_upper: 620BE008AD
+md5_5: 620be
+md5_5_upper: 620BE
+md5_6: 620be0
+md5_6_alpha: 3tq00
+md5_6_alpha_upper: 3TQ00
+md5_6_upper: 620BE0
+name: Toy Bubble Wand 33 Mm Diameter 370 Mm Depth
+name_no_class: Bubble Wand 33 Mm Diameter 370 Mm Depth
+name_no_size: 33 Mm Diameter 370 Mm Depth
+name_no_size_short: 33 Mm Diameter 370 Mm Depth
+name_no_type: Wand 33 Mm Diameter 370 Mm Depth
+oomp_key: oomp_toy_bubble_wand_33_mm_diameter_370_mm_depth
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: wand
+size_capital: Wand
+size_first_letter: w
+size_first_letter_upper: W
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: WAND
+type: bubble
+type_capital: Bubble
+type_first_letter: b
+type_first_letter_upper: B
+type_upper: BUBBLE

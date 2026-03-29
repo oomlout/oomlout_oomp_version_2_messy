@@ -1,0 +1,78 @@
+classification: clothes
+classification_capital: Clothes
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CLOTHES
+color: double_extra_large
+color_capital: Double Extra Large
+color_first_letter: d
+color_first_letter_upper: D
+color_upper: DOUBLE_EXTRA_LARGE
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: pink
+description_main_capital: Pink
+description_main_first_letter: p
+description_main_first_letter_upper: P
+description_main_upper: PINK
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'D '
+description_or_color_upper: 'D '
+directory: parts/clothes_item_hat_double_extra_large_pink
+distributors: []
+filter: ''
+from_yaml: false
+id: clothes_item_hat_double_extra_large_pink
+id_no_class: item_hat_double_extra_large_pink
+id_no_size: double_extra_large_pink
+id_no_type: hat_double_extra_large_pink
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_hat_double_extra_large_pink
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_hat_double_extra_large_pink
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_hat_double_extra_large_pink
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[clothes_item_hat_double_extra_large_pink](none)<br>[](none)<br>[Clothes
+    Item Hat Double Extra Large Pink](none)<br><br>'
+markdown_short: '[clothes_item_hat_double_extra_large_pink](none)<br><br>'
+md5: 4eb5b24e5150dc24492ab9d5c1e7e309
+md5_10: 4eb5b24e51
+md5_10_upper: 4EB5B24E51
+md5_5: 4eb5b
+md5_5_upper: 4EB5B
+md5_6: 4eb5b2
+md5_6_alpha: 32k6q
+md5_6_alpha_upper: 32K6Q
+md5_6_upper: 4EB5B2
+name: Clothes Item Hat Double Extra Large Pink
+name_no_class: Item Hat Double Extra Large Pink
+name_no_size: Double Extra Large Pink
+name_no_size_short: Double Extra Large Pink
+name_no_type: Hat Double Extra Large Pink
+oomp_key: oomp_clothes_item_hat_double_extra_large_pink
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: hat
+size_capital: Hat
+size_first_letter: h
+size_first_letter_upper: H
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: HAT
+type: item
+type_capital: Item
+type_first_letter: i
+type_first_letter_upper: I
+type_upper: ITEM

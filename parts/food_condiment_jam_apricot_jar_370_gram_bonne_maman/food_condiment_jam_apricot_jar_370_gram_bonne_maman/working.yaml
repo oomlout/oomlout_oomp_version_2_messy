@@ -1,0 +1,79 @@
+classification: food
+classification_capital: Food
+classification_first_letter: f
+classification_first_letter_upper: F
+classification_upper: FOOD
+color: jam
+color_capital: Jam
+color_first_letter: j
+color_first_letter_upper: J
+color_upper: JAM
+description_extra: jar_370_gram
+description_extra_capital: Jar 370 Gram
+description_extra_first_letter: j
+description_extra_first_letter_upper: J
+description_extra_upper: JAR_370_GRAM
+description_main: apricot
+description_main_capital: Apricot
+description_main_first_letter: a
+description_main_first_letter_upper: A
+description_main_upper: APRICOT
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'J '
+description_or_color_upper: 'J '
+directory: parts/food_condiment_jam_apricot_jar_370_gram_bonne_maman
+distributors: []
+filter: ''
+from_yaml: false
+id: food_condiment_jam_apricot_jar_370_gram_bonne_maman
+id_no_class: condiment_jam_apricot_jar_370_gram_bonne_maman
+id_no_size: jamapricotjar370grambonnemaman
+id_no_type: jam_apricot_jar_370_gram_bonne_maman
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_condiment_jam_apricot_jar_370_gram_bonne_maman
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_condiment_jam_apricot_jar_370_gram_bonne_maman
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_condiment_jam_apricot_jar_370_gram_bonne_maman
+manufacturer: bonne_maman
+manufacturer_capital: Bonne Maman
+manufacturer_first_letter: b
+manufacturer_first_letter_upper: B
+manufacturer_upper: BONNE_MAMAN
+manufacturers: []
+markdown_full: '[food_condiment_jam_apricot_jar_370_gram_bonne_maman](none)<br>[](none)<br>[Food
+    Condiment Jam Apricot Jar 370 Gram Bonne Maman](none)<br><br>'
+markdown_short: '[food_condiment_jam_apricot_jar_370_gram_bonne_maman](none)<br><br>'
+md5: e03b1f49d6e3b42f1b2d4a138c7f55d4
+md5_10: e03b1f49d6
+md5_10_upper: E03B1F49D6
+md5_5: e03b1
+md5_5_upper: E03B1
+md5_6: e03b1f
+md5_6_alpha: 8qyvz
+md5_6_alpha_upper: 8QYVZ
+md5_6_upper: E03B1F
+name: Food Condiment Jam Apricot Jar 370 Gram Bonne Maman
+name_no_class: Condiment Jam Apricot Jar 370 Gram Bonne Maman
+name_no_size: Jamapricotjar370Grambonnemaman
+name_no_size_short: Jamapricotjar370Grambonnemaman
+name_no_type: Jam Apricot Jar 370 Gram Bonne Maman
+name_short: Apricot Jam
+oomp_key: oomp_food_condiment_jam_apricot_jar_370_gram_bonne_maman
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: condiment
+type_capital: Condiment
+type_first_letter: c
+type_first_letter_upper: C
+type_upper: CONDIMENT

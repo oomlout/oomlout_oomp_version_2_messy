@@ -1,0 +1,78 @@
+classification: tool
+classification_capital: Tool
+classification_first_letter: t
+classification_first_letter_upper: T
+classification_upper: TOOL
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/tool_vibratory_bowl_tabletop_mettler_toledo_lv11
+distributors: []
+filter: ''
+from_yaml: false
+id: tool_vibratory_bowl_tabletop_mettler_toledo_lv11
+id_no_class: vibratory_bowl_tabletop_mettler_toledo_lv11
+id_no_size: mettler_toledo_lv11
+id_no_type: tabletop_mettler_toledo_lv11
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_vibratory_bowl_tabletop_mettler_toledo_lv11
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_vibratory_bowl_tabletop_mettler_toledo_lv11
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_vibratory_bowl_tabletop_mettler_toledo_lv11
+manufacturer: mettler_toledo
+manufacturer_capital: Mettler Toledo
+manufacturer_first_letter: m
+manufacturer_first_letter_upper: M
+manufacturer_upper: METTLER_TOLEDO
+manufacturers: []
+markdown_full: '[tool_vibratory_bowl_tabletop_mettler_toledo_lv11](none)<br>[](none)<br>[Tool
+    Vibratory Bowl Tabletop Mettler Toledo Lv11](none)<br><br>'
+markdown_short: '[tool_vibratory_bowl_tabletop_mettler_toledo_lv11](none)<br><br>'
+md5: bef7f8ae33977d69d0a9efc57ebe399c
+md5_10: bef7f8ae33
+md5_10_upper: BEF7F8AE33
+md5_5: bef7f
+md5_5_upper: BEF7F
+md5_6: bef7f8
+md5_6_alpha: 7g8vs
+md5_6_alpha_upper: 7G8VS
+md5_6_upper: BEF7F8
+name: Tool Vibratory Bowl Tabletop Mettler Toledo Lv11
+name_no_class: Vibratory Bowl Tabletop Mettler Toledo Lv11
+name_no_size: Mettler Toledo Lv11
+name_no_size_short: Mettler Toledo Lv11
+name_no_type: Tabletop Mettler Toledo Lv11
+oomp_key: oomp_tool_vibratory_bowl_tabletop_mettler_toledo_lv11
+part_number: lv11
+part_number_capital: Lv11
+part_number_first_letter: l
+part_number_first_letter_upper: L
+part_number_upper: LV11
+short_code: ''
+short_code_upper: ''
+size: tabletop
+size_capital: Tabletop
+size_first_letter: t
+size_first_letter_upper: T
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: TABLETOP
+type: vibratory_bowl
+type_capital: Vibratory Bowl
+type_first_letter: v
+type_first_letter_upper: V
+type_upper: VIBRATORY_BOWL

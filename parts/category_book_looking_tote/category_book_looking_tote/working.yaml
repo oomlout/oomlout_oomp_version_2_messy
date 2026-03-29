@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_book
+description_extra: tote
+description_extra_capital: Tote
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TOTE
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_book_looking_tote
+distributors: []
+filter: ''
+from_yaml: false
+id: category_book_looking_tote
+id_no_class: book_looking_tote
+id_no_size: tote
+id_no_type: looking_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_book_looking_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_book_looking_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_book_looking_tote
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_book_looking_tote](none)<br>[](none)<br>[Category Book Looking
+    Tote](none)<br><br>'
+markdown_short: '[category_book_looking_tote](none)<br><br>'
+md5: 4d07cdd406357f80ee23bee21fb53056
+md5_10: 4d07cdd406
+md5_10_upper: 4D07CDD406
+md5_5: 4d07c
+md5_5_upper: 4D07C
+md5_6: 4d07cd
+md5_6_alpha: 3079p
+md5_6_alpha_upper: 3079P
+md5_6_upper: 4D07CD
+name: Category Book Looking Tote
+name_no_class: Book Looking Tote
+name_no_size: Tote
+name_no_size_short: Tote
+name_no_type: Looking Tote
+oomp_key: oomp_category_book_looking_tote
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorybook
+size: looking
+size_capital: Looking
+size_first_letter: l
+size_first_letter_upper: L
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: LOOKING
+type: book
+type_capital: Book
+type_first_letter: b
+type_first_letter_upper: B
+type_upper: BOOK

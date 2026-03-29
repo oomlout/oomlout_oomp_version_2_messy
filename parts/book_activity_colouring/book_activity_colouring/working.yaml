@@ -1,0 +1,77 @@
+classification: book
+classification_capital: Book
+classification_first_letter: b
+classification_first_letter_upper: B
+classification_upper: BOOK
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/book_activity_colouring
+distributors: []
+filter: ''
+from_yaml: false
+id: book_activity_colouring
+id_no_class: activity_colouring
+id_no_size: colouring
+id_no_type: colouring
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/book_activity_colouring
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/book_activity_colouring
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/book_activity_colouring
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[book_activity_colouring](none)<br>[](none)<br>[Book Activity Colouring](none)<br><br>'
+markdown_short: '[book_activity_colouring](none)<br><br>'
+md5: b430351a089f8c4b13f65212e99568fb
+md5_10: b430351a08
+md5_10_upper: B430351A08
+md5_5: b4303
+md5_5_upper: B4303
+md5_6: b43035
+md5_6_alpha: 713qt
+md5_6_alpha_upper: 713QT
+md5_6_upper: B43035
+name: Book Activity Colouring
+name_no_class: Activity Colouring
+name_no_size: Colouring
+name_no_size_short: Colouring
+name_no_type: Colouring
+oomp_key: oomp_book_activity_colouring
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: colouring
+size_capital: Colouring
+size_first_letter: c
+size_first_letter_upper: C
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: COLOURING
+type: activity
+type_capital: Activity
+type_first_letter: a
+type_first_letter_upper: A
+type_upper: ACTIVITY

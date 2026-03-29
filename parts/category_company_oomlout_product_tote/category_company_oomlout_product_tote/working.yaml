@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_company_oomlout
+description_extra: tote
+description_extra_capital: Tote
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TOTE
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_company_oomlout_product_tote
+distributors: []
+filter: ''
+from_yaml: false
+id: category_company_oomlout_product_tote
+id_no_class: company_oomlout_product_tote
+id_no_size: tote
+id_no_type: product_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_company_oomlout_product_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_company_oomlout_product_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_company_oomlout_product_tote
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_company_oomlout_product_tote](none)<br>[](none)<br>[Category
+    Company Oomlout Product Tote](none)<br><br>'
+markdown_short: '[category_company_oomlout_product_tote](none)<br><br>'
+md5: 611746fbe9de235d75baf5c743f02f9e
+md5_10: 611746fbe9
+md5_10_upper: 611746FBE9
+md5_5: '61174'
+md5_5_upper: '61174'
+md5_6: '611746'
+md5_6_alpha: 3sdom
+md5_6_alpha_upper: 3SDOM
+md5_6_upper: '611746'
+name: Category Company Oomlout Product Tote
+name_no_class: Company Oomlout Product Tote
+name_no_size: Tote
+name_no_size_short: Tote
+name_no_type: Product Tote
+oomp_key: oomp_category_company_oomlout_product_tote
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorycompanyoomlout
+size: product
+size_capital: Product
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PRODUCT
+type: company_oomlout
+type_capital: Company Oomlout
+type_first_letter: c
+type_first_letter_upper: C
+type_upper: COMPANY_OOMLOUT

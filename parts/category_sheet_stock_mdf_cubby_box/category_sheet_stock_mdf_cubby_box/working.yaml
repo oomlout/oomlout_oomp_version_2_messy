@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_sheet_stock
+description_extra: cubby_box
+description_extra_capital: Cubby Box
+description_extra_first_letter: c
+description_extra_first_letter_upper: C
+description_extra_upper: CUBBY_BOX
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_sheet_stock_mdf_cubby_box
+distributors: []
+filter: ''
+from_yaml: false
+id: category_sheet_stock_mdf_cubby_box
+id_no_class: sheet_stock_mdf_cubby_box
+id_no_size: cubby_box
+id_no_type: mdf_cubby_box
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_sheet_stock_mdf_cubby_box
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_sheet_stock_mdf_cubby_box
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_sheet_stock_mdf_cubby_box
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_sheet_stock_mdf_cubby_box](none)<br>[](none)<br>[Category
+    Sheet Stock Mdf Cubby Box](none)<br><br>'
+markdown_short: '[category_sheet_stock_mdf_cubby_box](none)<br><br>'
+md5: a2b98c96aa52ccde68a2e7058b30598a
+md5_10: a2b98c96aa
+md5_10_upper: A2B98C96AA
+md5_5: a2b98
+md5_5_upper: A2B98
+md5_6: a2b98c
+md5_6_alpha: 6ckng
+md5_6_alpha_upper: 6CKNG
+md5_6_upper: A2B98C
+name: Category Sheet Stock Mdf Cubby Box
+name_no_class: Sheet Stock Mdf Cubby Box
+name_no_size: Cubby Box
+name_no_size_short: Cubby Box
+name_no_type: Mdf Cubby Box
+oomp_key: oomp_category_sheet_stock_mdf_cubby_box
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorysheetstock
+size: mdf
+size_capital: Mdf
+size_first_letter: m
+size_first_letter_upper: M
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: MDF
+type: sheet_stock
+type_capital: Sheet Stock
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: SHEET_STOCK

@@ -1,0 +1,78 @@
+classification: clothes
+classification_capital: Clothes
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CLOTHES
+color: extra_small
+color_capital: Extra Small
+color_first_letter: e
+color_first_letter_upper: E
+color_upper: EXTRA_SMALL
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: magenta
+description_main_capital: Magenta
+description_main_first_letter: m
+description_main_first_letter_upper: M
+description_main_upper: MAGENTA
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'E '
+description_or_color_upper: 'E '
+directory: parts/clothes_item_sweater_extra_small_magenta
+distributors: []
+filter: ''
+from_yaml: false
+id: clothes_item_sweater_extra_small_magenta
+id_no_class: item_sweater_extra_small_magenta
+id_no_size: extra_small_magenta
+id_no_type: sweater_extra_small_magenta
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_sweater_extra_small_magenta
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_sweater_extra_small_magenta
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_sweater_extra_small_magenta
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[clothes_item_sweater_extra_small_magenta](none)<br>[](none)<br>[Clothes
+    Item Sweater Extra Small Magenta](none)<br><br>'
+markdown_short: '[clothes_item_sweater_extra_small_magenta](none)<br><br>'
+md5: ef499ab6414f7ece03695634d494c103
+md5_10: ef499ab641
+md5_10_upper: EF499AB641
+md5_5: ef499
+md5_5_upper: EF499
+md5_6: ef499a
+md5_6_alpha: 9c49m
+md5_6_alpha_upper: 9C49M
+md5_6_upper: EF499A
+name: Clothes Item Sweater Extra Small Magenta
+name_no_class: Item Sweater Extra Small Magenta
+name_no_size: Extra Small Magenta
+name_no_size_short: Extra Small Magenta
+name_no_type: Sweater Extra Small Magenta
+oomp_key: oomp_clothes_item_sweater_extra_small_magenta
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: sweater
+size_capital: Sweater
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SWEATER
+type: item
+type_capital: Item
+type_first_letter: i
+type_first_letter_upper: I
+type_upper: ITEM

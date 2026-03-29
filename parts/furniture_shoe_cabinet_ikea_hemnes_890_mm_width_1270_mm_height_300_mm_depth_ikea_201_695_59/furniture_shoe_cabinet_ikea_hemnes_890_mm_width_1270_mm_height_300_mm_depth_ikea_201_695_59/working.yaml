@@ -1,0 +1,84 @@
+classification: furniture
+classification_capital: Furniture
+classification_first_letter: f
+classification_first_letter_upper: F
+classification_upper: FURNITURE
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+depth: 300 mm
+description_extra: 890_mm_width_1270_mm_height_300_mm_depth
+description_extra_capital: 890 mm Width 1270 mm Height 300 mm Depth
+description_extra_first_letter: '8'
+description_extra_first_letter_upper: '8'
+description_extra_upper: 890_MM_WIDTH_1270_MM_HEIGHT_300_MM_DEPTH
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/furniture_shoe_cabinet_ikea_hemnes_890_mm_width_1270_mm_height_300_mm_depth_ikea_201_695_59
+distributors: []
+filter: ''
+from_yaml: false
+height: 1270 mm
+id: furniture_shoe_cabinet_ikea_hemnes_890_mm_width_1270_mm_height_300_mm_depth_ikea_201_695_59
+id_no_class: shoe_cabinet_ikea_hemnes_890_mm_width_1270_mm_height_300_mm_depth_ikea_201_695_59
+id_no_size: 890_mm_width_1270_mm_height_300_mm_depth_ikea_201_695_59
+id_no_type: ikea_hemnes_890_mm_width_1270_mm_height_300_mm_depth_ikea_201_695_59
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/furniture_shoe_cabinet_ikea_hemnes_890_mm_width_1270_mm_height_300_mm_depth_ikea_201_695_59
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/furniture_shoe_cabinet_ikea_hemnes_890_mm_width_1270_mm_height_300_mm_depth_ikea_201_695_59
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/furniture_shoe_cabinet_ikea_hemnes_890_mm_width_1270_mm_height_300_mm_depth_ikea_201_695_59
+manufacturer: ikea
+manufacturer_capital: Ikea
+manufacturer_first_letter: i
+manufacturer_first_letter_upper: I
+manufacturer_upper: IKEA
+manufacturers: []
+markdown_full: '[furniture_shoe_cabinet_ikea_hemnes_890_mm_width_1270_mm_height_300_mm_depth_ikea_201_695_59](none)<br>[](none)<br>[Furniture
+    Shoe Cabinet Ikea Hemnes 890 Mm Width 1270 Mm Height 300 Mm Depth Ikea 201 695
+    59](none)<br><br>'
+markdown_short: '[furniture_shoe_cabinet_ikea_hemnes_890_mm_width_1270_mm_height_300_mm_depth_ikea_201_695_59](none)<br><br>'
+md5: 5fbcb9758917441b9da645b1481b262d
+md5_10: 5fbcb97589
+md5_10_upper: 5FBCB97589
+md5_5: 5fbcb
+md5_5_upper: 5FBCB
+md5_6: 5fbcb9
+md5_6_alpha: 3qh89
+md5_6_alpha_upper: 3QH89
+md5_6_upper: 5FBCB9
+name: Furniture Shoe Cabinet Ikea Hemnes 890 Mm Width 1270 Mm Height 300 Mm Depth
+    Ikea 201 695 59
+name_no_class: Shoe Cabinet Ikea Hemnes 890 Mm Width 1270 Mm Height 300 Mm Depth Ikea
+    201 695 59
+name_no_size: 890 Mm Width 1270 Mm Height 300 Mm Depth Ikea 201 695 59
+name_no_size_short: 890 Mm Width 1270 Mm Height 300 Mm Depth Ikea 201 695 59
+name_no_type: Ikea Hemnes 890 Mm Width 1270 Mm Height 300 Mm Depth Ikea 201 695 59
+oomp_key: oomp_furniture_shoe_cabinet_ikea_hemnes_890_mm_width_1270_mm_height_300_mm_depth_ikea_201_695_59
+part_number: '201_695_59'
+part_number_capital: 201.695.59
+part_number_first_letter: '2'
+part_number_first_letter_upper: '2'
+part_number_upper: '201_695_59'
+short_code: ''
+short_code_upper: ''
+size: ikea_hemnes
+size_capital: Ikea Hemnes
+size_first_letter: i
+size_first_letter_upper: I
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: IKEA_HEMNES
+type: shoe_cabinet
+type_capital: Shoe Cabinet
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: SHOE_CABINET
+width: 890 mm

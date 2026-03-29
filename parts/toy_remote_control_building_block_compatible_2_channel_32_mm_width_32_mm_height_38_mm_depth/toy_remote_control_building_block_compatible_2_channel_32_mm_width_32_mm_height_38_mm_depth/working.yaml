@@ -1,0 +1,81 @@
+classification: toy
+classification_capital: Toy
+classification_first_letter: t
+classification_first_letter_upper: T
+classification_upper: TOY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 2_channel_32_mm_width_32_mm_height_38_mm_depth
+description_main_capital: 2 Channel 32 mm Width 32 mm Height 38 mm Depth
+description_main_first_letter: '2'
+description_main_first_letter_upper: '2'
+description_main_upper: 2_CHANNEL_32_MM_WIDTH_32_MM_HEIGHT_38_MM_DEPTH
+description_only_numbers: '2323238'
+description_only_numbers_short: 2M3
+description_or_color: 2M3
+description_or_color_upper: 2M3
+directory: parts/toy_remote_control_building_block_compatible_2_channel_32_mm_width_32_mm_height_38_mm_depth
+distributor_aliexpress: '1005003984563566'
+distributors: []
+id: toy_remote_control_building_block_compatible_2_channel_32_mm_width_32_mm_height_38_mm_depth
+id_no_class: remote_control_building_block_compatible_2_channel_32_mm_width_32_mm_height_38_mm_depth
+id_no_size: 2_channel_32_mm_width_32_mm_height_38_mm_depth
+id_no_type: building_block_compatible_2_channel_32_mm_width_32_mm_height_38_mm_depth
+link_distributor_aliexpress: https://www.aliexpress.com/item/1005003984563566.html
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_remote_control_building_block_compatible_2_channel_32_mm_width_32_mm_height_38_mm_depth
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_remote_control_building_block_compatible_2_channel_32_mm_width_32_mm_height_38_mm_depth
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_remote_control_building_block_compatible_2_channel_32_mm_width_32_mm_height_38_mm_depth
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[toy_remote_control_building_block_compatible_2_channel_32_mm_width_32_mm_height_38_mm_depth](none)<br>[](none)<br>[Toy
+    Remote Control Building Block Compatible 2 Channel 32 Mm Width 32 Mm Height 38
+    Mm Depth](none)<br><br>'
+markdown_short: '[toy_remote_control_building_block_compatible_2_channel_32_mm_width_32_mm_height_38_mm_depth](none)<br><br>'
+md5: 6b54883df9850d111925f7d93864cca5
+md5_10: 6b54883df9
+md5_10_upper: 6B54883DF9
+md5_5: 6b548
+md5_5_upper: 6B548
+md5_6: 6b5488
+md5_6_alpha: 46rgo
+md5_6_alpha_upper: 46RGO
+md5_6_upper: 6B5488
+name: Toy Remote Control Building Block Compatible 2 Channel 32 Mm Width 32 Mm Height
+    38 Mm Depth
+name_no_class: Remote Control Building Block Compatible 2 Channel 32 Mm Width 32 Mm
+    Height 38 Mm Depth
+name_no_size: 2 Channel 32 Mm Width 32 Mm Height 38 Mm Depth
+name_no_size_short: 2 Channel 32 Mm Width 32 Mm Height 38 Mm Depth
+name_no_type: Building Block Compatible 2 Channel 32 Mm Width 32 Mm Height 38 Mm Depth
+oomp_key: oomp_toy_remote_control_building_block_compatible_2_channel_32_mm_width_32_mm_height_38_mm_depth
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: building_block_compatible
+size_capital: Building Block Compatible
+size_first_letter: b
+size_first_letter_upper: B
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: BUILDING_BLOCK_COMPATIBLE
+type: remote_control
+type_capital: Remote Control
+type_first_letter: r
+type_first_letter_upper: R
+type_upper: REMOTE_CONTROL

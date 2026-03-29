@@ -1,0 +1,78 @@
+classification: warehouse
+classification_capital: Warehouse
+classification_first_letter: w
+classification_first_letter_upper: W
+classification_upper: WAREHOUSE
+color: box_cubby_short
+color_capital: Box Cubby Short
+color_first_letter: b
+color_first_letter_upper: B
+color_upper: BOX_CUBBY_SHORT
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: '225'
+description_main_capital: '225'
+description_main_first_letter: '2'
+description_main_first_letter_upper: '2'
+description_main_upper: '225'
+description_only_numbers: '225'
+description_only_numbers_short: '225'
+description_or_color: B225
+description_or_color_upper: B225
+directory: parts/warehouse_storage_container_oomlout_owner_box_cubby_short_225
+distributors: []
+id: warehouse_storage_container_oomlout_owner_box_cubby_short_225
+id_no_class: storage_container_oomlout_owner_box_cubby_short_225
+id_no_size: box_cubby_short_225
+id_no_type: oomlout_owner_box_cubby_short_225
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/warehouse_storage_container_oomlout_owner_box_cubby_short_225
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/warehouse_storage_container_oomlout_owner_box_cubby_short_225
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/warehouse_storage_container_oomlout_owner_box_cubby_short_225
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[warehouse_storage_container_oomlout_owner_box_cubby_short_225](none)<br>[](none)<br>[Warehouse
+    Storage Container Oomlout Owner Box Cubby Short 225](none)<br><br>'
+markdown_short: '[warehouse_storage_container_oomlout_owner_box_cubby_short_225](none)<br><br>'
+md5: 032f4fa4acad122ada833986beb0a1a1
+md5_10: 032f4fa4ac
+md5_10_upper: 032F4FA4AC
+md5_5: 032f4
+md5_5_upper: 032F4
+md5_6: 032f4f
+md5_6_alpha: 4h1r
+md5_6_alpha_upper: 4H1R
+md5_6_upper: 032F4F
+name: Warehouse Storage Container Oomlout Owner Box Cubby Short 225
+name_no_class: Storage Container Oomlout Owner Box Cubby Short 225
+name_no_size: Box Cubby Short 225
+name_no_size_short: Box Cubby Short 225
+name_no_type: Oomlout Owner Box Cubby Short 225
+oomp_key: oomp_warehouse_storage_container_oomlout_owner_box_cubby_short_225
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: oomlout_owner
+size_capital: Oomlout Owner
+size_first_letter: o
+size_first_letter_upper: O
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: OOMLOUT_OWNER
+type: storage_container
+type_capital: Storage Container
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: STORAGE_CONTAINER

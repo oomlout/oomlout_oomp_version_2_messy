@@ -1,0 +1,81 @@
+classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_upper: ELECTRONIC
+color: yellow
+color_capital: Yellow
+color_first_letter: y
+color_first_letter_upper: Y
+color_upper: YELLOW
+description_extra: 320_leds_per_meter
+description_extra_capital: 320 Leds Per Meter
+description_extra_first_letter: '3'
+description_extra_first_letter_upper: '3'
+description_extra_upper: 320_LEDS_PER_METER
+description_main: 2000_mm_length
+description_main_capital: 2000 mm Length
+description_main_first_letter: '2'
+description_main_first_letter_upper: '2'
+description_main_upper: 2000_MM_LENGTH
+description_only_numbers: '2000'
+description_only_numbers_short: 2k
+description_or_color: Y2k
+description_or_color_upper: Y2K
+directory: parts/electronic_led_strip_12_volt_3_mm_width_yellow_2000_mm_length_320_leds_per_meter
+distributors: []
+filter: ''
+from_yaml: false
+id: electronic_led_strip_12_volt_3_mm_width_yellow_2000_mm_length_320_leds_per_meter
+id_no_class: led_strip_12_volt_3_mm_width_yellow_2000_mm_length_320_leds_per_meter
+id_no_size: yellow_2000_mm_length_320_leds_per_meter
+id_no_type: strip_12_volt_3_mm_width_yellow_2000_mm_length_320_leds_per_meter
+link_distributor_aliexpress: https://www.aliexpress.com/item/1005007532172895.html
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_strip_12_volt_3_mm_width_yellow_2000_mm_length_320_leds_per_meter
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_strip_12_volt_3_mm_width_yellow_2000_mm_length_320_leds_per_meter
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_strip_12_volt_3_mm_width_yellow_2000_mm_length_320_leds_per_meter
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[electronic_led_strip_12_volt_3_mm_width_yellow_2000_mm_length_320_leds_per_meter](none)<br>[ly](none)<br>[Electronic
+    Led Strip 12 Volt 3 Mm Width Yellow 2000 Mm Length 320 Leds Per Meter](none)<br><br>'
+markdown_short: '[electronic_led_strip_12_volt_3_mm_width_yellow_2000_mm_length_320_leds_per_meter](none)<br><br>'
+md5: 82146ed8a2c7e2d07573205a41350ac5
+md5_10: 82146ed8a2
+md5_10_upper: 82146ED8A2
+md5_5: '82146'
+md5_5_upper: '82146'
+md5_6: 82146e
+md5_6_alpha: 52pv2
+md5_6_alpha_upper: 52PV2
+md5_6_upper: 82146E
+name: Electronic Led Strip 12 Volt 3 Mm Width Yellow 2000 Mm Length 320 Leds Per Meter
+name_no_class: Led Strip 12 Volt 3 Mm Width Yellow 2000 Mm Length 320 Leds Per Meter
+name_no_size: Yellow 2000 Mm Length 320 Leds Per Meter
+name_no_size_short: Yellow 2k Mm Length 320 Leds Per Meter
+name_no_type: Strip 12 Volt 3 Mm Width Yellow 2000 Mm Length 320 Leds Per Meter
+oomp_key: oomp_electronic_led_strip_12_volt_3_mm_width_yellow_2000_mm_length_320_leds_per_meter
+part_number: ''
+part_number_capital: ''
+part_number_distriubutor_aliexpress: '1005007532172895'
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ly
+short_code_upper: LY
+short_name: Strip 12 Volt 3 Mm Width Yellow2000 Mm Length Led
+size: strip_12_volt_3_mm_width
+size_capital: Strip 12 Volt 3 mm Width
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: '123'
+size_only_numbers_no_zeros: '123'
+size_upper: STRIP_12_VOLT_3_MM_WIDTH
+type: led
+type_capital: Led
+type_first_letter: l
+type_first_letter_upper: L
+type_upper: LED

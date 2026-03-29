@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: volcano_1_75_mm_filament
+color_capital: Volcano 1.75 mm Filament
+color_first_letter: v
+color_first_letter_upper: V
+color_upper: VOLCANO_1_75_MM_FILAMENT
+description: category_three_d_printer
+description_extra: tote
+description_extra_capital: Tote
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TOTE
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'V '
+description_or_color_upper: 'V '
+directory: parts/category_three_d_printer_nozzle_volcano_1_75_mm_filament_tote
+distributors: []
+filter: ''
+from_yaml: false
+id: category_three_d_printer_nozzle_volcano_1_75_mm_filament_tote
+id_no_class: three_d_printer_nozzle_volcano_1_75_mm_filament_tote
+id_no_size: volcano_1_75_mm_filament_tote
+id_no_type: nozzle_volcano_1_75_mm_filament_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_three_d_printer_nozzle_volcano_1_75_mm_filament_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_three_d_printer_nozzle_volcano_1_75_mm_filament_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_three_d_printer_nozzle_volcano_1_75_mm_filament_tote
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_three_d_printer_nozzle_volcano_1_75_mm_filament_tote](none)<br>[](none)<br>[Category
+    Three D Printer Nozzle Volcano 1 75 Mm Filament Tote](none)<br><br>'
+markdown_short: '[category_three_d_printer_nozzle_volcano_1_75_mm_filament_tote](none)<br><br>'
+md5: a58e531c621019ea5083ffc07e197cb3
+md5_10: a58e531c62
+md5_10_upper: A58E531C62
+md5_5: a58e5
+md5_5_upper: A58E5
+md5_6: a58e53
+md5_6_alpha: 6gjtf
+md5_6_alpha_upper: 6GJTF
+md5_6_upper: A58E53
+name: Category Three D Printer Nozzle Volcano 1 75 Mm Filament Tote
+name_no_class: Three D Printer Nozzle Volcano 1 75 Mm Filament Tote
+name_no_size: Volcano 1 75 Mm Filament Tote
+name_no_size_short: Volcano 1 75 Mm Filament Tote
+name_no_type: Nozzle Volcano 1 75 Mm Filament Tote
+oomp_key: oomp_category_three_d_printer_nozzle_volcano_1_75_mm_filament_tote
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorythreedprinter
+size: nozzle
+size_capital: Nozzle
+size_first_letter: n
+size_first_letter_upper: N
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: NOZZLE
+type: three_d_printer
+type_capital: Three D Printer
+type_first_letter: t
+type_first_letter_upper: T
+type_upper: THREE_D_PRINTER

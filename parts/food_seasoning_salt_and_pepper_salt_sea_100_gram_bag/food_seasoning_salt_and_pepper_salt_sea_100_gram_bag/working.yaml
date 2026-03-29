@@ -1,0 +1,80 @@
+classification: food
+classification_capital: Food
+classification_first_letter: f
+classification_first_letter_upper: F
+classification_upper: FOOD
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: salt sea
+description_extra: 100_gram_bag
+description_extra_capital: 100 Gram Bag
+description_extra_first_letter: '1'
+description_extra_first_letter_upper: '1'
+description_extra_upper: 100_GRAM_BAG
+description_main: salt_sea
+description_main_capital: Salt Sea
+description_main_first_letter: s
+description_main_first_letter_upper: S
+description_main_upper: SALT_SEA
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/food_seasoning_salt_and_pepper_salt_sea_100_gram_bag
+distributors: []
+filter: ''
+from_yaml: false
+id: food_seasoning_salt_and_pepper_salt_sea_100_gram_bag
+id_no_class: seasoning_salt_and_pepper_salt_sea_100_gram_bag
+id_no_size: salt_sea_100_gram_bag
+id_no_type: salt_and_pepper_salt_sea_100_gram_bag
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_salt_and_pepper_salt_sea_100_gram_bag
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_salt_and_pepper_salt_sea_100_gram_bag
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_salt_and_pepper_salt_sea_100_gram_bag
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[food_seasoning_salt_and_pepper_salt_sea_100_gram_bag](none)<br>[](none)<br>[Food
+    Seasoning Salt And Pepper Salt Sea 100 Gram Bag](none)<br><br>'
+markdown_short: '[food_seasoning_salt_and_pepper_salt_sea_100_gram_bag](none)<br><br>'
+md5: 83b392fe57d6ebcfededf7e14c3e73a8
+md5_10: 83b392fe57
+md5_10_upper: 83B392FE57
+md5_5: 83b39
+md5_5_upper: 83B39
+md5_6: 83b392
+md5_6_alpha: 54zv6
+md5_6_alpha_upper: 54ZV6
+md5_6_upper: 83B392
+name: Food Seasoning Salt And Pepper Salt Sea 100 Gram Bag
+name_no_class: Seasoning Salt And Pepper Salt Sea 100 Gram Bag
+name_no_size: Salt Sea 100 Gram Bag
+name_no_size_short: Salt Sea 100 Gram Bag
+name_no_type: Salt And Pepper Salt Sea 100 Gram Bag
+name_short: Salt Sea
+oomp_key: oomp_food_seasoning_salt_and_pepper_salt_sea_100_gram_bag
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: salt_and_pepper
+size_capital: Salt And Pepper
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SALT_AND_PEPPER
+type: seasoning
+type_capital: Seasoning
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: SEASONING

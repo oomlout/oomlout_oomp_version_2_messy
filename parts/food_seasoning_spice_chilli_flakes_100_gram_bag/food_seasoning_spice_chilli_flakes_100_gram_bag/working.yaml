@@ -1,0 +1,80 @@
+classification: food
+classification_capital: Food
+classification_first_letter: f
+classification_first_letter_upper: F
+classification_upper: FOOD
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: chilli flakes
+description_extra: 100_gram_bag
+description_extra_capital: 100 Gram Bag
+description_extra_first_letter: '1'
+description_extra_first_letter_upper: '1'
+description_extra_upper: 100_GRAM_BAG
+description_main: chilli_flakes
+description_main_capital: Chilli Flakes
+description_main_first_letter: c
+description_main_first_letter_upper: C
+description_main_upper: CHILLI_FLAKES
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/food_seasoning_spice_chilli_flakes_100_gram_bag
+distributors: []
+filter: ''
+from_yaml: false
+id: food_seasoning_spice_chilli_flakes_100_gram_bag
+id_no_class: seasoning_spice_chilli_flakes_100_gram_bag
+id_no_size: chilli_flakes_100_gram_bag
+id_no_type: spice_chilli_flakes_100_gram_bag
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_spice_chilli_flakes_100_gram_bag
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_spice_chilli_flakes_100_gram_bag
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_spice_chilli_flakes_100_gram_bag
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[food_seasoning_spice_chilli_flakes_100_gram_bag](none)<br>[](none)<br>[Food
+    Seasoning Spice Chilli Flakes 100 Gram Bag](none)<br><br>'
+markdown_short: '[food_seasoning_spice_chilli_flakes_100_gram_bag](none)<br><br>'
+md5: 35816bcc50c7e441012056d11a8c0246
+md5_10: 35816bcc50
+md5_10_upper: 35816BCC50
+md5_5: '35816'
+md5_5_upper: '35816'
+md5_6: 35816b
+md5_6_alpha: 235nv
+md5_6_alpha_upper: 235NV
+md5_6_upper: 35816B
+name: Food Seasoning Spice Chilli Flakes 100 Gram Bag
+name_no_class: Seasoning Spice Chilli Flakes 100 Gram Bag
+name_no_size: Chilli Flakes 100 Gram Bag
+name_no_size_short: Chilli Flakes 100 Gram Bag
+name_no_type: Spice Chilli Flakes 100 Gram Bag
+name_short: Chilli Flakes
+oomp_key: oomp_food_seasoning_spice_chilli_flakes_100_gram_bag
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: spice
+size_capital: Spice
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SPICE
+type: seasoning
+type_capital: Seasoning
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: SEASONING

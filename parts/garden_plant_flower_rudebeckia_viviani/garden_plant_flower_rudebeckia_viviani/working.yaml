@@ -1,0 +1,79 @@
+classification: garden
+classification_capital: Garden
+classification_first_letter: g
+classification_first_letter_upper: G
+classification_upper: GARDEN
+color: rudebeckia
+color_capital: Rudebeckia
+color_first_letter: r
+color_first_letter_upper: R
+color_upper: RUDEBECKIA
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: viviani
+description_main_capital: Viviani
+description_main_first_letter: v
+description_main_first_letter_upper: V
+description_main_upper: VIVIANI
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'R '
+description_or_color_upper: 'R '
+directory: parts/garden_plant_flower_rudebeckia_viviani
+distributor_sutton_seeds: '130260'
+distributors: []
+id: garden_plant_flower_rudebeckia_viviani
+id_no_class: plant_flower_rudebeckia_viviani
+id_no_size: rudebeckia_viviani
+id_no_type: flower_rudebeckia_viviani
+link_distributor_sutton_seeds: https://www.suttons.co.uk/flower-seeds/rudbeckia-viviani-seeds_mh11893
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/garden_plant_flower_rudebeckia_viviani
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/garden_plant_flower_rudebeckia_viviani
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/garden_plant_flower_rudebeckia_viviani
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[garden_plant_flower_rudebeckia_viviani](none)<br>[](none)<br>[Garden
+    Plant Flower Rudebeckia Viviani](none)<br><br>'
+markdown_short: '[garden_plant_flower_rudebeckia_viviani](none)<br><br>'
+md5: b65d6b24a0f264ac60d42cf1f47d2d8f
+md5_10: b65d6b24a0
+md5_10_upper: B65D6B24A0
+md5_5: b65d6
+md5_5_upper: B65D6
+md5_6: b65d6b
+md5_6_alpha: 745t7
+md5_6_alpha_upper: 745T7
+md5_6_upper: B65D6B
+name: Garden Plant Flower Rudebeckia Viviani
+name_no_class: Plant Flower Rudebeckia Viviani
+name_no_size: Rudebeckia Viviani
+name_no_size_short: Rudebeckia Viviani
+name_no_type: Flower Rudebeckia Viviani
+oomp_key: oomp_garden_plant_flower_rudebeckia_viviani
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: flower
+size_capital: Flower
+size_first_letter: f
+size_first_letter_upper: F
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: FLOWER
+type: plant
+type_capital: Plant
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PLANT

@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_tool
+description_extra: to_sort
+description_extra_capital: To Sort
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TO_SORT
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_tool_screw_driver_precision_to_sort
+distributors: []
+filter: ''
+from_yaml: false
+id: category_tool_screw_driver_precision_to_sort
+id_no_class: tool_screw_driver_precision_to_sort
+id_no_size: to_sort
+id_no_type: screw_driver_precision_to_sort
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_screw_driver_precision_to_sort
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_screw_driver_precision_to_sort
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_screw_driver_precision_to_sort
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_tool_screw_driver_precision_to_sort](none)<br>[](none)<br>[Category
+    Tool Screw Driver Precision To Sort](none)<br><br>'
+markdown_short: '[category_tool_screw_driver_precision_to_sort](none)<br><br>'
+md5: 568159f74d19e192b2648e3e36ebb348
+md5_10: 568159f74d
+md5_10_upper: 568159F74D
+md5_5: '56815'
+md5_5_upper: '56815'
+md5_6: '568159'
+md5_6_alpha: 3die1
+md5_6_alpha_upper: 3DIE1
+md5_6_upper: '568159'
+name: Category Tool Screw Driver Precision To Sort
+name_no_class: Tool Screw Driver Precision To Sort
+name_no_size: To Sort
+name_no_size_short: To Sort
+name_no_type: Screw Driver Precision To Sort
+oomp_key: oomp_category_tool_screw_driver_precision_to_sort
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorytool
+size: screw_driver_precision
+size_capital: Screw Driver Precision
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SCREW_DRIVER_PRECISION
+type: tool
+type_capital: Tool
+type_first_letter: t
+type_first_letter_upper: T
+type_upper: TOOL

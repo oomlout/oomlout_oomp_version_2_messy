@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: cob_led
+color_capital: Cob Led
+color_first_letter: c
+color_first_letter_upper: C
+color_upper: COB_LED
+description: category_flashlight
+description_extra: to_sort
+description_extra_capital: To Sort
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TO_SORT
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'C '
+description_or_color_upper: 'C '
+directory: parts/category_flashlight_cob_led_to_sort
+distributors: []
+filter: ''
+from_yaml: false
+id: category_flashlight_cob_led_to_sort
+id_no_class: flashlight_cob_led_to_sort
+id_no_size: cobledtosort
+id_no_type: cob_led_to_sort
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_flashlight_cob_led_to_sort
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_flashlight_cob_led_to_sort
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_flashlight_cob_led_to_sort
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_flashlight_cob_led_to_sort](none)<br>[](none)<br>[Category
+    Flashlight Cob Led To Sort](none)<br><br>'
+markdown_short: '[category_flashlight_cob_led_to_sort](none)<br><br>'
+md5: 669fa726f1198d45e5ff7e597ac235e5
+md5_10: 669fa726f1
+md5_10_upper: 669FA726F1
+md5_5: 669fa
+md5_5_upper: 669FA
+md5_6: 669fa7
+md5_6_alpha: 405gn
+md5_6_alpha_upper: 405GN
+md5_6_upper: 669FA7
+name: Category Flashlight Cob Led To Sort
+name_no_class: Flashlight Cob Led To Sort
+name_no_size: Cobledtosort
+name_no_size_short: Cobledtosort
+name_no_type: Cob Led To Sort
+oomp_key: oomp_category_flashlight_cob_led_to_sort
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryflashlight
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: flashlight
+type_capital: Flashlight
+type_first_letter: f
+type_first_letter_upper: F
+type_upper: FLASHLIGHT

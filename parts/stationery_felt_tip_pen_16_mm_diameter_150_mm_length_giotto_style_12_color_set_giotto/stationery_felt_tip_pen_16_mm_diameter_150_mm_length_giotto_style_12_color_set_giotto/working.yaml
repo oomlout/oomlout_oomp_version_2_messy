@@ -1,0 +1,81 @@
+classification: stationery
+classification_capital: Stationery
+classification_first_letter: s
+classification_first_letter_upper: S
+classification_upper: STATIONERY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: giotto_style_12_color_set
+description_extra_capital: Giotto Style 12 Color Set
+description_extra_first_letter: g
+description_extra_first_letter_upper: G
+description_extra_upper: GIOTTO_STYLE_12_COLOR_SET
+description_main: 16_mm_diameter_150_mm_length
+description_main_capital: 16 mm Diameter 150 mm Length
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_upper: 16_MM_DIAMETER_150_MM_LENGTH
+description_only_numbers: '16150'
+description_only_numbers_short: 16k
+description_or_color: 16k
+description_or_color_upper: 16K
+directory: parts/stationery_felt_tip_pen_16_mm_diameter_150_mm_length_giotto_style_12_color_set_giotto
+distributor_part_number_amazon: B00MPCT2RI
+distributors: []
+id: stationery_felt_tip_pen_16_mm_diameter_150_mm_length_giotto_style_12_color_set_giotto
+id_no_class: felt_tip_pen_16_mm_diameter_150_mm_length_giotto_style_12_color_set_giotto
+id_no_size: 16mmdiameter150mmlengthgiottostyle12colorsetgiotto
+id_no_type: 16_mm_diameter_150_mm_length_giotto_style_12_color_set_giotto
+link_distributor_amazon: https://www.amazon.co.uk/dp/B00MPCT2RI
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_felt_tip_pen_16_mm_diameter_150_mm_length_giotto_style_12_color_set_giotto
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_felt_tip_pen_16_mm_diameter_150_mm_length_giotto_style_12_color_set_giotto
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_felt_tip_pen_16_mm_diameter_150_mm_length_giotto_style_12_color_set_giotto
+manufacturer: giotto
+manufacturer_capital: Giotto
+manufacturer_first_letter: g
+manufacturer_first_letter_upper: G
+manufacturer_upper: GIOTTO
+manufacturers: []
+markdown_full: '[stationery_felt_tip_pen_16_mm_diameter_150_mm_length_giotto_style_12_color_set_giotto](none)<br>[](none)<br>[Stationery
+    Felt Tip Pen 16 Mm Diameter 150 Mm Length Giotto Style 12 Color Set Giotto](none)<br><br>'
+markdown_short: '[stationery_felt_tip_pen_16_mm_diameter_150_mm_length_giotto_style_12_color_set_giotto](none)<br><br>'
+md5: b0a8a6a39071fa600c319bff80959f38
+md5_10: b0a8a6a390
+md5_10_upper: B0A8A6A390
+md5_5: b0a8a
+md5_5_upper: B0A8A
+md5_6: b0a8a6
+md5_6_alpha: 6w59i
+md5_6_alpha_upper: 6W59I
+md5_6_upper: B0A8A6
+name: Stationery Felt Tip Pen 16 Mm Diameter 150 Mm Length Giotto Style 12 Color Set
+    Giotto
+name_no_class: Felt Tip Pen 16 Mm Diameter 150 Mm Length Giotto Style 12 Color Set
+    Giotto
+name_no_size: 16Mmdiameter150Mmlengthgiottostyle12Colorsetgiotto
+name_no_size_short: 16Mmdiameter150Mmlengthgiottostyle12Colorsetgiotto
+name_no_type: 16 Mm Diameter 150 Mm Length Giotto Style 12 Color Set Giotto
+oomp_key: oomp_stationery_felt_tip_pen_16_mm_diameter_150_mm_length_giotto_style_12_color_set_giotto
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: felt_tip_pen
+type_capital: Felt Tip Pen
+type_first_letter: f
+type_first_letter_upper: F
+type_upper: FELT_TIP_PEN

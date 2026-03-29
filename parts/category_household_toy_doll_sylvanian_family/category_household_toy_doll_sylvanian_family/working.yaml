@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_household_toy
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_household_toy_doll_sylvanian_family
+distributors: []
+filter: ''
+from_yaml: false
+id: category_household_toy_doll_sylvanian_family
+id_no_class: household_toy_doll_sylvanian_family
+id_no_size: doll_sylvanian_family
+id_no_type: doll_sylvanian_family
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_toy_doll_sylvanian_family
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_toy_doll_sylvanian_family
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_toy_doll_sylvanian_family
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_household_toy_doll_sylvanian_family](none)<br>[](none)<br>[Category
+    Household Toy Doll Sylvanian Family](none)<br><br>'
+markdown_short: '[category_household_toy_doll_sylvanian_family](none)<br><br>'
+md5: a3eb2624244d363676f6665f6a8c5dca
+md5_10: a3eb262424
+md5_10_upper: A3EB262424
+md5_5: a3eb2
+md5_5_upper: A3EB2
+md5_6: a3eb26
+md5_6_alpha: 6e90m
+md5_6_alpha_upper: 6E90M
+md5_6_upper: A3EB26
+name: Category Household Toy Doll Sylvanian Family
+name_no_class: Household Toy Doll Sylvanian Family
+name_no_size: Doll Sylvanian Family
+name_no_size_short: Doll Sylvanian Family
+name_no_type: Doll Sylvanian Family
+oomp_key: oomp_category_household_toy_doll_sylvanian_family
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryhouseholdtoy
+size: doll_sylvanian_family
+size_capital: Doll Sylvanian Family
+size_first_letter: d
+size_first_letter_upper: D
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: DOLL_SYLVANIAN_FAMILY
+type: household_toy
+type_capital: Household Toy
+type_first_letter: h
+type_first_letter_upper: H
+type_upper: HOUSEHOLD_TOY

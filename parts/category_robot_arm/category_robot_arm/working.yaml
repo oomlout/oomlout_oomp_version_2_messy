@@ -1,0 +1,80 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_robot_arm
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_robot_arm
+distributors: []
+filter: ''
+from_yaml: false
+id: category_robot_arm
+id_no_class: robot_arm
+id_no_size: robotarm
+id_no_type: robot_arm
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_robot_arm
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_robot_arm
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_robot_arm
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_robot_arm](none)<br>[](none)<br>[Category Robot Arm](none)<br><br>'
+markdown_short: '[category_robot_arm](none)<br><br>'
+md5: 582b24d1d1059f21cfa45c639f00b8cc
+md5_10: 582b24d1d1
+md5_10_upper: 582B24D1D1
+md5_5: 582b2
+md5_5_upper: 582B2
+md5_6: 582b24
+md5_6_alpha: 3fuhw
+md5_6_alpha_upper: 3FUHW
+md5_6_upper: 582B24
+name: Category Robot Arm
+name_no_class: Robot Arm
+name_no_size: Robotarm
+name_no_size_short: Robotarm
+name_no_type: Robot Arm
+oomp_key: oomp_category_robot_arm
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryrobotarm
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: robot_arm
+type_capital: Robot Arm
+type_first_letter: r
+type_first_letter_upper: R
+type_upper: ROBOT_ARM

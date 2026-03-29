@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ikea_havsta
+color_capital: Ikea Havsta
+color_first_letter: i
+color_first_letter_upper: I
+color_upper: IKEA_HAVSTA
+description: category_furniture
+description_extra: tote
+description_extra_capital: Tote
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TOTE
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'I '
+description_or_color_upper: 'I '
+directory: parts/category_furniture_cabinet_ikea_havsta_tote
+distributors: []
+filter: ''
+from_yaml: false
+id: category_furniture_cabinet_ikea_havsta_tote
+id_no_class: furniture_cabinet_ikea_havsta_tote
+id_no_size: ikea_havsta_tote
+id_no_type: cabinet_ikea_havsta_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_furniture_cabinet_ikea_havsta_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_furniture_cabinet_ikea_havsta_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_furniture_cabinet_ikea_havsta_tote
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_furniture_cabinet_ikea_havsta_tote](none)<br>[](none)<br>[Category
+    Furniture Cabinet Ikea Havsta Tote](none)<br><br>'
+markdown_short: '[category_furniture_cabinet_ikea_havsta_tote](none)<br><br>'
+md5: c074f1dc6214b74dcf99aeeceb0ac903
+md5_10: c074f1dc62
+md5_10_upper: C074F1DC62
+md5_5: c074f
+md5_5_upper: C074F
+md5_6: c074f1
+md5_6_alpha: 7ic4x
+md5_6_alpha_upper: 7IC4X
+md5_6_upper: C074F1
+name: Category Furniture Cabinet Ikea Havsta Tote
+name_no_class: Furniture Cabinet Ikea Havsta Tote
+name_no_size: Ikea Havsta Tote
+name_no_size_short: Ikea Havsta Tote
+name_no_type: Cabinet Ikea Havsta Tote
+oomp_key: oomp_category_furniture_cabinet_ikea_havsta_tote
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryfurniture
+size: cabinet
+size_capital: Cabinet
+size_first_letter: c
+size_first_letter_upper: C
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: CABINET
+type: furniture
+type_capital: Furniture
+type_first_letter: f
+type_first_letter_upper: F
+type_upper: FURNITURE

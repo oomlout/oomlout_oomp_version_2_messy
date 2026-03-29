@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: camera_and_speaker
+color_capital: Camera And Speaker
+color_first_letter: c
+color_first_letter_upper: C
+color_upper: CAMERA_AND_SPEAKER
+description: category_computer
+description_extra: cubby_box
+description_extra_capital: Cubby Box
+description_extra_first_letter: c
+description_extra_first_letter_upper: C
+description_extra_upper: CUBBY_BOX
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'C '
+description_or_color_upper: 'C '
+directory: parts/category_computer_video_conferencing_camera_and_speaker_cubby_box
+distributors: []
+filter: ''
+from_yaml: false
+id: category_computer_video_conferencing_camera_and_speaker_cubby_box
+id_no_class: computer_video_conferencing_camera_and_speaker_cubby_box
+id_no_size: camera_and_speaker_cubby_box
+id_no_type: video_conferencing_camera_and_speaker_cubby_box
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_video_conferencing_camera_and_speaker_cubby_box
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_video_conferencing_camera_and_speaker_cubby_box
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_video_conferencing_camera_and_speaker_cubby_box
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_computer_video_conferencing_camera_and_speaker_cubby_box](none)<br>[](none)<br>[Category
+    Computer Video Conferencing Camera And Speaker Cubby Box](none)<br><br>'
+markdown_short: '[category_computer_video_conferencing_camera_and_speaker_cubby_box](none)<br><br>'
+md5: 1c83f60e226ccf98c6aa4fbf8035c59a
+md5_10: 1c83f60e22
+md5_10_upper: 1C83F60E22
+md5_5: 1c83f
+md5_5_upper: 1C83F
+md5_6: 1c83f6
+md5_6_alpha: 141yu
+md5_6_alpha_upper: 141YU
+md5_6_upper: 1C83F6
+name: Category Computer Video Conferencing Camera And Speaker Cubby Box
+name_no_class: Computer Video Conferencing Camera And Speaker Cubby Box
+name_no_size: Camera And Speaker Cubby Box
+name_no_size_short: Camera And Speaker Cubby Box
+name_no_type: Video Conferencing Camera And Speaker Cubby Box
+oomp_key: oomp_category_computer_video_conferencing_camera_and_speaker_cubby_box
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorycomputer
+size: video_conferencing
+size_capital: Video Conferencing
+size_first_letter: v
+size_first_letter_upper: V
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: VIDEO_CONFERENCING
+type: computer
+type_capital: Computer
+type_first_letter: c
+type_first_letter_upper: C
+type_upper: COMPUTER

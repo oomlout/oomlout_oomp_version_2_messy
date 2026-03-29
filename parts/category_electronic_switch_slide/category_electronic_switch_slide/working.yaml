@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_electronic
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_electronic_switch_slide
+distributors: []
+filter: ''
+from_yaml: false
+id: category_electronic_switch_slide
+id_no_class: electronic_switch_slide
+id_no_size: switch_slide
+id_no_type: switch_slide
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_switch_slide
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_switch_slide
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_switch_slide
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_electronic_switch_slide](none)<br>[](none)<br>[Category
+    Electronic Switch Slide](none)<br><br>'
+markdown_short: '[category_electronic_switch_slide](none)<br><br>'
+md5: 886422e63011b3fa38b30b8fd9ac126f
+md5_10: 886422e630
+md5_10_upper: 886422E630
+md5_5: '88642'
+md5_5_upper: '88642'
+md5_6: '886422'
+md5_6_alpha: 5bl0i
+md5_6_alpha_upper: 5BL0I
+md5_6_upper: '886422'
+name: Category Electronic Switch Slide
+name_no_class: Electronic Switch Slide
+name_no_size: Switch Slide
+name_no_size_short: Switch Slide
+name_no_type: Switch Slide
+oomp_key: oomp_category_electronic_switch_slide
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryelectronic
+size: switch_slide
+size_capital: Switch Slide
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SWITCH_SLIDE
+type: electronic
+type_capital: Electronic
+type_first_letter: e
+type_first_letter_upper: E
+type_upper: ELECTRONIC

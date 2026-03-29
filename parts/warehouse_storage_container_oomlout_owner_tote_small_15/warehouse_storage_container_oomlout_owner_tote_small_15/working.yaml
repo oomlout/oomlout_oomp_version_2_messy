@@ -1,0 +1,78 @@
+classification: warehouse
+classification_capital: Warehouse
+classification_first_letter: w
+classification_first_letter_upper: W
+classification_upper: WAREHOUSE
+color: tote_small
+color_capital: Tote Small
+color_first_letter: t
+color_first_letter_upper: T
+color_upper: TOTE_SMALL
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: '15'
+description_main_capital: '15'
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_upper: '15'
+description_only_numbers: '15'
+description_only_numbers_short: '15'
+description_or_color: T15
+description_or_color_upper: T15
+directory: parts/warehouse_storage_container_oomlout_owner_tote_small_15
+distributors: []
+id: warehouse_storage_container_oomlout_owner_tote_small_15
+id_no_class: storage_container_oomlout_owner_tote_small_15
+id_no_size: tote_small_15
+id_no_type: oomlout_owner_tote_small_15
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/warehouse_storage_container_oomlout_owner_tote_small_15
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/warehouse_storage_container_oomlout_owner_tote_small_15
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/warehouse_storage_container_oomlout_owner_tote_small_15
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[warehouse_storage_container_oomlout_owner_tote_small_15](none)<br>[](none)<br>[Warehouse
+    Storage Container Oomlout Owner Tote Small 15](none)<br><br>'
+markdown_short: '[warehouse_storage_container_oomlout_owner_tote_small_15](none)<br><br>'
+md5: 9fb17ed6e27eaffe99066b077f34e1ca
+md5_10: 9fb17ed6e2
+md5_10_upper: 9FB17ED6E2
+md5_5: 9fb17
+md5_5_upper: 9FB17
+md5_6: 9fb17e
+md5_6_alpha: 68bcu
+md5_6_alpha_upper: 68BCU
+md5_6_upper: 9FB17E
+name: Warehouse Storage Container Oomlout Owner Tote Small 15
+name_no_class: Storage Container Oomlout Owner Tote Small 15
+name_no_size: Tote Small 15
+name_no_size_short: Tote Small 15
+name_no_type: Oomlout Owner Tote Small 15
+oomp_key: oomp_warehouse_storage_container_oomlout_owner_tote_small_15
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: oomlout_owner
+size_capital: Oomlout Owner
+size_first_letter: o
+size_first_letter_upper: O
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: OOMLOUT_OWNER
+type: storage_container
+type_capital: Storage Container
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: STORAGE_CONTAINER

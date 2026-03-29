@@ -1,0 +1,78 @@
+classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_upper: ELECTRONIC
+color: red
+color_capital: Red
+color_first_letter: r
+color_first_letter_upper: R
+color_upper: RED
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 15_mm_length
+description_main_capital: 15 mm Length
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_upper: 15_MM_LENGTH
+description_only_numbers: '15'
+description_only_numbers_short: '15'
+description_or_color: R15
+description_or_color_upper: R15
+directory: parts/electronic_heatshrink_2_to_1_shrink_ratio_1_6_mm_internal_diameter_red_15_mm_length
+distributors: []
+id: electronic_heatshrink_2_to_1_shrink_ratio_1_6_mm_internal_diameter_red_15_mm_length
+id_no_class: heatshrink_2_to_1_shrink_ratio_1_6_mm_internal_diameter_red_15_mm_length
+id_no_size: red_15_mm_length
+id_no_type: 1_6_mm_internal_diameter_red_15_mm_length
+kicad_reference: ''
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_1_6_mm_internal_diameter_red_15_mm_length
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_1_6_mm_internal_diameter_red_15_mm_length
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_1_6_mm_internal_diameter_red_15_mm_length
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[electronic_heatshrink_2_to_1_shrink_ratio_1_6_mm_internal_diameter_red_15_mm_length](none)<br>[r15](none)<br>[Electronic
+    Heatshrink 2 To 1 Shrink Ratio 1 6 Mm Internal Diameter Red 15 Mm Length](none)<br><br>'
+markdown_short: '[electronic_heatshrink_2_to_1_shrink_ratio_1_6_mm_internal_diameter_red_15_mm_length](none)<br><br>'
+md5: bd2cbfe2cb53a739f1c1c2ed988e268c
+md5_10: bd2cbfe2cb
+md5_10_upper: BD2CBFE2CB
+md5_5: bd2cb
+md5_5_upper: BD2CB
+md5_6: bd2cbf
+md5_6_alpha: 7dq67
+md5_6_alpha_upper: 7DQ67
+md5_6_upper: BD2CBF
+name: Electronic Heatshrink 2 To 1 Shrink Ratio 1 6 Mm Internal Diameter Red 15 Mm
+    Length
+name_no_class: Heatshrink 2 To 1 Shrink Ratio 1 6 Mm Internal Diameter Red 15 Mm Length
+name_no_size: Red 15 Mm Length
+name_no_size_short: Red 15 Mm Length
+name_no_type: 1 6 Mm Internal Diameter Red 15 Mm Length
+oomp_key: oomp_electronic_heatshrink_2_to_1_shrink_ratio_1_6_mm_internal_diameter_red_15_mm_length
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: r15
+short_code_upper: R15
+size: 1_6_mm_internal_diameter
+size_capital: 1.6 mm Internal Diameter
+size_first_letter: '1'
+size_first_letter_upper: '1'
+size_only_numbers: '16'
+size_only_numbers_no_zeros: '16'
+size_upper: 1_6_MM_INTERNAL_DIAMETER
+type: heatshrink_2_to_1_shrink_ratio
+type_capital: Heatshrink 2 To 1 Shrink Ratio
+type_first_letter: h
+type_first_letter_upper: H
+type_upper: HEATSHRINK_2_TO_1_SHRINK_RATIO

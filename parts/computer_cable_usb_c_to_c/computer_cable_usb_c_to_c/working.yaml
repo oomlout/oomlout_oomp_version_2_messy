@@ -1,0 +1,78 @@
+classification: computer
+classification_capital: Computer
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: COMPUTER
+color: c_to_c
+color_capital: C To C
+color_first_letter: c
+color_first_letter_upper: C
+color_upper: C_TO_C
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'C '
+description_or_color_upper: 'C '
+directory: parts/computer_cable_usb_c_to_c
+distributors: []
+filter: ''
+from_yaml: false
+id: computer_cable_usb_c_to_c
+id_no_class: cable_usb_c_to_c
+id_no_size: c_to_c
+id_no_type: usb_c_to_c
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_cable_usb_c_to_c
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_cable_usb_c_to_c
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_cable_usb_c_to_c
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[computer_cable_usb_c_to_c](none)<br>[](none)<br>[Computer Cable Usb
+    C To C](none)<br><br>'
+markdown_short: '[computer_cable_usb_c_to_c](none)<br><br>'
+md5: 0be7764377926eab286f3f042e77283d
+md5_10: 0be7764377
+md5_10_upper: 0BE7764377
+md5_5: 0be77
+md5_5_upper: 0BE77
+md5_6: 0be776
+md5_6_alpha: gpyu
+md5_6_alpha_upper: GPYU
+md5_6_upper: 0BE776
+name: Computer Cable Usb C To C
+name_no_class: Cable Usb C To C
+name_no_size: C To C
+name_no_size_short: C To C
+name_no_type: Usb C To C
+oomp_key: oomp_computer_cable_usb_c_to_c
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: usb
+size_capital: Usb
+size_first_letter: u
+size_first_letter_upper: U
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: USB
+type: cable
+type_capital: Cable
+type_first_letter: c
+type_first_letter_upper: C
+type_upper: CABLE

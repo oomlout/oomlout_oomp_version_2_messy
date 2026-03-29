@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: t_shirt
+color_capital: T Shirt
+color_first_letter: t
+color_first_letter_upper: T
+color_upper: T_SHIRT
+description: category_clothes
+description_extra: tote
+description_extra_capital: Tote
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TOTE
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'T '
+description_or_color_upper: 'T '
+directory: parts/category_clothes_item_t_shirt_tote
+distributors: []
+filter: ''
+from_yaml: false
+id: category_clothes_item_t_shirt_tote
+id_no_class: clothes_item_t_shirt_tote
+id_no_size: t_shirt_tote
+id_no_type: item_t_shirt_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_clothes_item_t_shirt_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_clothes_item_t_shirt_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_clothes_item_t_shirt_tote
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_clothes_item_t_shirt_tote](none)<br>[](none)<br>[Category
+    Clothes Item T Shirt Tote](none)<br><br>'
+markdown_short: '[category_clothes_item_t_shirt_tote](none)<br><br>'
+md5: d8f3efc0fc75f8785f31e506520f5c80
+md5_10: d8f3efc0fc
+md5_10_upper: D8F3EFC0FC
+md5_5: d8f3e
+md5_5_upper: D8F3E
+md5_6: d8f3ef
+md5_6_alpha: 8gqun
+md5_6_alpha_upper: 8GQUN
+md5_6_upper: D8F3EF
+name: Category Clothes Item T Shirt Tote
+name_no_class: Clothes Item T Shirt Tote
+name_no_size: T Shirt Tote
+name_no_size_short: T Shirt Tote
+name_no_type: Item T Shirt Tote
+oomp_key: oomp_category_clothes_item_t_shirt_tote
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryclothes
+size: item
+size_capital: Item
+size_first_letter: i
+size_first_letter_upper: I
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ITEM
+type: clothes
+type_capital: Clothes
+type_first_letter: c
+type_first_letter_upper: C
+type_upper: CLOTHES

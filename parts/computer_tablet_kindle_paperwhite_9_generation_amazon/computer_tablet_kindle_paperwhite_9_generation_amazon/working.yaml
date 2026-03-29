@@ -1,0 +1,76 @@
+classification: computer_tablet
+classification_capital: Computer Tablet
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: COMPUTER_TABLET
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 9_generation
+description_main_capital: 9 Generation
+description_main_first_letter: '9'
+description_main_first_letter_upper: '9'
+description_main_upper: 9_GENERATION
+description_only_numbers: '9'
+description_only_numbers_short: '9'
+description_or_color: '9'
+description_or_color_upper: '9'
+directory: parts/computer_tablet_kindle_paperwhite_9_generation_amazon
+distributors: []
+id: computer_tablet_kindle_paperwhite_9_generation_amazon
+id_no_class: kindle_paperwhite_9_generation_amazon
+id_no_size: 9generationamazon
+id_no_type: 9_generation_amazon
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_tablet_kindle_paperwhite_9_generation_amazon
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_tablet_kindle_paperwhite_9_generation_amazon
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_tablet_kindle_paperwhite_9_generation_amazon
+manufacturer: amazon
+manufacturer_capital: Amazon
+manufacturer_first_letter: a
+manufacturer_first_letter_upper: A
+manufacturer_upper: AMAZON
+manufacturers: []
+markdown_full: '[computer_tablet_kindle_paperwhite_9_generation_amazon](none)<br>[](none)<br>[Computer
+    Tablet Kindle Paperwhite 9 Generation Amazon](none)<br><br>'
+markdown_short: '[computer_tablet_kindle_paperwhite_9_generation_amazon](none)<br><br>'
+md5: 0822a672d5922489b3414e1c88fbb59f
+md5_10: 0822a672d5
+md5_10_upper: 0822A672D5
+md5_5: 0822a
+md5_5_upper: 0822A
+md5_6: 0822a6
+md5_6_alpha: bfdy
+md5_6_alpha_upper: BFDY
+md5_6_upper: 0822A6
+name: Computer Tablet Kindle Paperwhite 9 Generation Amazon
+name_no_class: Kindle Paperwhite 9 Generation Amazon
+name_no_size: 9Generationamazon
+name_no_size_short: 9Generationamazon
+name_no_type: 9 Generation Amazon
+oomp_key: oomp_computer_tablet_kindle_paperwhite_9_generation_amazon
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: kindle_paperwhite
+type_capital: Kindle Paperwhite
+type_first_letter: k
+type_first_letter_upper: K
+type_upper: KINDLE_PAPERWHITE

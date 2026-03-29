@@ -1,0 +1,80 @@
+classification: food
+classification_capital: Food
+classification_first_letter: f
+classification_first_letter_upper: F
+classification_upper: FOOD
+color: kernels
+color_capital: Kernels
+color_first_letter: k
+color_first_letter_upper: K
+color_upper: KERNELS
+description: popcorn_kernels
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'K '
+description_or_color_upper: 'K '
+directory: parts/food_starch_popcorn_kernels
+distributors: []
+filter: ''
+from_yaml: false
+id: food_starch_popcorn_kernels
+id_no_class: starch_popcorn_kernels
+id_no_size: kernels
+id_no_type: popcorn_kernels
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_popcorn_kernels
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_popcorn_kernels
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_popcorn_kernels
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[food_starch_popcorn_kernels](none)<br>[](none)<br>[Food Starch Popcorn
+    Kernels](none)<br><br>'
+markdown_short: '[food_starch_popcorn_kernels](none)<br><br>'
+md5: 3b19e7b3bfd995264af767d8ea87b7bc
+md5_10: 3b19e7b3bf
+md5_10_upper: 3B19E7B3BF
+md5_5: 3b19e
+md5_5_upper: 3B19E
+md5_6: 3b19e7
+md5_6_alpha: 2b0mf
+md5_6_alpha_upper: 2B0MF
+md5_6_upper: 3B19E7
+name: Food Starch Popcorn Kernels
+name_no_class: Starch Popcorn Kernels
+name_no_size: Kernels
+name_no_size_short: Kernels
+name_no_type: Popcorn Kernels
+name_short: Popcorn Kernels
+oomp_key: oomp_food_starch_popcorn_kernels
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: popcorn
+size_capital: Popcorn
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: POPCORN
+type: starch
+type_capital: Starch
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: STARCH

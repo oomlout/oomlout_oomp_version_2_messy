@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_mechanical
+description_extra: old
+description_extra_capital: Old
+description_extra_first_letter: o
+description_extra_first_letter_upper: O
+description_extra_upper: OLD
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_mechanical_motor_old
+distributors: []
+filter: ''
+from_yaml: false
+id: category_mechanical_motor_old
+id_no_class: mechanical_motor_old
+id_no_size: old
+id_no_type: motor_old
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_motor_old
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_motor_old
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_motor_old
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_mechanical_motor_old](none)<br>[](none)<br>[Category Mechanical
+    Motor Old](none)<br><br>'
+markdown_short: '[category_mechanical_motor_old](none)<br><br>'
+md5: 46ec5e858f993c641a6838831ae4e544
+md5_10: 46ec5e858f
+md5_10_upper: 46EC5E858F
+md5_5: 46ec5
+md5_5_upper: 46EC5
+md5_6: 46ec5e
+md5_6_alpha: 2rmfy
+md5_6_alpha_upper: 2RMFY
+md5_6_upper: 46EC5E
+name: Category Mechanical Motor Old
+name_no_class: Mechanical Motor Old
+name_no_size: Old
+name_no_size_short: Old
+name_no_type: Motor Old
+oomp_key: oomp_category_mechanical_motor_old
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorymechanical
+size: motor
+size_capital: Motor
+size_first_letter: m
+size_first_letter_upper: M
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: MOTOR
+type: mechanical
+type_capital: Mechanical
+type_first_letter: m
+type_first_letter_upper: M
+type_upper: MECHANICAL

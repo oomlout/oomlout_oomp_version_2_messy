@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_video_game_console
+description_extra: to_sort
+description_extra_capital: To Sort
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TO_SORT
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_video_game_console_playstation_to_sort
+distributors: []
+filter: ''
+from_yaml: false
+id: category_video_game_console_playstation_to_sort
+id_no_class: video_game_console_playstation_to_sort
+id_no_size: to_sort
+id_no_type: playstation_to_sort
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_video_game_console_playstation_to_sort
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_video_game_console_playstation_to_sort
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_video_game_console_playstation_to_sort
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_video_game_console_playstation_to_sort](none)<br>[](none)<br>[Category
+    Video Game Console Playstation To Sort](none)<br><br>'
+markdown_short: '[category_video_game_console_playstation_to_sort](none)<br><br>'
+md5: f5d81ff2203b1827e32e0396059634da
+md5_10: f5d81ff220
+md5_10_upper: F5D81FF220
+md5_5: f5d81
+md5_5_upper: F5D81
+md5_6: f5d81f
+md5_6_alpha: 9lbtr
+md5_6_alpha_upper: 9LBTR
+md5_6_upper: F5D81F
+name: Category Video Game Console Playstation To Sort
+name_no_class: Video Game Console Playstation To Sort
+name_no_size: To Sort
+name_no_size_short: To Sort
+name_no_type: Playstation To Sort
+oomp_key: oomp_category_video_game_console_playstation_to_sort
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryvideogameconsole
+size: playstation
+size_capital: Playstation
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PLAYSTATION
+type: video_game_console
+type_capital: Video Game Console
+type_first_letter: v
+type_first_letter_upper: V
+type_upper: VIDEO_GAME_CONSOLE

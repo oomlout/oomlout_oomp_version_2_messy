@@ -1,0 +1,81 @@
+classification: hardware
+classification_capital: Hardware
+classification_first_letter: h
+classification_first_letter_upper: H
+classification_upper: HARDWARE
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: plastic
+description_main_capital: Plastic
+description_main_first_letter: p
+description_main_first_letter_upper: P
+description_main_upper: PLASTIC
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/hardware_shelf_support_peg_5_mm_plastic
+distributor_amazon: B0CC1YRZP6
+distributors: []
+filter: ''
+from_yaml: false
+id: hardware_shelf_support_peg_5_mm_plastic
+id_no_class: shelf_support_peg_5_mm_plastic
+id_no_size: plastic
+id_no_type: 5_mm_plastic
+link_distributor_amazon: https://www.amazon.co.uk/dp/B0CC1YRZP6
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_shelf_support_peg_5_mm_plastic
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_shelf_support_peg_5_mm_plastic
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_shelf_support_peg_5_mm_plastic
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[hardware_shelf_support_peg_5_mm_plastic](none)<br>[5](none)<br>[Hardware
+    Shelf Support Peg 5 Mm Plastic](none)<br><br>'
+markdown_short: '[hardware_shelf_support_peg_5_mm_plastic](none)<br><br>'
+md5: 97df0a26c528af6b26667ebac441bc34
+md5_10: 97df0a26c5
+md5_10_upper: 97DF0A26C5
+md5_5: 97df0
+md5_5_upper: 97DF0
+md5_6: 97df0a
+md5_6_alpha: 5xbt6
+md5_6_alpha_upper: 5XBT6
+md5_6_upper: 97DF0A
+name: Hardware Shelf Support Peg 5 Mm Plastic
+name_no_class: Shelf Support Peg 5 Mm Plastic
+name_no_size: Plastic
+name_no_size_short: Plastic
+name_no_type: 5 Mm Plastic
+oomp_key: oomp_hardware_shelf_support_peg_5_mm_plastic
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+price_1_distributor_amazon: 0.29125000000000006
+short_code: '5'
+short_code_upper: '5'
+size: 5_mm
+size_capital: 5 mm
+size_first_letter: '5'
+size_first_letter_upper: '5'
+size_only_numbers: '5'
+size_only_numbers_no_zeros: '5'
+size_upper: 5_MM
+type: shelf_support_peg
+type_capital: Shelf Support Peg
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: SHELF_SUPPORT_PEG

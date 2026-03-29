@@ -1,0 +1,78 @@
+classification: clothes
+classification_capital: Clothes
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CLOTHES
+color: double_extra_large
+color_capital: Double Extra Large
+color_first_letter: d
+color_first_letter_upper: D
+color_upper: DOUBLE_EXTRA_LARGE
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: blue
+description_main_capital: Blue
+description_main_first_letter: b
+description_main_first_letter_upper: B
+description_main_upper: BLUE
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'D '
+description_or_color_upper: 'D '
+directory: parts/clothes_item_scarf_double_extra_large_blue
+distributors: []
+filter: ''
+from_yaml: false
+id: clothes_item_scarf_double_extra_large_blue
+id_no_class: item_scarf_double_extra_large_blue
+id_no_size: double_extra_large_blue
+id_no_type: scarf_double_extra_large_blue
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_scarf_double_extra_large_blue
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_scarf_double_extra_large_blue
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_scarf_double_extra_large_blue
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[clothes_item_scarf_double_extra_large_blue](none)<br>[](none)<br>[Clothes
+    Item Scarf Double Extra Large Blue](none)<br><br>'
+markdown_short: '[clothes_item_scarf_double_extra_large_blue](none)<br><br>'
+md5: 1186767d605d38a9190d436d10872fbf
+md5_10: 1186767d60
+md5_10_upper: 1186767D60
+md5_5: '11867'
+md5_5_upper: '11867'
+md5_6: '118676'
+md5_6_alpha: om7q
+md5_6_alpha_upper: OM7Q
+md5_6_upper: '118676'
+name: Clothes Item Scarf Double Extra Large Blue
+name_no_class: Item Scarf Double Extra Large Blue
+name_no_size: Double Extra Large Blue
+name_no_size_short: Double Extra Large Blue
+name_no_type: Scarf Double Extra Large Blue
+oomp_key: oomp_clothes_item_scarf_double_extra_large_blue
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: scarf
+size_capital: Scarf
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SCARF
+type: item
+type_capital: Item
+type_first_letter: i
+type_first_letter_upper: I
+type_upper: ITEM

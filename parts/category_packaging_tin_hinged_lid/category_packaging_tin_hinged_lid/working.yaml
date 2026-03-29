@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_packaging
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_packaging_tin_hinged_lid
+distributors: []
+filter: ''
+from_yaml: false
+id: category_packaging_tin_hinged_lid
+id_no_class: packaging_tin_hinged_lid
+id_no_size: tin_hinged_lid
+id_no_type: tin_hinged_lid
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_packaging_tin_hinged_lid
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_packaging_tin_hinged_lid
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_packaging_tin_hinged_lid
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_packaging_tin_hinged_lid](none)<br>[](none)<br>[Category
+    Packaging Tin Hinged Lid](none)<br><br>'
+markdown_short: '[category_packaging_tin_hinged_lid](none)<br><br>'
+md5: c0610e78b0b21b9b0e0f1bdcf785860e
+md5_10: c0610e78b0
+md5_10_upper: C0610E78B0
+md5_5: c0610
+md5_5_upper: C0610
+md5_6: c0610e
+md5_6_alpha: 7i87i
+md5_6_alpha_upper: 7I87I
+md5_6_upper: C0610E
+name: Category Packaging Tin Hinged Lid
+name_no_class: Packaging Tin Hinged Lid
+name_no_size: Tin Hinged Lid
+name_no_size_short: Tin Hinged Lid
+name_no_type: Tin Hinged Lid
+oomp_key: oomp_category_packaging_tin_hinged_lid
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorypackaging
+size: tin_hinged_lid
+size_capital: Tin Hinged Lid
+size_first_letter: t
+size_first_letter_upper: T
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: TIN_HINGED_LID
+type: packaging
+type_capital: Packaging
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PACKAGING

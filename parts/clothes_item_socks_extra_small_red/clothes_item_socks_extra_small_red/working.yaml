@@ -1,0 +1,78 @@
+classification: clothes
+classification_capital: Clothes
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CLOTHES
+color: extra_small
+color_capital: Extra Small
+color_first_letter: e
+color_first_letter_upper: E
+color_upper: EXTRA_SMALL
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: red
+description_main_capital: Red
+description_main_first_letter: r
+description_main_first_letter_upper: R
+description_main_upper: RED
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'E '
+description_or_color_upper: 'E '
+directory: parts/clothes_item_socks_extra_small_red
+distributors: []
+filter: ''
+from_yaml: false
+id: clothes_item_socks_extra_small_red
+id_no_class: item_socks_extra_small_red
+id_no_size: extra_small_red
+id_no_type: socks_extra_small_red
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_socks_extra_small_red
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_socks_extra_small_red
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_socks_extra_small_red
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[clothes_item_socks_extra_small_red](none)<br>[](none)<br>[Clothes
+    Item Socks Extra Small Red](none)<br><br>'
+markdown_short: '[clothes_item_socks_extra_small_red](none)<br><br>'
+md5: 27e1f55410d09e2d5eea18eddbf044e4
+md5_10: 27e1f55410
+md5_10_upper: 27E1F55410
+md5_5: 27e1f
+md5_5_upper: 27E1F
+md5_6: 27e1f5
+md5_6_alpha: 1k0s5
+md5_6_alpha_upper: 1K0S5
+md5_6_upper: 27E1F5
+name: Clothes Item Socks Extra Small Red
+name_no_class: Item Socks Extra Small Red
+name_no_size: Extra Small Red
+name_no_size_short: Extra Small Red
+name_no_type: Socks Extra Small Red
+oomp_key: oomp_clothes_item_socks_extra_small_red
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: socks
+size_capital: Socks
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SOCKS
+type: item
+type_capital: Item
+type_first_letter: i
+type_first_letter_upper: I
+type_upper: ITEM

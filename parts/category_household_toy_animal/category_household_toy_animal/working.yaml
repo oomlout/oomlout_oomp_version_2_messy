@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_household_toy
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_household_toy_animal
+distributors: []
+filter: ''
+from_yaml: false
+id: category_household_toy_animal
+id_no_class: household_toy_animal
+id_no_size: animal
+id_no_type: animal
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_toy_animal
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_toy_animal
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_toy_animal
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_household_toy_animal](none)<br>[](none)<br>[Category Household
+    Toy Animal](none)<br><br>'
+markdown_short: '[category_household_toy_animal](none)<br><br>'
+md5: f892480c485f42ba006f17f3cae85e82
+md5_10: f892480c48
+md5_10_upper: F892480C48
+md5_5: f8924
+md5_5_upper: F8924
+md5_6: f89248
+md5_6_alpha: 9p5qg
+md5_6_alpha_upper: 9P5QG
+md5_6_upper: F89248
+name: Category Household Toy Animal
+name_no_class: Household Toy Animal
+name_no_size: Animal
+name_no_size_short: Animal
+name_no_type: Animal
+oomp_key: oomp_category_household_toy_animal
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryhouseholdtoy
+size: animal
+size_capital: Animal
+size_first_letter: a
+size_first_letter_upper: A
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ANIMAL
+type: household_toy
+type_capital: Household Toy
+type_first_letter: h
+type_first_letter_upper: H
+type_upper: HOUSEHOLD_TOY

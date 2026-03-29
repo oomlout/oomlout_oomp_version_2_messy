@@ -1,0 +1,87 @@
+classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_upper: ELECTRONIC
+color: robotic
+color_capital: Robotic
+color_first_letter: r
+color_first_letter_upper: R
+color_upper: ROBOTIC
+description: ''
+description_extra: simply_robtoics_motor_driver_board_for_raspberry_pi_pico
+description_extra_capital: Simply Robtoics Motor Driver Board For Raspberry Pi Pico
+description_extra_first_letter: s
+description_extra_first_letter_upper: S
+description_extra_upper: SIMPLY_ROBTOICS_MOTOR_DRIVER_BOARD_FOR_RASPBERRY_PI_PICO
+description_main: 42_mm_width_64_mm_height_green_pcb
+description_main_capital: 42 mm Width 64 mm Height Green Pcb
+description_main_first_letter: '4'
+description_main_first_letter_upper: '4'
+description_main_upper: 42_MM_WIDTH_64_MM_HEIGHT_GREEN_PCB
+description_only_numbers: '4264'
+description_only_numbers_short: 4k2
+description_or_color: R4k2
+description_or_color_upper: R4K2
+directory: parts/electronic_breakout_board_mcu_pico_robotic_42_mm_width_64_mm_height_green_pcb_simply_robtoics_motor_driver_board_for_raspberry_pi_pico_kitronik_5348
+distributors: []
+id: electronic_breakout_board_mcu_pico_robotic_42_mm_width_64_mm_height_green_pcb_simply_robtoics_motor_driver_board_for_raspberry_pi_pico_kitronik_5348
+id_no_class: breakout_board_mcu_pico_robotic_42_mm_width_64_mm_height_green_pcb_simply_robtoics_motor_driver_board_for_raspberry_pi_pico_kitronik_5348
+id_no_size: robotic_42_mm_width_64_mm_height_green_pcb_simply_robtoics_motor_driver_board_for_raspberry_pi_kitronik_5348
+id_no_type: pico_robotic_42_mm_width_64_mm_height_green_pcb_simply_robtoics_motor_driver_board_for_raspberry_pi_pico_kitronik_5348
+kicad_reference: BB
+link_distributor_kitronik: https://kitronik.co.uk/products/5348-kitronik-simply-robotics-for-raspberry-pi-pico
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_mcu_pico_robotic_42_mm_width_64_mm_height_green_pcb_simply_robtoics_motor_driver_board_for_raspberry_pi_pico_kitronik_5348
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_mcu_pico_robotic_42_mm_width_64_mm_height_green_pcb_simply_robtoics_motor_driver_board_for_raspberry_pi_pico_kitronik_5348
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_mcu_pico_robotic_42_mm_width_64_mm_height_green_pcb_simply_robtoics_motor_driver_board_for_raspberry_pi_pico_kitronik_5348
+manufacturer: kitronik
+manufacturer_capital: Kitronik
+manufacturer_first_letter: k
+manufacturer_first_letter_upper: K
+manufacturer_upper: KITRONIK
+manufacturers: []
+markdown_full: '[electronic_breakout_board_mcu_pico_robotic_42_mm_width_64_mm_height_green_pcb_simply_robtoics_motor_driver_board_for_raspberry_pi_pico_kitronik_5348](none)<br>[pc](none)<br>[Electronic
+    Breakout Board Mcu Pico Robotic 42 Mm Width 64 Mm Height Green Pcb Simply Robtoics
+    Motor Driver Board For Raspberry Pi Pico Kitronik 5348](none)<br><br>'
+markdown_short: '[electronic_breakout_board_mcu_pico_robotic_42_mm_width_64_mm_height_green_pcb_simply_robtoics_motor_driver_board_for_raspberry_pi_pico_kitronik_5348](none)<br><br>'
+md5: 4b04b5f6acd49ec2667c6d3732a1f0f9
+md5_10: 4b04b5f6ac
+md5_10_upper: 4B04B5F6AC
+md5_5: 4b04b
+md5_5_upper: 4B04B
+md5_6: 4b04b5
+md5_6_alpha: 2xdit
+md5_6_alpha_upper: 2XDIT
+md5_6_upper: 4B04B5
+name: Electronic Breakout Board Mcu Pico Robotic 42 Mm Width 64 Mm Height Green Pcb
+    Simply Robtoics Motor Driver Board For Raspberry Pi Pico Kitronik 5348
+name_no_class: Breakout Board Mcu Pico Robotic 42 Mm Width 64 Mm Height Green Pcb
+    Simply Robtoics Motor Driver Board For Raspberry Pi Pico Kitronik 5348
+name_no_size: Robotic 42 Mm Width 64 Mm Height Green Pcb Simply Robtoics Motor Driver
+    Board For Raspberry Pi Kitronik 5348
+name_no_size_short: Robotic 42 Mm Width 64 Mm Height Green Pcb Simply Robtoics Motor
+    Driver Board For Raspberry Pi Kitronik 5348
+name_no_type: Pico Robotic 42 Mm Width 64 Mm Height Green Pcb Simply Robtoics Motor
+    Driver Board For Raspberry Pi Pico Kitronik 5348
+notes: []
+oomp_key: oomp_electronic_breakout_board_mcu_pico_robotic_42_mm_width_64_mm_height_green_pcb_simply_robtoics_motor_driver_board_for_raspberry_pi_pico_kitronik_5348
+part_number: '5348'
+part_number_capital: '5348'
+part_number_first_letter: '5'
+part_number_first_letter_upper: '5'
+part_number_upper: '5348'
+short_code: pc
+short_code_upper: PC
+short_name: ''
+size: pico
+size_capital: Pico
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PICO
+type: breakout_board_mcu
+type_capital: Breakout Board Mcu
+type_first_letter: b
+type_first_letter_upper: B
+type_upper: BREAKOUT_BOARD_MCU

@@ -1,0 +1,81 @@
+classification: paper
+classification_capital: Paper
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_upper: PAPER
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/paper_envelope_c7_size_114_mm_width_81_mm_height_fits_a7_sheet
+distributors: []
+filter: ''
+from_yaml: false
+height: 81 mm
+id: paper_envelope_c7_size_114_mm_width_81_mm_height_fits_a7_sheet
+id_no_class: envelope_c7_size_114_mm_width_81_mm_height_fits_a7_sheet
+id_no_size: c7_size_114_mm_width_81_mm_height_fits_a7_sheet
+id_no_type: c7_size_114_mm_width_81_mm_height_fits_a7_sheet
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_envelope_c7_size_114_mm_width_81_mm_height_fits_a7_sheet
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_envelope_c7_size_114_mm_width_81_mm_height_fits_a7_sheet
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_envelope_c7_size_114_mm_width_81_mm_height_fits_a7_sheet
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[paper_envelope_c7_size_114_mm_width_81_mm_height_fits_a7_sheet](none)<br>[](none)<br>[Paper
+    Envelope C7 Size 114 Mm Width 81 Mm Height Fits A7 Sheet](none)<br><br>'
+markdown_short: '[paper_envelope_c7_size_114_mm_width_81_mm_height_fits_a7_sheet](none)<br><br>'
+md5: 57743579be100e6e8b8bfe9c21d21af8
+md5_10: 57743579be
+md5_10_upper: 57743579BE
+md5_5: '57743'
+md5_5_upper: '57743'
+md5_6: '577435'
+md5_6_alpha: 3eud1
+md5_6_alpha_upper: 3EUD1
+md5_6_upper: '577435'
+name: Paper Envelope C7 Size 114 Mm Width 81 Mm Height Fits A7 Sheet
+name_no_class: Envelope C7 Size 114 Mm Width 81 Mm Height Fits A7 Sheet
+name_no_size: C7 Size 114 Mm Width 81 Mm Height Fits A7 Sheet
+name_no_size_short: C7 Size 114 Mm Width 81 Mm Height Fits A7 Sheet
+name_no_type: C7 Size 114 Mm Width 81 Mm Height Fits A7 Sheet
+oomp_key: oomp_paper_envelope_c7_size_114_mm_width_81_mm_height_fits_a7_sheet
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: C7 Envelope
+size: c7_size_114_mm_width_81_mm_height_fits_a7_sheet
+size_capital: C7 Size 114 mm Width 81 mm Height Fits A7 Sheet
+size_first_letter: c
+size_first_letter_upper: C
+size_only_numbers: '7114817'
+size_only_numbers_no_zeros: '7114817'
+size_upper: C7_SIZE_114_MM_WIDTH_81_MM_HEIGHT_FITS_A7_SHEET
+type: envelope
+type_capital: Envelope
+type_first_letter: e
+type_first_letter_upper: E
+type_upper: ENVELOPE
+width: 114 mm

@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_electronic_consumer
+description_extra: tote
+description_extra_capital: Tote
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TOTE
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_electronic_consumer_charger_usb_tote
+distributors: []
+filter: ''
+from_yaml: false
+id: category_electronic_consumer_charger_usb_tote
+id_no_class: electronic_consumer_charger_usb_tote
+id_no_size: tote
+id_no_type: charger_usb_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_consumer_charger_usb_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_consumer_charger_usb_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_consumer_charger_usb_tote
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_electronic_consumer_charger_usb_tote](none)<br>[](none)<br>[Category
+    Electronic Consumer Charger Usb Tote](none)<br><br>'
+markdown_short: '[category_electronic_consumer_charger_usb_tote](none)<br><br>'
+md5: 29cd32a0b7c1011c94b69d91138eb093
+md5_10: 29cd32a0b7
+md5_10_upper: 29CD32A0B7
+md5_5: 29cd3
+md5_5_upper: 29CD3
+md5_6: 29cd32
+md5_6_alpha: 1mpte
+md5_6_alpha_upper: 1MPTE
+md5_6_upper: 29CD32
+name: Category Electronic Consumer Charger Usb Tote
+name_no_class: Electronic Consumer Charger Usb Tote
+name_no_size: Tote
+name_no_size_short: Tote
+name_no_type: Charger Usb Tote
+oomp_key: oomp_category_electronic_consumer_charger_usb_tote
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryelectronicconsumer
+size: charger_usb
+size_capital: Charger Usb
+size_first_letter: c
+size_first_letter_upper: C
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: CHARGER_USB
+type: electronic_consumer
+type_capital: Electronic Consumer
+type_first_letter: e
+type_first_letter_upper: E
+type_upper: ELECTRONIC_CONSUMER

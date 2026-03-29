@@ -1,0 +1,80 @@
+classification: vinyl_cutter
+classification_capital: Vinyl Cutter
+classification_first_letter: v
+classification_first_letter_upper: V
+classification_upper: VINYL_CUTTER
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: explore_air
+description_main_capital: Explore Air
+description_main_first_letter: e
+description_main_first_letter_upper: E
+description_main_upper: EXPLORE_AIR
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/vinyl_cutter_vinyl_cutter_cricut_explore_air_cricut_cxpl201
+distributors: []
+filter: ''
+from_yaml: false
+id: vinyl_cutter_vinyl_cutter_cricut_explore_air_cricut_cxpl201
+id_no_class: cricut_explore_air_cricut_cxpl201
+id_no_size: explore_air_cxpl201
+id_no_type: cricut_explore_air_cricut_cxpl201
+link_distributor_cricut: ''
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/vinyl_cutter_vinyl_cutter_cricut_explore_air_cricut_cxpl201
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/vinyl_cutter_vinyl_cutter_cricut_explore_air_cricut_cxpl201
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/vinyl_cutter_vinyl_cutter_cricut_explore_air_cricut_cxpl201
+manufacturer: cricut
+manufacturer_capital: Cricut
+manufacturer_first_letter: c
+manufacturer_first_letter_upper: C
+manufacturer_upper: CRICUT
+manufacturers: []
+markdown_full: '[vinyl_cutter_vinyl_cutter_cricut_explore_air_cricut_cxpl201](none)<br>[](none)<br>[Vinyl
+    Cutter Vinyl Cutter Cricut Explore Air Cricut Cxpl201](none)<br><br>'
+markdown_short: '[vinyl_cutter_vinyl_cutter_cricut_explore_air_cricut_cxpl201](none)<br><br>'
+md5: 756e97de44428052c4b98fb439363347
+md5_10: 756e97de44
+md5_10_upper: 756E97DE44
+md5_5: 756e9
+md5_5_upper: 756E9
+md5_6: 756e97
+md5_6_alpha: 4kyaf
+md5_6_alpha_upper: 4KYAF
+md5_6_upper: 756E97
+name: Vinyl Cutter Vinyl Cutter Cricut Explore Air Cricut Cxpl201
+name_no_class: Cricut Explore Air Cricut Cxpl201
+name_no_size: Explore Air Cxpl201
+name_no_size_short: Explore Air Cxpl201
+name_no_type: Cricut Explore Air Cricut Cxpl201
+oomp_key: oomp_vinyl_cutter_vinyl_cutter_cricut_explore_air_cricut_cxpl201
+part_number: cxpl201
+part_number_capital: Cxpl201
+part_number_exact: CXPL201
+part_number_first_letter: c
+part_number_first_letter_upper: C
+part_number_upper: CXPL201
+short_code: ''
+short_code_upper: ''
+size: cricut
+size_capital: Cricut
+size_first_letter: c
+size_first_letter_upper: C
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: CRICUT
+type: vinyl_cutter
+type_capital: Vinyl Cutter
+type_first_letter: v
+type_first_letter_upper: V
+type_upper: VINYL_CUTTER

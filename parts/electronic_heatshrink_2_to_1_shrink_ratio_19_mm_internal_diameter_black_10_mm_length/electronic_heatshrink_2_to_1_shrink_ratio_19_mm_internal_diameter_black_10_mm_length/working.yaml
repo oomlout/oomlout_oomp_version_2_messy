@@ -1,0 +1,79 @@
+classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_upper: ELECTRONIC
+color: black
+color_capital: Black
+color_first_letter: b
+color_first_letter_upper: B
+color_upper: BLACK
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 10_mm_length
+description_main_capital: 10 mm Length
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_upper: 10_MM_LENGTH
+description_only_numbers: '10'
+description_only_numbers_short: '10'
+description_or_color: B10
+description_or_color_upper: B10
+directory: parts/electronic_heatshrink_2_to_1_shrink_ratio_19_mm_internal_diameter_black_10_mm_length
+distributors: []
+id: electronic_heatshrink_2_to_1_shrink_ratio_19_mm_internal_diameter_black_10_mm_length
+id_no_class: heatshrink_2_to_1_shrink_ratio_19_mm_internal_diameter_black_10_mm_length
+id_no_size: black_10_mm_length
+id_no_type: 19_mm_internal_diameter_black_10_mm_length
+kicad_reference: ''
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_19_mm_internal_diameter_black_10_mm_length
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_19_mm_internal_diameter_black_10_mm_length
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_19_mm_internal_diameter_black_10_mm_length
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[electronic_heatshrink_2_to_1_shrink_ratio_19_mm_internal_diameter_black_10_mm_length](none)<br>[b10](none)<br>[Electronic
+    Heatshrink 2 To 1 Shrink Ratio 19 Mm Internal Diameter Black 10 Mm Length](none)<br><br>'
+markdown_short: '[electronic_heatshrink_2_to_1_shrink_ratio_19_mm_internal_diameter_black_10_mm_length](none)<br><br>'
+md5: 06cf8e040f2313f4ee522c20f1f1293a
+md5_10: 06cf8e040f
+md5_10_upper: 06CF8E040F
+md5_5: 06cf8
+md5_5_upper: 06CF8
+md5_6: 06cf8e
+md5_6_alpha: 9kem
+md5_6_alpha_upper: 9KEM
+md5_6_upper: 06CF8E
+name: Electronic Heatshrink 2 To 1 Shrink Ratio 19 Mm Internal Diameter Black 10 Mm
+    Length
+name_no_class: Heatshrink 2 To 1 Shrink Ratio 19 Mm Internal Diameter Black 10 Mm
+    Length
+name_no_size: Black 10 Mm Length
+name_no_size_short: Black 10 Mm Length
+name_no_type: 19 Mm Internal Diameter Black 10 Mm Length
+oomp_key: oomp_electronic_heatshrink_2_to_1_shrink_ratio_19_mm_internal_diameter_black_10_mm_length
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: b10
+short_code_upper: B10
+size: 19_mm_internal_diameter
+size_capital: 19 mm Internal Diameter
+size_first_letter: '1'
+size_first_letter_upper: '1'
+size_only_numbers: '19'
+size_only_numbers_no_zeros: '19'
+size_upper: 19_MM_INTERNAL_DIAMETER
+type: heatshrink_2_to_1_shrink_ratio
+type_capital: Heatshrink 2 To 1 Shrink Ratio
+type_first_letter: h
+type_first_letter_upper: H
+type_upper: HEATSHRINK_2_TO_1_SHRINK_RATIO

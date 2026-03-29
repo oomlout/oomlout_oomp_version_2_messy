@@ -1,0 +1,81 @@
+classification: food
+classification_capital: Food
+classification_first_letter: f
+classification_first_letter_upper: F
+classification_upper: FOOD
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: italian herb mix
+description_extra: 44_mm_diameter_100_mm_depth_bottle
+description_extra_capital: 44 mm Diameter 100 mm Depth Bottle
+description_extra_first_letter: '4'
+description_extra_first_letter_upper: '4'
+description_extra_upper: 44_MM_DIAMETER_100_MM_DEPTH_BOTTLE
+description_main: italian_herb_mix
+description_main_capital: Italian Herb Mix
+description_main_first_letter: i
+description_main_first_letter_upper: I
+description_main_upper: ITALIAN_HERB_MIX
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/food_seasoning_herb_italian_herb_mix_44_mm_diameter_100_mm_depth_bottle_schwartz
+distributors: []
+filter: ''
+from_yaml: false
+id: food_seasoning_herb_italian_herb_mix_44_mm_diameter_100_mm_depth_bottle_schwartz
+id_no_class: seasoning_herb_italian_herb_mix_44_mm_diameter_100_mm_depth_bottle_schwartz
+id_no_size: italian_mix_44_mm_diameter_100_mm_depth_bottle_schwartz
+id_no_type: herb_italian_herb_mix_44_mm_diameter_100_mm_depth_bottle_schwartz
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_herb_italian_herb_mix_44_mm_diameter_100_mm_depth_bottle_schwartz
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_herb_italian_herb_mix_44_mm_diameter_100_mm_depth_bottle_schwartz
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_herb_italian_herb_mix_44_mm_diameter_100_mm_depth_bottle_schwartz
+manufacturer: schwartz
+manufacturer_capital: Schwartz
+manufacturer_first_letter: s
+manufacturer_first_letter_upper: S
+manufacturer_upper: SCHWARTZ
+manufacturers: []
+markdown_full: '[food_seasoning_herb_italian_herb_mix_44_mm_diameter_100_mm_depth_bottle_schwartz](none)<br>[](none)<br>[Food
+    Seasoning Herb Italian Herb Mix 44 Mm Diameter 100 Mm Depth Bottle Schwartz](none)<br><br>'
+markdown_short: '[food_seasoning_herb_italian_herb_mix_44_mm_diameter_100_mm_depth_bottle_schwartz](none)<br><br>'
+md5: f54d273a2c4919533edd52bd9a2b5dd8
+md5_10: f54d273a2c
+md5_10_upper: F54D273A2C
+md5_5: f54d2
+md5_5_upper: F54D2
+md5_6: f54d27
+md5_6_alpha: 9kkdj
+md5_6_alpha_upper: 9KKDJ
+md5_6_upper: F54D27
+name: Food Seasoning Herb Italian Herb Mix 44 Mm Diameter 100 Mm Depth Bottle Schwartz
+name_no_class: Seasoning Herb Italian Herb Mix 44 Mm Diameter 100 Mm Depth Bottle
+    Schwartz
+name_no_size: Italian Mix 44 Mm Diameter 100 Mm Depth Bottle Schwartz
+name_no_size_short: Italian Mix 44 Mm Diameter 100 Mm Depth Bottle Schwartz
+name_no_type: Herb Italian Herb Mix 44 Mm Diameter 100 Mm Depth Bottle Schwartz
+name_short: Italian Herb Mix
+oomp_key: oomp_food_seasoning_herb_italian_herb_mix_44_mm_diameter_100_mm_depth_bottle_schwartz
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: herb
+size_capital: Herb
+size_first_letter: h
+size_first_letter_upper: H
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: HERB
+type: seasoning
+type_capital: Seasoning
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: SEASONING

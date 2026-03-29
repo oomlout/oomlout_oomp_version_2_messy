@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: tabletop
+color_capital: Tabletop
+color_first_letter: t
+color_first_letter_upper: T
+color_upper: TABLETOP
+description: category_tool
+description_extra: old
+description_extra_capital: Old
+description_extra_first_letter: o
+description_extra_first_letter_upper: O
+description_extra_upper: OLD
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'T '
+description_or_color_upper: 'T '
+directory: parts/category_tool_vibratory_bowl_tabletop_old
+distributors: []
+filter: ''
+from_yaml: false
+id: category_tool_vibratory_bowl_tabletop_old
+id_no_class: tool_vibratory_bowl_tabletop_old
+id_no_size: tabletop_old
+id_no_type: vibratory_bowl_tabletop_old
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_vibratory_bowl_tabletop_old
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_vibratory_bowl_tabletop_old
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_vibratory_bowl_tabletop_old
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_tool_vibratory_bowl_tabletop_old](none)<br>[](none)<br>[Category
+    Tool Vibratory Bowl Tabletop Old](none)<br><br>'
+markdown_short: '[category_tool_vibratory_bowl_tabletop_old](none)<br><br>'
+md5: 6012c4b235a514be80947b38f1e3f907
+md5_10: 6012c4b235
+md5_10_upper: 6012C4B235
+md5_5: 6012c
+md5_5_upper: 6012C
+md5_6: 6012c4
+md5_6_alpha: 3qy84
+md5_6_alpha_upper: 3QY84
+md5_6_upper: 6012C4
+name: Category Tool Vibratory Bowl Tabletop Old
+name_no_class: Tool Vibratory Bowl Tabletop Old
+name_no_size: Tabletop Old
+name_no_size_short: Tabletop Old
+name_no_type: Vibratory Bowl Tabletop Old
+oomp_key: oomp_category_tool_vibratory_bowl_tabletop_old
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorytool
+size: vibratory_bowl
+size_capital: Vibratory Bowl
+size_first_letter: v
+size_first_letter_upper: V
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: VIBRATORY_BOWL
+type: tool
+type_capital: Tool
+type_first_letter: t
+type_first_letter_upper: T
+type_upper: TOOL

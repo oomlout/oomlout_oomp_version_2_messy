@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: flower
+color_capital: Flower
+color_first_letter: f
+color_first_letter_upper: F
+color_upper: FLOWER
+description: category_garden
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'F '
+description_or_color_upper: 'F '
+directory: parts/category_garden_plant_flower
+distributors: []
+filter: ''
+from_yaml: false
+id: category_garden_plant_flower
+id_no_class: garden_plant_flower
+id_no_size: flower
+id_no_type: plant_flower
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_garden_plant_flower
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_garden_plant_flower
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_garden_plant_flower
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_garden_plant_flower](none)<br>[](none)<br>[Category Garden
+    Plant Flower](none)<br><br>'
+markdown_short: '[category_garden_plant_flower](none)<br><br>'
+md5: bddacf3867e314a1b58f7caaaaff5bfa
+md5_10: bddacf3867
+md5_10_upper: BDDACF3867
+md5_5: bddac
+md5_5_upper: BDDAC
+md5_6: bddacf
+md5_6_alpha: 7eojz
+md5_6_alpha_upper: 7EOJZ
+md5_6_upper: BDDACF
+name: Category Garden Plant Flower
+name_no_class: Garden Plant Flower
+name_no_size: Flower
+name_no_size_short: Flower
+name_no_type: Plant Flower
+oomp_key: oomp_category_garden_plant_flower
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorygarden
+size: plant
+size_capital: Plant
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PLANT
+type: garden
+type_capital: Garden
+type_first_letter: g
+type_first_letter_upper: G
+type_upper: GARDEN

@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: toothpick
+color_capital: Toothpick
+color_first_letter: t
+color_first_letter_upper: T
+color_upper: TOOTHPICK
+description: category_household_kitchen
+description_extra: tote
+description_extra_capital: Tote
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TOTE
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'T '
+description_or_color_upper: 'T '
+directory: parts/category_household_kitchen_disposable_toothpick_tote
+distributors: []
+filter: ''
+from_yaml: false
+id: category_household_kitchen_disposable_toothpick_tote
+id_no_class: household_kitchen_disposable_toothpick_tote
+id_no_size: toothpick_tote
+id_no_type: disposable_toothpick_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_kitchen_disposable_toothpick_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_kitchen_disposable_toothpick_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_kitchen_disposable_toothpick_tote
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_household_kitchen_disposable_toothpick_tote](none)<br>[](none)<br>[Category
+    Household Kitchen Disposable Toothpick Tote](none)<br><br>'
+markdown_short: '[category_household_kitchen_disposable_toothpick_tote](none)<br><br>'
+md5: 8d6339ddd5da6423337b62a4bf5475e6
+md5_10: 8d6339ddd5
+md5_10_upper: 8D6339DDD5
+md5_5: 8d633
+md5_5_upper: 8D633
+md5_6: 8d6339
+md5_6_alpha: 5ilo9
+md5_6_alpha_upper: 5ILO9
+md5_6_upper: 8D6339
+name: Category Household Kitchen Disposable Toothpick Tote
+name_no_class: Household Kitchen Disposable Toothpick Tote
+name_no_size: Toothpick Tote
+name_no_size_short: Toothpick Tote
+name_no_type: Disposable Toothpick Tote
+oomp_key: oomp_category_household_kitchen_disposable_toothpick_tote
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryhouseholdkitchen
+size: disposable
+size_capital: Disposable
+size_first_letter: d
+size_first_letter_upper: D
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: DISPOSABLE
+type: household_kitchen
+type_capital: Household Kitchen
+type_first_letter: h
+type_first_letter_upper: H
+type_upper: HOUSEHOLD_KITCHEN

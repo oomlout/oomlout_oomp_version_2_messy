@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: n20_holder
+color_capital: N20 Holder
+color_first_letter: n
+color_first_letter_upper: N
+color_upper: N20_HOLDER
+description: category_mechanical
+description_extra: tote
+description_extra_capital: Tote
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TOTE
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'N '
+description_or_color_upper: 'N '
+directory: parts/category_mechanical_motor_geared_n20_holder_tote
+distributors: []
+filter: ''
+from_yaml: false
+id: category_mechanical_motor_geared_n20_holder_tote
+id_no_class: mechanical_motor_geared_n20_holder_tote
+id_no_size: n20_holder_tote
+id_no_type: motor_geared_n20_holder_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_motor_geared_n20_holder_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_motor_geared_n20_holder_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_motor_geared_n20_holder_tote
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_mechanical_motor_geared_n20_holder_tote](none)<br>[](none)<br>[Category
+    Mechanical Motor Geared N20 Holder Tote](none)<br><br>'
+markdown_short: '[category_mechanical_motor_geared_n20_holder_tote](none)<br><br>'
+md5: 366f88ba7999ae3ab9e2ce8bdfa2b322
+md5_10: 366f88ba79
+md5_10_upper: 366F88BA79
+md5_5: 366f8
+md5_5_upper: 366F8
+md5_6: 366f88
+md5_6_alpha: 24gp4
+md5_6_alpha_upper: 24GP4
+md5_6_upper: 366F88
+name: Category Mechanical Motor Geared N20 Holder Tote
+name_no_class: Mechanical Motor Geared N20 Holder Tote
+name_no_size: N20 Holder Tote
+name_no_size_short: N20 Holder Tote
+name_no_type: Motor Geared N20 Holder Tote
+oomp_key: oomp_category_mechanical_motor_geared_n20_holder_tote
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorymechanical
+size: motor_geared
+size_capital: Motor Geared
+size_first_letter: m
+size_first_letter_upper: M
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: MOTOR_GEARED
+type: mechanical
+type_capital: Mechanical
+type_first_letter: m
+type_first_letter_upper: M
+type_upper: MECHANICAL

@@ -1,0 +1,79 @@
+classification: garden
+classification_capital: Garden
+classification_first_letter: g
+classification_first_letter_upper: G
+classification_upper: GARDEN
+color: palm
+color_capital: Palm
+color_first_letter: p
+color_first_letter_upper: P
+color_upper: PALM
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: trachycarpus_fortunei
+description_main_capital: Trachycarpus Fortunei
+description_main_first_letter: t
+description_main_first_letter_upper: T
+description_main_upper: TRACHYCARPUS_FORTUNEI
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'P '
+description_or_color_upper: 'P '
+directory: parts/garden_plant_tree_palm_trachycarpus_fortunei
+distributor_sutton_seeds: '105005'
+distributors: []
+id: garden_plant_tree_palm_trachycarpus_fortunei
+id_no_class: plant_tree_palm_trachycarpus_fortunei
+id_no_size: palm_trachycarpus_fortunei
+id_no_type: tree_palm_trachycarpus_fortunei
+link_distributor_sutton_seeds: https://www.suttons.co.uk/flower-seeds/trachycarpus-fortunei-seeds_mh13516
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/garden_plant_tree_palm_trachycarpus_fortunei
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/garden_plant_tree_palm_trachycarpus_fortunei
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/garden_plant_tree_palm_trachycarpus_fortunei
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[garden_plant_tree_palm_trachycarpus_fortunei](none)<br>[](none)<br>[Garden
+    Plant Tree Palm Trachycarpus Fortunei](none)<br><br>'
+markdown_short: '[garden_plant_tree_palm_trachycarpus_fortunei](none)<br><br>'
+md5: 1d7620c0b11a7a2bb7b6f84852a021c5
+md5_10: 1d7620c0b1
+md5_10_upper: 1D7620C0B1
+md5_5: 1d762
+md5_5_upper: 1D762
+md5_6: 1d7620
+md5_6_alpha: 15dsw
+md5_6_alpha_upper: 15DSW
+md5_6_upper: 1D7620
+name: Garden Plant Tree Palm Trachycarpus Fortunei
+name_no_class: Plant Tree Palm Trachycarpus Fortunei
+name_no_size: Palm Trachycarpus Fortunei
+name_no_size_short: Palm Trachycarpus Fortunei
+name_no_type: Tree Palm Trachycarpus Fortunei
+oomp_key: oomp_garden_plant_tree_palm_trachycarpus_fortunei
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: tree
+size_capital: Tree
+size_first_letter: t
+size_first_letter_upper: T
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: TREE
+type: plant
+type_capital: Plant
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PLANT

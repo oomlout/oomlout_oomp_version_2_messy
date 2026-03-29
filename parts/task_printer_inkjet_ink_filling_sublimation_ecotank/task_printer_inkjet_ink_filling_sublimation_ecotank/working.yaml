@@ -1,0 +1,78 @@
+classification: task
+classification_capital: Task
+classification_first_letter: t
+classification_first_letter_upper: T
+classification_upper: TASK
+color: ink_filling
+color_capital: Ink Filling
+color_first_letter: i
+color_first_letter_upper: I
+color_upper: INK_FILLING
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: sublimation_ecotank
+description_main_capital: Sublimation Ecotank
+description_main_first_letter: s
+description_main_first_letter_upper: S
+description_main_upper: SUBLIMATION_ECOTANK
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'I '
+description_or_color_upper: 'I '
+directory: parts/task_printer_inkjet_ink_filling_sublimation_ecotank
+distributors: []
+filter: ''
+from_yaml: false
+id: task_printer_inkjet_ink_filling_sublimation_ecotank
+id_no_class: printer_inkjet_ink_filling_sublimation_ecotank
+id_no_size: ink_filling_sublimation_ecotank
+id_no_type: inkjet_ink_filling_sublimation_ecotank
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/task_printer_inkjet_ink_filling_sublimation_ecotank
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/task_printer_inkjet_ink_filling_sublimation_ecotank
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/task_printer_inkjet_ink_filling_sublimation_ecotank
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[task_printer_inkjet_ink_filling_sublimation_ecotank](none)<br>[](none)<br>[Task
+    Printer Inkjet Ink Filling Sublimation Ecotank](none)<br><br>'
+markdown_short: '[task_printer_inkjet_ink_filling_sublimation_ecotank](none)<br><br>'
+md5: f409dc9da86147c6c716d0b601a8123e
+md5_10: f409dc9da8
+md5_10_upper: F409DC9DA8
+md5_5: f409d
+md5_5_upper: F409D
+md5_6: f409dc
+md5_6_alpha: 9isik
+md5_6_alpha_upper: 9ISIK
+md5_6_upper: F409DC
+name: Task Printer Inkjet Ink Filling Sublimation Ecotank
+name_no_class: Printer Inkjet Ink Filling Sublimation Ecotank
+name_no_size: Ink Filling Sublimation Ecotank
+name_no_size_short: Ink Filling Sublimation Ecotank
+name_no_type: Inkjet Ink Filling Sublimation Ecotank
+oomp_key: oomp_task_printer_inkjet_ink_filling_sublimation_ecotank
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: inkjet
+size_capital: Inkjet
+size_first_letter: i
+size_first_letter_upper: I
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: INKJET
+type: printer
+type_capital: Printer
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PRINTER

@@ -1,0 +1,79 @@
+classification: food
+classification_capital: Food
+classification_first_letter: f
+classification_first_letter_upper: F
+classification_upper: FOOD
+color: ground_filter
+color_capital: Ground Filter
+color_first_letter: g
+color_first_letter_upper: G
+color_upper: GROUND_FILTER
+description_extra: tin_250_gram
+description_extra_capital: Tin 250 Gram
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TIN_250_GRAM
+description_main: classic
+description_main_capital: Classic
+description_main_first_letter: c
+description_main_first_letter_upper: C
+description_main_upper: CLASSIC
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'G '
+description_or_color_upper: 'G '
+directory: parts/food_drink_coffee_ground_filter_classic_tin_250_gram_illy
+distributors: []
+filter: ''
+from_yaml: false
+id: food_drink_coffee_ground_filter_classic_tin_250_gram_illy
+id_no_class: drink_coffee_ground_filter_classic_tin_250_gram_illy
+id_no_size: ground_filter_classic_tin_250_gram_illy
+id_no_type: coffee_ground_filter_classic_tin_250_gram_illy
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_drink_coffee_ground_filter_classic_tin_250_gram_illy
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_drink_coffee_ground_filter_classic_tin_250_gram_illy
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_drink_coffee_ground_filter_classic_tin_250_gram_illy
+manufacturer: illy
+manufacturer_capital: Illy
+manufacturer_first_letter: i
+manufacturer_first_letter_upper: I
+manufacturer_upper: ILLY
+manufacturers: []
+markdown_full: '[food_drink_coffee_ground_filter_classic_tin_250_gram_illy](none)<br>[](none)<br>[Food
+    Drink Coffee Ground Filter Classic Tin 250 Gram Illy](none)<br><br>'
+markdown_short: '[food_drink_coffee_ground_filter_classic_tin_250_gram_illy](none)<br><br>'
+md5: 53bbd6ea725742ef260df3bfa0aaf9c1
+md5_10: 53bbd6ea72
+md5_10_upper: 53BBD6EA72
+md5_5: 53bbd
+md5_5_upper: 53BBD
+md5_6: 53bbd6
+md5_6_alpha: 39m8m
+md5_6_alpha_upper: 39M8M
+md5_6_upper: 53BBD6
+name: Food Drink Coffee Ground Filter Classic Tin 250 Gram Illy
+name_no_class: Drink Coffee Ground Filter Classic Tin 250 Gram Illy
+name_no_size: Ground Filter Classic Tin 250 Gram Illy
+name_no_size_short: Ground Filter Classic Tin 250 Gram Illy
+name_no_type: Coffee Ground Filter Classic Tin 250 Gram Illy
+name_short: Ground Coffee Classic
+oomp_key: oomp_food_drink_coffee_ground_filter_classic_tin_250_gram_illy
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: coffee
+size_capital: Coffee
+size_first_letter: c
+size_first_letter_upper: C
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: COFFEE
+type: drink
+type_capital: Drink
+type_first_letter: d
+type_first_letter_upper: D
+type_upper: DRINK

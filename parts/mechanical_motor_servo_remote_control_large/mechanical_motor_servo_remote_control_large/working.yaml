@@ -1,0 +1,77 @@
+classification: mechanical
+classification_capital: Mechanical
+classification_first_letter: m
+classification_first_letter_upper: M
+classification_upper: MECHANICAL
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: large
+description_main_capital: Large
+description_main_first_letter: l
+description_main_first_letter_upper: L
+description_main_upper: LARGE
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/mechanical_motor_servo_remote_control_large
+distributors: []
+id: mechanical_motor_servo_remote_control_large
+id_no_class: motor_servo_remote_control_large
+id_no_size: large
+id_no_type: large
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_motor_servo_remote_control_large
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_motor_servo_remote_control_large
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_motor_servo_remote_control_large
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[mechanical_motor_servo_remote_control_large](none)<br>[](none)<br>[Mechanical
+    Motor Servo Remote Control Large](none)<br><br>'
+markdown_short: '[mechanical_motor_servo_remote_control_large](none)<br><br>'
+md5: 4109618c890c2a2c2568f545c2a19c68
+md5_10: 4109618c89
+md5_10_upper: 4109618C89
+md5_5: '41096'
+md5_5_upper: '41096'
+md5_6: '410961'
+md5_6_alpha: 2jcrl
+md5_6_alpha_upper: 2JCRL
+md5_6_upper: '410961'
+name: Mechanical Motor Servo Remote Control Large
+name_no_class: Motor Servo Remote Control Large
+name_no_size: Large
+name_no_size_short: Large
+name_no_type: Large
+oomp_key: oomp_mechanical_motor_servo_remote_control_large
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: motor_servo_remote_control
+type_capital: Motor Servo Remote Control
+type_first_letter: m
+type_first_letter_upper: M
+type_upper: MOTOR_SERVO_REMOTE_CONTROL

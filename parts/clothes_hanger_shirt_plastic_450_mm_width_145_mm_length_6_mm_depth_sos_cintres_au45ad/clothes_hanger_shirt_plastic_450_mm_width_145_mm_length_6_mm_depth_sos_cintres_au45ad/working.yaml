@@ -1,0 +1,81 @@
+classification: clothes
+classification_capital: Clothes
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CLOTHES
+color: plastic
+color_capital: Plastic
+color_first_letter: p
+color_first_letter_upper: P
+color_upper: PLASTIC
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 450_mm_width_145_mm_length_6_mm_depth
+description_main_capital: 450 mm Width 145 mm Length 6 mm Depth
+description_main_first_letter: '4'
+description_main_first_letter_upper: '4'
+description_main_upper: 450_MM_WIDTH_145_MM_LENGTH_6_MM_DEPTH
+description_only_numbers: '4501456'
+description_only_numbers_short: 4M5
+description_or_color: P4M5
+description_or_color_upper: P4M5
+directory: parts/clothes_hanger_shirt_plastic_450_mm_width_145_mm_length_6_mm_depth_sos_cintres_au45ad
+distributors: []
+filter: ''
+from_yaml: false
+id: clothes_hanger_shirt_plastic_450_mm_width_145_mm_length_6_mm_depth_sos_cintres_au45ad
+id_no_class: hanger_shirt_plastic_450_mm_width_145_mm_length_6_mm_depth_sos_cintres_au45ad
+id_no_size: plastic_450_mm_width_145_mm_length_6_mm_depth_sos_cintres_au45ad
+id_no_type: shirt_plastic_450_mm_width_145_mm_length_6_mm_depth_sos_cintres_au45ad
+link_distributor_sos_cintres: http://www.sos-cintres.com/produit/auad-hangery/
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_hanger_shirt_plastic_450_mm_width_145_mm_length_6_mm_depth_sos_cintres_au45ad
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_hanger_shirt_plastic_450_mm_width_145_mm_length_6_mm_depth_sos_cintres_au45ad
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_hanger_shirt_plastic_450_mm_width_145_mm_length_6_mm_depth_sos_cintres_au45ad
+manufacturer: sos_cintres
+manufacturer_capital: Sos Cintres
+manufacturer_first_letter: s
+manufacturer_first_letter_upper: S
+manufacturer_upper: SOS_CINTRES
+manufacturers: []
+markdown_full: '[clothes_hanger_shirt_plastic_450_mm_width_145_mm_length_6_mm_depth_sos_cintres_au45ad](none)<br>[](none)<br>[Clothes
+    Hanger Shirt Plastic 450 Mm Width 145 Mm Length 6 Mm Depth Sos Cintres Au45Ad](none)<br><br>'
+markdown_short: '[clothes_hanger_shirt_plastic_450_mm_width_145_mm_length_6_mm_depth_sos_cintres_au45ad](none)<br><br>'
+md5: 7bce7bf6286a84055df9c784d12d4051
+md5_10: 7bce7bf628
+md5_10_upper: 7BCE7BF628
+md5_5: 7bce7
+md5_5_upper: 7BCE7
+md5_6: 7bce7b
+md5_6_alpha: 4twmz
+md5_6_alpha_upper: 4TWMZ
+md5_6_upper: 7BCE7B
+name: Clothes Hanger Shirt Plastic 450 Mm Width 145 Mm Length 6 Mm Depth Sos Cintres
+    Au45Ad
+name_no_class: Hanger Shirt Plastic 450 Mm Width 145 Mm Length 6 Mm Depth Sos Cintres
+    Au45Ad
+name_no_size: Plastic 450 Mm Width 145 Mm Length 6 Mm Depth Sos Cintres Au45Ad
+name_no_size_short: Plastic 450 Mm Width 145 Mm Length 6 Mm Depth Sos Cintres Au45Ad
+name_no_type: Shirt Plastic 450 Mm Width 145 Mm Length 6 Mm Depth Sos Cintres Au45Ad
+oomp_key: oomp_clothes_hanger_shirt_plastic_450_mm_width_145_mm_length_6_mm_depth_sos_cintres_au45ad
+part_number: au45ad
+part_number_capital: Au45Ad
+part_number_first_letter: a
+part_number_first_letter_upper: A
+part_number_upper: AU45AD
+short_code: ''
+short_code_upper: ''
+size: shirt
+size_capital: Shirt
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SHIRT
+type: hanger
+type_capital: Hanger
+type_first_letter: h
+type_first_letter_upper: H
+type_upper: HANGER

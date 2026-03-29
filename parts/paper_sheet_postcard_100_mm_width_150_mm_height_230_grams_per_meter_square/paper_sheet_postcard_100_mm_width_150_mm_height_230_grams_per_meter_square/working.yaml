@@ -1,0 +1,80 @@
+classification: paper
+classification_capital: Paper
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_upper: PAPER
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 230_grams_per_meter_square
+description_main_capital: 230 Grams Per Meter Square
+description_main_first_letter: '2'
+description_main_first_letter_upper: '2'
+description_main_upper: 230_GRAMS_PER_METER_SQUARE
+description_only_numbers: '230'
+description_only_numbers_short: '230'
+description_or_color: '230'
+description_or_color_upper: '230'
+directory: parts/paper_sheet_postcard_100_mm_width_150_mm_height_230_grams_per_meter_square
+distributors: []
+filter: ''
+from_yaml: false
+height: 150 mm
+id: paper_sheet_postcard_100_mm_width_150_mm_height_230_grams_per_meter_square
+id_no_class: sheet_postcard_100_mm_width_150_mm_height_230_grams_per_meter_square
+id_no_size: 230_grams_per_meter_square
+id_no_type: postcard_100_mm_width_150_mm_height_230_grams_per_meter_square
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_postcard_100_mm_width_150_mm_height_230_grams_per_meter_square
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_postcard_100_mm_width_150_mm_height_230_grams_per_meter_square
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_postcard_100_mm_width_150_mm_height_230_grams_per_meter_square
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[paper_sheet_postcard_100_mm_width_150_mm_height_230_grams_per_meter_square](none)<br>[](none)<br>[Paper
+    Sheet Postcard 100 Mm Width 150 Mm Height 230 Grams Per Meter Square](none)<br><br>'
+markdown_short: '[paper_sheet_postcard_100_mm_width_150_mm_height_230_grams_per_meter_square](none)<br><br>'
+md5: 9e4877e0c708046fb6e57900f02248af
+md5_10: 9e4877e0c7
+md5_10_upper: 9E4877E0C7
+md5_5: 9e487
+md5_5_upper: 9E487
+md5_6: 9e4877
+md5_6_alpha: 66c1j
+md5_6_alpha_upper: 66C1J
+md5_6_upper: 9E4877
+name: Paper Sheet Postcard 100 Mm Width 150 Mm Height 230 Grams Per Meter Square
+name_no_class: Sheet Postcard 100 Mm Width 150 Mm Height 230 Grams Per Meter Square
+name_no_size: 230 Grams Per Meter Square
+name_no_size_short: 230 Grams Per Meter Square
+name_no_type: Postcard 100 Mm Width 150 Mm Height 230 Grams Per Meter Square
+oomp_key: oomp_paper_sheet_postcard_100_mm_width_150_mm_height_230_grams_per_meter_square
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: postcard_100_mm_width_150_mm_height
+size_capital: Postcard 100 mm Width 150 mm Height
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: '100150'
+size_only_numbers_no_zeros: '115'
+size_upper: POSTCARD_100_MM_WIDTH_150_MM_HEIGHT
+type: sheet
+type_capital: Sheet
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: SHEET
+width: 100 mm

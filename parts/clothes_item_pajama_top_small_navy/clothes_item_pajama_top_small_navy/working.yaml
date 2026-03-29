@@ -1,0 +1,78 @@
+classification: clothes
+classification_capital: Clothes
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CLOTHES
+color: small
+color_capital: Small
+color_first_letter: s
+color_first_letter_upper: S
+color_upper: SMALL
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: navy
+description_main_capital: Navy
+description_main_first_letter: n
+description_main_first_letter_upper: N
+description_main_upper: NAVY
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'S '
+description_or_color_upper: 'S '
+directory: parts/clothes_item_pajama_top_small_navy
+distributors: []
+filter: ''
+from_yaml: false
+id: clothes_item_pajama_top_small_navy
+id_no_class: item_pajama_top_small_navy
+id_no_size: small_navy
+id_no_type: pajama_top_small_navy
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_pajama_top_small_navy
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_pajama_top_small_navy
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_pajama_top_small_navy
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[clothes_item_pajama_top_small_navy](none)<br>[](none)<br>[Clothes
+    Item Pajama Top Small Navy](none)<br><br>'
+markdown_short: '[clothes_item_pajama_top_small_navy](none)<br><br>'
+md5: af8b700105234d436380997167f5321f
+md5_10: af8b700105
+md5_10_upper: AF8B700105
+md5_5: af8b7
+md5_5_upper: AF8B7
+md5_6: af8b70
+md5_6_alpha: 6ukxc
+md5_6_alpha_upper: 6UKXC
+md5_6_upper: AF8B70
+name: Clothes Item Pajama Top Small Navy
+name_no_class: Item Pajama Top Small Navy
+name_no_size: Small Navy
+name_no_size_short: Small Navy
+name_no_type: Pajama Top Small Navy
+oomp_key: oomp_clothes_item_pajama_top_small_navy
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: pajama_top
+size_capital: Pajama Top
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PAJAMA_TOP
+type: item
+type_capital: Item
+type_first_letter: i
+type_first_letter_upper: I
+type_upper: ITEM

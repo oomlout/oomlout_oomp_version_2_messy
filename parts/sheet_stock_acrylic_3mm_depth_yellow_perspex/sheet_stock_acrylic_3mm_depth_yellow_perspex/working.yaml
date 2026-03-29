@@ -1,0 +1,78 @@
+classification: sheet_stock
+classification_capital: Sheet Stock
+classification_first_letter: s
+classification_first_letter_upper: S
+classification_upper: SHEET_STOCK
+color: yellow
+color_capital: Yellow
+color_first_letter: y
+color_first_letter_upper: Y
+color_upper: YELLOW
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'Y '
+description_or_color_upper: 'Y '
+directory: parts/sheet_stock_acrylic_3mm_depth_yellow_perspex
+distributors: []
+filter: ''
+from_yaml: false
+id: sheet_stock_acrylic_3mm_depth_yellow_perspex
+id_no_class: acrylic_3mm_depth_yellow_perspex
+id_no_size: yellow_perspex
+id_no_type: 3mm_depth_yellow_perspex
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/sheet_stock_acrylic_3mm_depth_yellow_perspex
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/sheet_stock_acrylic_3mm_depth_yellow_perspex
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/sheet_stock_acrylic_3mm_depth_yellow_perspex
+manufacturer: perspex
+manufacturer_capital: Perspex
+manufacturer_first_letter: p
+manufacturer_first_letter_upper: P
+manufacturer_upper: PERSPEX
+manufacturers: []
+markdown_full: '[sheet_stock_acrylic_3mm_depth_yellow_perspex](none)<br>[y](none)<br>[Sheet
+    Stock Acrylic 3Mm Depth Yellow Perspex](none)<br><br>'
+markdown_short: '[sheet_stock_acrylic_3mm_depth_yellow_perspex](none)<br><br>'
+md5: 80f1b8c02884bc93bff16df3aeb1f493
+md5_10: 80f1b8c028
+md5_10_upper: 80F1B8C028
+md5_5: 80f1b
+md5_5_upper: 80F1B
+md5_6: 80f1b8
+md5_6_alpha: 514fs
+md5_6_alpha_upper: 514FS
+md5_6_upper: 80F1B8
+name: Sheet Stock Acrylic 3Mm Depth Yellow Perspex
+name_no_class: Acrylic 3Mm Depth Yellow Perspex
+name_no_size: Yellow Perspex
+name_no_size_short: Yellow Perspex
+name_no_type: 3Mm Depth Yellow Perspex
+oomp_key: oomp_sheet_stock_acrylic_3mm_depth_yellow_perspex
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: y
+short_code_upper: Y
+size: 3mm_depth
+size_capital: 3mm Depth
+size_first_letter: '3'
+size_first_letter_upper: '3'
+size_only_numbers: '3'
+size_only_numbers_no_zeros: '3'
+size_upper: 3MM_DEPTH
+type: acrylic
+type_capital: Acrylic
+type_first_letter: a
+type_first_letter_upper: A
+type_upper: ACRYLIC

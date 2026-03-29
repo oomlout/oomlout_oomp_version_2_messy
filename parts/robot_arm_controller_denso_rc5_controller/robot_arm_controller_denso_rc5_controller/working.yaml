@@ -1,0 +1,76 @@
+classification: robot_arm_controller
+classification_capital: Robot Arm Controller
+classification_first_letter: r
+classification_first_letter_upper: R
+classification_upper: ROBOT_ARM_CONTROLLER
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: controller
+description_main_capital: Controller
+description_main_first_letter: c
+description_main_first_letter_upper: C
+description_main_upper: CONTROLLER
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/robot_arm_controller_denso_rc5_controller
+distributors: []
+id: robot_arm_controller_denso_rc5_controller
+id_no_class: denso_rc5_controller
+id_no_size: controller
+id_no_type: rc5_controller
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/robot_arm_controller_denso_rc5_controller
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/robot_arm_controller_denso_rc5_controller
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/robot_arm_controller_denso_rc5_controller
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[robot_arm_controller_denso_rc5_controller](none)<br>[](none)<br>[Robot
+    Arm Controller Denso Rc5 Controller](none)<br><br>'
+markdown_short: '[robot_arm_controller_denso_rc5_controller](none)<br><br>'
+md5: a809dbc85da2c3ebc40a335f65df516a
+md5_10: a809dbc85d
+md5_10_upper: A809DBC85D
+md5_5: a809d
+md5_5_upper: A809D
+md5_6: a809db
+md5_6_alpha: 6k1cr
+md5_6_alpha_upper: 6K1CR
+md5_6_upper: A809DB
+name: Robot Arm Controller Denso Rc5 Controller
+name_no_class: Denso Rc5 Controller
+name_no_size: Controller
+name_no_size_short: Controller
+name_no_type: Rc5 Controller
+oomp_key: oomp_robot_arm_controller_denso_rc5_controller
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: rc5
+size_capital: Rc5
+size_first_letter: r
+size_first_letter_upper: R
+size_only_numbers: '5'
+size_only_numbers_no_zeros: '5'
+size_upper: RC5
+type: denso
+type_capital: Denso
+type_first_letter: d
+type_first_letter_upper: D
+type_upper: DENSO

@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: m3_id_7_mm_od
+color_capital: M3 Id 7 mm Od
+color_first_letter: m
+color_first_letter_upper: M
+color_upper: M3_ID_7_MM_OD
+description: category_hardware
+description_extra: tote
+description_extra_capital: Tote
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TOTE
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'M '
+description_or_color_upper: 'M '
+directory: parts/category_hardware_spacer_m3_id_7_mm_od_tote
+distributors: []
+filter: ''
+from_yaml: false
+id: category_hardware_spacer_m3_id_7_mm_od_tote
+id_no_class: hardware_spacer_m3_id_7_mm_od_tote
+id_no_size: m3_id_7_mm_od_tote
+id_no_type: spacer_m3_id_7_mm_od_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_spacer_m3_id_7_mm_od_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_spacer_m3_id_7_mm_od_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_spacer_m3_id_7_mm_od_tote
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_hardware_spacer_m3_id_7_mm_od_tote](none)<br>[](none)<br>[Category
+    Hardware Spacer M3 Id 7 Mm Od Tote](none)<br><br>'
+markdown_short: '[category_hardware_spacer_m3_id_7_mm_od_tote](none)<br><br>'
+md5: 0297da9cd6f320f2da18e223e546b226
+md5_10: 0297da9cd6
+md5_10_upper: 0297DA9CD6
+md5_5: 0297d
+md5_5_upper: 0297D
+md5_6: 0297da
+md5_6_alpha: 3n4q
+md5_6_alpha_upper: 3N4Q
+md5_6_upper: 0297DA
+name: Category Hardware Spacer M3 Id 7 Mm Od Tote
+name_no_class: Hardware Spacer M3 Id 7 Mm Od Tote
+name_no_size: M3 Id 7 Mm Od Tote
+name_no_size_short: M3 Id 7 Mm Od Tote
+name_no_type: Spacer M3 Id 7 Mm Od Tote
+oomp_key: oomp_category_hardware_spacer_m3_id_7_mm_od_tote
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryhardware
+size: spacer
+size_capital: Spacer
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SPACER
+type: hardware
+type_capital: Hardware
+type_first_letter: h
+type_first_letter_upper: H
+type_upper: HARDWARE

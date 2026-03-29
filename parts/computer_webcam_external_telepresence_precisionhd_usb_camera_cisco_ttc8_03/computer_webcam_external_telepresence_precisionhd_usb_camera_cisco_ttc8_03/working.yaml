@@ -1,0 +1,80 @@
+classification: computer
+classification_capital: Computer
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: COMPUTER
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: telepresence_precisionhd_usb_camera
+description_main_capital: Telepresence Precisionhd Usb Camera
+description_main_first_letter: t
+description_main_first_letter_upper: T
+description_main_upper: TELEPRESENCE_PRECISIONHD_USB_CAMERA
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/computer_webcam_external_telepresence_precisionhd_usb_camera_cisco_ttc8_03
+distributors: []
+filter: ''
+from_yaml: false
+id: computer_webcam_external_telepresence_precisionhd_usb_camera_cisco_ttc8_03
+id_no_class: webcam_external_telepresence_precisionhd_usb_camera_cisco_ttc8_03
+id_no_size: telepresence_precisionhd_usb_camera_cisco_ttc8_03
+id_no_type: external_telepresence_precisionhd_usb_camera_cisco_ttc8_03
+link_distributor_cisco: ''
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_webcam_external_telepresence_precisionhd_usb_camera_cisco_ttc8_03
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_webcam_external_telepresence_precisionhd_usb_camera_cisco_ttc8_03
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_webcam_external_telepresence_precisionhd_usb_camera_cisco_ttc8_03
+manufacturer: cisco
+manufacturer_capital: Cisco
+manufacturer_first_letter: c
+manufacturer_first_letter_upper: C
+manufacturer_upper: CISCO
+manufacturers: []
+markdown_full: '[computer_webcam_external_telepresence_precisionhd_usb_camera_cisco_ttc8_03](none)<br>[](none)<br>[Computer
+    Webcam External Telepresence Precisionhd Usb Camera Cisco Ttc8 03](none)<br><br>'
+markdown_short: '[computer_webcam_external_telepresence_precisionhd_usb_camera_cisco_ttc8_03](none)<br><br>'
+md5: c1870bafe7487f157033795fa881af90
+md5_10: c1870bafe7
+md5_10_upper: C1870BAFE7
+md5_5: c1870
+md5_5_upper: C1870
+md5_6: c1870b
+md5_6_alpha: 7jua3
+md5_6_alpha_upper: 7JUA3
+md5_6_upper: C1870B
+name: Computer Webcam External Telepresence Precisionhd Usb Camera Cisco Ttc8 03
+name_no_class: Webcam External Telepresence Precisionhd Usb Camera Cisco Ttc8 03
+name_no_size: Telepresence Precisionhd Usb Camera Cisco Ttc8 03
+name_no_size_short: Telepresence Precisionhd Usb Camera Cisco Ttc8 03
+name_no_type: External Telepresence Precisionhd Usb Camera Cisco Ttc8 03
+oomp_key: oomp_computer_webcam_external_telepresence_precisionhd_usb_camera_cisco_ttc8_03
+part_number: ttc8_03
+part_number_capital: Ttc8 03
+part_number_exact: TTC8-03
+part_number_first_letter: t
+part_number_first_letter_upper: T
+part_number_upper: TTC8_03
+short_code: ''
+short_code_upper: ''
+size: external
+size_capital: External
+size_first_letter: e
+size_first_letter_upper: E
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: EXTERNAL
+type: webcam
+type_capital: Webcam
+type_first_letter: w
+type_first_letter_upper: W
+type_upper: WEBCAM

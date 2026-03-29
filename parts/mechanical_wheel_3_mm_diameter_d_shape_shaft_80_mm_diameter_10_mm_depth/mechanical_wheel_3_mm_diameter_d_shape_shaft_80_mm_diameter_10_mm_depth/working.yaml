@@ -1,0 +1,80 @@
+classification: mechanical
+classification_capital: Mechanical
+classification_first_letter: m
+classification_first_letter_upper: M
+classification_upper: MECHANICAL
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 80_mm_diameter_10_mm_depth
+description_main_capital: 80 mm Diameter 10 mm Depth
+description_main_first_letter: '8'
+description_main_first_letter_upper: '8'
+description_main_upper: 80_MM_DIAMETER_10_MM_DEPTH
+description_only_numbers: '8010'
+description_only_numbers_short: 8k
+description_or_color: 8k
+description_or_color_upper: 8K
+directory: parts/mechanical_wheel_3_mm_diameter_d_shape_shaft_80_mm_diameter_10_mm_depth
+distributors: []
+id: mechanical_wheel_3_mm_diameter_d_shape_shaft_80_mm_diameter_10_mm_depth
+id_no_class: wheel_3_mm_diameter_d_shape_shaft_80_mm_diameter_10_mm_depth
+id_no_size: 80_mm_diameter_10_mm_depth
+id_no_type: 3_mm_diameter_d_shape_shaft_80_mm_diameter_10_mm_depth
+link_distributor_pololu: https://www.pololu.com/product/1434
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_wheel_3_mm_diameter_d_shape_shaft_80_mm_diameter_10_mm_depth
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_wheel_3_mm_diameter_d_shape_shaft_80_mm_diameter_10_mm_depth
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_wheel_3_mm_diameter_d_shape_shaft_80_mm_diameter_10_mm_depth
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[mechanical_wheel_3_mm_diameter_d_shape_shaft_80_mm_diameter_10_mm_depth](none)<br>[](none)<br>[Mechanical
+    Wheel 3 Mm Diameter D Shape Shaft 80 Mm Diameter 10 Mm Depth](none)<br><br>'
+markdown_short: '[mechanical_wheel_3_mm_diameter_d_shape_shaft_80_mm_diameter_10_mm_depth](none)<br><br>'
+md5: 2deb0edfeaddbf62ab34e31b1ff8d830
+md5_10: 2deb0edfea
+md5_10_upper: 2DEB0EDFEA
+md5_5: 2deb0
+md5_5_upper: 2DEB0
+md5_6: 2deb0e
+md5_6_alpha: 1shzi
+md5_6_alpha_upper: 1SHZI
+md5_6_upper: 2DEB0E
+name: Mechanical Wheel 3 Mm Diameter D Shape Shaft 80 Mm Diameter 10 Mm Depth
+name_no_class: Wheel 3 Mm Diameter D Shape Shaft 80 Mm Diameter 10 Mm Depth
+name_no_size: 80 Mm Diameter 10 Mm Depth
+name_no_size_short: 80 Mm Diameter 10 Mm Depth
+name_no_type: 3 Mm Diameter D Shape Shaft 80 Mm Diameter 10 Mm Depth
+name_short: Wheel 80mm Diameter 3 mm D Shape Shaft
+oomp_key: oomp_mechanical_wheel_3_mm_diameter_d_shape_shaft_80_mm_diameter_10_mm_depth
+part_number: ''
+part_number_capital: ''
+part_number_distributor_pololu: '1434'
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: 3_mm_diameter_d_shape_shaft
+size_capital: 3 mm Diameter D Shape Shaft
+size_first_letter: '3'
+size_first_letter_upper: '3'
+size_only_numbers: '3'
+size_only_numbers_no_zeros: '3'
+size_upper: 3_MM_DIAMETER_D_SHAPE_SHAFT
+type: wheel
+type_capital: Wheel
+type_first_letter: w
+type_first_letter_upper: W
+type_upper: WHEEL

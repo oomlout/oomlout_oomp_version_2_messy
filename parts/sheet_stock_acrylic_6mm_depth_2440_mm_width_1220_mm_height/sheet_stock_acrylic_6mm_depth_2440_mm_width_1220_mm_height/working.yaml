@@ -1,0 +1,78 @@
+classification: sheet_stock
+classification_capital: Sheet Stock
+classification_first_letter: s
+classification_first_letter_upper: S
+classification_upper: SHEET_STOCK
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 2440_mm_width_1220_mm_height
+description_main_capital: 2440 mm Width 1220 mm Height
+description_main_first_letter: '2'
+description_main_first_letter_upper: '2'
+description_main_upper: 2440_MM_WIDTH_1220_MM_HEIGHT
+description_only_numbers: '24401220'
+description_only_numbers_short: 2M4
+description_or_color: 2M4
+description_or_color_upper: 2M4
+directory: parts/sheet_stock_acrylic_6mm_depth_2440_mm_width_1220_mm_height
+distributors: []
+filter: ''
+from_yaml: false
+id: sheet_stock_acrylic_6mm_depth_2440_mm_width_1220_mm_height
+id_no_class: acrylic_6mm_depth_2440_mm_width_1220_mm_height
+id_no_size: 2440_mm_width_1220_mm_height
+id_no_type: 6mm_depth_2440_mm_width_1220_mm_height
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/sheet_stock_acrylic_6mm_depth_2440_mm_width_1220_mm_height
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/sheet_stock_acrylic_6mm_depth_2440_mm_width_1220_mm_height
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/sheet_stock_acrylic_6mm_depth_2440_mm_width_1220_mm_height
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[sheet_stock_acrylic_6mm_depth_2440_mm_width_1220_mm_height](none)<br>[](none)<br>[Sheet
+    Stock Acrylic 6Mm Depth 2440 Mm Width 1220 Mm Height](none)<br><br>'
+markdown_short: '[sheet_stock_acrylic_6mm_depth_2440_mm_width_1220_mm_height](none)<br><br>'
+md5: 1ff15ac26c10e88e5c1208485cf62c00
+md5_10: 1ff15ac26c
+md5_10_upper: 1FF15AC26C
+md5_5: 1ff15
+md5_5_upper: 1FF15
+md5_6: 1ff15a
+md5_6_alpha: 18va2
+md5_6_alpha_upper: 18VA2
+md5_6_upper: 1FF15A
+name: Sheet Stock Acrylic 6Mm Depth 2440 Mm Width 1220 Mm Height
+name_no_class: Acrylic 6Mm Depth 2440 Mm Width 1220 Mm Height
+name_no_size: 2440 Mm Width 1220 Mm Height
+name_no_size_short: 2440 Mm Width 1220 Mm Height
+name_no_type: 6Mm Depth 2440 Mm Width 1220 Mm Height
+oomp_key: oomp_sheet_stock_acrylic_6mm_depth_2440_mm_width_1220_mm_height
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: 6mm_depth
+size_capital: 6mm Depth
+size_first_letter: '6'
+size_first_letter_upper: '6'
+size_only_numbers: '6'
+size_only_numbers_no_zeros: '6'
+size_upper: 6MM_DEPTH
+type: acrylic
+type_capital: Acrylic
+type_first_letter: a
+type_first_letter_upper: A
+type_upper: ACRYLIC

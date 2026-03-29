@@ -1,0 +1,77 @@
+classification: packaging
+classification_capital: Packaging
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_upper: PACKAGING
+color: white
+color_capital: White
+color_first_letter: w
+color_first_letter_upper: W
+color_upper: WHITE
+description_extra: transfer_thermal_style
+description_extra_capital: Transfer Thermal Style
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TRANSFER_THERMAL_STYLE
+description_main: paper
+description_main_capital: Paper
+description_main_first_letter: p
+description_main_first_letter_upper: P
+description_main_upper: PAPER
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'W '
+description_or_color_upper: 'W '
+directory: parts/packaging_label_76_2_mm_width_76_2_mm_length_white_paper_transfer_thermal_style
+distributors: []
+id: packaging_label_76_2_mm_width_76_2_mm_length_white_paper_transfer_thermal_style
+id_no_class: label_76_2_mm_width_76_2_mm_length_white_paper_transfer_thermal_style
+id_no_size: white_paper_transfer_thermal_style
+id_no_type: 76_2_mm_width_76_2_mm_length_white_paper_transfer_thermal_style
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/packaging_label_76_2_mm_width_76_2_mm_length_white_paper_transfer_thermal_style
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/packaging_label_76_2_mm_width_76_2_mm_length_white_paper_transfer_thermal_style
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/packaging_label_76_2_mm_width_76_2_mm_length_white_paper_transfer_thermal_style
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[packaging_label_76_2_mm_width_76_2_mm_length_white_paper_transfer_thermal_style](none)<br>[w](none)<br>[Packaging
+    Label 76 2 Mm Width 76 2 Mm Length White Paper Transfer Thermal Style](none)<br><br>'
+markdown_short: '[packaging_label_76_2_mm_width_76_2_mm_length_white_paper_transfer_thermal_style](none)<br><br>'
+md5: e300ff3c4515bcfee1be5e46d51b8248
+md5_10: e300ff3c45
+md5_10_upper: E300FF3C45
+md5_5: e300f
+md5_5_upper: E300F
+md5_6: e300ff
+md5_6_alpha: 8uv3z
+md5_6_alpha_upper: 8UV3Z
+md5_6_upper: E300FF
+name: Packaging Label 76 2 Mm Width 76 2 Mm Length White Paper Transfer Thermal Style
+name_no_class: Label 76 2 Mm Width 76 2 Mm Length White Paper Transfer Thermal Style
+name_no_size: White Paper Transfer Thermal Style
+name_no_size_short: White Paper Transfer Thermal Style
+name_no_type: 76 2 Mm Width 76 2 Mm Length White Paper Transfer Thermal Style
+oomp_key: oomp_packaging_label_76_2_mm_width_76_2_mm_length_white_paper_transfer_thermal_style
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: w
+short_code_upper: W
+short_name: ''
+size: 76_2_mm_width_76_2_mm_length
+size_capital: 76.2 mm Width 76.2 mm Length
+size_first_letter: '7'
+size_first_letter_upper: '7'
+size_only_numbers: '762762'
+size_only_numbers_no_zeros: '762762'
+size_upper: 76_2_MM_WIDTH_76_2_MM_LENGTH
+type: label
+type_capital: Label
+type_first_letter: l
+type_first_letter_upper: L
+type_upper: LABEL

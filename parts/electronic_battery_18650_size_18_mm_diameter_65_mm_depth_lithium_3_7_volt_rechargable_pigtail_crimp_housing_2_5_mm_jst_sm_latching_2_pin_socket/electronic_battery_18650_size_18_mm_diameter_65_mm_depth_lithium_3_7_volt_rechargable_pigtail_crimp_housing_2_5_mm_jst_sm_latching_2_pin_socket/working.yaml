@@ -1,0 +1,84 @@
+classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_upper: ELECTRONIC
+color: lithium_3_7_volt_rechargable
+color_capital: Lithium 3.7 Volt Rechargable
+color_first_letter: l
+color_first_letter_upper: L
+color_upper: LITHIUM_3_7_VOLT_RECHARGABLE
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: pigtail_crimp_housing_2_5_mm_jst_sm_latching_2_pin_socket
+description_main_capital: Pigtail Crimp Housing 2.5 mm Jst Sm Latching 2 Pin Socket
+description_main_first_letter: p
+description_main_first_letter_upper: P
+description_main_upper: PIGTAIL_CRIMP_HOUSING_2_5_MM_JST_SM_LATCHING_2_PIN_SOCKET
+description_only_numbers: '252'
+description_only_numbers_short: '252'
+description_or_color: L252
+description_or_color_upper: L252
+directory: parts/electronic_battery_18650_size_18_mm_diameter_65_mm_depth_lithium_3_7_volt_rechargable_pigtail_crimp_housing_2_5_mm_jst_sm_latching_2_pin_socket
+distributors: []
+id: electronic_battery_18650_size_18_mm_diameter_65_mm_depth_lithium_3_7_volt_rechargable_pigtail_crimp_housing_2_5_mm_jst_sm_latching_2_pin_socket
+id_no_class: battery_18650_size_18_mm_diameter_65_mm_depth_lithium_3_7_volt_rechargable_pigtail_crimp_housing_2_5_mm_jst_sm_latching_2_pin_socket
+id_no_size: lithium_3_7_volt_rechargable_pigtail_crimp_housing_2_5_mm_jst_sm_latching_2_pin_socket
+id_no_type: 18650_size_18_mm_diameter_65_mm_depth_lithium_3_7_volt_rechargable_pigtail_crimp_housing_2_5_mm_jst_sm_latching_2_pin_socket
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_battery_18650_size_18_mm_diameter_65_mm_depth_lithium_3_7_volt_rechargable_pigtail_crimp_housing_2_5_mm_jst_sm_latching_2_pin_socket
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_battery_18650_size_18_mm_diameter_65_mm_depth_lithium_3_7_volt_rechargable_pigtail_crimp_housing_2_5_mm_jst_sm_latching_2_pin_socket
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_battery_18650_size_18_mm_diameter_65_mm_depth_lithium_3_7_volt_rechargable_pigtail_crimp_housing_2_5_mm_jst_sm_latching_2_pin_socket
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[electronic_battery_18650_size_18_mm_diameter_65_mm_depth_lithium_3_7_volt_rechargable_pigtail_crimp_housing_2_5_mm_jst_sm_latching_2_pin_socket](none)<br>[](none)<br>[Electronic
+    Battery 18650 Size 18 Mm Diameter 65 Mm Depth Lithium 3 7 Volt Rechargable Pigtail
+    Crimp Housing 2 5 Mm Jst Sm Latching 2 Pin Socket](none)<br><br>'
+markdown_short: '[electronic_battery_18650_size_18_mm_diameter_65_mm_depth_lithium_3_7_volt_rechargable_pigtail_crimp_housing_2_5_mm_jst_sm_latching_2_pin_socket](none)<br><br>'
+md5: 1d4872c5686edbfce7a03a10bdb051bc
+md5_10: 1d4872c568
+md5_10_upper: 1D4872C568
+md5_5: 1d487
+md5_5_upper: 1D487
+md5_6: 1d4872
+md5_6_alpha: 154s2
+md5_6_alpha_upper: 154S2
+md5_6_upper: 1D4872
+name: Electronic Battery 18650 Size 18 Mm Diameter 65 Mm Depth Lithium 3 7 Volt Rechargable
+    Pigtail Crimp Housing 2 5 Mm Jst Sm Latching 2 Pin Socket
+name_no_class: Battery 18650 Size 18 Mm Diameter 65 Mm Depth Lithium 3 7 Volt Rechargable
+    Pigtail Crimp Housing 2 5 Mm Jst Sm Latching 2 Pin Socket
+name_no_size: Lithium 3 7 Volt Rechargable Pigtail Crimp Housing 2 5 Mm Jst Sm Latching
+    2 Pin Socket
+name_no_size_short: Lithium 3 7 Volt Rechargable Pigtail Crimp Housing 2 5 Mm Jst
+    Sm Latching 2 Pin Socket
+name_no_type: 18650 Size 18 Mm Diameter 65 Mm Depth Lithium 3 7 Volt Rechargable Pigtail
+    Crimp Housing 2 5 Mm Jst Sm Latching 2 Pin Socket
+oomp_key: oomp_electronic_battery_18650_size_18_mm_diameter_65_mm_depth_lithium_3_7_volt_rechargable_pigtail_crimp_housing_2_5_mm_jst_sm_latching_2_pin_socket
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: 18650_size_18_mm_diameter_65_mm_depth
+size_capital: 18650 Size 18 mm Diameter 65 mm Depth
+size_first_letter: '1'
+size_first_letter_upper: '1'
+size_only_numbers: '186501865'
+size_only_numbers_no_zeros: '18651865'
+size_upper: 18650_SIZE_18_MM_DIAMETER_65_MM_DEPTH
+type: battery
+type_capital: Battery
+type_first_letter: b
+type_first_letter_upper: B
+type_upper: BATTERY

@@ -1,0 +1,77 @@
+classification: toy
+classification_capital: Toy
+classification_first_letter: t
+classification_first_letter_upper: T
+classification_upper: TOY
+color: squismallow
+color_capital: Squismallow
+color_first_letter: s
+color_first_letter_upper: S
+color_upper: SQUISMALLOW
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: small
+description_main_capital: Small
+description_main_first_letter: s
+description_main_first_letter_upper: S
+description_main_upper: SMALL
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'S '
+description_or_color_upper: 'S '
+directory: parts/toy_figurine_branded_squismallow_small
+distributors: []
+id: toy_figurine_branded_squismallow_small
+id_no_class: figurine_branded_squismallow_small
+id_no_size: squismallow_small
+id_no_type: branded_squismallow_small
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_figurine_branded_squismallow_small
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_figurine_branded_squismallow_small
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_figurine_branded_squismallow_small
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[toy_figurine_branded_squismallow_small](none)<br>[](none)<br>[Toy
+    Figurine Branded Squismallow Small](none)<br><br>'
+markdown_short: '[toy_figurine_branded_squismallow_small](none)<br><br>'
+md5: 34eb70dc207d671edcaad27b3fdbe62a
+md5_10: 34eb70dc20
+md5_10_upper: 34EB70DC20
+md5_5: 34eb7
+md5_5_upper: 34EB7
+md5_6: 34eb70
+md5_6_alpha: 22c1c
+md5_6_alpha_upper: 22C1C
+md5_6_upper: 34EB70
+name: Toy Figurine Branded Squismallow Small
+name_no_class: Figurine Branded Squismallow Small
+name_no_size: Squismallow Small
+name_no_size_short: Squismallow Small
+name_no_type: Branded Squismallow Small
+oomp_key: oomp_toy_figurine_branded_squismallow_small
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: branded
+size_capital: Branded
+size_first_letter: b
+size_first_letter_upper: B
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: BRANDED
+type: figurine
+type_capital: Figurine
+type_first_letter: f
+type_first_letter_upper: F
+type_upper: FIGURINE

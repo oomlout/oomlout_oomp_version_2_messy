@@ -1,0 +1,81 @@
+classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_upper: ELECTRONIC
+color: warm_white
+color_capital: Warm White
+color_first_letter: w
+color_first_letter_upper: W
+color_upper: WARM_WHITE
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 3000_mm_length
+description_main_capital: 3000 mm Length
+description_main_first_letter: '3'
+description_main_first_letter_upper: '3'
+description_main_upper: 3000_MM_LENGTH
+description_only_numbers: '3000'
+description_only_numbers_short: 3k
+description_or_color: W3k
+description_or_color_upper: W3K
+directory: parts/electronic_led_strip_12_volt_5_mm_width_warm_white_3000_mm_length
+distributors: []
+filter: ''
+from_yaml: false
+id: electronic_led_strip_12_volt_5_mm_width_warm_white_3000_mm_length
+id_no_class: led_strip_12_volt_5_mm_width_warm_white_3000_mm_length
+id_no_size: warm_white_3000_mm_length
+id_no_type: strip_12_volt_5_mm_width_warm_white_3000_mm_length
+link_distributor_aliexpress: https://www.aliexpress.com/item/1005007532172895.html
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_strip_12_volt_5_mm_width_warm_white_3000_mm_length
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_strip_12_volt_5_mm_width_warm_white_3000_mm_length
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_strip_12_volt_5_mm_width_warm_white_3000_mm_length
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[electronic_led_strip_12_volt_5_mm_width_warm_white_3000_mm_length](none)<br>[l](none)<br>[Electronic
+    Led Strip 12 Volt 5 Mm Width Warm White 3000 Mm Length](none)<br><br>'
+markdown_short: '[electronic_led_strip_12_volt_5_mm_width_warm_white_3000_mm_length](none)<br><br>'
+md5: 736098c610deed3ab42fb0a2fd83642d
+md5_10: 736098c610
+md5_10_upper: 736098C610
+md5_5: '73609'
+md5_5_upper: '73609'
+md5_6: '736098'
+md5_6_alpha: 4i2e0
+md5_6_alpha_upper: 4I2E0
+md5_6_upper: '736098'
+name: Electronic Led Strip 12 Volt 5 Mm Width Warm White 3000 Mm Length
+name_no_class: Led Strip 12 Volt 5 Mm Width Warm White 3000 Mm Length
+name_no_size: Warm White 3000 Mm Length
+name_no_size_short: Warm White 3k Mm Length
+name_no_type: Strip 12 Volt 5 Mm Width Warm White 3000 Mm Length
+oomp_key: oomp_electronic_led_strip_12_volt_5_mm_width_warm_white_3000_mm_length
+part_number: ''
+part_number_capital: ''
+part_number_distriubutor_aliexpress: '1005007532172895'
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: l
+short_code_upper: L
+short_name: Strip 12 Volt 5 Mm Width Warm White3000 Mm Length Led
+size: strip_12_volt_5_mm_width
+size_capital: Strip 12 Volt 5 mm Width
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: '125'
+size_only_numbers_no_zeros: '125'
+size_upper: STRIP_12_VOLT_5_MM_WIDTH
+type: led
+type_capital: Led
+type_first_letter: l
+type_first_letter_upper: L
+type_upper: LED

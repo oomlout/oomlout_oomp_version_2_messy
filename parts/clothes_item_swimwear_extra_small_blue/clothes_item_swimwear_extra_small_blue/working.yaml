@@ -1,0 +1,78 @@
+classification: clothes
+classification_capital: Clothes
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CLOTHES
+color: extra_small
+color_capital: Extra Small
+color_first_letter: e
+color_first_letter_upper: E
+color_upper: EXTRA_SMALL
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: blue
+description_main_capital: Blue
+description_main_first_letter: b
+description_main_first_letter_upper: B
+description_main_upper: BLUE
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'E '
+description_or_color_upper: 'E '
+directory: parts/clothes_item_swimwear_extra_small_blue
+distributors: []
+filter: ''
+from_yaml: false
+id: clothes_item_swimwear_extra_small_blue
+id_no_class: item_swimwear_extra_small_blue
+id_no_size: extra_small_blue
+id_no_type: swimwear_extra_small_blue
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_swimwear_extra_small_blue
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_swimwear_extra_small_blue
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_swimwear_extra_small_blue
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[clothes_item_swimwear_extra_small_blue](none)<br>[](none)<br>[Clothes
+    Item Swimwear Extra Small Blue](none)<br><br>'
+markdown_short: '[clothes_item_swimwear_extra_small_blue](none)<br><br>'
+md5: 189575f8bc5d86967e4e4595b89002b2
+md5_10: 189575f8bc
+md5_10_upper: 189575F8BC
+md5_5: '18957'
+md5_5_upper: '18957'
+md5_6: '189575'
+md5_6_alpha: yj5h
+md5_6_alpha_upper: YJ5H
+md5_6_upper: '189575'
+name: Clothes Item Swimwear Extra Small Blue
+name_no_class: Item Swimwear Extra Small Blue
+name_no_size: Extra Small Blue
+name_no_size_short: Extra Small Blue
+name_no_type: Swimwear Extra Small Blue
+oomp_key: oomp_clothes_item_swimwear_extra_small_blue
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: swimwear
+size_capital: Swimwear
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SWIMWEAR
+type: item
+type_capital: Item
+type_first_letter: i
+type_first_letter_upper: I
+type_upper: ITEM

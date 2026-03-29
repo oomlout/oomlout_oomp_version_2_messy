@@ -1,0 +1,81 @@
+classification: computer
+classification_capital: Computer
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: COMPUTER
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: 1330_mm_width_1422_mm_height_962_mm_depth
+description_extra_capital: 1330 mm Width 1422 mm Height 962 mm Depth
+description_extra_first_letter: '1'
+description_extra_first_letter_upper: '1'
+description_extra_upper: 1330_MM_WIDTH_1422_MM_HEIGHT_962_MM_DEPTH
+description_main: jamboard_stand
+description_main_capital: Jamboard Stand
+description_main_first_letter: j
+description_main_first_letter_upper: J
+description_main_upper: JAMBOARD_STAND
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/computer_video_conferencing_stand_jamboard_stand_1330_mm_width_1422_mm_height_962_mm_depth_google
+distributors: []
+filter: ''
+from_yaml: false
+id: computer_video_conferencing_stand_jamboard_stand_1330_mm_width_1422_mm_height_962_mm_depth_google
+id_no_class: video_conferencing_stand_jamboard_stand_1330_mm_width_1422_mm_height_962_mm_depth_google
+id_no_size: jamboard_1330_mm_width_1422_mm_height_962_mm_depth_google
+id_no_type: stand_jamboard_stand_1330_mm_width_1422_mm_height_962_mm_depth_google
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_video_conferencing_stand_jamboard_stand_1330_mm_width_1422_mm_height_962_mm_depth_google
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_video_conferencing_stand_jamboard_stand_1330_mm_width_1422_mm_height_962_mm_depth_google
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_video_conferencing_stand_jamboard_stand_1330_mm_width_1422_mm_height_962_mm_depth_google
+manufacturer: google
+manufacturer_capital: Google
+manufacturer_first_letter: g
+manufacturer_first_letter_upper: G
+manufacturer_upper: GOOGLE
+manufacturers: []
+markdown_full: '[computer_video_conferencing_stand_jamboard_stand_1330_mm_width_1422_mm_height_962_mm_depth_google](none)<br>[](none)<br>[Computer
+    Video Conferencing Stand Jamboard Stand 1330 Mm Width 1422 Mm Height 962 Mm Depth
+    Google](none)<br><br>'
+markdown_short: '[computer_video_conferencing_stand_jamboard_stand_1330_mm_width_1422_mm_height_962_mm_depth_google](none)<br><br>'
+md5: cb925adce906d1bb3dcdc08dd9c93033
+md5_10: cb925adce9
+md5_10_upper: CB925ADCE9
+md5_5: cb925
+md5_5_upper: CB925
+md5_6: cb925a
+md5_6_alpha: 7xy6y
+md5_6_alpha_upper: 7XY6Y
+md5_6_upper: CB925A
+name: Computer Video Conferencing Stand Jamboard Stand 1330 Mm Width 1422 Mm Height
+    962 Mm Depth Google
+name_no_class: Video Conferencing Stand Jamboard Stand 1330 Mm Width 1422 Mm Height
+    962 Mm Depth Google
+name_no_size: Jamboard 1330 Mm Width 1422 Mm Height 962 Mm Depth Google
+name_no_size_short: Jamboard 1330 Mm Width 1422 Mm Height 962 Mm Depth Google
+name_no_type: Stand Jamboard Stand 1330 Mm Width 1422 Mm Height 962 Mm Depth Google
+oomp_key: oomp_computer_video_conferencing_stand_jamboard_stand_1330_mm_width_1422_mm_height_962_mm_depth_google
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: stand
+size_capital: Stand
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: STAND
+type: video_conferencing
+type_capital: Video Conferencing
+type_first_letter: v
+type_first_letter_upper: V
+type_upper: VIDEO_CONFERENCING

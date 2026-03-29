@@ -1,0 +1,78 @@
+classification: clothes
+classification_capital: Clothes
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CLOTHES
+color: small
+color_capital: Small
+color_first_letter: s
+color_first_letter_upper: S
+color_upper: SMALL
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: pink
+description_main_capital: Pink
+description_main_first_letter: p
+description_main_first_letter_upper: P
+description_main_upper: PINK
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'S '
+description_or_color_upper: 'S '
+directory: parts/clothes_item_underwear_small_pink
+distributors: []
+filter: ''
+from_yaml: false
+id: clothes_item_underwear_small_pink
+id_no_class: item_underwear_small_pink
+id_no_size: small_pink
+id_no_type: underwear_small_pink
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_underwear_small_pink
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_underwear_small_pink
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_underwear_small_pink
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[clothes_item_underwear_small_pink](none)<br>[](none)<br>[Clothes
+    Item Underwear Small Pink](none)<br><br>'
+markdown_short: '[clothes_item_underwear_small_pink](none)<br><br>'
+md5: 769b198dc4242237606fb0792c75e2f2
+md5_10: 769b198dc4
+md5_10_upper: 769B198DC4
+md5_5: 769b1
+md5_5_upper: 769B1
+md5_6: 769b19
+md5_6_alpha: 4mlnd
+md5_6_alpha_upper: 4MLND
+md5_6_upper: 769B19
+name: Clothes Item Underwear Small Pink
+name_no_class: Item Underwear Small Pink
+name_no_size: Small Pink
+name_no_size_short: Small Pink
+name_no_type: Underwear Small Pink
+oomp_key: oomp_clothes_item_underwear_small_pink
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: underwear
+size_capital: Underwear
+size_first_letter: u
+size_first_letter_upper: U
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: UNDERWEAR
+type: item
+type_capital: Item
+type_first_letter: i
+type_first_letter_upper: I
+type_upper: ITEM

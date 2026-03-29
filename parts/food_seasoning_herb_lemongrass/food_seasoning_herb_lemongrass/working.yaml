@@ -1,0 +1,80 @@
+classification: food
+classification_capital: Food
+classification_first_letter: f
+classification_first_letter_upper: F
+classification_upper: FOOD
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: lemongrass
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: lemongrass
+description_main_capital: Lemongrass
+description_main_first_letter: l
+description_main_first_letter_upper: L
+description_main_upper: LEMONGRASS
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/food_seasoning_herb_lemongrass
+distributors: []
+filter: ''
+from_yaml: false
+id: food_seasoning_herb_lemongrass
+id_no_class: seasoning_herb_lemongrass
+id_no_size: lemongrass
+id_no_type: herb_lemongrass
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_herb_lemongrass
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_herb_lemongrass
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_herb_lemongrass
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[food_seasoning_herb_lemongrass](none)<br>[](none)<br>[Food Seasoning
+    Herb Lemongrass](none)<br><br>'
+markdown_short: '[food_seasoning_herb_lemongrass](none)<br><br>'
+md5: f74d7f2a0e1f23a188bc8b37da181d4c
+md5_10: f74d7f2a0e
+md5_10_upper: F74D7F2A0E
+md5_5: f74d7
+md5_5_upper: F74D7
+md5_6: f74d7f
+md5_6_alpha: 9ndkv
+md5_6_alpha_upper: 9NDKV
+md5_6_upper: F74D7F
+name: Food Seasoning Herb Lemongrass
+name_no_class: Seasoning Herb Lemongrass
+name_no_size: Lemongrass
+name_no_size_short: Lemongrass
+name_no_type: Herb Lemongrass
+name_short: Lemongrass
+oomp_key: oomp_food_seasoning_herb_lemongrass
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: herb
+size_capital: Herb
+size_first_letter: h
+size_first_letter_upper: H
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: HERB
+type: seasoning
+type_capital: Seasoning
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: SEASONING

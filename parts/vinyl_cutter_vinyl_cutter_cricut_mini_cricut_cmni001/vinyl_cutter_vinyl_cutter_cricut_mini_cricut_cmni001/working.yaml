@@ -1,0 +1,80 @@
+classification: vinyl_cutter
+classification_capital: Vinyl Cutter
+classification_first_letter: v
+classification_first_letter_upper: V
+classification_upper: VINYL_CUTTER
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: mini
+description_main_capital: Mini
+description_main_first_letter: m
+description_main_first_letter_upper: M
+description_main_upper: MINI
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/vinyl_cutter_vinyl_cutter_cricut_mini_cricut_cmni001
+distributors: []
+filter: ''
+from_yaml: false
+id: vinyl_cutter_vinyl_cutter_cricut_mini_cricut_cmni001
+id_no_class: cricut_mini_cricut_cmni001
+id_no_size: mini_cmni001
+id_no_type: cricut_mini_cricut_cmni001
+link_distributor_cricut: ''
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/vinyl_cutter_vinyl_cutter_cricut_mini_cricut_cmni001
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/vinyl_cutter_vinyl_cutter_cricut_mini_cricut_cmni001
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/vinyl_cutter_vinyl_cutter_cricut_mini_cricut_cmni001
+manufacturer: cricut
+manufacturer_capital: Cricut
+manufacturer_first_letter: c
+manufacturer_first_letter_upper: C
+manufacturer_upper: CRICUT
+manufacturers: []
+markdown_full: '[vinyl_cutter_vinyl_cutter_cricut_mini_cricut_cmni001](none)<br>[](none)<br>[Vinyl
+    Cutter Vinyl Cutter Cricut Mini Cricut Cmni001](none)<br><br>'
+markdown_short: '[vinyl_cutter_vinyl_cutter_cricut_mini_cricut_cmni001](none)<br><br>'
+md5: 1ecbb47ef8b41bf63bd7e80806804ea6
+md5_10: 1ecbb47ef8
+md5_10_upper: 1ECBB47EF8
+md5_5: 1ecbb
+md5_5_upper: 1ECBB
+md5_6: 1ecbb4
+md5_6_alpha: 1799w
+md5_6_alpha_upper: 1799W
+md5_6_upper: 1ECBB4
+name: Vinyl Cutter Vinyl Cutter Cricut Mini Cricut Cmni001
+name_no_class: Cricut Mini Cricut Cmni001
+name_no_size: Mini Cmni001
+name_no_size_short: Mini Cmni001
+name_no_type: Cricut Mini Cricut Cmni001
+oomp_key: oomp_vinyl_cutter_vinyl_cutter_cricut_mini_cricut_cmni001
+part_number: cmni001
+part_number_capital: Cmni001
+part_number_exact: CMNI001
+part_number_first_letter: c
+part_number_first_letter_upper: C
+part_number_upper: CMNI001
+short_code: ''
+short_code_upper: ''
+size: cricut
+size_capital: Cricut
+size_first_letter: c
+size_first_letter_upper: C
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: CRICUT
+type: vinyl_cutter
+type_capital: Vinyl Cutter
+type_first_letter: v
+type_first_letter_upper: V
+type_upper: VINYL_CUTTER

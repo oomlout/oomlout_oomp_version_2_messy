@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: 3216_avx_a
+color_capital: 3216 Avx A
+color_first_letter: '3'
+color_first_letter_upper: '3'
+color_upper: 3216_AVX_A
+description: category_electronic
+description_extra: to_sort
+description_extra_capital: To Sort
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TO_SORT
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: '3 '
+description_or_color_upper: '3 '
+directory: parts/category_electronic_capacitor_3216_avx_a_to_sort
+distributors: []
+filter: ''
+from_yaml: false
+id: category_electronic_capacitor_3216_avx_a_to_sort
+id_no_class: electronic_capacitor_3216_avx_a_to_sort
+id_no_size: 3216_avx_a_to_sort
+id_no_type: capacitor_3216_avx_a_to_sort
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_capacitor_3216_avx_a_to_sort
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_capacitor_3216_avx_a_to_sort
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_capacitor_3216_avx_a_to_sort
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_electronic_capacitor_3216_avx_a_to_sort](none)<br>[](none)<br>[Category
+    Electronic Capacitor 3216 Avx A To Sort](none)<br><br>'
+markdown_short: '[category_electronic_capacitor_3216_avx_a_to_sort](none)<br><br>'
+md5: d7dba8f3bdc2a47fa95c88bc2ed7fb40
+md5_10: d7dba8f3bd
+md5_10_upper: D7DBA8F3BD
+md5_5: d7dba
+md5_5_upper: D7DBA
+md5_6: d7dba8
+md5_6_alpha: 8f7hk
+md5_6_alpha_upper: 8F7HK
+md5_6_upper: D7DBA8
+name: Category Electronic Capacitor 3216 Avx A To Sort
+name_no_class: Electronic Capacitor 3216 Avx A To Sort
+name_no_size: 3216 Avx A To Sort
+name_no_size_short: 3216 Avx A To Sort
+name_no_type: Capacitor 3216 Avx A To Sort
+oomp_key: oomp_category_electronic_capacitor_3216_avx_a_to_sort
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryelectronic
+size: capacitor
+size_capital: Capacitor
+size_first_letter: c
+size_first_letter_upper: C
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: CAPACITOR
+type: electronic
+type_capital: Electronic
+type_first_letter: e
+type_first_letter_upper: E
+type_upper: ELECTRONIC

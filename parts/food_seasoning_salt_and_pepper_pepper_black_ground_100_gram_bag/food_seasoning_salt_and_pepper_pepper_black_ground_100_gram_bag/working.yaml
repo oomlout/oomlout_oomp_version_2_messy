@@ -1,0 +1,80 @@
+classification: food
+classification_capital: Food
+classification_first_letter: f
+classification_first_letter_upper: F
+classification_upper: FOOD
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: pepper black ground
+description_extra: 100_gram_bag
+description_extra_capital: 100 Gram Bag
+description_extra_first_letter: '1'
+description_extra_first_letter_upper: '1'
+description_extra_upper: 100_GRAM_BAG
+description_main: pepper_black_ground
+description_main_capital: Pepper Black Ground
+description_main_first_letter: p
+description_main_first_letter_upper: P
+description_main_upper: PEPPER_BLACK_GROUND
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/food_seasoning_salt_and_pepper_pepper_black_ground_100_gram_bag
+distributors: []
+filter: ''
+from_yaml: false
+id: food_seasoning_salt_and_pepper_pepper_black_ground_100_gram_bag
+id_no_class: seasoning_salt_and_pepper_pepper_black_ground_100_gram_bag
+id_no_size: pepper_black_ground_100_gram_bag
+id_no_type: salt_and_pepper_pepper_black_ground_100_gram_bag
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_salt_and_pepper_pepper_black_ground_100_gram_bag
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_salt_and_pepper_pepper_black_ground_100_gram_bag
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_salt_and_pepper_pepper_black_ground_100_gram_bag
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[food_seasoning_salt_and_pepper_pepper_black_ground_100_gram_bag](none)<br>[](none)<br>[Food
+    Seasoning Salt And Pepper Pepper Black Ground 100 Gram Bag](none)<br><br>'
+markdown_short: '[food_seasoning_salt_and_pepper_pepper_black_ground_100_gram_bag](none)<br><br>'
+md5: d0f8f403c20a5162919fdbd139f69e37
+md5_10: d0f8f403c2
+md5_10_upper: D0F8F403C2
+md5_5: d0f8f
+md5_5_upper: D0F8F
+md5_6: d0f8f4
+md5_6_alpha: 85jas
+md5_6_alpha_upper: 85JAS
+md5_6_upper: D0F8F4
+name: Food Seasoning Salt And Pepper Pepper Black Ground 100 Gram Bag
+name_no_class: Seasoning Salt And Pepper Pepper Black Ground 100 Gram Bag
+name_no_size: Pepper Black Ground 100 Gram Bag
+name_no_size_short: Pepper Black Ground 100 Gram Bag
+name_no_type: Salt And Pepper Pepper Black Ground 100 Gram Bag
+name_short: Pepper Black Ground
+oomp_key: oomp_food_seasoning_salt_and_pepper_pepper_black_ground_100_gram_bag
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: salt_and_pepper
+size_capital: Salt And Pepper
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SALT_AND_PEPPER
+type: seasoning
+type_capital: Seasoning
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: SEASONING

@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: cleaning
+color_capital: Cleaning
+color_first_letter: c
+color_first_letter_upper: C
+color_upper: CLEANING
+description: category_printer
+description_extra: to_sort
+description_extra_capital: To Sort
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TO_SORT
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'C '
+description_or_color_upper: 'C '
+directory: parts/category_printer_ink_cleaning_to_sort
+distributors: []
+filter: ''
+from_yaml: false
+id: category_printer_ink_cleaning_to_sort
+id_no_class: printer_ink_cleaning_to_sort
+id_no_size: cleaning_to_sort
+id_no_type: ink_cleaning_to_sort
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_printer_ink_cleaning_to_sort
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_printer_ink_cleaning_to_sort
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_printer_ink_cleaning_to_sort
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_printer_ink_cleaning_to_sort](none)<br>[](none)<br>[Category
+    Printer Ink Cleaning To Sort](none)<br><br>'
+markdown_short: '[category_printer_ink_cleaning_to_sort](none)<br><br>'
+md5: fa4b469b9fc11ec5b835a97e5bff3369
+md5_10: fa4b469b9f
+md5_10_upper: FA4B469B9F
+md5_5: fa4b4
+md5_5_upper: FA4B4
+md5_6: fa4b46
+md5_6_alpha: 9rkue
+md5_6_alpha_upper: 9RKUE
+md5_6_upper: FA4B46
+name: Category Printer Ink Cleaning To Sort
+name_no_class: Printer Ink Cleaning To Sort
+name_no_size: Cleaning To Sort
+name_no_size_short: Cleaning To Sort
+name_no_type: Ink Cleaning To Sort
+oomp_key: oomp_category_printer_ink_cleaning_to_sort
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryprinter
+size: ink
+size_capital: Ink
+size_first_letter: i
+size_first_letter_upper: I
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: INK
+type: printer
+type_capital: Printer
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PRINTER

@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_tool
+description_extra: old
+description_extra_capital: Old
+description_extra_first_letter: o
+description_extra_first_letter_upper: O
+description_extra_upper: OLD
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_tool_screw_driver_multi_driver_old
+distributors: []
+filter: ''
+from_yaml: false
+id: category_tool_screw_driver_multi_driver_old
+id_no_class: tool_screw_driver_multi_driver_old
+id_no_size: old
+id_no_type: screw_driver_multi_driver_old
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_screw_driver_multi_driver_old
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_screw_driver_multi_driver_old
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_screw_driver_multi_driver_old
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_tool_screw_driver_multi_driver_old](none)<br>[](none)<br>[Category
+    Tool Screw Driver Multi Driver Old](none)<br><br>'
+markdown_short: '[category_tool_screw_driver_multi_driver_old](none)<br><br>'
+md5: 3da585b3c35277dafe4622a9bc44a70a
+md5_10: 3da585b3c3
+md5_10_upper: 3DA585B3C3
+md5_5: 3da58
+md5_5_upper: 3DA58
+md5_6: 3da585
+md5_6_alpha: 2elc5
+md5_6_alpha_upper: 2ELC5
+md5_6_upper: 3DA585
+name: Category Tool Screw Driver Multi Driver Old
+name_no_class: Tool Screw Driver Multi Driver Old
+name_no_size: Old
+name_no_size_short: Old
+name_no_type: Screw Driver Multi Driver Old
+oomp_key: oomp_category_tool_screw_driver_multi_driver_old
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorytool
+size: screw_driver_multi_driver
+size_capital: Screw Driver Multi Driver
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SCREW_DRIVER_MULTI_DRIVER
+type: tool
+type_capital: Tool
+type_first_letter: t
+type_first_letter_upper: T
+type_upper: TOOL

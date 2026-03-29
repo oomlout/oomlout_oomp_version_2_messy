@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_electronic
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_electronic_prototyping_breadboard
+distributors: []
+filter: ''
+from_yaml: false
+id: category_electronic_prototyping_breadboard
+id_no_class: electronic_prototyping_breadboard
+id_no_size: prototyping_breadboard
+id_no_type: prototyping_breadboard
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_prototyping_breadboard
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_prototyping_breadboard
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_prototyping_breadboard
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_electronic_prototyping_breadboard](none)<br>[](none)<br>[Category
+    Electronic Prototyping Breadboard](none)<br><br>'
+markdown_short: '[category_electronic_prototyping_breadboard](none)<br><br>'
+md5: 1a72920c78a5e4f2cbf94a533f67fac1
+md5_10: 1a72920c78
+md5_10_upper: 1A72920C78
+md5_5: 1a729
+md5_5_upper: 1A729
+md5_6: 1a7292
+md5_6_alpha: 115ea
+md5_6_alpha_upper: 115EA
+md5_6_upper: 1A7292
+name: Category Electronic Prototyping Breadboard
+name_no_class: Electronic Prototyping Breadboard
+name_no_size: Prototyping Breadboard
+name_no_size_short: Prototyping Breadboard
+name_no_type: Prototyping Breadboard
+oomp_key: oomp_category_electronic_prototyping_breadboard
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryelectronic
+size: prototyping_breadboard
+size_capital: Prototyping Breadboard
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PROTOTYPING_BREADBOARD
+type: electronic
+type_capital: Electronic
+type_first_letter: e
+type_first_letter_upper: E
+type_upper: ELECTRONIC

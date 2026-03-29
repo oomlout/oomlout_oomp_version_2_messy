@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: 7_5_mm_diameter_hexagon_175_mm_length
+color_capital: 7.5 mm Diameter Hexagon 175 mm Length
+color_first_letter: '7'
+color_first_letter_upper: '7'
+color_upper: 7_5_MM_DIAMETER_HEXAGON_175_MM_LENGTH
+description: category_stationery
+description_extra: tote
+description_extra_capital: Tote
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TOTE
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: '7 '
+description_or_color_upper: '7 '
+directory: parts/category_stationery_pencil_7_5_mm_diameter_hexagon_175_mm_length_tote
+distributors: []
+filter: ''
+from_yaml: false
+id: category_stationery_pencil_7_5_mm_diameter_hexagon_175_mm_length_tote
+id_no_class: stationery_pencil_7_5_mm_diameter_hexagon_175_mm_length_tote
+id_no_size: 7_5_mm_diameter_hexagon_175_mm_length_tote
+id_no_type: pencil_7_5_mm_diameter_hexagon_175_mm_length_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_stationery_pencil_7_5_mm_diameter_hexagon_175_mm_length_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_stationery_pencil_7_5_mm_diameter_hexagon_175_mm_length_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_stationery_pencil_7_5_mm_diameter_hexagon_175_mm_length_tote
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_stationery_pencil_7_5_mm_diameter_hexagon_175_mm_length_tote](none)<br>[](none)<br>[Category
+    Stationery Pencil 7 5 Mm Diameter Hexagon 175 Mm Length Tote](none)<br><br>'
+markdown_short: '[category_stationery_pencil_7_5_mm_diameter_hexagon_175_mm_length_tote](none)<br><br>'
+md5: 687d6ef3725b18baadbfba5b731fc207
+md5_10: 687d6ef372
+md5_10_upper: 687D6EF372
+md5_5: 687d6
+md5_5_upper: 687D6
+md5_6: 687d6e
+md5_6_alpha: 42ru6
+md5_6_alpha_upper: 42RU6
+md5_6_upper: 687D6E
+name: Category Stationery Pencil 7 5 Mm Diameter Hexagon 175 Mm Length Tote
+name_no_class: Stationery Pencil 7 5 Mm Diameter Hexagon 175 Mm Length Tote
+name_no_size: 7 5 Mm Diameter Hexagon 175 Mm Length Tote
+name_no_size_short: 7 5 Mm Diameter Hexagon 175 Mm Length Tote
+name_no_type: Pencil 7 5 Mm Diameter Hexagon 175 Mm Length Tote
+oomp_key: oomp_category_stationery_pencil_7_5_mm_diameter_hexagon_175_mm_length_tote
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorystationery
+size: pencil
+size_capital: Pencil
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PENCIL
+type: stationery
+type_capital: Stationery
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: STATIONERY

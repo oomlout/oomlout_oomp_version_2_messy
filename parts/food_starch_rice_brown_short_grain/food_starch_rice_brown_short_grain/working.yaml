@@ -1,0 +1,80 @@
+classification: food
+classification_capital: Food
+classification_first_letter: f
+classification_first_letter_upper: F
+classification_upper: FOOD
+color: brown_short_grain
+color_capital: Brown Short Grain
+color_first_letter: b
+color_first_letter_upper: B
+color_upper: BROWN_SHORT_GRAIN
+description: rice_brown_short_grain
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'B '
+description_or_color_upper: 'B '
+directory: parts/food_starch_rice_brown_short_grain
+distributors: []
+filter: ''
+from_yaml: false
+id: food_starch_rice_brown_short_grain
+id_no_class: starch_rice_brown_short_grain
+id_no_size: brown_short_grain
+id_no_type: rice_brown_short_grain
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_rice_brown_short_grain
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_rice_brown_short_grain
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_rice_brown_short_grain
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[food_starch_rice_brown_short_grain](none)<br>[](none)<br>[Food Starch
+    Rice Brown Short Grain](none)<br><br>'
+markdown_short: '[food_starch_rice_brown_short_grain](none)<br><br>'
+md5: ae191c4dc1ae82e6e14ce93098ad8af2
+md5_10: ae191c4dc1
+md5_10_upper: AE191C4DC1
+md5_5: ae191
+md5_5_upper: AE191
+md5_6: ae191c
+md5_6_alpha: 6sjrw
+md5_6_alpha_upper: 6SJRW
+md5_6_upper: AE191C
+name: Food Starch Rice Brown Short Grain
+name_no_class: Starch Rice Brown Short Grain
+name_no_size: Brown Short Grain
+name_no_size_short: Brown Short Grain
+name_no_type: Rice Brown Short Grain
+name_short: Rice brown_short_grain
+oomp_key: oomp_food_starch_rice_brown_short_grain
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: rice
+size_capital: Rice
+size_first_letter: r
+size_first_letter_upper: R
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: RICE
+type: starch
+type_capital: Starch
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: STARCH

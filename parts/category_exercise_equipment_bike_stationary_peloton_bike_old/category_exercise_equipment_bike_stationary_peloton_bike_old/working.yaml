@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: peloton_bike
+color_capital: Peloton Bike
+color_first_letter: p
+color_first_letter_upper: P
+color_upper: PELOTON_BIKE
+description: category_exercise_equipment
+description_extra: old
+description_extra_capital: Old
+description_extra_first_letter: o
+description_extra_first_letter_upper: O
+description_extra_upper: OLD
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'P '
+description_or_color_upper: 'P '
+directory: parts/category_exercise_equipment_bike_stationary_peloton_bike_old
+distributors: []
+filter: ''
+from_yaml: false
+id: category_exercise_equipment_bike_stationary_peloton_bike_old
+id_no_class: exercise_equipment_bike_stationary_peloton_bike_old
+id_no_size: peloton_bike_old
+id_no_type: bike_stationary_peloton_bike_old
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_exercise_equipment_bike_stationary_peloton_bike_old
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_exercise_equipment_bike_stationary_peloton_bike_old
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_exercise_equipment_bike_stationary_peloton_bike_old
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_exercise_equipment_bike_stationary_peloton_bike_old](none)<br>[](none)<br>[Category
+    Exercise Equipment Bike Stationary Peloton Bike Old](none)<br><br>'
+markdown_short: '[category_exercise_equipment_bike_stationary_peloton_bike_old](none)<br><br>'
+md5: a7a4007132ebc33af784b5037c72e471
+md5_10: a7a4007132
+md5_10_upper: A7A4007132
+md5_5: a7a40
+md5_5_upper: A7A40
+md5_6: a7a400
+md5_6_alpha: 6jh8g
+md5_6_alpha_upper: 6JH8G
+md5_6_upper: A7A400
+name: Category Exercise Equipment Bike Stationary Peloton Bike Old
+name_no_class: Exercise Equipment Bike Stationary Peloton Bike Old
+name_no_size: Peloton Bike Old
+name_no_size_short: Peloton Bike Old
+name_no_type: Bike Stationary Peloton Bike Old
+oomp_key: oomp_category_exercise_equipment_bike_stationary_peloton_bike_old
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryexerciseequipment
+size: bike_stationary
+size_capital: Bike Stationary
+size_first_letter: b
+size_first_letter_upper: B
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: BIKE_STATIONARY
+type: exercise_equipment
+type_capital: Exercise Equipment
+type_first_letter: e
+type_first_letter_upper: E
+type_upper: EXERCISE_EQUIPMENT

@@ -1,0 +1,77 @@
+classification: toy
+classification_capital: Toy
+classification_first_letter: t
+classification_first_letter_upper: T
+classification_upper: TOY
+color: num_nom
+color_capital: Num Nom
+color_first_letter: n
+color_first_letter_upper: N
+color_upper: NUM_NOM
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: mixed
+description_main_capital: Mixed
+description_main_first_letter: m
+description_main_first_letter_upper: M
+description_main_upper: MIXED
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'N '
+description_or_color_upper: 'N '
+directory: parts/toy_figurine_branded_num_nom_mixed
+distributors: []
+id: toy_figurine_branded_num_nom_mixed
+id_no_class: figurine_branded_num_nom_mixed
+id_no_size: num_nom_mixed
+id_no_type: branded_num_nom_mixed
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_figurine_branded_num_nom_mixed
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_figurine_branded_num_nom_mixed
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_figurine_branded_num_nom_mixed
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[toy_figurine_branded_num_nom_mixed](none)<br>[](none)<br>[Toy Figurine
+    Branded Num Nom Mixed](none)<br><br>'
+markdown_short: '[toy_figurine_branded_num_nom_mixed](none)<br><br>'
+md5: 968fe0a9a9e67ddc16b9859c6f4ca173
+md5_10: 968fe0a9a9
+md5_10_upper: 968FE0A9A9
+md5_5: 968fe
+md5_5_upper: 968FE
+md5_6: 968fe0
+md5_6_alpha: 5vhls
+md5_6_alpha_upper: 5VHLS
+md5_6_upper: 968FE0
+name: Toy Figurine Branded Num Nom Mixed
+name_no_class: Figurine Branded Num Nom Mixed
+name_no_size: Num Nom Mixed
+name_no_size_short: Num Nom Mixed
+name_no_type: Branded Num Nom Mixed
+oomp_key: oomp_toy_figurine_branded_num_nom_mixed
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: branded
+size_capital: Branded
+size_first_letter: b
+size_first_letter_upper: B
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: BRANDED
+type: figurine
+type_capital: Figurine
+type_first_letter: f
+type_first_letter_upper: F
+type_upper: FIGURINE

@@ -1,0 +1,85 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: octagon_225_mm_width_225_mm_height_80_mm_depth_2500_ml
+color_capital: Octagon 225 mm Width 225 mm Height 80 mm Depth 2500 Ml
+color_first_letter: o
+color_first_letter_upper: O
+color_upper: OCTAGON_225_MM_WIDTH_225_MM_HEIGHT_80_MM_DEPTH_2500_ML
+description: category_packaging
+description_extra: cubby_box
+description_extra_capital: Cubby Box
+description_extra_first_letter: c
+description_extra_first_letter_upper: C
+description_extra_upper: CUBBY_BOX
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'O '
+description_or_color_upper: 'O '
+directory: parts/category_packaging_tin_plastic_octagon_225_mm_width_225_mm_height_80_mm_depth_2500_ml_cubby_box
+distributors: []
+filter: ''
+from_yaml: false
+id: category_packaging_tin_plastic_octagon_225_mm_width_225_mm_height_80_mm_depth_2500_ml_cubby_box
+id_no_class: packaging_tin_plastic_octagon_225_mm_width_225_mm_height_80_mm_depth_2500_ml_cubby_box
+id_no_size: octagon_225_mm_width_225_mm_height_80_mm_depth_2500_ml_cubby_box
+id_no_type: tin_plastic_octagon_225_mm_width_225_mm_height_80_mm_depth_2500_ml_cubby_box
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_packaging_tin_plastic_octagon_225_mm_width_225_mm_height_80_mm_depth_2500_ml_cubby_box
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_packaging_tin_plastic_octagon_225_mm_width_225_mm_height_80_mm_depth_2500_ml_cubby_box
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_packaging_tin_plastic_octagon_225_mm_width_225_mm_height_80_mm_depth_2500_ml_cubby_box
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_packaging_tin_plastic_octagon_225_mm_width_225_mm_height_80_mm_depth_2500_ml_cubby_box](none)<br>[](none)<br>[Category
+    Packaging Tin Plastic Octagon 225 Mm Width 225 Mm Height 80 Mm Depth 2500 Ml Cubby
+    Box](none)<br><br>'
+markdown_short: '[category_packaging_tin_plastic_octagon_225_mm_width_225_mm_height_80_mm_depth_2500_ml_cubby_box](none)<br><br>'
+md5: e76e898d370054dbeb98cc070571ec2c
+md5_10: e76e898d37
+md5_10_upper: E76E898D37
+md5_5: e76e8
+md5_5_upper: E76E8
+md5_6: e76e89
+md5_6_alpha: 9130p
+md5_6_alpha_upper: 9130P
+md5_6_upper: E76E89
+name: Category Packaging Tin Plastic Octagon 225 Mm Width 225 Mm Height 80 Mm Depth
+    2500 Ml Cubby Box
+name_no_class: Packaging Tin Plastic Octagon 225 Mm Width 225 Mm Height 80 Mm Depth
+    2500 Ml Cubby Box
+name_no_size: Octagon 225 Mm Width 225 Mm Height 80 Mm Depth 2500 Ml Cubby Box
+name_no_size_short: Octagon 225 Mm Width 225 Mm Height 80 Mm Depth 2500 Ml Cubby Box
+name_no_type: Tin Plastic Octagon 225 Mm Width 225 Mm Height 80 Mm Depth 2500 Ml Cubby
+    Box
+oomp_key: oomp_category_packaging_tin_plastic_octagon_225_mm_width_225_mm_height_80_mm_depth_2500_ml_cubby_box
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorypackaging
+size: tin_plastic
+size_capital: Tin Plastic
+size_first_letter: t
+size_first_letter_upper: T
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: TIN_PLASTIC
+type: packaging
+type_capital: Packaging
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PACKAGING

@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: coat
+color_capital: Coat
+color_first_letter: c
+color_first_letter_upper: C
+color_upper: COAT
+description: category_clothes
+description_extra: tote
+description_extra_capital: Tote
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TOTE
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'C '
+description_or_color_upper: 'C '
+directory: parts/category_clothes_item_coat_tote
+distributors: []
+filter: ''
+from_yaml: false
+id: category_clothes_item_coat_tote
+id_no_class: clothes_item_coat_tote
+id_no_size: coat_tote
+id_no_type: item_coat_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_clothes_item_coat_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_clothes_item_coat_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_clothes_item_coat_tote
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_clothes_item_coat_tote](none)<br>[](none)<br>[Category Clothes
+    Item Coat Tote](none)<br><br>'
+markdown_short: '[category_clothes_item_coat_tote](none)<br><br>'
+md5: 4ed8f9e5d1f2b66b45091ac9ae7b9b2d
+md5_10: 4ed8f9e5d1
+md5_10_upper: 4ED8F9E5D1
+md5_5: 4ed8f
+md5_5_upper: 4ED8F
+md5_6: 4ed8f9
+md5_6_alpha: 32r5l
+md5_6_alpha_upper: 32R5L
+md5_6_upper: 4ED8F9
+name: Category Clothes Item Coat Tote
+name_no_class: Clothes Item Coat Tote
+name_no_size: Coat Tote
+name_no_size_short: Coat Tote
+name_no_type: Item Coat Tote
+oomp_key: oomp_category_clothes_item_coat_tote
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryclothes
+size: item
+size_capital: Item
+size_first_letter: i
+size_first_letter_upper: I
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ITEM
+type: clothes
+type_capital: Clothes
+type_first_letter: c
+type_first_letter_upper: C
+type_upper: CLOTHES

@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: 140_mm
+color_capital: 140 mm
+color_first_letter: '1'
+color_first_letter_upper: '1'
+color_upper: 140_MM
+description: category_camera
+description_extra: old
+description_extra_capital: Old
+description_extra_first_letter: o
+description_extra_first_letter_upper: O
+description_extra_upper: OLD
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: '1 '
+description_or_color_upper: '1 '
+directory: parts/category_camera_cctv_dome_140_mm_old
+distributors: []
+filter: ''
+from_yaml: false
+id: category_camera_cctv_dome_140_mm_old
+id_no_class: camera_cctv_dome_140_mm_old
+id_no_size: 140_mm_old
+id_no_type: cctv_dome_140_mm_old
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_camera_cctv_dome_140_mm_old
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_camera_cctv_dome_140_mm_old
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_camera_cctv_dome_140_mm_old
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_camera_cctv_dome_140_mm_old](none)<br>[](none)<br>[Category
+    Camera Cctv Dome 140 Mm Old](none)<br><br>'
+markdown_short: '[category_camera_cctv_dome_140_mm_old](none)<br><br>'
+md5: e83a3b5d152d31a9541f6e52ce31bd8a
+md5_10: e83a3b5d15
+md5_10_upper: E83A3B5D15
+md5_5: e83a3
+md5_5_upper: E83A3
+md5_6: e83a3b
+md5_6_alpha: '92797'
+md5_6_alpha_upper: '92797'
+md5_6_upper: E83A3B
+name: Category Camera Cctv Dome 140 Mm Old
+name_no_class: Camera Cctv Dome 140 Mm Old
+name_no_size: 140 Mm Old
+name_no_size_short: 140 Mm Old
+name_no_type: Cctv Dome 140 Mm Old
+oomp_key: oomp_category_camera_cctv_dome_140_mm_old
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorycamera
+size: cctv_dome
+size_capital: Cctv Dome
+size_first_letter: c
+size_first_letter_upper: C
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: CCTV_DOME
+type: camera
+type_capital: Camera
+type_first_letter: c
+type_first_letter_upper: C
+type_upper: CAMERA

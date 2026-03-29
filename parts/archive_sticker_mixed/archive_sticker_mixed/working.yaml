@@ -1,0 +1,75 @@
+classification: archive
+classification_capital: Archive
+classification_first_letter: a
+classification_first_letter_upper: A
+classification_upper: ARCHIVE
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: mixed
+description_main_capital: Mixed
+description_main_first_letter: m
+description_main_first_letter_upper: M
+description_main_upper: MIXED
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/archive_sticker_mixed
+distributors: []
+id: archive_sticker_mixed
+id_no_class: sticker_mixed
+id_no_size: mixed
+id_no_type: mixed
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/archive_sticker_mixed
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/archive_sticker_mixed
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/archive_sticker_mixed
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[archive_sticker_mixed](none)<br>[](none)<br>[Archive Sticker Mixed](none)<br><br>'
+markdown_short: '[archive_sticker_mixed](none)<br><br>'
+md5: a92a4db087eed72f1b85461fe3915b4c
+md5_10: a92a4db087
+md5_10_upper: A92A4DB087
+md5_5: a92a4
+md5_5_upper: A92A4
+md5_6: a92a4d
+md5_6_alpha: 6lmbx
+md5_6_alpha_upper: 6LMBX
+md5_6_upper: A92A4D
+name: Archive Sticker Mixed
+name_no_class: Sticker Mixed
+name_no_size: Mixed
+name_no_size_short: Mixed
+name_no_type: Mixed
+oomp_key: oomp_archive_sticker_mixed
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: sticker
+type_capital: Sticker
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: STICKER

@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: rectangle
+color_capital: Rectangle
+color_first_letter: r
+color_first_letter_upper: R
+color_upper: RECTANGLE
+description: category_hardware
+description_extra: old
+description_extra_capital: Old
+description_extra_first_letter: o
+description_extra_first_letter_upper: O
+description_extra_upper: OLD
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'R '
+description_or_color_upper: 'R '
+directory: parts/category_hardware_magnet_rectangle_old
+distributors: []
+filter: ''
+from_yaml: false
+id: category_hardware_magnet_rectangle_old
+id_no_class: hardware_magnet_rectangle_old
+id_no_size: rectangle_old
+id_no_type: magnet_rectangle_old
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_magnet_rectangle_old
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_magnet_rectangle_old
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_magnet_rectangle_old
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_hardware_magnet_rectangle_old](none)<br>[](none)<br>[Category
+    Hardware Magnet Rectangle Old](none)<br><br>'
+markdown_short: '[category_hardware_magnet_rectangle_old](none)<br><br>'
+md5: 50cdd58841da2002f06b2520c5eb2049
+md5_10: 50cdd58841
+md5_10_upper: 50CDD58841
+md5_5: 50cdd
+md5_5_upper: 50CDD
+md5_6: 50cdd5
+md5_6_alpha: 35i39
+md5_6_alpha_upper: 35I39
+md5_6_upper: 50CDD5
+name: Category Hardware Magnet Rectangle Old
+name_no_class: Hardware Magnet Rectangle Old
+name_no_size: Rectangle Old
+name_no_size_short: Rectangle Old
+name_no_type: Magnet Rectangle Old
+oomp_key: oomp_category_hardware_magnet_rectangle_old
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryhardware
+size: magnet
+size_capital: Magnet
+size_first_letter: m
+size_first_letter_upper: M
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: MAGNET
+type: hardware
+type_capital: Hardware
+type_first_letter: h
+type_first_letter_upper: H
+type_upper: HARDWARE

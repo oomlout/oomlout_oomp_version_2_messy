@@ -1,0 +1,78 @@
+classification: clothes
+classification_capital: Clothes
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CLOTHES
+color: medium
+color_capital: Medium
+color_first_letter: m
+color_first_letter_upper: M
+color_upper: MEDIUM
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: maroon
+description_main_capital: Maroon
+description_main_first_letter: m
+description_main_first_letter_upper: M
+description_main_upper: MAROON
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'M '
+description_or_color_upper: 'M '
+directory: parts/clothes_item_pajama_top_medium_maroon
+distributors: []
+filter: ''
+from_yaml: false
+id: clothes_item_pajama_top_medium_maroon
+id_no_class: item_pajama_top_medium_maroon
+id_no_size: medium_maroon
+id_no_type: pajama_top_medium_maroon
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_pajama_top_medium_maroon
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_pajama_top_medium_maroon
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_pajama_top_medium_maroon
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[clothes_item_pajama_top_medium_maroon](none)<br>[](none)<br>[Clothes
+    Item Pajama Top Medium Maroon](none)<br><br>'
+markdown_short: '[clothes_item_pajama_top_medium_maroon](none)<br><br>'
+md5: 9fa43c07b7cb62d4610f3fcbd3818abd
+md5_10: 9fa43c07b7
+md5_10_upper: 9FA43C07B7
+md5_5: 9fa43
+md5_5_upper: 9FA43
+md5_6: 9fa43c
+md5_6_alpha: 688qk
+md5_6_alpha_upper: 688QK
+md5_6_upper: 9FA43C
+name: Clothes Item Pajama Top Medium Maroon
+name_no_class: Item Pajama Top Medium Maroon
+name_no_size: Medium Maroon
+name_no_size_short: Medium Maroon
+name_no_type: Pajama Top Medium Maroon
+oomp_key: oomp_clothes_item_pajama_top_medium_maroon
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: pajama_top
+size_capital: Pajama Top
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PAJAMA_TOP
+type: item
+type_capital: Item
+type_first_letter: i
+type_first_letter_upper: I
+type_upper: ITEM

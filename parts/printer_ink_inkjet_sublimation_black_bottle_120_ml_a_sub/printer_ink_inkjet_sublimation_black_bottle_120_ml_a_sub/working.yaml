@@ -1,0 +1,78 @@
+classification: printer
+classification_capital: Printer
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_upper: PRINTER
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: black_bottle_120_ml
+description_main_capital: Black Bottle 120 Ml
+description_main_first_letter: b
+description_main_first_letter_upper: B
+description_main_upper: BLACK_BOTTLE_120_ML
+description_only_numbers: '120'
+description_only_numbers_short: '120'
+description_or_color: '120'
+description_or_color_upper: '120'
+directory: parts/printer_ink_inkjet_sublimation_black_bottle_120_ml_a_sub
+distributor_amazon: B08D9HWXKM
+distributors: []
+id: printer_ink_inkjet_sublimation_black_bottle_120_ml_a_sub
+id_no_class: ink_inkjet_sublimation_black_bottle_120_ml_a_sub
+id_no_size: black_bottle_120_ml_a_sub
+id_no_type: inkjet_sublimation_black_bottle_120_ml_a_sub
+link_distributor_amazon: https://www.amazon.co.uk/dp/B08D9HWXKM
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_ink_inkjet_sublimation_black_bottle_120_ml_a_sub
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_ink_inkjet_sublimation_black_bottle_120_ml_a_sub
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_ink_inkjet_sublimation_black_bottle_120_ml_a_sub
+manufacturer: a_sub
+manufacturer_capital: A Sub
+manufacturer_first_letter: a
+manufacturer_first_letter_upper: A
+manufacturer_upper: A_SUB
+manufacturers: []
+markdown_full: '[printer_ink_inkjet_sublimation_black_bottle_120_ml_a_sub](none)<br>[](none)<br>[Printer
+    Ink Inkjet Sublimation Black Bottle 120 Ml A Sub](none)<br><br>'
+markdown_short: '[printer_ink_inkjet_sublimation_black_bottle_120_ml_a_sub](none)<br><br>'
+md5: c42712da674bc1fc6c4dfb5446403bb7
+md5_10: c42712da67
+md5_10_upper: C42712DA67
+md5_5: c4271
+md5_5_upper: C4271
+md5_6: c42712
+md5_6_alpha: 7nj0y
+md5_6_alpha_upper: 7NJ0Y
+md5_6_upper: C42712
+name: Printer Ink Inkjet Sublimation Black Bottle 120 Ml A Sub
+name_no_class: Ink Inkjet Sublimation Black Bottle 120 Ml A Sub
+name_no_size: Black Bottle 120 Ml A Sub
+name_no_size_short: Black Bottle 120 Ml A Sub
+name_no_type: Inkjet Sublimation Black Bottle 120 Ml A Sub
+oomp_key: oomp_printer_ink_inkjet_sublimation_black_bottle_120_ml_a_sub
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: inkjet_sublimation
+size_capital: Inkjet Sublimation
+size_first_letter: i
+size_first_letter_upper: I
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: INKJET_SUBLIMATION
+type: ink
+type_capital: Ink
+type_first_letter: i
+type_first_letter_upper: I
+type_upper: INK

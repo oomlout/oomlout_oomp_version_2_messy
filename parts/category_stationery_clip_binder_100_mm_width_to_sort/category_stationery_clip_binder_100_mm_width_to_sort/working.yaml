@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: 100_mm_width
+color_capital: 100 mm Width
+color_first_letter: '1'
+color_first_letter_upper: '1'
+color_upper: 100_MM_WIDTH
+description: category_stationery
+description_extra: to_sort
+description_extra_capital: To Sort
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TO_SORT
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: '1 '
+description_or_color_upper: '1 '
+directory: parts/category_stationery_clip_binder_100_mm_width_to_sort
+distributors: []
+filter: ''
+from_yaml: false
+id: category_stationery_clip_binder_100_mm_width_to_sort
+id_no_class: stationery_clip_binder_100_mm_width_to_sort
+id_no_size: 100_mm_width_to_sort
+id_no_type: clip_binder_100_mm_width_to_sort
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_stationery_clip_binder_100_mm_width_to_sort
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_stationery_clip_binder_100_mm_width_to_sort
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_stationery_clip_binder_100_mm_width_to_sort
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_stationery_clip_binder_100_mm_width_to_sort](none)<br>[](none)<br>[Category
+    Stationery Clip Binder 100 Mm Width To Sort](none)<br><br>'
+markdown_short: '[category_stationery_clip_binder_100_mm_width_to_sort](none)<br><br>'
+md5: 282ff27a3542d8566d979021d5f41e92
+md5_10: 282ff27a35
+md5_10_upper: 282FF27A35
+md5_5: 282ff
+md5_5_upper: 282FF
+md5_6: 282ff2
+md5_6_alpha: 1kg6q
+md5_6_alpha_upper: 1KG6Q
+md5_6_upper: 282FF2
+name: Category Stationery Clip Binder 100 Mm Width To Sort
+name_no_class: Stationery Clip Binder 100 Mm Width To Sort
+name_no_size: 100 Mm Width To Sort
+name_no_size_short: 100 Mm Width To Sort
+name_no_type: Clip Binder 100 Mm Width To Sort
+oomp_key: oomp_category_stationery_clip_binder_100_mm_width_to_sort
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorystationery
+size: clip_binder
+size_capital: Clip Binder
+size_first_letter: c
+size_first_letter_upper: C
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: CLIP_BINDER
+type: stationery
+type_capital: Stationery
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: STATIONERY

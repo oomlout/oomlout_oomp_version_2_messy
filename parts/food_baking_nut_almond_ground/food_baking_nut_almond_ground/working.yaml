@@ -1,0 +1,80 @@
+classification: food
+classification_capital: Food
+classification_first_letter: f
+classification_first_letter_upper: F
+classification_upper: FOOD
+color: almond_ground
+color_capital: Almond Ground
+color_first_letter: a
+color_first_letter_upper: A
+color_upper: ALMOND_GROUND
+description: nut_almond_ground
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'A '
+description_or_color_upper: 'A '
+directory: parts/food_baking_nut_almond_ground
+distributors: []
+filter: ''
+from_yaml: false
+id: food_baking_nut_almond_ground
+id_no_class: baking_nut_almond_ground
+id_no_size: almond_ground
+id_no_type: nut_almond_ground
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_baking_nut_almond_ground
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_baking_nut_almond_ground
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_baking_nut_almond_ground
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[food_baking_nut_almond_ground](none)<br>[](none)<br>[Food Baking
+    Nut Almond Ground](none)<br><br>'
+markdown_short: '[food_baking_nut_almond_ground](none)<br><br>'
+md5: 3af3b9d005206182b9c05e9d2a7f4428
+md5_10: 3af3b9d005
+md5_10_upper: 3AF3B9D005
+md5_5: 3af3b
+md5_5_upper: 3AF3B
+md5_6: 3af3b9
+md5_6_alpha: 2at2x
+md5_6_alpha_upper: 2AT2X
+md5_6_upper: 3AF3B9
+name: Food Baking Nut Almond Ground
+name_no_class: Baking Nut Almond Ground
+name_no_size: Almond Ground
+name_no_size_short: Almond Ground
+name_no_type: Nut Almond Ground
+name_short: Nut Almond Ground
+oomp_key: oomp_food_baking_nut_almond_ground
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: nut
+size_capital: Nut
+size_first_letter: n
+size_first_letter_upper: N
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: NUT
+type: baking
+type_capital: Baking
+type_first_letter: b
+type_first_letter_upper: B
+type_upper: BAKING

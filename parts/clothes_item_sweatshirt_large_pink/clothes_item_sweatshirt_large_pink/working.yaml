@@ -1,0 +1,78 @@
+classification: clothes
+classification_capital: Clothes
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CLOTHES
+color: large
+color_capital: Large
+color_first_letter: l
+color_first_letter_upper: L
+color_upper: LARGE
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: pink
+description_main_capital: Pink
+description_main_first_letter: p
+description_main_first_letter_upper: P
+description_main_upper: PINK
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'L '
+description_or_color_upper: 'L '
+directory: parts/clothes_item_sweatshirt_large_pink
+distributors: []
+filter: ''
+from_yaml: false
+id: clothes_item_sweatshirt_large_pink
+id_no_class: item_sweatshirt_large_pink
+id_no_size: large_pink
+id_no_type: sweatshirt_large_pink
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_sweatshirt_large_pink
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_sweatshirt_large_pink
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_sweatshirt_large_pink
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[clothes_item_sweatshirt_large_pink](none)<br>[](none)<br>[Clothes
+    Item Sweatshirt Large Pink](none)<br><br>'
+markdown_short: '[clothes_item_sweatshirt_large_pink](none)<br><br>'
+md5: e37e2505f4beb19d10e32e84d1509304
+md5_10: e37e2505f4
+md5_10_upper: E37E2505F4
+md5_5: e37e2
+md5_5_upper: E37E2
+md5_6: e37e25
+md5_6_alpha: 8vjtx
+md5_6_alpha_upper: 8VJTX
+md5_6_upper: E37E25
+name: Clothes Item Sweatshirt Large Pink
+name_no_class: Item Sweatshirt Large Pink
+name_no_size: Large Pink
+name_no_size_short: Large Pink
+name_no_type: Sweatshirt Large Pink
+oomp_key: oomp_clothes_item_sweatshirt_large_pink
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: sweatshirt
+size_capital: Sweatshirt
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SWEATSHIRT
+type: item
+type_capital: Item
+type_first_letter: i
+type_first_letter_upper: I
+type_upper: ITEM

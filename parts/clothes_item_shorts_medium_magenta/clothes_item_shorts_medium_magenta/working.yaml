@@ -1,0 +1,78 @@
+classification: clothes
+classification_capital: Clothes
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CLOTHES
+color: medium
+color_capital: Medium
+color_first_letter: m
+color_first_letter_upper: M
+color_upper: MEDIUM
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: magenta
+description_main_capital: Magenta
+description_main_first_letter: m
+description_main_first_letter_upper: M
+description_main_upper: MAGENTA
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'M '
+description_or_color_upper: 'M '
+directory: parts/clothes_item_shorts_medium_magenta
+distributors: []
+filter: ''
+from_yaml: false
+id: clothes_item_shorts_medium_magenta
+id_no_class: item_shorts_medium_magenta
+id_no_size: medium_magenta
+id_no_type: shorts_medium_magenta
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_shorts_medium_magenta
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_shorts_medium_magenta
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_shorts_medium_magenta
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[clothes_item_shorts_medium_magenta](none)<br>[](none)<br>[Clothes
+    Item Shorts Medium Magenta](none)<br><br>'
+markdown_short: '[clothes_item_shorts_medium_magenta](none)<br><br>'
+md5: cbc7610efcdee081205f748cf2232704
+md5_10: cbc7610efc
+md5_10_upper: CBC7610EFC
+md5_5: cbc76
+md5_5_upper: CBC76
+md5_6: cbc761
+md5_6_alpha: 7y8o1
+md5_6_alpha_upper: 7Y8O1
+md5_6_upper: CBC761
+name: Clothes Item Shorts Medium Magenta
+name_no_class: Item Shorts Medium Magenta
+name_no_size: Medium Magenta
+name_no_size_short: Medium Magenta
+name_no_type: Shorts Medium Magenta
+oomp_key: oomp_clothes_item_shorts_medium_magenta
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: shorts
+size_capital: Shorts
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SHORTS
+type: item
+type_capital: Item
+type_first_letter: i
+type_first_letter_upper: I
+type_upper: ITEM

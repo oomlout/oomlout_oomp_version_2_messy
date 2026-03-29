@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: dyson_v11
+color_capital: Dyson V11
+color_first_letter: d
+color_first_letter_upper: D
+color_upper: DYSON_V11
+description: category_appliance
+description_extra: old
+description_extra_capital: Old
+description_extra_first_letter: o
+description_extra_first_letter_upper: O
+description_extra_upper: OLD
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'D '
+description_or_color_upper: 'D '
+directory: parts/category_appliance_vacuum_cleaner_dyson_v11_old
+distributors: []
+filter: ''
+from_yaml: false
+id: category_appliance_vacuum_cleaner_dyson_v11_old
+id_no_class: appliance_vacuum_cleaner_dyson_v11_old
+id_no_size: dyson_v11_old
+id_no_type: vacuum_cleaner_dyson_v11_old
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_appliance_vacuum_cleaner_dyson_v11_old
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_appliance_vacuum_cleaner_dyson_v11_old
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_appliance_vacuum_cleaner_dyson_v11_old
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_appliance_vacuum_cleaner_dyson_v11_old](none)<br>[](none)<br>[Category
+    Appliance Vacuum Cleaner Dyson V11 Old](none)<br><br>'
+markdown_short: '[category_appliance_vacuum_cleaner_dyson_v11_old](none)<br><br>'
+md5: 7c4f8ba6dca59e61b00cc8dbcd22fb24
+md5_10: 7c4f8ba6dc
+md5_10_upper: 7C4F8BA6DC
+md5_5: 7c4f8
+md5_5_upper: 7C4F8
+md5_6: 7c4f8b
+md5_6_alpha: 4um4r
+md5_6_alpha_upper: 4UM4R
+md5_6_upper: 7C4F8B
+name: Category Appliance Vacuum Cleaner Dyson V11 Old
+name_no_class: Appliance Vacuum Cleaner Dyson V11 Old
+name_no_size: Dyson V11 Old
+name_no_size_short: Dyson V11 Old
+name_no_type: Vacuum Cleaner Dyson V11 Old
+oomp_key: oomp_category_appliance_vacuum_cleaner_dyson_v11_old
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryappliance
+size: vacuum_cleaner
+size_capital: Vacuum Cleaner
+size_first_letter: v
+size_first_letter_upper: V
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: VACUUM_CLEANER
+type: appliance
+type_capital: Appliance
+type_first_letter: a
+type_first_letter_upper: A
+type_upper: APPLIANCE

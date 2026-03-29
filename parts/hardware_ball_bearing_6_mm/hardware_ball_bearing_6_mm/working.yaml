@@ -1,0 +1,76 @@
+classification: hardware
+classification_capital: Hardware
+classification_first_letter: h
+classification_first_letter_upper: H
+classification_upper: HARDWARE
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/hardware_ball_bearing_6_mm
+distributors: []
+id: hardware_ball_bearing_6_mm
+id_no_class: ball_bearing_6_mm
+id_no_size: 6_mm
+id_no_type: 6_mm
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_ball_bearing_6_mm
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_ball_bearing_6_mm
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_ball_bearing_6_mm
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[hardware_ball_bearing_6_mm](none)<br>[6](none)<br>[Hardware Ball
+    Bearing 6 Mm](none)<br><br>'
+markdown_short: '[hardware_ball_bearing_6_mm](none)<br><br>'
+md5: f8d53742d64e20aa41456dab9a06dbbc
+md5_10: f8d53742d6
+md5_10_upper: F8D53742D6
+md5_5: f8d53
+md5_5_upper: F8D53
+md5_6: f8d537
+md5_6_alpha: 9piyf
+md5_6_alpha_upper: 9PIYF
+md5_6_upper: F8D537
+name: Hardware Ball Bearing 6 Mm
+name_no_class: Ball Bearing 6 Mm
+name_no_size: 6 Mm
+name_no_size_short: 6 Mm
+name_no_type: 6 Mm
+oomp_key: oomp_hardware_ball_bearing_6_mm
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: '6'
+short_code_upper: '6'
+size: 6_mm
+size_capital: 6 mm
+size_first_letter: '6'
+size_first_letter_upper: '6'
+size_only_numbers: '6'
+size_only_numbers_no_zeros: '6'
+size_upper: 6_MM
+type: ball_bearing
+type_capital: Ball Bearing
+type_first_letter: b
+type_first_letter_upper: B
+type_upper: BALL_BEARING

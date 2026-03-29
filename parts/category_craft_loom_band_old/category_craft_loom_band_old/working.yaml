@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_craft
+description_extra: old
+description_extra_capital: Old
+description_extra_first_letter: o
+description_extra_first_letter_upper: O
+description_extra_upper: OLD
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_craft_loom_band_old
+distributors: []
+filter: ''
+from_yaml: false
+id: category_craft_loom_band_old
+id_no_class: craft_loom_band_old
+id_no_size: old
+id_no_type: loom_band_old
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_craft_loom_band_old
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_craft_loom_band_old
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_craft_loom_band_old
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_craft_loom_band_old](none)<br>[](none)<br>[Category Craft
+    Loom Band Old](none)<br><br>'
+markdown_short: '[category_craft_loom_band_old](none)<br><br>'
+md5: 166bd19c50662d0fcbd7ee6f1a484d72
+md5_10: 166bd19c50
+md5_10_upper: 166BD19C50
+md5_5: 166bd
+md5_5_upper: 166BD
+md5_6: 166bd1
+md5_6_alpha: vhsh
+md5_6_alpha_upper: VHSH
+md5_6_upper: 166BD1
+name: Category Craft Loom Band Old
+name_no_class: Craft Loom Band Old
+name_no_size: Old
+name_no_size_short: Old
+name_no_type: Loom Band Old
+oomp_key: oomp_category_craft_loom_band_old
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorycraft
+size: loom_band
+size_capital: Loom Band
+size_first_letter: l
+size_first_letter_upper: L
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: LOOM_BAND
+type: craft
+type_capital: Craft
+type_first_letter: c
+type_first_letter_upper: C
+type_upper: CRAFT

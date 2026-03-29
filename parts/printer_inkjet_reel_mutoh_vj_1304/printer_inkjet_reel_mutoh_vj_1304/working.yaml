@@ -1,0 +1,78 @@
+classification: printer
+classification_capital: Printer
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_upper: PRINTER
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/printer_inkjet_reel_mutoh_vj_1304
+distributors: []
+id: printer_inkjet_reel_mutoh_vj_1304
+id_no_class: inkjet_reel_mutoh_vj_1304
+id_no_size: mutoh_vj_1304
+id_no_type: reel_mutoh_vj_1304
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_inkjet_reel_mutoh_vj_1304
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_inkjet_reel_mutoh_vj_1304
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_inkjet_reel_mutoh_vj_1304
+manufacturer: mutoh
+manufacturer_capital: Mutoh
+manufacturer_first_letter: m
+manufacturer_first_letter_upper: M
+manufacturer_upper: MUTOH
+manufacturers: []
+markdown_full: '[printer_inkjet_reel_mutoh_vj_1304](none)<br>[](none)<br>[Printer
+    Inkjet Reel Mutoh Vj 1304](none)<br><br>'
+markdown_short: '[printer_inkjet_reel_mutoh_vj_1304](none)<br><br>'
+md5: e1c256156a7bd9d7a3b41bf6cb6e536c
+md5_10: e1c256156a
+md5_10_upper: E1C256156A
+md5_5: e1c25
+md5_5_upper: E1C25
+md5_6: e1c256
+md5_6_alpha: 8t45y
+md5_6_alpha_upper: 8T45Y
+md5_6_upper: E1C256
+name: Printer Inkjet Reel Mutoh Vj 1304
+name_no_class: Inkjet Reel Mutoh Vj 1304
+name_no_size: Mutoh Vj 1304
+name_no_size_short: Mutoh Vj 1304
+name_no_type: Reel Mutoh Vj 1304
+oomp_key: oomp_printer_inkjet_reel_mutoh_vj_1304
+part_number: vj_1304
+part_number_capital: Vj 1304
+part_number_exact: VJ-1304
+part_number_first_letter: v
+part_number_first_letter_upper: V
+part_number_upper: VJ_1304
+short_code: ''
+short_code_upper: ''
+short_name: Mutoh ValueJet VJ-1304
+size: reel
+size_capital: Reel
+size_first_letter: r
+size_first_letter_upper: R
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: REEL
+type: inkjet
+type_capital: Inkjet
+type_first_letter: i
+type_first_letter_upper: I
+type_upper: INKJET

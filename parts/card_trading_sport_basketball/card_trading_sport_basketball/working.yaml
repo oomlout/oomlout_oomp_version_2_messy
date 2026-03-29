@@ -1,0 +1,78 @@
+classification: card_trading
+classification_capital: Card Trading
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CARD_TRADING
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/card_trading_sport_basketball
+distributors: []
+filter: ''
+from_yaml: false
+id: card_trading_sport_basketball
+id_no_class: sport_basketball
+id_no_size: sportbasketball
+id_no_type: sport_basketball
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/card_trading_sport_basketball
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/card_trading_sport_basketball
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/card_trading_sport_basketball
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[card_trading_sport_basketball](none)<br>[](none)<br>[Card Trading
+    Sport Basketball](none)<br><br>'
+markdown_short: '[card_trading_sport_basketball](none)<br><br>'
+md5: 8749809963fe07145d9be92ec49df717
+md5_10: '8749809963'
+md5_10_upper: '8749809963'
+md5_5: '87498'
+md5_5_upper: '87498'
+md5_6: '874980'
+md5_6_alpha: 5a16o
+md5_6_alpha_upper: 5A16O
+md5_6_upper: '874980'
+name: Card Trading Sport Basketball
+name_no_class: Sport Basketball
+name_no_size: Sportbasketball
+name_no_size_short: Sportbasketball
+name_no_type: Sport Basketball
+oomp_key: oomp_card_trading_sport_basketball
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: sport_basketball
+type_capital: Sport Basketball
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: SPORT_BASKETBALL

@@ -1,0 +1,81 @@
+classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_upper: ELECTRONIC
+color: green
+color_capital: Green
+color_first_letter: g
+color_first_letter_upper: G
+color_upper: GREEN
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 500_mm_length
+description_main_capital: 500 mm Length
+description_main_first_letter: '5'
+description_main_first_letter_upper: '5'
+description_main_upper: 500_MM_LENGTH
+description_only_numbers: '500'
+description_only_numbers_short: '500'
+description_or_color: G500
+description_or_color_upper: G500
+directory: parts/electronic_led_strip_12_volt_3_mm_width_green_500_mm_length
+distributors: []
+filter: ''
+from_yaml: false
+id: electronic_led_strip_12_volt_3_mm_width_green_500_mm_length
+id_no_class: led_strip_12_volt_3_mm_width_green_500_mm_length
+id_no_size: green_500_mm_length
+id_no_type: strip_12_volt_3_mm_width_green_500_mm_length
+link_distributor_aliexpress: https://www.aliexpress.com/item/1005007532172895.html
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_strip_12_volt_3_mm_width_green_500_mm_length
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_strip_12_volt_3_mm_width_green_500_mm_length
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_strip_12_volt_3_mm_width_green_500_mm_length
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[electronic_led_strip_12_volt_3_mm_width_green_500_mm_length](none)<br>[lg](none)<br>[Electronic
+    Led Strip 12 Volt 3 Mm Width Green 500 Mm Length](none)<br><br>'
+markdown_short: '[electronic_led_strip_12_volt_3_mm_width_green_500_mm_length](none)<br><br>'
+md5: 81c3e007b4a1f6dbd8befa6586f0d22c
+md5_10: 81c3e007b4
+md5_10_upper: 81C3E007B4
+md5_5: 81c3e
+md5_5_upper: 81C3E
+md5_6: 81c3e0
+md5_6_alpha: 529y8
+md5_6_alpha_upper: 529Y8
+md5_6_upper: 81C3E0
+name: Electronic Led Strip 12 Volt 3 Mm Width Green 500 Mm Length
+name_no_class: Led Strip 12 Volt 3 Mm Width Green 500 Mm Length
+name_no_size: Green 500 Mm Length
+name_no_size_short: Green 500 Mm Length
+name_no_type: Strip 12 Volt 3 Mm Width Green 500 Mm Length
+oomp_key: oomp_electronic_led_strip_12_volt_3_mm_width_green_500_mm_length
+part_number: ''
+part_number_capital: ''
+part_number_distriubutor_aliexpress: '1005007532172895'
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: lg
+short_code_upper: LG
+short_name: Strip 12 Volt 3 Mm Width Green500 Mm Length Led
+size: strip_12_volt_3_mm_width
+size_capital: Strip 12 Volt 3 mm Width
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: '123'
+size_only_numbers_no_zeros: '123'
+size_upper: STRIP_12_VOLT_3_MM_WIDTH
+type: led
+type_capital: Led
+type_first_letter: l
+type_first_letter_upper: L
+type_upper: LED

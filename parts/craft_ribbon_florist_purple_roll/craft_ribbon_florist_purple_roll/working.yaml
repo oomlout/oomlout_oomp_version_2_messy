@@ -1,0 +1,77 @@
+classification: craft
+classification_capital: Craft
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CRAFT
+color: purple
+color_capital: Purple
+color_first_letter: p
+color_first_letter_upper: P
+color_upper: PURPLE
+description_extra: roll
+description_extra_capital: Roll
+description_extra_first_letter: r
+description_extra_first_letter_upper: R
+description_extra_upper: ROLL
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'P '
+description_or_color_upper: 'P '
+directory: parts/craft_ribbon_florist_purple_roll
+distributors: []
+id: craft_ribbon_florist_purple_roll
+id_no_class: ribbon_florist_purple_roll
+id_no_size: purple_roll
+id_no_type: florist_purple_roll
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/craft_ribbon_florist_purple_roll
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/craft_ribbon_florist_purple_roll
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/craft_ribbon_florist_purple_roll
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[craft_ribbon_florist_purple_roll](none)<br>[v](none)<br>[Craft Ribbon
+    Florist Purple Roll](none)<br><br>'
+markdown_short: '[craft_ribbon_florist_purple_roll](none)<br><br>'
+md5: 40d41a18932a9bb46e0fbb197bac0627
+md5_10: 40d41a1893
+md5_10_upper: 40D41A1893
+md5_5: 40d41
+md5_5_upper: 40D41
+md5_6: 40d41a
+md5_6_alpha: 2j28q
+md5_6_alpha_upper: 2J28Q
+md5_6_upper: 40D41A
+name: Craft Ribbon Florist Purple Roll
+name_no_class: Ribbon Florist Purple Roll
+name_no_size: Purple Roll
+name_no_size_short: Purple Roll
+name_no_type: Florist Purple Roll
+oomp_key: oomp_craft_ribbon_florist_purple_roll
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: v
+short_code_upper: V
+short_name: ''
+size: florist
+size_capital: Florist
+size_first_letter: f
+size_first_letter_upper: F
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: FLORIST
+type: ribbon
+type_capital: Ribbon
+type_first_letter: r
+type_first_letter_upper: R
+type_upper: RIBBON

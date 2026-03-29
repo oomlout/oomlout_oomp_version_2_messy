@@ -1,0 +1,84 @@
+classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_upper: ELECTRONIC
+color: blue
+color_capital: Blue
+color_first_letter: b
+color_first_letter_upper: B
+color_upper: BLUE
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: tint
+description_main_capital: Tint
+description_main_first_letter: t
+description_main_first_letter_upper: T
+description_main_upper: TINT
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'B '
+description_or_color_upper: 'B '
+directory: parts/electronic_led_1206_blue_tint
+distributors: []
+filter: ''
+from_yaml: false
+id: electronic_led_1206_blue_tint
+id_no_class: led_1206_blue_tint
+id_no_size: blue_tint
+id_no_type: 1206_blue_tint
+kicad_reference: L
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_1206_blue_tint
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_1206_blue_tint
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_1206_blue_tint
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[electronic_led_1206_blue_tint](none)<br>[l12l](none)<br>[Electronic
+    Led 1206 Blue Tint](none)<br><br>'
+markdown_short: '[electronic_led_1206_blue_tint](none)<br><br>'
+md5: 73ca9f458a2374828445379726a7e3d8
+md5_10: 73ca9f458a
+md5_10_upper: 73CA9F458A
+md5_5: 73ca9
+md5_5_upper: 73CA9
+md5_6: 73ca9f
+md5_6_alpha: 4inbz
+md5_6_alpha_upper: 4INBZ
+md5_6_upper: 73CA9F
+name: Electronic Led 1206 Blue Tint
+name_no_class: Led 1206 Blue Tint
+name_no_size: Blue Tint
+name_no_size_short: Blue Tint
+name_no_type: 1206 Blue Tint
+oomp_key: oomp_electronic_led_1206_blue_tint
+package_style: smd_tape
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: l12l
+short_code_upper: L12L
+short_name: 1206 Bluetint Led
+size: '1206'
+size_capital: '1206'
+size_first_letter: '1'
+size_first_letter_upper: '1'
+size_only_numbers: '1206'
+size_only_numbers_no_zeros: '126'
+size_upper: '1206'
+smd_tape_depth: 1_5_mm
+smd_tape_pitch: 4_mm
+smd_tape_width: 8_mm
+type: led
+type_capital: Led
+type_first_letter: l
+type_first_letter_upper: L
+type_upper: LED

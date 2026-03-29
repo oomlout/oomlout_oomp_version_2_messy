@@ -1,0 +1,80 @@
+classification: food
+classification_capital: Food
+classification_first_letter: f
+classification_first_letter_upper: F
+classification_upper: FOOD
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: herbes de provence
+description_extra: 100_gram_bag
+description_extra_capital: 100 Gram Bag
+description_extra_first_letter: '1'
+description_extra_first_letter_upper: '1'
+description_extra_upper: 100_GRAM_BAG
+description_main: herbes_de_provence
+description_main_capital: Herbes De Provence
+description_main_first_letter: h
+description_main_first_letter_upper: H
+description_main_upper: HERBES_DE_PROVENCE
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/food_seasoning_herb_herbes_de_provence_100_gram_bag
+distributors: []
+filter: ''
+from_yaml: false
+id: food_seasoning_herb_herbes_de_provence_100_gram_bag
+id_no_class: seasoning_herb_herbes_de_provence_100_gram_bag
+id_no_size: herbes_de_provence_100_gram_bag
+id_no_type: herb_herbes_de_provence_100_gram_bag
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_herb_herbes_de_provence_100_gram_bag
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_herb_herbes_de_provence_100_gram_bag
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_herb_herbes_de_provence_100_gram_bag
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[food_seasoning_herb_herbes_de_provence_100_gram_bag](none)<br>[](none)<br>[Food
+    Seasoning Herb Herbes De Provence 100 Gram Bag](none)<br><br>'
+markdown_short: '[food_seasoning_herb_herbes_de_provence_100_gram_bag](none)<br><br>'
+md5: a939347f504d9e7bce5ed61f8a4df797
+md5_10: a939347f50
+md5_10_upper: A939347F50
+md5_5: a9393
+md5_5_upper: A9393
+md5_6: a93934
+md5_6_alpha: 6lp9w
+md5_6_alpha_upper: 6LP9W
+md5_6_upper: A93934
+name: Food Seasoning Herb Herbes De Provence 100 Gram Bag
+name_no_class: Seasoning Herb Herbes De Provence 100 Gram Bag
+name_no_size: Herbes De Provence 100 Gram Bag
+name_no_size_short: Herbes De Provence 100 Gram Bag
+name_no_type: Herb Herbes De Provence 100 Gram Bag
+name_short: Herbes De Provence
+oomp_key: oomp_food_seasoning_herb_herbes_de_provence_100_gram_bag
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: herb
+size_capital: Herb
+size_first_letter: h
+size_first_letter_upper: H
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: HERB
+type: seasoning
+type_capital: Seasoning
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: SEASONING

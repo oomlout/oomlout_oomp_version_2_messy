@@ -1,0 +1,77 @@
+classification: toy
+classification_capital: Toy
+classification_first_letter: t
+classification_first_letter_upper: T
+classification_upper: TOY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 170_mm_width_550_mm_height_55_mm_depth
+description_main_capital: 170 mm Width 550 mm Height 55 mm Depth
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_upper: 170_MM_WIDTH_550_MM_HEIGHT_55_MM_DEPTH
+description_only_numbers: '17055055'
+description_only_numbers_short: 1M7
+description_or_color: 1M7
+description_or_color_upper: 1M7
+directory: parts/toy_musical_instrument_ukulele_170_mm_width_550_mm_height_55_mm_depth
+distributors: []
+id: toy_musical_instrument_ukulele_170_mm_width_550_mm_height_55_mm_depth
+id_no_class: musical_instrument_ukulele_170_mm_width_550_mm_height_55_mm_depth
+id_no_size: 170_mm_width_550_mm_height_55_mm_depth
+id_no_type: ukulele_170_mm_width_550_mm_height_55_mm_depth
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_musical_instrument_ukulele_170_mm_width_550_mm_height_55_mm_depth
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_musical_instrument_ukulele_170_mm_width_550_mm_height_55_mm_depth
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_musical_instrument_ukulele_170_mm_width_550_mm_height_55_mm_depth
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[toy_musical_instrument_ukulele_170_mm_width_550_mm_height_55_mm_depth](none)<br>[](none)<br>[Toy
+    Musical Instrument Ukulele 170 Mm Width 550 Mm Height 55 Mm Depth](none)<br><br>'
+markdown_short: '[toy_musical_instrument_ukulele_170_mm_width_550_mm_height_55_mm_depth](none)<br><br>'
+md5: 38341dc2a496942cbd6b14418a94f1e5
+md5_10: 38341dc2a4
+md5_10_upper: 38341DC2A4
+md5_5: '38341'
+md5_5_upper: '38341'
+md5_6: 38341d
+md5_6_alpha: 26y3h
+md5_6_alpha_upper: 26Y3H
+md5_6_upper: 38341D
+name: Toy Musical Instrument Ukulele 170 Mm Width 550 Mm Height 55 Mm Depth
+name_no_class: Musical Instrument Ukulele 170 Mm Width 550 Mm Height 55 Mm Depth
+name_no_size: 170 Mm Width 550 Mm Height 55 Mm Depth
+name_no_size_short: 170 Mm Width 550 Mm Height 55 Mm Depth
+name_no_type: Ukulele 170 Mm Width 550 Mm Height 55 Mm Depth
+oomp_key: oomp_toy_musical_instrument_ukulele_170_mm_width_550_mm_height_55_mm_depth
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: ukulele
+size_capital: Ukulele
+size_first_letter: u
+size_first_letter_upper: U
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: UKULELE
+type: musical_instrument
+type_capital: Musical Instrument
+type_first_letter: m
+type_first_letter_upper: M
+type_upper: MUSICAL_INSTRUMENT

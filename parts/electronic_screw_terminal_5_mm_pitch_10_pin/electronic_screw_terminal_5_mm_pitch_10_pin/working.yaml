@@ -1,0 +1,78 @@
+classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_upper: ELECTRONIC
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 10_pin
+description_main_capital: 10 Pin
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_upper: 10_PIN
+description_only_numbers: '10'
+description_only_numbers_short: '10'
+description_or_color: '10'
+description_or_color_upper: '10'
+directory: parts/electronic_screw_terminal_5_mm_pitch_10_pin
+distributors: []
+id: electronic_screw_terminal_5_mm_pitch_10_pin
+id_no_class: screw_terminal_5_mm_pitch_10_pin
+id_no_size: 10_pin
+id_no_type: 5_mm_pitch_10_pin
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_screw_terminal_5_mm_pitch_10_pin
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_screw_terminal_5_mm_pitch_10_pin
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_screw_terminal_5_mm_pitch_10_pin
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[electronic_screw_terminal_5_mm_pitch_10_pin](none)<br>[10p](none)<br>[Electronic
+    Screw Terminal 5 Mm Pitch 10 Pin](none)<br><br>'
+markdown_short: '[electronic_screw_terminal_5_mm_pitch_10_pin](none)<br><br>'
+md5: 361d26c772a3af9f28a0134c528514a2
+md5_10: 361d26c772
+md5_10_upper: 361D26C772
+md5_5: 361d2
+md5_5_upper: 361D2
+md5_6: 361d26
+md5_6_alpha: 240fa
+md5_6_alpha_upper: 240FA
+md5_6_upper: 361D26
+name: Electronic Screw Terminal 5 Mm Pitch 10 Pin
+name_no_class: Screw Terminal 5 Mm Pitch 10 Pin
+name_no_size: 10 Pin
+name_no_size_short: 10 Pin
+name_no_type: 5 Mm Pitch 10 Pin
+oomp_key: oomp_electronic_screw_terminal_5_mm_pitch_10_pin
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: 10p
+short_code_upper: 10P
+short_name: ''
+size: 5_mm_pitch
+size_capital: 5 mm Pitch
+size_first_letter: '5'
+size_first_letter_upper: '5'
+size_only_numbers: '5'
+size_only_numbers_no_zeros: '5'
+size_upper: 5_MM_PITCH
+type: screw_terminal
+type_capital: Screw Terminal
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: SCREW_TERMINAL

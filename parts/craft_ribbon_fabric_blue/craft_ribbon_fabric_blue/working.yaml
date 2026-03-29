@@ -1,0 +1,77 @@
+classification: craft
+classification_capital: Craft
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CRAFT
+color: blue
+color_capital: Blue
+color_first_letter: b
+color_first_letter_upper: B
+color_upper: BLUE
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'B '
+description_or_color_upper: 'B '
+directory: parts/craft_ribbon_fabric_blue
+distributors: []
+id: craft_ribbon_fabric_blue
+id_no_class: ribbon_fabric_blue
+id_no_size: blue
+id_no_type: fabric_blue
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/craft_ribbon_fabric_blue
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/craft_ribbon_fabric_blue
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/craft_ribbon_fabric_blue
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[craft_ribbon_fabric_blue](none)<br>[l](none)<br>[Craft Ribbon Fabric
+    Blue](none)<br><br>'
+markdown_short: '[craft_ribbon_fabric_blue](none)<br><br>'
+md5: c5be48d544bd152cb10d0245766b2b69
+md5_10: c5be48d544
+md5_10_upper: C5BE48D544
+md5_5: c5be4
+md5_5_upper: C5BE4
+md5_6: c5be48
+md5_6_alpha: 7prgo
+md5_6_alpha_upper: 7PRGO
+md5_6_upper: C5BE48
+name: Craft Ribbon Fabric Blue
+name_no_class: Ribbon Fabric Blue
+name_no_size: Blue
+name_no_size_short: Blue
+name_no_type: Fabric Blue
+oomp_key: oomp_craft_ribbon_fabric_blue
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: l
+short_code_upper: L
+short_name: ''
+size: fabric
+size_capital: Fabric
+size_first_letter: f
+size_first_letter_upper: F
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: FABRIC
+type: ribbon
+type_capital: Ribbon
+type_first_letter: r
+type_first_letter_upper: R
+type_upper: RIBBON

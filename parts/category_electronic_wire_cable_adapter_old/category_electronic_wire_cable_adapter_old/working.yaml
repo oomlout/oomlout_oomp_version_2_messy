@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: adapter
+color_capital: Adapter
+color_first_letter: a
+color_first_letter_upper: A
+color_upper: ADAPTER
+description: category_electronic
+description_extra: old
+description_extra_capital: Old
+description_extra_first_letter: o
+description_extra_first_letter_upper: O
+description_extra_upper: OLD
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'A '
+description_or_color_upper: 'A '
+directory: parts/category_electronic_wire_cable_adapter_old
+distributors: []
+filter: ''
+from_yaml: false
+id: category_electronic_wire_cable_adapter_old
+id_no_class: electronic_wire_cable_adapter_old
+id_no_size: adapter_old
+id_no_type: wire_cable_adapter_old
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_wire_cable_adapter_old
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_wire_cable_adapter_old
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_wire_cable_adapter_old
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_electronic_wire_cable_adapter_old](none)<br>[](none)<br>[Category
+    Electronic Wire Cable Adapter Old](none)<br><br>'
+markdown_short: '[category_electronic_wire_cable_adapter_old](none)<br><br>'
+md5: b4abef23c48dfe09448104e544742fb9
+md5_10: b4abef23c4
+md5_10_upper: B4ABEF23C4
+md5_5: b4abe
+md5_5_upper: B4ABE
+md5_6: b4abef
+md5_6_alpha: 71s6n
+md5_6_alpha_upper: 71S6N
+md5_6_upper: B4ABEF
+name: Category Electronic Wire Cable Adapter Old
+name_no_class: Electronic Wire Cable Adapter Old
+name_no_size: Adapter Old
+name_no_size_short: Adapter Old
+name_no_type: Wire Cable Adapter Old
+oomp_key: oomp_category_electronic_wire_cable_adapter_old
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryelectronic
+size: wire_cable
+size_capital: Wire Cable
+size_first_letter: w
+size_first_letter_upper: W
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: WIRE_CABLE
+type: electronic
+type_capital: Electronic
+type_first_letter: e
+type_first_letter_upper: E
+type_upper: ELECTRONIC

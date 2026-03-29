@@ -1,0 +1,80 @@
+classification: packaging
+classification_capital: Packaging
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_upper: PACKAGING
+color: clear_front_silver_back
+color_capital: Clear Front Silver Back
+color_first_letter: c
+color_first_letter_upper: C
+color_upper: CLEAR_FRONT_SILVER_BACK
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 115_mm_width_170_mm_height
+description_main_capital: 115 mm Width 170 mm Height
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_upper: 115_MM_WIDTH_170_MM_HEIGHT
+description_only_numbers: '115170'
+description_only_numbers_short: 115k
+description_or_color: C115k
+description_or_color_upper: C115K
+directory: parts/packaging_bag_grip_seal_100_micron_thickness_clear_front_silver_back_115_mm_width_170_mm_height
+distributors: []
+id: packaging_bag_grip_seal_100_micron_thickness_clear_front_silver_back_115_mm_width_170_mm_height
+id_no_class: bag_grip_seal_100_micron_thickness_clear_front_silver_back_115_mm_width_170_mm_height
+id_no_size: clear_front_silver_back_115_mm_width_170_mm_height
+id_no_type: 100_micron_thickness_clear_front_silver_back_115_mm_width_170_mm_height
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/packaging_bag_grip_seal_100_micron_thickness_clear_front_silver_back_115_mm_width_170_mm_height
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/packaging_bag_grip_seal_100_micron_thickness_clear_front_silver_back_115_mm_width_170_mm_height
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/packaging_bag_grip_seal_100_micron_thickness_clear_front_silver_back_115_mm_width_170_mm_height
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[packaging_bag_grip_seal_100_micron_thickness_clear_front_silver_back_115_mm_width_170_mm_height](none)<br>[](none)<br>[Packaging
+    Bag Grip Seal 100 Micron Thickness Clear Front Silver Back 115 Mm Width 170 Mm
+    Height](none)<br><br>'
+markdown_short: '[packaging_bag_grip_seal_100_micron_thickness_clear_front_silver_back_115_mm_width_170_mm_height](none)<br><br>'
+md5: af50ca1575f37a8dd518014bf8929f4a
+md5_10: af50ca1575
+md5_10_upper: AF50CA1575
+md5_5: af50c
+md5_5_upper: AF50C
+md5_6: af50ca
+md5_6_alpha: 6u9ca
+md5_6_alpha_upper: 6U9CA
+md5_6_upper: AF50CA
+name: Packaging Bag Grip Seal 100 Micron Thickness Clear Front Silver Back 115 Mm
+    Width 170 Mm Height
+name_no_class: Bag Grip Seal 100 Micron Thickness Clear Front Silver Back 115 Mm Width
+    170 Mm Height
+name_no_size: Clear Front Silver Back 115 Mm Width 170 Mm Height
+name_no_size_short: Clear Front Silver Back 115 Mm Width 170 Mm Height
+name_no_type: 100 Micron Thickness Clear Front Silver Back 115 Mm Width 170 Mm Height
+oomp_key: oomp_packaging_bag_grip_seal_100_micron_thickness_clear_front_silver_back_115_mm_width_170_mm_height
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: 100_micron_thickness
+size_capital: 100 Micron Thickness
+size_first_letter: '1'
+size_first_letter_upper: '1'
+size_only_numbers: '100'
+size_only_numbers_no_zeros: '1'
+size_upper: 100_MICRON_THICKNESS
+type: bag_grip_seal
+type_capital: Bag Grip Seal
+type_first_letter: b
+type_first_letter_upper: B
+type_upper: BAG_GRIP_SEAL

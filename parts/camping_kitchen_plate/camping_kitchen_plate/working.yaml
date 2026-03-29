@@ -1,0 +1,77 @@
+classification: camping
+classification_capital: Camping
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CAMPING
+color: plate
+color_capital: Plate
+color_first_letter: p
+color_first_letter_upper: P
+color_upper: PLATE
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'P '
+description_or_color_upper: 'P '
+directory: parts/camping_kitchen_plate
+distributors: []
+filter: ''
+from_yaml: false
+id: camping_kitchen_plate
+id_no_class: kitchen_plate
+id_no_size: plate
+id_no_type: plate
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/camping_kitchen_plate
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/camping_kitchen_plate
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/camping_kitchen_plate
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[camping_kitchen_plate](none)<br>[](none)<br>[Camping Kitchen Plate](none)<br><br>'
+markdown_short: '[camping_kitchen_plate](none)<br><br>'
+md5: 3e6ee30d86c1089d8748e128108aef0a
+md5_10: 3e6ee30d86
+md5_10_upper: 3E6EE30D86
+md5_5: 3e6ee
+md5_5_upper: 3E6EE
+md5_6: 3e6ee3
+md5_6_alpha: 2fp43
+md5_6_alpha_upper: 2FP43
+md5_6_upper: 3E6EE3
+name: Camping Kitchen Plate
+name_no_class: Kitchen Plate
+name_no_size: Plate
+name_no_size_short: Plate
+name_no_type: Plate
+oomp_key: oomp_camping_kitchen_plate
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: kitchen
+type_capital: Kitchen
+type_first_letter: k
+type_first_letter_upper: K
+type_upper: KITCHEN

@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_book
+description_extra: cubby_box
+description_extra_capital: Cubby Box
+description_extra_first_letter: c
+description_extra_first_letter_upper: C
+description_extra_upper: CUBBY_BOX
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_book_cubby_box
+distributors: []
+filter: ''
+from_yaml: false
+id: category_book_cubby_box
+id_no_class: book_cubby_box
+id_no_size: cubbybox
+id_no_type: cubby_box
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_book_cubby_box
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_book_cubby_box
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_book_cubby_box
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_book_cubby_box](none)<br>[](none)<br>[Category Book Cubby
+    Box](none)<br><br>'
+markdown_short: '[category_book_cubby_box](none)<br><br>'
+md5: d429cb6effda05641608b5affc53883b
+md5_10: d429cb6eff
+md5_10_upper: D429CB6EFF
+md5_5: d429c
+md5_5_upper: D429C
+md5_6: d429cb
+md5_6_alpha: 8a0nf
+md5_6_alpha_upper: 8A0NF
+md5_6_upper: D429CB
+name: Category Book Cubby Box
+name_no_class: Book Cubby Box
+name_no_size: Cubbybox
+name_no_size_short: Cubbybox
+name_no_type: Cubby Box
+oomp_key: oomp_category_book_cubby_box
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorybook
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: book
+type_capital: Book
+type_first_letter: b
+type_first_letter_upper: B
+type_upper: BOOK

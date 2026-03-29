@@ -1,0 +1,77 @@
+classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_upper: ELECTRONIC
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: through_hole
+description_extra_capital: Through Hole
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: THROUGH_HOLE
+description_main: 3x13_39_pin
+description_main_capital: 3X13.39 Pin
+description_main_first_letter: '3'
+description_main_first_letter_upper: '3'
+description_main_upper: 3X13_39_PIN
+description_only_numbers: '31339'
+description_only_numbers_short: 31k
+description_or_color: 31k
+description_or_color_upper: 31K
+directory: parts/electronic_header_2_54_mm_triple_row_3x13_39_pin_through_hole
+distributors: []
+id: electronic_header_2_54_mm_triple_row_3x13_39_pin_through_hole
+id_no_class: header_2_54_mm_triple_row_3x13_39_pin_through_hole
+id_no_size: 3x13_39_pin_through_hole
+id_no_type: 2_54_mm_triple_row_3x13_39_pin_through_hole
+kicad_reference: CONN
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_header_2_54_mm_triple_row_3x13_39_pin_through_hole
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_header_2_54_mm_triple_row_3x13_39_pin_through_hole
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_header_2_54_mm_triple_row_3x13_39_pin_through_hole
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[electronic_header_2_54_mm_triple_row_3x13_39_pin_through_hole](none)<br>[hth](none)<br>[Electronic
+    Header 2 54 Mm Triple Row 3X13 39 Pin Through Hole](none)<br><br>'
+markdown_short: '[electronic_header_2_54_mm_triple_row_3x13_39_pin_through_hole](none)<br><br>'
+md5: 80096452e2d25f46e8d5724cf30b4ec2
+md5_10: 80096452e2
+md5_10_upper: 80096452E2
+md5_5: '80096'
+md5_5_upper: '80096'
+md5_6: '800964'
+md5_6_alpha: 4zujo
+md5_6_alpha_upper: 4ZUJO
+md5_6_upper: '800964'
+name: Electronic Header 2 54 Mm Triple Row 3X13 39 Pin Through Hole
+name_no_class: Header 2 54 Mm Triple Row 3X13 39 Pin Through Hole
+name_no_size: 3X13 39 Pin Through Hole
+name_no_size_short: 3X13 39 Pin Through Hole
+name_no_type: 2 54 Mm Triple Row 3X13 39 Pin Through Hole
+oomp_key: oomp_electronic_header_2_54_mm_triple_row_3x13_39_pin_through_hole
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: hth
+short_code_upper: HTH
+size: 2_54_mm_triple_row
+size_capital: 2.54 mm Triple Row
+size_first_letter: '2'
+size_first_letter_upper: '2'
+size_only_numbers: '254'
+size_only_numbers_no_zeros: '254'
+size_upper: 2_54_MM_TRIPLE_ROW
+type: header
+type_capital: Header
+type_first_letter: h
+type_first_letter_upper: H
+type_upper: HEADER

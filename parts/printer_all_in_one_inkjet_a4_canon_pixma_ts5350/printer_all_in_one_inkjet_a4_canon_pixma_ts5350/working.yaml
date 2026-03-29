@@ -1,0 +1,77 @@
+classification: printer
+classification_capital: Printer
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_upper: PRINTER
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/printer_all_in_one_inkjet_a4_canon_pixma_ts5350
+distributors: []
+id: printer_all_in_one_inkjet_a4_canon_pixma_ts5350
+id_no_class: all_in_one_inkjet_a4_canon_pixma_ts5350
+id_no_size: canon_pixma_ts5350
+id_no_type: a4_canon_pixma_ts5350
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_all_in_one_inkjet_a4_canon_pixma_ts5350
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_all_in_one_inkjet_a4_canon_pixma_ts5350
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_all_in_one_inkjet_a4_canon_pixma_ts5350
+manufacturer: canon_pixma
+manufacturer_capital: Canon Pixma
+manufacturer_first_letter: c
+manufacturer_first_letter_upper: C
+manufacturer_upper: CANON_PIXMA
+manufacturers: []
+markdown_full: '[printer_all_in_one_inkjet_a4_canon_pixma_ts5350](none)<br>[](none)<br>[Printer
+    All In One Inkjet A4 Canon Pixma Ts5350](none)<br><br>'
+markdown_short: '[printer_all_in_one_inkjet_a4_canon_pixma_ts5350](none)<br><br>'
+md5: 88acaeb69ce7482123be7fa69de9ebb1
+md5_10: 88acaeb69c
+md5_10_upper: 88ACAEB69C
+md5_5: 88aca
+md5_5_upper: 88ACA
+md5_6: 88acae
+md5_6_alpha: 5bzce
+md5_6_alpha_upper: 5BZCE
+md5_6_upper: 88ACAE
+name: Printer All In One Inkjet A4 Canon Pixma Ts5350
+name_no_class: All In One Inkjet A4 Canon Pixma Ts5350
+name_no_size: Canon Pixma Ts5350
+name_no_size_short: Canon Pixma Ts5350
+name_no_type: A4 Canon Pixma Ts5350
+oomp_key: oomp_printer_all_in_one_inkjet_a4_canon_pixma_ts5350
+part_number: ts5350
+part_number_capital: Ts5350
+part_number_first_letter: t
+part_number_first_letter_upper: T
+part_number_upper: TS5350
+short_code: ''
+short_code_upper: ''
+short_name: Printer Canon TS5350
+size: a4
+size_capital: A4
+size_first_letter: a
+size_first_letter_upper: A
+size_only_numbers: '4'
+size_only_numbers_no_zeros: '4'
+size_upper: A4
+type: all_in_one_inkjet
+type_capital: All In One Inkjet
+type_first_letter: a
+type_first_letter_upper: A
+type_upper: ALL_IN_ONE_INKJET

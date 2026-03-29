@@ -1,0 +1,77 @@
+classification: book
+classification_capital: Book
+classification_first_letter: b
+classification_first_letter_upper: B
+classification_upper: BOOK
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/book_looking_food
+distributors: []
+filter: ''
+from_yaml: false
+id: book_looking_food
+id_no_class: looking_food
+id_no_size: food
+id_no_type: food
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/book_looking_food
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/book_looking_food
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/book_looking_food
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[book_looking_food](none)<br>[](none)<br>[Book Looking Food](none)<br><br>'
+markdown_short: '[book_looking_food](none)<br><br>'
+md5: 368785fcfb70cb329da3c901395a4925
+md5_10: 368785fcfb
+md5_10_upper: 368785FCFB
+md5_5: '36878'
+md5_5_upper: '36878'
+md5_6: '368785'
+md5_6_alpha: 24lfp
+md5_6_alpha_upper: 24LFP
+md5_6_upper: '368785'
+name: Book Looking Food
+name_no_class: Looking Food
+name_no_size: Food
+name_no_size_short: Food
+name_no_type: Food
+oomp_key: oomp_book_looking_food
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: food
+size_capital: Food
+size_first_letter: f
+size_first_letter_upper: F
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: FOOD
+type: looking
+type_capital: Looking
+type_first_letter: l
+type_first_letter_upper: L
+type_upper: LOOKING

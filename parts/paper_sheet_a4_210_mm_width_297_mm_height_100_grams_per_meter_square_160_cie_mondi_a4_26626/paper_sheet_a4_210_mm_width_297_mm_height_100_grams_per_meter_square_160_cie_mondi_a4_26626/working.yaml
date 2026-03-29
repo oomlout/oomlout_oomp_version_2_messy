@@ -1,0 +1,94 @@
+classification: paper
+classification_capital: Paper
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_upper: PAPER
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: 160_cie
+description_extra_capital: 160 Cie
+description_extra_first_letter: '1'
+description_extra_first_letter_upper: '1'
+description_extra_upper: 160_CIE
+description_main: 100_grams_per_meter_square
+description_main_capital: 100 Grams Per Meter Square
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_upper: 100_GRAMS_PER_METER_SQUARE
+description_only_numbers: '100'
+description_only_numbers_short: '100'
+description_or_color: '100'
+description_or_color_upper: '100'
+directory: parts/paper_sheet_a4_210_mm_width_297_mm_height_100_grams_per_meter_square_160_cie_mondi_a4_26626
+distributor_amazon: B000J6A58M
+distributor_viking_direct: '12320'
+distributor_viking_direct_link: https://www.viking-direct.co.uk/en/p/12320
+distributor_viking_note: free delivery over 59 pounds
+distributors: []
+filter: ''
+from_yaml: false
+height: 297 mm
+id: paper_sheet_a4_210_mm_width_297_mm_height_100_grams_per_meter_square_160_cie_mondi_a4_26626
+id_no_class: sheet_a4_210_mm_width_297_mm_height_100_grams_per_meter_square_160_cie_mondi_a4_26626
+id_no_size: 100_grams_per_meter_square_160_cie_mondi_a4_26626
+id_no_type: a4_210_mm_width_297_mm_height_100_grams_per_meter_square_160_cie_mondi_a4_26626
+link_distributor_amazon: https://www.amazon.co.uk/Color-Copy-Premium-Ream-Wrapped-CCW0324/dp/B000J6A58M
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a4_210_mm_width_297_mm_height_100_grams_per_meter_square_160_cie_mondi_a4_26626
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a4_210_mm_width_297_mm_height_100_grams_per_meter_square_160_cie_mondi_a4_26626
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a4_210_mm_width_297_mm_height_100_grams_per_meter_square_160_cie_mondi_a4_26626
+manufacturer: mondi
+manufacturer_capital: Mondi
+manufacturer_first_letter: m
+manufacturer_first_letter_upper: M
+manufacturer_upper: MONDI
+manufacturers: []
+markdown_full: '[paper_sheet_a4_210_mm_width_297_mm_height_100_grams_per_meter_square_160_cie_mondi_a4_26626](none)<br>[](none)<br>[Paper
+    Sheet A4 210 Mm Width 297 Mm Height 100 Grams Per Meter Square 160 Cie Mondi A4
+    26626](none)<br><br>'
+markdown_short: '[paper_sheet_a4_210_mm_width_297_mm_height_100_grams_per_meter_square_160_cie_mondi_a4_26626](none)<br><br>'
+md5: 9169e6b4b2e86696768c5c35ea7f389a
+md5_10: 9169e6b4b2
+md5_10_upper: 9169E6B4B2
+md5_5: 9169e
+md5_5_upper: 9169E
+md5_6: 9169e6
+md5_6_alpha: 5o99i
+md5_6_alpha_upper: 5O99I
+md5_6_upper: 9169E6
+name: Paper Sheet A4 210 Mm Width 297 Mm Height 100 Grams Per Meter Square 160 Cie
+    Mondi A4 26626
+name_no_class: Sheet A4 210 Mm Width 297 Mm Height 100 Grams Per Meter Square 160
+    Cie Mondi A4 26626
+name_no_size: 100 Grams Per Meter Square 160 Cie Mondi A4 26626
+name_no_size_short: 100 Grams Per Meter Square 160 Cie Mondi A4 26626
+name_no_type: A4 210 Mm Width 297 Mm Height 100 Grams Per Meter Square 160 Cie Mondi
+    A4 26626
+oomp_key: oomp_paper_sheet_a4_210_mm_width_297_mm_height_100_grams_per_meter_square_160_cie_mondi_a4_26626
+part_number: a4_26626
+part_number_capital: A4.26626
+part_number_exact: A4-26626
+part_number_first_letter: a
+part_number_first_letter_upper: A
+part_number_upper: A4_26626
+price_1: 0.020516666666666666
+price_1_distributor_amazon: 0.028316666666666664
+price_1_distributor_viking_direct: 0.020516666666666666
+short_code: ''
+short_code_upper: ''
+size: a4_210_mm_width_297_mm_height
+size_capital: A4.210 mm Width 297 mm Height
+size_first_letter: a
+size_first_letter_upper: A
+size_only_numbers: '4210297'
+size_only_numbers_no_zeros: '421297'
+size_upper: A4_210_MM_WIDTH_297_MM_HEIGHT
+type: sheet
+type_capital: Sheet
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: SHEET
+upc: '9003974411965'
+width: 210 mm

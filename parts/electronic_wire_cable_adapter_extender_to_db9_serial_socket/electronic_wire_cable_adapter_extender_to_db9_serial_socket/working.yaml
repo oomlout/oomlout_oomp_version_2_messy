@@ -1,0 +1,78 @@
+classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_upper: ELECTRONIC
+color: extender
+color_capital: Extender
+color_first_letter: e
+color_first_letter_upper: E
+color_upper: EXTENDER
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: to_db9_serial_socket
+description_main_capital: To Db9 Serial Socket
+description_main_first_letter: t
+description_main_first_letter_upper: T
+description_main_upper: TO_DB9_SERIAL_SOCKET
+description_only_numbers: '9'
+description_only_numbers_short: '9'
+description_or_color: E9
+description_or_color_upper: E9
+directory: parts/electronic_wire_cable_adapter_extender_to_db9_serial_socket
+distributors: []
+filter: ''
+from_yaml: false
+id: electronic_wire_cable_adapter_extender_to_db9_serial_socket
+id_no_class: wire_cable_adapter_extender_to_db9_serial_socket
+id_no_size: extender_to_db9_serial_socket
+id_no_type: adapter_extender_to_db9_serial_socket
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_wire_cable_adapter_extender_to_db9_serial_socket
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_wire_cable_adapter_extender_to_db9_serial_socket
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_wire_cable_adapter_extender_to_db9_serial_socket
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[electronic_wire_cable_adapter_extender_to_db9_serial_socket](none)<br>[](none)<br>[Electronic
+    Wire Cable Adapter Extender To Db9 Serial Socket](none)<br><br>'
+markdown_short: '[electronic_wire_cable_adapter_extender_to_db9_serial_socket](none)<br><br>'
+md5: 59b35591d3169577a206a65301105c7d
+md5_10: 59b35591d3
+md5_10_upper: 59B35591D3
+md5_5: 59b35
+md5_5_upper: 59B35
+md5_6: 59b355
+md5_6_alpha: 3hzyt
+md5_6_alpha_upper: 3HZYT
+md5_6_upper: 59B355
+name: Electronic Wire Cable Adapter Extender To Db9 Serial Socket
+name_no_class: Wire Cable Adapter Extender To Db9 Serial Socket
+name_no_size: Extender To Db9 Serial Socket
+name_no_size_short: Extender To Db9 Serial Socket
+name_no_type: Adapter Extender To Db9 Serial Socket
+oomp_key: oomp_electronic_wire_cable_adapter_extender_to_db9_serial_socket
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: adapter
+size_capital: Adapter
+size_first_letter: a
+size_first_letter_upper: A
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ADAPTER
+type: wire_cable
+type_capital: Wire Cable
+type_first_letter: w
+type_first_letter_upper: W
+type_upper: WIRE_CABLE

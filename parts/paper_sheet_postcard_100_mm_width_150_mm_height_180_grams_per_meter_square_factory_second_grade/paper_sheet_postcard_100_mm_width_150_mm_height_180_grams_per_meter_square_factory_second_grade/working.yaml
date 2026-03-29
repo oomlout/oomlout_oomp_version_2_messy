@@ -1,0 +1,84 @@
+classification: paper
+classification_capital: Paper
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_upper: PAPER
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: factory_second_grade
+description_extra_capital: Factory Second Grade
+description_extra_first_letter: f
+description_extra_first_letter_upper: F
+description_extra_upper: FACTORY_SECOND_GRADE
+description_main: 180_grams_per_meter_square
+description_main_capital: 180 Grams Per Meter Square
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_upper: 180_GRAMS_PER_METER_SQUARE
+description_only_numbers: '180'
+description_only_numbers_short: '180'
+description_or_color: '180'
+description_or_color_upper: '180'
+directory: parts/paper_sheet_postcard_100_mm_width_150_mm_height_180_grams_per_meter_square_factory_second_grade
+distributors: []
+filter: ''
+from_yaml: false
+height: 150 mm
+id: paper_sheet_postcard_100_mm_width_150_mm_height_180_grams_per_meter_square_factory_second_grade
+id_no_class: sheet_postcard_100_mm_width_150_mm_height_180_grams_per_meter_square_factory_second_grade
+id_no_size: 180_grams_per_meter_square_factory_second_grade
+id_no_type: postcard_100_mm_width_150_mm_height_180_grams_per_meter_square_factory_second_grade
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_postcard_100_mm_width_150_mm_height_180_grams_per_meter_square_factory_second_grade
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_postcard_100_mm_width_150_mm_height_180_grams_per_meter_square_factory_second_grade
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_postcard_100_mm_width_150_mm_height_180_grams_per_meter_square_factory_second_grade
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[paper_sheet_postcard_100_mm_width_150_mm_height_180_grams_per_meter_square_factory_second_grade](none)<br>[](none)<br>[Paper
+    Sheet Postcard 100 Mm Width 150 Mm Height 180 Grams Per Meter Square Factory Second
+    Grade](none)<br><br>'
+markdown_short: '[paper_sheet_postcard_100_mm_width_150_mm_height_180_grams_per_meter_square_factory_second_grade](none)<br><br>'
+md5: a334402f245d9f2aba2c0eddb1830372
+md5_10: a334402f24
+md5_10_upper: A334402F24
+md5_5: a3344
+md5_5_upper: A3344
+md5_6: a33440
+md5_6_alpha: 6d8w0
+md5_6_alpha_upper: 6D8W0
+md5_6_upper: A33440
+name: Paper Sheet Postcard 100 Mm Width 150 Mm Height 180 Grams Per Meter Square Factory
+    Second Grade
+name_no_class: Sheet Postcard 100 Mm Width 150 Mm Height 180 Grams Per Meter Square
+    Factory Second Grade
+name_no_size: 180 Grams Per Meter Square Factory Second Grade
+name_no_size_short: 180 Grams Per Meter Square Factory Second Grade
+name_no_type: Postcard 100 Mm Width 150 Mm Height 180 Grams Per Meter Square Factory
+    Second Grade
+oomp_key: oomp_paper_sheet_postcard_100_mm_width_150_mm_height_180_grams_per_meter_square_factory_second_grade
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: postcard_100_mm_width_150_mm_height
+size_capital: Postcard 100 mm Width 150 mm Height
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: '100150'
+size_only_numbers_no_zeros: '115'
+size_upper: POSTCARD_100_MM_WIDTH_150_MM_HEIGHT
+type: sheet
+type_capital: Sheet
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: SHEET
+width: 100 mm

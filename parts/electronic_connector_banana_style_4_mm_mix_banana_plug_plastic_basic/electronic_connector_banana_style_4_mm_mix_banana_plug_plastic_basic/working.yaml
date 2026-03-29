@@ -1,0 +1,78 @@
+classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_upper: ELECTRONIC
+color: mix
+color_capital: Mix
+color_first_letter: m
+color_first_letter_upper: M
+color_upper: MIX
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: banana_plug_plastic_basic
+description_main_capital: Banana Plug Plastic Basic
+description_main_first_letter: b
+description_main_first_letter_upper: B
+description_main_upper: BANANA_PLUG_PLASTIC_BASIC
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'M '
+description_or_color_upper: 'M '
+directory: parts/electronic_connector_banana_style_4_mm_mix_banana_plug_plastic_basic
+distributors: []
+filter: ''
+from_yaml: false
+id: electronic_connector_banana_style_4_mm_mix_banana_plug_plastic_basic
+id_no_class: connector_banana_style_4_mm_mix_banana_plug_plastic_basic
+id_no_size: mix_banana_plug_plastic_basic
+id_no_type: banana_style_4_mm_mix_banana_plug_plastic_basic
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_connector_banana_style_4_mm_mix_banana_plug_plastic_basic
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_connector_banana_style_4_mm_mix_banana_plug_plastic_basic
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_connector_banana_style_4_mm_mix_banana_plug_plastic_basic
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[electronic_connector_banana_style_4_mm_mix_banana_plug_plastic_basic](none)<br>[con](none)<br>[Electronic
+    Connector Banana Style 4 Mm Mix Banana Plug Plastic Basic](none)<br><br>'
+markdown_short: '[electronic_connector_banana_style_4_mm_mix_banana_plug_plastic_basic](none)<br><br>'
+md5: 3be37ac331d6decc33fe7bb24cf445ad
+md5_10: 3be37ac331
+md5_10_upper: 3BE37AC331
+md5_5: 3be37
+md5_5_upper: 3BE37
+md5_6: 3be37a
+md5_6_alpha: 2c4fu
+md5_6_alpha_upper: 2C4FU
+md5_6_upper: 3BE37A
+name: Electronic Connector Banana Style 4 Mm Mix Banana Plug Plastic Basic
+name_no_class: Connector Banana Style 4 Mm Mix Banana Plug Plastic Basic
+name_no_size: Mix Banana Plug Plastic Basic
+name_no_size_short: Mix Banana Plug Plastic Basic
+name_no_type: Banana Style 4 Mm Mix Banana Plug Plastic Basic
+oomp_key: oomp_electronic_connector_banana_style_4_mm_mix_banana_plug_plastic_basic
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: con
+short_code_upper: CON
+size: banana_style_4_mm
+size_capital: Banana Style 4 mm
+size_first_letter: b
+size_first_letter_upper: B
+size_only_numbers: '4'
+size_only_numbers_no_zeros: '4'
+size_upper: BANANA_STYLE_4_MM
+type: connector
+type_capital: Connector
+type_first_letter: c
+type_first_letter_upper: C
+type_upper: CONNECTOR

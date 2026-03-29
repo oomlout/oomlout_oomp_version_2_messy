@@ -1,0 +1,79 @@
+classification: food
+classification_capital: Food
+classification_first_letter: f
+classification_first_letter_upper: F
+classification_upper: FOOD
+color: baldo
+color_capital: Baldo
+color_first_letter: b
+color_first_letter_upper: B
+color_upper: BALDO
+description: rice_baldo
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'B '
+description_or_color_upper: 'B '
+directory: parts/food_starch_rice_baldo
+distributors: []
+filter: ''
+from_yaml: false
+id: food_starch_rice_baldo
+id_no_class: starch_rice_baldo
+id_no_size: baldo
+id_no_type: rice_baldo
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_rice_baldo
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_rice_baldo
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_rice_baldo
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[food_starch_rice_baldo](none)<br>[](none)<br>[Food Starch Rice Baldo](none)<br><br>'
+markdown_short: '[food_starch_rice_baldo](none)<br><br>'
+md5: e95048a9da58d0518b51c6d5a2cdad4d
+md5_10: e95048a9da
+md5_10_upper: E95048A9DA
+md5_5: e9504
+md5_5_upper: E9504
+md5_6: e95048
+md5_6_alpha: 93q6g
+md5_6_alpha_upper: 93Q6G
+md5_6_upper: E95048
+name: Food Starch Rice Baldo
+name_no_class: Starch Rice Baldo
+name_no_size: Baldo
+name_no_size_short: Baldo
+name_no_type: Rice Baldo
+name_short: Rice baldo
+oomp_key: oomp_food_starch_rice_baldo
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: rice
+size_capital: Rice
+size_first_letter: r
+size_first_letter_upper: R
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: RICE
+type: starch
+type_capital: Starch
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: STARCH

@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: building_block_compatible
+color_capital: Building Block Compatible
+color_first_letter: b
+color_first_letter_upper: B
+color_upper: BUILDING_BLOCK_COMPATIBLE
+description: category_mechanical
+description_extra: to_sort
+description_extra_capital: To Sort
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TO_SORT
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'B '
+description_or_color_upper: 'B '
+directory: parts/category_mechanical_motor_building_block_compatible_to_sort
+distributors: []
+filter: ''
+from_yaml: false
+id: category_mechanical_motor_building_block_compatible_to_sort
+id_no_class: mechanical_motor_building_block_compatible_to_sort
+id_no_size: building_block_compatible_to_sort
+id_no_type: motor_building_block_compatible_to_sort
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_motor_building_block_compatible_to_sort
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_motor_building_block_compatible_to_sort
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_motor_building_block_compatible_to_sort
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_mechanical_motor_building_block_compatible_to_sort](none)<br>[](none)<br>[Category
+    Mechanical Motor Building Block Compatible To Sort](none)<br><br>'
+markdown_short: '[category_mechanical_motor_building_block_compatible_to_sort](none)<br><br>'
+md5: 40a8cb0fe36c9fa6c42ad3c67e996bb3
+md5_10: 40a8cb0fe3
+md5_10_upper: 40A8CB0FE3
+md5_5: 40a8c
+md5_5_upper: 40A8C
+md5_6: 40a8cb
+md5_6_alpha: 2itor
+md5_6_alpha_upper: 2ITOR
+md5_6_upper: 40A8CB
+name: Category Mechanical Motor Building Block Compatible To Sort
+name_no_class: Mechanical Motor Building Block Compatible To Sort
+name_no_size: Building Block Compatible To Sort
+name_no_size_short: Building Block Compatible To Sort
+name_no_type: Motor Building Block Compatible To Sort
+oomp_key: oomp_category_mechanical_motor_building_block_compatible_to_sort
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorymechanical
+size: motor
+size_capital: Motor
+size_first_letter: m
+size_first_letter_upper: M
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: MOTOR
+type: mechanical
+type_capital: Mechanical
+type_first_letter: m
+type_first_letter_upper: M
+type_upper: MECHANICAL

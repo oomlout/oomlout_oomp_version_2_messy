@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: shirt
+color_capital: Shirt
+color_first_letter: s
+color_first_letter_upper: S
+color_upper: SHIRT
+description: category_clothes
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'S '
+description_or_color_upper: 'S '
+directory: parts/category_clothes_hanger_shirt
+distributors: []
+filter: ''
+from_yaml: false
+id: category_clothes_hanger_shirt
+id_no_class: clothes_hanger_shirt
+id_no_size: shirt
+id_no_type: hanger_shirt
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_clothes_hanger_shirt
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_clothes_hanger_shirt
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_clothes_hanger_shirt
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_clothes_hanger_shirt](none)<br>[](none)<br>[Category Clothes
+    Hanger Shirt](none)<br><br>'
+markdown_short: '[category_clothes_hanger_shirt](none)<br><br>'
+md5: 06ea780911dc3cee7334a9a62524df89
+md5_10: 06ea780911
+md5_10_upper: 06EA780911
+md5_5: 06ea7
+md5_5_upper: 06EA7
+md5_6: 06ea78
+md5_6_alpha: 9pq0
+md5_6_alpha_upper: 9PQ0
+md5_6_upper: 06EA78
+name: Category Clothes Hanger Shirt
+name_no_class: Clothes Hanger Shirt
+name_no_size: Shirt
+name_no_size_short: Shirt
+name_no_type: Hanger Shirt
+oomp_key: oomp_category_clothes_hanger_shirt
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryclothes
+size: hanger
+size_capital: Hanger
+size_first_letter: h
+size_first_letter_upper: H
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: HANGER
+type: clothes
+type_capital: Clothes
+type_first_letter: c
+type_first_letter_upper: C
+type_upper: CLOTHES

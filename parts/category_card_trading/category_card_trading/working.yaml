@@ -1,0 +1,80 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_card_trading
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_card_trading
+distributors: []
+filter: ''
+from_yaml: false
+id: category_card_trading
+id_no_class: card_trading
+id_no_size: cardtrading
+id_no_type: card_trading
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_card_trading
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_card_trading
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_card_trading
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_card_trading](none)<br>[](none)<br>[Category Card Trading](none)<br><br>'
+markdown_short: '[category_card_trading](none)<br><br>'
+md5: 87f8c3eeb9cc358a96ea8bb313bbb4b6
+md5_10: 87f8c3eeb9
+md5_10_upper: 87F8C3EEB9
+md5_5: 87f8c
+md5_5_upper: 87F8C
+md5_6: 87f8c3
+md5_6_alpha: 5azsz
+md5_6_alpha_upper: 5AZSZ
+md5_6_upper: 87F8C3
+name: Category Card Trading
+name_no_class: Card Trading
+name_no_size: Cardtrading
+name_no_size_short: Cardtrading
+name_no_type: Card Trading
+oomp_key: oomp_category_card_trading
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorycardtrading
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: card_trading
+type_capital: Card Trading
+type_first_letter: c
+type_first_letter_upper: C
+type_upper: CARD_TRADING

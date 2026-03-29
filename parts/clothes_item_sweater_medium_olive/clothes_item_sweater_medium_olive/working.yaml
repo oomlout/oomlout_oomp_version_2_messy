@@ -1,0 +1,78 @@
+classification: clothes
+classification_capital: Clothes
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CLOTHES
+color: medium
+color_capital: Medium
+color_first_letter: m
+color_first_letter_upper: M
+color_upper: MEDIUM
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: olive
+description_main_capital: Olive
+description_main_first_letter: o
+description_main_first_letter_upper: O
+description_main_upper: OLIVE
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'M '
+description_or_color_upper: 'M '
+directory: parts/clothes_item_sweater_medium_olive
+distributors: []
+filter: ''
+from_yaml: false
+id: clothes_item_sweater_medium_olive
+id_no_class: item_sweater_medium_olive
+id_no_size: medium_olive
+id_no_type: sweater_medium_olive
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_sweater_medium_olive
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_sweater_medium_olive
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_sweater_medium_olive
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[clothes_item_sweater_medium_olive](none)<br>[](none)<br>[Clothes
+    Item Sweater Medium Olive](none)<br><br>'
+markdown_short: '[clothes_item_sweater_medium_olive](none)<br><br>'
+md5: 5cb4dbb7f8245ad8673d1b660928bb70
+md5_10: 5cb4dbb7f8
+md5_10_upper: 5CB4DBB7F8
+md5_5: 5cb4d
+md5_5_upper: 5CB4D
+md5_6: 5cb4db
+md5_6_alpha: 3m7yz
+md5_6_alpha_upper: 3M7YZ
+md5_6_upper: 5CB4DB
+name: Clothes Item Sweater Medium Olive
+name_no_class: Item Sweater Medium Olive
+name_no_size: Medium Olive
+name_no_size_short: Medium Olive
+name_no_type: Sweater Medium Olive
+oomp_key: oomp_clothes_item_sweater_medium_olive
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: sweater
+size_capital: Sweater
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SWEATER
+type: item
+type_capital: Item
+type_first_letter: i
+type_first_letter_upper: I
+type_upper: ITEM

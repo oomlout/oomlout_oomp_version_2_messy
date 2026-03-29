@@ -1,0 +1,84 @@
+classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_upper: ELECTRONIC
+color: red
+color_capital: Red
+color_first_letter: r
+color_first_letter_upper: R
+color_upper: RED
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: tint
+description_main_capital: Tint
+description_main_first_letter: t
+description_main_first_letter_upper: T
+description_main_upper: TINT
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'R '
+description_or_color_upper: 'R '
+directory: parts/electronic_led_1206_red_tint
+distributors: []
+filter: ''
+from_yaml: false
+id: electronic_led_1206_red_tint
+id_no_class: led_1206_red_tint
+id_no_size: red_tint
+id_no_type: 1206_red_tint
+kicad_reference: L
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_1206_red_tint
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_1206_red_tint
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_1206_red_tint
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[electronic_led_1206_red_tint](none)<br>[l12r](none)<br>[Electronic
+    Led 1206 Red Tint](none)<br><br>'
+markdown_short: '[electronic_led_1206_red_tint](none)<br><br>'
+md5: 377cee8fd0f4dc0289645693e5e144e6
+md5_10: 377cee8fd0
+md5_10_upper: 377CEE8FD0
+md5_5: 377ce
+md5_5_upper: 377CE
+md5_6: 377cee
+md5_6_alpha: 25xwu
+md5_6_alpha_upper: 25XWU
+md5_6_upper: 377CEE
+name: Electronic Led 1206 Red Tint
+name_no_class: Led 1206 Red Tint
+name_no_size: Red Tint
+name_no_size_short: Red Tint
+name_no_type: 1206 Red Tint
+oomp_key: oomp_electronic_led_1206_red_tint
+package_style: smd_tape
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: l12r
+short_code_upper: L12R
+short_name: 1206 Redtint Led
+size: '1206'
+size_capital: '1206'
+size_first_letter: '1'
+size_first_letter_upper: '1'
+size_only_numbers: '1206'
+size_only_numbers_no_zeros: '126'
+size_upper: '1206'
+smd_tape_depth: 1_5_mm
+smd_tape_pitch: 4_mm
+smd_tape_width: 8_mm
+type: led
+type_capital: Led
+type_first_letter: l
+type_first_letter_upper: L
+type_upper: LED

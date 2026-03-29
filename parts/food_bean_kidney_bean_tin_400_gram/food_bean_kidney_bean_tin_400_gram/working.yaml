@@ -1,0 +1,79 @@
+classification: food
+classification_capital: Food
+classification_first_letter: f
+classification_first_letter_upper: F
+classification_upper: FOOD
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: tin_400_gram
+description_extra_capital: Tin 400 Gram
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TIN_400_GRAM
+description_main: kidney_bean
+description_main_capital: Kidney Bean
+description_main_first_letter: k
+description_main_first_letter_upper: K
+description_main_upper: KIDNEY_BEAN
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/food_bean_kidney_bean_tin_400_gram
+distributors: []
+filter: ''
+from_yaml: false
+id: food_bean_kidney_bean_tin_400_gram
+id_no_class: bean_kidney_bean_tin_400_gram
+id_no_size: kidneytin400gram
+id_no_type: kidney_tin_400_gram
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_bean_kidney_bean_tin_400_gram
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_bean_kidney_bean_tin_400_gram
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_bean_kidney_bean_tin_400_gram
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[food_bean_kidney_bean_tin_400_gram](none)<br>[](none)<br>[Food Bean
+    Kidney Bean Tin 400 Gram](none)<br><br>'
+markdown_short: '[food_bean_kidney_bean_tin_400_gram](none)<br><br>'
+md5: 3140df3fe847bd198b9e2bf1017fa458
+md5_10: 3140df3fe8
+md5_10_upper: 3140DF3FE8
+md5_5: 3140d
+md5_5_upper: 3140D
+md5_6: 3140df
+md5_6_alpha: 1x6n3
+md5_6_alpha_upper: 1X6N3
+md5_6_upper: 3140DF
+name: Food Bean Kidney Bean Tin 400 Gram
+name_no_class: Bean Kidney Bean Tin 400 Gram
+name_no_size: Kidneytin400Gram
+name_no_size_short: Kidneytin400Gram
+name_no_type: Kidney Tin 400 Gram
+name_short: Kidney Beans
+oomp_key: oomp_food_bean_kidney_bean_tin_400_gram
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: bean
+type_capital: Bean
+type_first_letter: b
+type_first_letter_upper: B
+type_upper: BEAN

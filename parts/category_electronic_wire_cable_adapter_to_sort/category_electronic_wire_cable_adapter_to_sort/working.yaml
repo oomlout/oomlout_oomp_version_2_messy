@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: adapter
+color_capital: Adapter
+color_first_letter: a
+color_first_letter_upper: A
+color_upper: ADAPTER
+description: category_electronic
+description_extra: to_sort
+description_extra_capital: To Sort
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TO_SORT
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'A '
+description_or_color_upper: 'A '
+directory: parts/category_electronic_wire_cable_adapter_to_sort
+distributors: []
+filter: ''
+from_yaml: false
+id: category_electronic_wire_cable_adapter_to_sort
+id_no_class: electronic_wire_cable_adapter_to_sort
+id_no_size: adapter_to_sort
+id_no_type: wire_cable_adapter_to_sort
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_wire_cable_adapter_to_sort
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_wire_cable_adapter_to_sort
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_wire_cable_adapter_to_sort
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_electronic_wire_cable_adapter_to_sort](none)<br>[](none)<br>[Category
+    Electronic Wire Cable Adapter To Sort](none)<br><br>'
+markdown_short: '[category_electronic_wire_cable_adapter_to_sort](none)<br><br>'
+md5: 0d7f6bf3a29d22ad813917d87df0a6b5
+md5_10: 0d7f6bf3a2
+md5_10_upper: 0D7F6BF3A2
+md5_5: 0d7f6
+md5_5_upper: 0D7F6
+md5_6: 0d7f6b
+md5_6_alpha: iyjv
+md5_6_alpha_upper: IYJV
+md5_6_upper: 0D7F6B
+name: Category Electronic Wire Cable Adapter To Sort
+name_no_class: Electronic Wire Cable Adapter To Sort
+name_no_size: Adapter To Sort
+name_no_size_short: Adapter To Sort
+name_no_type: Wire Cable Adapter To Sort
+oomp_key: oomp_category_electronic_wire_cable_adapter_to_sort
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryelectronic
+size: wire_cable
+size_capital: Wire Cable
+size_first_letter: w
+size_first_letter_upper: W
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: WIRE_CABLE
+type: electronic
+type_capital: Electronic
+type_first_letter: e
+type_first_letter_upper: E
+type_upper: ELECTRONIC

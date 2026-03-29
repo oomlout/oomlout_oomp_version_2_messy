@@ -1,0 +1,81 @@
+classification: hardware
+classification_capital: Hardware
+classification_first_letter: h
+classification_first_letter_upper: H
+classification_upper: HARDWARE
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+depth: 13
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 3_mm_diameter_13_mm_depth
+description_main_capital: 3 mm Diameter 13 mm Depth
+description_main_first_letter: '3'
+description_main_first_letter_upper: '3'
+description_main_upper: 3_MM_DIAMETER_13_MM_DEPTH
+description_only_numbers: '313'
+description_only_numbers_short: '313'
+description_or_color: '313'
+description_or_color_upper: '313'
+diameter: 3
+directory: parts/hardware_magnet_cylinder_3_mm_diameter_13_mm_depth
+distributors: []
+filter: ''
+from_yaml: false
+id: hardware_magnet_cylinder_3_mm_diameter_13_mm_depth
+id_no_class: magnet_cylinder_3_mm_diameter_13_mm_depth
+id_no_size: 3_mm_diameter_13_mm_depth
+id_no_type: cylinder_3_mm_diameter_13_mm_depth
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_magnet_cylinder_3_mm_diameter_13_mm_depth
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_magnet_cylinder_3_mm_diameter_13_mm_depth
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_magnet_cylinder_3_mm_diameter_13_mm_depth
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[hardware_magnet_cylinder_3_mm_diameter_13_mm_depth](none)<br>[](none)<br>[Hardware
+    Magnet Cylinder 3 Mm Diameter 13 Mm Depth](none)<br><br>'
+markdown_short: '[hardware_magnet_cylinder_3_mm_diameter_13_mm_depth](none)<br><br>'
+md5: 4f528e6fcaea59e7580453815a50e273
+md5_10: 4f528e6fca
+md5_10_upper: 4F528E6FCA
+md5_5: 4f528
+md5_5_upper: 4F528
+md5_6: 4f528e
+md5_6_alpha: 33f66
+md5_6_alpha_upper: 33F66
+md5_6_upper: 4F528E
+name: Hardware Magnet Cylinder 3 Mm Diameter 13 Mm Depth
+name_no_class: Magnet Cylinder 3 Mm Diameter 13 Mm Depth
+name_no_size: 3 Mm Diameter 13 Mm Depth
+name_no_size_short: 3 Mm Diameter 13 Mm Depth
+name_no_type: Cylinder 3 Mm Diameter 13 Mm Depth
+oomp_key: oomp_hardware_magnet_cylinder_3_mm_diameter_13_mm_depth
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: cylinder
+size_capital: Cylinder
+size_first_letter: c
+size_first_letter_upper: C
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: CYLINDER
+thickness: 13
+type: magnet
+type_capital: Magnet
+type_first_letter: m
+type_first_letter_upper: M
+type_upper: MAGNET

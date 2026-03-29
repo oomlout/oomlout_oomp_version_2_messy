@@ -1,0 +1,81 @@
+classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_upper: ELECTRONIC
+color: red
+color_capital: Red
+color_first_letter: r
+color_first_letter_upper: R
+color_upper: RED
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 2000_mm_length
+description_main_capital: 2000 mm Length
+description_main_first_letter: '2'
+description_main_first_letter_upper: '2'
+description_main_upper: 2000_MM_LENGTH
+description_only_numbers: '2000'
+description_only_numbers_short: 2k
+description_or_color: R2k
+description_or_color_upper: R2K
+directory: parts/electronic_led_strip_12_volt_3_mm_width_red_2000_mm_length
+distributors: []
+filter: ''
+from_yaml: false
+id: electronic_led_strip_12_volt_3_mm_width_red_2000_mm_length
+id_no_class: led_strip_12_volt_3_mm_width_red_2000_mm_length
+id_no_size: red_2000_mm_length
+id_no_type: strip_12_volt_3_mm_width_red_2000_mm_length
+link_distributor_aliexpress: https://www.aliexpress.com/item/1005007532172895.html
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_strip_12_volt_3_mm_width_red_2000_mm_length
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_strip_12_volt_3_mm_width_red_2000_mm_length
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_strip_12_volt_3_mm_width_red_2000_mm_length
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[electronic_led_strip_12_volt_3_mm_width_red_2000_mm_length](none)<br>[lr](none)<br>[Electronic
+    Led Strip 12 Volt 3 Mm Width Red 2000 Mm Length](none)<br><br>'
+markdown_short: '[electronic_led_strip_12_volt_3_mm_width_red_2000_mm_length](none)<br><br>'
+md5: e088fada9d84b68216f52b0ae7ef624c
+md5_10: e088fada9d
+md5_10_upper: E088FADA9D
+md5_5: e088f
+md5_5_upper: E088F
+md5_6: e088fa
+md5_6_alpha: 8re9m
+md5_6_alpha_upper: 8RE9M
+md5_6_upper: E088FA
+name: Electronic Led Strip 12 Volt 3 Mm Width Red 2000 Mm Length
+name_no_class: Led Strip 12 Volt 3 Mm Width Red 2000 Mm Length
+name_no_size: Red 2000 Mm Length
+name_no_size_short: Red 2k Mm Length
+name_no_type: Strip 12 Volt 3 Mm Width Red 2000 Mm Length
+oomp_key: oomp_electronic_led_strip_12_volt_3_mm_width_red_2000_mm_length
+part_number: ''
+part_number_capital: ''
+part_number_distriubutor_aliexpress: '1005007532172895'
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: lr
+short_code_upper: LR
+short_name: Strip 12 Volt 3 Mm Width Red2000 Mm Length Led
+size: strip_12_volt_3_mm_width
+size_capital: Strip 12 Volt 3 mm Width
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: '123'
+size_only_numbers_no_zeros: '123'
+size_upper: STRIP_12_VOLT_3_MM_WIDTH
+type: led
+type_capital: Led
+type_first_letter: l
+type_first_letter_upper: L
+type_upper: LED

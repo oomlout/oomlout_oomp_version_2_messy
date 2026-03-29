@@ -1,0 +1,94 @@
+classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_upper: ELECTRONIC
+color: blue
+color_capital: Blue
+color_first_letter: b
+color_first_letter_upper: B
+color_upper: BLUE
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: tint
+description_main_capital: Tint
+description_main_first_letter: t
+description_main_first_letter_upper: T
+description_main_upper: TINT
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'B '
+description_or_color_upper: 'B '
+directory: parts/electronic_led_0603_blue_tint
+distributors:
+-   id: distributor_lcsc
+    link: https://lcsc.com/product-detail/C965807.html
+    name: LCSC
+    part_number: C965807
+filter: ''
+from_yaml: false
+id: electronic_led_0603_blue_tint
+id_no_class: led_0603_blue_tint
+id_no_size: blue_tint
+id_no_type: 0603_blue_tint
+kicad_reference: L
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_0603_blue_tint
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_0603_blue_tint
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_0603_blue_tint
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers:
+-   id: manufacturer_xinglight
+    link: ''
+    name: XINGLIGHT
+    part_number: XL-1608UBC-04
+markdown_full: '[electronic_led_0603_blue_tint](none)<br>[l6l](none)<br>[Electronic
+    Led 0603 Blue Tint](none)<br>[LCSC - C965807<br>](https://lcsc.com/product-detail/C965807.html)<br>[XINGLIGHT
+    - XL-1608UBC-04]() [(L)  ](https://www.lcsc.com/search?q=XL-1608UBC-04)[(D)  ](https://www.digikey.com/en/products?keywords=XL-1608UBC-04)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=XL-1608UBC-04)[(N)  ](https://www.newark.com/search?st=XL-1608UBC-04)[(SZ)  ](https://so.szlcsc.com/global.html?k=XL-1608UBC-04)<br>'
+markdown_short: '[electronic_led_0603_blue_tint](none)<br>[LCSC - C965807<br>](https://lcsc.com/product-detail/C965807.html)<br>[XINGLIGHT
+    - XL-1608UBC-04]()'
+md5: f97346beb8655d182c86820e7429e246
+md5_10: f97346beb8
+md5_10_upper: F97346BEB8
+md5_5: f9734
+md5_5_upper: F9734
+md5_6: f97346
+md5_6_alpha: 9qe6e
+md5_6_alpha_upper: 9QE6E
+md5_6_upper: F97346
+name: Electronic Led 0603 Blue Tint
+name_no_class: Led 0603 Blue Tint
+name_no_size: Blue Tint
+name_no_size_short: Blue Tint
+name_no_type: 0603 Blue Tint
+oomp_key: oomp_electronic_led_0603_blue_tint
+package_style: smd_tape
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: l6l
+short_code_upper: L6L
+short_name: 0603 Bluetint Led
+size: '0603'
+size_capital: '0603'
+size_first_letter: '0'
+size_first_letter_upper: '0'
+size_only_numbers: '0603'
+size_only_numbers_no_zeros: '63'
+size_upper: '0603'
+smd_tape_depth: 1_5_mm
+smd_tape_pitch: 4_mm
+smd_tape_width: 8_mm
+type: led
+type_capital: Led
+type_first_letter: l
+type_first_letter_upper: L
+type_upper: LED

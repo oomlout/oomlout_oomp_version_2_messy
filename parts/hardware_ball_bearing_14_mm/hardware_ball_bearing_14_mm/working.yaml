@@ -1,0 +1,76 @@
+classification: hardware
+classification_capital: Hardware
+classification_first_letter: h
+classification_first_letter_upper: H
+classification_upper: HARDWARE
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/hardware_ball_bearing_14_mm
+distributors: []
+id: hardware_ball_bearing_14_mm
+id_no_class: ball_bearing_14_mm
+id_no_size: 14_mm
+id_no_type: 14_mm
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_ball_bearing_14_mm
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_ball_bearing_14_mm
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_ball_bearing_14_mm
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[hardware_ball_bearing_14_mm](none)<br>[14](none)<br>[Hardware Ball
+    Bearing 14 Mm](none)<br><br>'
+markdown_short: '[hardware_ball_bearing_14_mm](none)<br><br>'
+md5: ade039384ed471fe5fbadd81a571d76f
+md5_10: ade039384e
+md5_10_upper: ADE039384E
+md5_5: ade03
+md5_5_upper: ADE03
+md5_6: ade039
+md5_6_alpha: 6s8jd
+md5_6_alpha_upper: 6S8JD
+md5_6_upper: ADE039
+name: Hardware Ball Bearing 14 Mm
+name_no_class: Ball Bearing 14 Mm
+name_no_size: 14 Mm
+name_no_size_short: 14 Mm
+name_no_type: 14 Mm
+oomp_key: oomp_hardware_ball_bearing_14_mm
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: '14'
+short_code_upper: '14'
+size: 14_mm
+size_capital: 14 mm
+size_first_letter: '1'
+size_first_letter_upper: '1'
+size_only_numbers: '14'
+size_only_numbers_no_zeros: '14'
+size_upper: 14_MM
+type: ball_bearing
+type_capital: Ball Bearing
+type_first_letter: b
+type_first_letter_upper: B
+type_upper: BALL_BEARING

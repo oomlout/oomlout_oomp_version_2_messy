@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: a2_420_mm_width_594_mm_height
+color_capital: A2.420 mm Width 594 mm Height
+color_first_letter: a
+color_first_letter_upper: A
+color_upper: A2_420_MM_WIDTH_594_MM_HEIGHT
+description: category_paper
+description_extra: to_sort
+description_extra_capital: To Sort
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TO_SORT
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'A '
+description_or_color_upper: 'A '
+directory: parts/category_paper_sheet_a2_420_mm_width_594_mm_height_to_sort
+distributors: []
+filter: ''
+from_yaml: false
+id: category_paper_sheet_a2_420_mm_width_594_mm_height_to_sort
+id_no_class: paper_sheet_a2_420_mm_width_594_mm_height_to_sort
+id_no_size: a2_420_mm_width_594_mm_height_to_sort
+id_no_type: sheet_a2_420_mm_width_594_mm_height_to_sort
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_paper_sheet_a2_420_mm_width_594_mm_height_to_sort
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_paper_sheet_a2_420_mm_width_594_mm_height_to_sort
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_paper_sheet_a2_420_mm_width_594_mm_height_to_sort
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_paper_sheet_a2_420_mm_width_594_mm_height_to_sort](none)<br>[](none)<br>[Category
+    Paper Sheet A2 420 Mm Width 594 Mm Height To Sort](none)<br><br>'
+markdown_short: '[category_paper_sheet_a2_420_mm_width_594_mm_height_to_sort](none)<br><br>'
+md5: c6c8a37a07d7d5eebf9616a528781025
+md5_10: c6c8a37a07
+md5_10_upper: C6C8A37A07
+md5_5: c6c8a
+md5_5_upper: C6C8A
+md5_6: c6c8a3
+md5_6_alpha: 7r82r
+md5_6_alpha_upper: 7R82R
+md5_6_upper: C6C8A3
+name: Category Paper Sheet A2 420 Mm Width 594 Mm Height To Sort
+name_no_class: Paper Sheet A2 420 Mm Width 594 Mm Height To Sort
+name_no_size: A2 420 Mm Width 594 Mm Height To Sort
+name_no_size_short: A2 420 Mm Width 594 Mm Height To Sort
+name_no_type: Sheet A2 420 Mm Width 594 Mm Height To Sort
+oomp_key: oomp_category_paper_sheet_a2_420_mm_width_594_mm_height_to_sort
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorypaper
+size: sheet
+size_capital: Sheet
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SHEET
+type: paper
+type_capital: Paper
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PAPER

@@ -1,0 +1,76 @@
+classification: packaging
+classification_capital: Packaging
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_upper: PACKAGING
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/packaging_tin_can_diameter_75_mm_height_109_mm_400_ml
+distributors: []
+id: packaging_tin_can_diameter_75_mm_height_109_mm_400_ml
+id_no_class: tin_can_diameter_75_mm_height_109_mm_400_ml
+id_no_size: diameter_75_mm_height_109_mm_400_ml
+id_no_type: diameter_75_mm_height_109_mm_400_ml
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/packaging_tin_can_diameter_75_mm_height_109_mm_400_ml
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/packaging_tin_can_diameter_75_mm_height_109_mm_400_ml
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/packaging_tin_can_diameter_75_mm_height_109_mm_400_ml
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[packaging_tin_can_diameter_75_mm_height_109_mm_400_ml](none)<br>[](none)<br>[Packaging
+    Tin Can Diameter 75 Mm Height 109 Mm 400 Ml](none)<br><br>'
+markdown_short: '[packaging_tin_can_diameter_75_mm_height_109_mm_400_ml](none)<br><br>'
+md5: 53e1328ab332c1e3d7f0a9f273840289
+md5_10: 53e1328ab3
+md5_10_upper: 53E1328AB3
+md5_5: 53e13
+md5_5_upper: 53E13
+md5_6: 53e132
+md5_6_alpha: 39tma
+md5_6_alpha_upper: 39TMA
+md5_6_upper: 53E132
+name: Packaging Tin Can Diameter 75 Mm Height 109 Mm 400 Ml
+name_no_class: Tin Can Diameter 75 Mm Height 109 Mm 400 Ml
+name_no_size: Diameter 75 Mm Height 109 Mm 400 Ml
+name_no_size_short: Diameter 75 Mm Height 109 Mm 400 Ml
+name_no_type: Diameter 75 Mm Height 109 Mm 400 Ml
+oomp_key: oomp_packaging_tin_can_diameter_75_mm_height_109_mm_400_ml
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: diameter_75_mm_height_109_mm_400_ml
+size_capital: Diameter 75 mm Height 109 mm 400 Ml
+size_first_letter: d
+size_first_letter_upper: D
+size_only_numbers: '75109400'
+size_only_numbers_no_zeros: '75194'
+size_upper: DIAMETER_75_MM_HEIGHT_109_MM_400_ML
+type: tin_can
+type_capital: Tin Can
+type_first_letter: t
+type_first_letter_upper: T
+type_upper: TIN_CAN

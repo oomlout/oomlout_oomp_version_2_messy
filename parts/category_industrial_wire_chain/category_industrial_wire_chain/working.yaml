@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_industrial
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_industrial_wire_chain
+distributors: []
+filter: ''
+from_yaml: false
+id: category_industrial_wire_chain
+id_no_class: industrial_wire_chain
+id_no_size: wire_chain
+id_no_type: wire_chain
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_industrial_wire_chain
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_industrial_wire_chain
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_industrial_wire_chain
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_industrial_wire_chain](none)<br>[](none)<br>[Category Industrial
+    Wire Chain](none)<br><br>'
+markdown_short: '[category_industrial_wire_chain](none)<br><br>'
+md5: 89f5a066d4082bae006468f2d7d19a4c
+md5_10: 89f5a066d4
+md5_10_upper: 89F5A066D4
+md5_5: 89f5a
+md5_5_upper: 89F5A
+md5_6: 89f5a0
+md5_6_alpha: 5dsbk
+md5_6_alpha_upper: 5DSBK
+md5_6_upper: 89F5A0
+name: Category Industrial Wire Chain
+name_no_class: Industrial Wire Chain
+name_no_size: Wire Chain
+name_no_size_short: Wire Chain
+name_no_type: Wire Chain
+oomp_key: oomp_category_industrial_wire_chain
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryindustrial
+size: wire_chain
+size_capital: Wire Chain
+size_first_letter: w
+size_first_letter_upper: W
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: WIRE_CHAIN
+type: industrial
+type_capital: Industrial
+type_first_letter: i
+type_first_letter_upper: I
+type_upper: INDUSTRIAL

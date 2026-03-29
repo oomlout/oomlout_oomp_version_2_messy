@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: medium
+color_capital: Medium
+color_first_letter: m
+color_first_letter_upper: M
+color_upper: MEDIUM
+description: category_toy
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'M '
+description_or_color_upper: 'M '
+directory: parts/category_toy_figurine_medium
+distributors: []
+filter: ''
+from_yaml: false
+id: category_toy_figurine_medium
+id_no_class: toy_figurine_medium
+id_no_size: medium
+id_no_type: figurine_medium
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_toy_figurine_medium
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_toy_figurine_medium
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_toy_figurine_medium
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_toy_figurine_medium](none)<br>[](none)<br>[Category Toy
+    Figurine Medium](none)<br><br>'
+markdown_short: '[category_toy_figurine_medium](none)<br><br>'
+md5: 65d7588fefb8ab5228fffc37d3adcb69
+md5_10: 65d7588fef
+md5_10_upper: 65D7588FEF
+md5_5: 65d75
+md5_5_upper: 65D75
+md5_6: 65d758
+md5_6_alpha: 3z1w8
+md5_6_alpha_upper: 3Z1W8
+md5_6_upper: 65D758
+name: Category Toy Figurine Medium
+name_no_class: Toy Figurine Medium
+name_no_size: Medium
+name_no_size_short: Medium
+name_no_type: Figurine Medium
+oomp_key: oomp_category_toy_figurine_medium
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorytoy
+size: figurine
+size_capital: Figurine
+size_first_letter: f
+size_first_letter_upper: F
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: FIGURINE
+type: toy
+type_capital: Toy
+type_first_letter: t
+type_first_letter_upper: T
+type_upper: TOY

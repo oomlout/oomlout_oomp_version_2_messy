@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_household_toy
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_household_toy_craft
+distributors: []
+filter: ''
+from_yaml: false
+id: category_household_toy_craft
+id_no_class: household_toy_craft
+id_no_size: craft
+id_no_type: craft
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_toy_craft
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_toy_craft
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_toy_craft
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_household_toy_craft](none)<br>[](none)<br>[Category Household
+    Toy Craft](none)<br><br>'
+markdown_short: '[category_household_toy_craft](none)<br><br>'
+md5: f7059f18eea32508d1a10fe3cef42f32
+md5_10: f7059f18ee
+md5_10_upper: F7059F18EE
+md5_5: f7059
+md5_5_upper: F7059
+md5_6: f7059f
+md5_6_alpha: 9mzdr
+md5_6_alpha_upper: 9MZDR
+md5_6_upper: F7059F
+name: Category Household Toy Craft
+name_no_class: Household Toy Craft
+name_no_size: Craft
+name_no_size_short: Craft
+name_no_type: Craft
+oomp_key: oomp_category_household_toy_craft
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryhouseholdtoy
+size: craft
+size_capital: Craft
+size_first_letter: c
+size_first_letter_upper: C
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: CRAFT
+type: household_toy
+type_capital: Household Toy
+type_first_letter: h
+type_first_letter_upper: H
+type_upper: HOUSEHOLD_TOY

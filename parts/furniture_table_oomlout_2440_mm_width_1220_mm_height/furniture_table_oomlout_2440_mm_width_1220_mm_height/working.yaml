@@ -1,0 +1,78 @@
+classification: furniture
+classification_capital: Furniture
+classification_first_letter: f
+classification_first_letter_upper: F
+classification_upper: FURNITURE
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: 2440_mm_width_1220_mm_height
+description_extra_capital: 2440 mm Width 1220 mm Height
+description_extra_first_letter: '2'
+description_extra_first_letter_upper: '2'
+description_extra_upper: 2440_MM_WIDTH_1220_MM_HEIGHT
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/furniture_table_oomlout_2440_mm_width_1220_mm_height
+distributors: []
+filter: ''
+from_yaml: false
+id: furniture_table_oomlout_2440_mm_width_1220_mm_height
+id_no_class: table_oomlout_2440_mm_width_1220_mm_height
+id_no_size: 2440_mm_width_1220_mm_height
+id_no_type: oomlout_2440_mm_width_1220_mm_height
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/furniture_table_oomlout_2440_mm_width_1220_mm_height
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/furniture_table_oomlout_2440_mm_width_1220_mm_height
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/furniture_table_oomlout_2440_mm_width_1220_mm_height
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[furniture_table_oomlout_2440_mm_width_1220_mm_height](none)<br>[](none)<br>[Furniture
+    Table Oomlout 2440 Mm Width 1220 Mm Height](none)<br><br>'
+markdown_short: '[furniture_table_oomlout_2440_mm_width_1220_mm_height](none)<br><br>'
+md5: 8f354fd6c6e76f5f5a0b582891768797
+md5_10: 8f354fd6c6
+md5_10_upper: 8F354FD6C6
+md5_5: 8f354
+md5_5_upper: 8F354
+md5_6: 8f354f
+md5_6_alpha: 5l5qn
+md5_6_alpha_upper: 5L5QN
+md5_6_upper: 8F354F
+name: Furniture Table Oomlout 2440 Mm Width 1220 Mm Height
+name_no_class: Table Oomlout 2440 Mm Width 1220 Mm Height
+name_no_size: 2440 Mm Width 1220 Mm Height
+name_no_size_short: 2440 Mm Width 1220 Mm Height
+name_no_type: Oomlout 2440 Mm Width 1220 Mm Height
+oomp_key: oomp_furniture_table_oomlout_2440_mm_width_1220_mm_height
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: oomlout
+size_capital: Oomlout
+size_first_letter: o
+size_first_letter_upper: O
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: OOMLOUT
+type: table
+type_capital: Table
+type_first_letter: t
+type_first_letter_upper: T
+type_upper: TABLE

@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_furniture
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_furniture_shoe_cabinet
+distributors: []
+filter: ''
+from_yaml: false
+id: category_furniture_shoe_cabinet
+id_no_class: furniture_shoe_cabinet
+id_no_size: shoe_cabinet
+id_no_type: shoe_cabinet
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_furniture_shoe_cabinet
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_furniture_shoe_cabinet
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_furniture_shoe_cabinet
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_furniture_shoe_cabinet](none)<br>[](none)<br>[Category Furniture
+    Shoe Cabinet](none)<br><br>'
+markdown_short: '[category_furniture_shoe_cabinet](none)<br><br>'
+md5: 2ffdaa3b0dc62cd022a3faf0c333e1f5
+md5_10: 2ffdaa3b0d
+md5_10_upper: 2FFDAA3B0D
+md5_5: 2ffda
+md5_5_upper: 2FFDA
+md5_6: 2ffdaa
+md5_6_alpha: 1vesq
+md5_6_alpha_upper: 1VESQ
+md5_6_upper: 2FFDAA
+name: Category Furniture Shoe Cabinet
+name_no_class: Furniture Shoe Cabinet
+name_no_size: Shoe Cabinet
+name_no_size_short: Shoe Cabinet
+name_no_type: Shoe Cabinet
+oomp_key: oomp_category_furniture_shoe_cabinet
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryfurniture
+size: shoe_cabinet
+size_capital: Shoe Cabinet
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SHOE_CABINET
+type: furniture
+type_capital: Furniture
+type_first_letter: f
+type_first_letter_upper: F
+type_upper: FURNITURE

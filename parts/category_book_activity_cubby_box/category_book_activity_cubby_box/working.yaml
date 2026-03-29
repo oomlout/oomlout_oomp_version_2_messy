@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_book
+description_extra: cubby_box
+description_extra_capital: Cubby Box
+description_extra_first_letter: c
+description_extra_first_letter_upper: C
+description_extra_upper: CUBBY_BOX
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_book_activity_cubby_box
+distributors: []
+filter: ''
+from_yaml: false
+id: category_book_activity_cubby_box
+id_no_class: book_activity_cubby_box
+id_no_size: cubby_box
+id_no_type: activity_cubby_box
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_book_activity_cubby_box
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_book_activity_cubby_box
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_book_activity_cubby_box
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_book_activity_cubby_box](none)<br>[](none)<br>[Category
+    Book Activity Cubby Box](none)<br><br>'
+markdown_short: '[category_book_activity_cubby_box](none)<br><br>'
+md5: 645b096e98cf6b4f24640b35b5a84e1a
+md5_10: 645b096e98
+md5_10_upper: 645B096E98
+md5_5: 645b0
+md5_5_upper: 645B0
+md5_6: 645b09
+md5_6_alpha: 3wyrt
+md5_6_alpha_upper: 3WYRT
+md5_6_upper: 645B09
+name: Category Book Activity Cubby Box
+name_no_class: Book Activity Cubby Box
+name_no_size: Cubby Box
+name_no_size_short: Cubby Box
+name_no_type: Activity Cubby Box
+oomp_key: oomp_category_book_activity_cubby_box
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorybook
+size: activity
+size_capital: Activity
+size_first_letter: a
+size_first_letter_upper: A
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ACTIVITY
+type: book
+type_capital: Book
+type_first_letter: b
+type_first_letter_upper: B
+type_upper: BOOK

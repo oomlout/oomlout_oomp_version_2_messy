@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: m8
+color_capital: M8
+color_first_letter: m
+color_first_letter_upper: M
+color_upper: M8
+description: category_hardware
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'M '
+description_or_color_upper: 'M '
+directory: parts/category_hardware_nut_m8
+distributors: []
+filter: ''
+from_yaml: false
+id: category_hardware_nut_m8
+id_no_class: hardware_nut_m8
+id_no_size: m8
+id_no_type: nut_m8
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_nut_m8
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_nut_m8
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_nut_m8
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_hardware_nut_m8](none)<br>[](none)<br>[Category Hardware
+    Nut M8](none)<br><br>'
+markdown_short: '[category_hardware_nut_m8](none)<br><br>'
+md5: 50b1d4e98dc07ed51e596c06a612da23
+md5_10: 50b1d4e98d
+md5_10_upper: 50B1D4E98D
+md5_5: 50b1d
+md5_5_upper: 50B1D
+md5_6: 50b1d4
+md5_6_alpha: 35ck4
+md5_6_alpha_upper: 35CK4
+md5_6_upper: 50B1D4
+name: Category Hardware Nut M8
+name_no_class: Hardware Nut M8
+name_no_size: M8
+name_no_size_short: M8
+name_no_type: Nut M8
+oomp_key: oomp_category_hardware_nut_m8
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryhardware
+size: nut
+size_capital: Nut
+size_first_letter: n
+size_first_letter_upper: N
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: NUT
+type: hardware
+type_capital: Hardware
+type_first_letter: h
+type_first_letter_upper: H
+type_upper: HARDWARE

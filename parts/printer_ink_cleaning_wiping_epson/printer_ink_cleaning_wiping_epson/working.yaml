@@ -1,0 +1,76 @@
+classification: printer
+classification_capital: Printer
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_upper: PRINTER
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: wiping
+description_main_capital: Wiping
+description_main_first_letter: w
+description_main_first_letter_upper: W
+description_main_upper: WIPING
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/printer_ink_cleaning_wiping_epson
+distributors: []
+id: printer_ink_cleaning_wiping_epson
+id_no_class: ink_cleaning_wiping_epson
+id_no_size: wiping_epson
+id_no_type: cleaning_wiping_epson
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_ink_cleaning_wiping_epson
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_ink_cleaning_wiping_epson
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_ink_cleaning_wiping_epson
+manufacturer: epson
+manufacturer_capital: Epson
+manufacturer_first_letter: e
+manufacturer_first_letter_upper: E
+manufacturer_upper: EPSON
+manufacturers: []
+markdown_full: '[printer_ink_cleaning_wiping_epson](none)<br>[](none)<br>[Printer
+    Ink Cleaning Wiping Epson](none)<br><br>'
+markdown_short: '[printer_ink_cleaning_wiping_epson](none)<br><br>'
+md5: c697f400ce686509376bccfbb31b7838
+md5_10: c697f400ce
+md5_10_upper: C697F400CE
+md5_5: c697f
+md5_5_upper: C697F
+md5_6: c697f4
+md5_6_alpha: 7qygk
+md5_6_alpha_upper: 7QYGK
+md5_6_upper: C697F4
+name: Printer Ink Cleaning Wiping Epson
+name_no_class: Ink Cleaning Wiping Epson
+name_no_size: Wiping Epson
+name_no_size_short: Wiping Epson
+name_no_type: Cleaning Wiping Epson
+oomp_key: oomp_printer_ink_cleaning_wiping_epson
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: cleaning
+size_capital: Cleaning
+size_first_letter: c
+size_first_letter_upper: C
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: CLEANING
+type: ink
+type_capital: Ink
+type_first_letter: i
+type_first_letter_upper: I
+type_upper: INK

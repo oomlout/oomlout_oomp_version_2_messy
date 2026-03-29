@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: quarter_watt_through_hole
+color_capital: Quarter Watt Through Hole
+color_first_letter: q
+color_first_letter_upper: Q
+color_upper: QUARTER_WATT_THROUGH_HOLE
+description: category_electronic
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'Q '
+description_or_color_upper: 'Q '
+directory: parts/category_electronic_resistor_quarter_watt_through_hole
+distributors: []
+filter: ''
+from_yaml: false
+id: category_electronic_resistor_quarter_watt_through_hole
+id_no_class: electronic_resistor_quarter_watt_through_hole
+id_no_size: quarter_watt_through_hole
+id_no_type: resistor_quarter_watt_through_hole
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_resistor_quarter_watt_through_hole
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_resistor_quarter_watt_through_hole
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_resistor_quarter_watt_through_hole
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_electronic_resistor_quarter_watt_through_hole](none)<br>[](none)<br>[Category
+    Electronic Resistor Quarter Watt Through Hole](none)<br><br>'
+markdown_short: '[category_electronic_resistor_quarter_watt_through_hole](none)<br><br>'
+md5: 9bff91ffe54da11da39824edc22174e8
+md5_10: 9bff91ffe5
+md5_10_upper: 9BFF91FFE5
+md5_5: 9bff9
+md5_5_upper: 9BFF9
+md5_6: 9bff91
+md5_6_alpha: 634i9
+md5_6_alpha_upper: 634I9
+md5_6_upper: 9BFF91
+name: Category Electronic Resistor Quarter Watt Through Hole
+name_no_class: Electronic Resistor Quarter Watt Through Hole
+name_no_size: Quarter Watt Through Hole
+name_no_size_short: Quarter Watt Through Hole
+name_no_type: Resistor Quarter Watt Through Hole
+oomp_key: oomp_category_electronic_resistor_quarter_watt_through_hole
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryelectronic
+size: resistor
+size_capital: Resistor
+size_first_letter: r
+size_first_letter_upper: R
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: RESISTOR
+type: electronic
+type_capital: Electronic
+type_first_letter: e
+type_first_letter_upper: E
+type_upper: ELECTRONIC

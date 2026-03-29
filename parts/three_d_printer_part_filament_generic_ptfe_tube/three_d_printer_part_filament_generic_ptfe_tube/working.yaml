@@ -1,0 +1,77 @@
+classification: three_d_printer
+classification_capital: Three D Printer
+classification_first_letter: t
+classification_first_letter_upper: T
+classification_upper: THREE_D_PRINTER
+color: generic
+color_capital: Generic
+color_first_letter: g
+color_first_letter_upper: G
+color_upper: GENERIC
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ptfe_tube
+description_main_capital: Ptfe Tube
+description_main_first_letter: p
+description_main_first_letter_upper: P
+description_main_upper: PTFE_TUBE
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'G '
+description_or_color_upper: 'G '
+directory: parts/three_d_printer_part_filament_generic_ptfe_tube
+distributors: []
+id: three_d_printer_part_filament_generic_ptfe_tube
+id_no_class: part_filament_generic_ptfe_tube
+id_no_size: generic_ptfe_tube
+id_no_type: filament_generic_ptfe_tube
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/three_d_printer_part_filament_generic_ptfe_tube
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/three_d_printer_part_filament_generic_ptfe_tube
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/three_d_printer_part_filament_generic_ptfe_tube
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[three_d_printer_part_filament_generic_ptfe_tube](none)<br>[](none)<br>[Three
+    D Printer Part Filament Generic Ptfe Tube](none)<br><br>'
+markdown_short: '[three_d_printer_part_filament_generic_ptfe_tube](none)<br><br>'
+md5: 4ca1ae0f6267da1f67607c506a15109c
+md5_10: 4ca1ae0f62
+md5_10_upper: 4CA1AE0F62
+md5_5: 4ca1a
+md5_5_upper: 4CA1A
+md5_6: 4ca1ae
+md5_6_alpha: 2zn3i
+md5_6_alpha_upper: 2ZN3I
+md5_6_upper: 4CA1AE
+name: Three D Printer Part Filament Generic Ptfe Tube
+name_no_class: Part Filament Generic Ptfe Tube
+name_no_size: Generic Ptfe Tube
+name_no_size_short: Generic Ptfe Tube
+name_no_type: Filament Generic Ptfe Tube
+oomp_key: oomp_three_d_printer_part_filament_generic_ptfe_tube
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: filament
+size_capital: Filament
+size_first_letter: f
+size_first_letter_upper: F
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: FILAMENT
+type: part
+type_capital: Part
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PART

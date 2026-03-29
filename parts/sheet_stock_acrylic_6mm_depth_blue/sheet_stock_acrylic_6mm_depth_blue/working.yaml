@@ -1,0 +1,78 @@
+classification: sheet_stock
+classification_capital: Sheet Stock
+classification_first_letter: s
+classification_first_letter_upper: S
+classification_upper: SHEET_STOCK
+color: blue
+color_capital: Blue
+color_first_letter: b
+color_first_letter_upper: B
+color_upper: BLUE
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'B '
+description_or_color_upper: 'B '
+directory: parts/sheet_stock_acrylic_6mm_depth_blue
+distributors: []
+filter: ''
+from_yaml: false
+id: sheet_stock_acrylic_6mm_depth_blue
+id_no_class: acrylic_6mm_depth_blue
+id_no_size: blue
+id_no_type: 6mm_depth_blue
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/sheet_stock_acrylic_6mm_depth_blue
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/sheet_stock_acrylic_6mm_depth_blue
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/sheet_stock_acrylic_6mm_depth_blue
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[sheet_stock_acrylic_6mm_depth_blue](none)<br>[l](none)<br>[Sheet
+    Stock Acrylic 6Mm Depth Blue](none)<br><br>'
+markdown_short: '[sheet_stock_acrylic_6mm_depth_blue](none)<br><br>'
+md5: fb3da07d01c6344dc831308b23829295
+md5_10: fb3da07d01
+md5_10_upper: FB3DA07D01
+md5_5: fb3da
+md5_5_upper: FB3DA
+md5_6: fb3da0
+md5_6_alpha: 9swps
+md5_6_alpha_upper: 9SWPS
+md5_6_upper: FB3DA0
+name: Sheet Stock Acrylic 6Mm Depth Blue
+name_no_class: Acrylic 6Mm Depth Blue
+name_no_size: Blue
+name_no_size_short: Blue
+name_no_type: 6Mm Depth Blue
+oomp_key: oomp_sheet_stock_acrylic_6mm_depth_blue
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: l
+short_code_upper: L
+size: 6mm_depth
+size_capital: 6mm Depth
+size_first_letter: '6'
+size_first_letter_upper: '6'
+size_only_numbers: '6'
+size_only_numbers_no_zeros: '6'
+size_upper: 6MM_DEPTH
+type: acrylic
+type_capital: Acrylic
+type_first_letter: a
+type_first_letter_upper: A
+type_upper: ACRYLIC

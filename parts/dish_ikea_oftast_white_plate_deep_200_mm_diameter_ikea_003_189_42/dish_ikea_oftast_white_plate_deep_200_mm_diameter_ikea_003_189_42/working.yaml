@@ -1,0 +1,79 @@
+classification: dish
+classification_capital: Dish
+classification_first_letter: d
+classification_first_letter_upper: D
+classification_upper: DISH
+color: white
+color_capital: White
+color_first_letter: w
+color_first_letter_upper: W
+color_upper: WHITE
+description_extra: 200_mm_diameter
+description_extra_capital: 200 mm Diameter
+description_extra_first_letter: '2'
+description_extra_first_letter_upper: '2'
+description_extra_upper: 200_MM_DIAMETER
+description_main: plate_deep
+description_main_capital: Plate Deep
+description_main_first_letter: p
+description_main_first_letter_upper: P
+description_main_upper: PLATE_DEEP
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'W '
+description_or_color_upper: 'W '
+directory: parts/dish_ikea_oftast_white_plate_deep_200_mm_diameter_ikea_003_189_42
+distributors: []
+filter: ''
+from_yaml: false
+id: dish_ikea_oftast_white_plate_deep_200_mm_diameter_ikea_003_189_42
+id_no_class: ikea_oftast_white_plate_deep_200_mm_diameter_ikea_003_189_42
+id_no_size: ikeaoftastwhiteplatedeep200mmdiameterikea00318942
+id_no_type: ikeaoftastwhiteplatedeep200mmdiameterikea00318942
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/dish_ikea_oftast_white_plate_deep_200_mm_diameter_ikea_003_189_42
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/dish_ikea_oftast_white_plate_deep_200_mm_diameter_ikea_003_189_42
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/dish_ikea_oftast_white_plate_deep_200_mm_diameter_ikea_003_189_42
+manufacturer: ikea
+manufacturer_capital: Ikea
+manufacturer_first_letter: i
+manufacturer_first_letter_upper: I
+manufacturer_upper: IKEA
+manufacturers: []
+markdown_full: '[dish_ikea_oftast_white_plate_deep_200_mm_diameter_ikea_003_189_42](none)<br>[w](none)<br>[Dish
+    Ikea Oftast White Plate Deep 200 Mm Diameter Ikea 003 189 42](none)<br><br>'
+markdown_short: '[dish_ikea_oftast_white_plate_deep_200_mm_diameter_ikea_003_189_42](none)<br><br>'
+md5: b953f4721262ba5cdc203b3b81b56a95
+md5_10: b953f47212
+md5_10_upper: B953F47212
+md5_5: b953f
+md5_5_upper: B953F
+md5_6: b953f4
+md5_6_alpha: 78bn8
+md5_6_alpha_upper: 78BN8
+md5_6_upper: B953F4
+name: Dish Ikea Oftast White Plate Deep 200 Mm Diameter Ikea 003 189 42
+name_no_class: Ikea Oftast White Plate Deep 200 Mm Diameter Ikea 003 189 42
+name_no_size: Ikeaoftastwhiteplatedeep200Mmdiameterikea00318942
+name_no_size_short: Ikeaoftastwhiteplatedeep200Mmdiameterikea00318942
+name_no_type: Ikeaoftastwhiteplatedeep200Mmdiameterikea00318942
+oomp_key: oomp_dish_ikea_oftast_white_plate_deep_200_mm_diameter_ikea_003_189_42
+part_number: 003_189_42
+part_number_capital: 003.189.42
+part_number_exact: 003.189.42
+part_number_first_letter: '0'
+part_number_first_letter_upper: '0'
+part_number_upper: 003_189_42
+short_code: w
+short_code_upper: W
+size: ikea_oftast
+size_capital: Ikea Oftast
+size_first_letter: i
+size_first_letter_upper: I
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: IKEA_OFTAST
+type: ''
+type_capital: ''
+type_first_letter: ''
+type_first_letter_upper: ''
+type_upper: ''

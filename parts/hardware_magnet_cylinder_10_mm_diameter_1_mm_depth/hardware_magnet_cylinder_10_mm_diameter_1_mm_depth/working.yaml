@@ -1,0 +1,81 @@
+classification: hardware
+classification_capital: Hardware
+classification_first_letter: h
+classification_first_letter_upper: H
+classification_upper: HARDWARE
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+depth: 1
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 10_mm_diameter_1_mm_depth
+description_main_capital: 10 mm Diameter 1 mm Depth
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_upper: 10_MM_DIAMETER_1_MM_DEPTH
+description_only_numbers: '101'
+description_only_numbers_short: '101'
+description_or_color: '101'
+description_or_color_upper: '101'
+diameter: 10
+directory: parts/hardware_magnet_cylinder_10_mm_diameter_1_mm_depth
+distributors: []
+filter: ''
+from_yaml: false
+id: hardware_magnet_cylinder_10_mm_diameter_1_mm_depth
+id_no_class: magnet_cylinder_10_mm_diameter_1_mm_depth
+id_no_size: 10_mm_diameter_1_mm_depth
+id_no_type: cylinder_10_mm_diameter_1_mm_depth
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_magnet_cylinder_10_mm_diameter_1_mm_depth
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_magnet_cylinder_10_mm_diameter_1_mm_depth
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_magnet_cylinder_10_mm_diameter_1_mm_depth
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[hardware_magnet_cylinder_10_mm_diameter_1_mm_depth](none)<br>[](none)<br>[Hardware
+    Magnet Cylinder 10 Mm Diameter 1 Mm Depth](none)<br><br>'
+markdown_short: '[hardware_magnet_cylinder_10_mm_diameter_1_mm_depth](none)<br><br>'
+md5: c1d4cabdb43f53894e468e9bcc5c308d
+md5_10: c1d4cabdb4
+md5_10_upper: C1D4CABDB4
+md5_5: c1d4c
+md5_5_upper: C1D4C
+md5_6: c1d4ca
+md5_6_alpha: 7k9my
+md5_6_alpha_upper: 7K9MY
+md5_6_upper: C1D4CA
+name: Hardware Magnet Cylinder 10 Mm Diameter 1 Mm Depth
+name_no_class: Magnet Cylinder 10 Mm Diameter 1 Mm Depth
+name_no_size: 10 Mm Diameter 1 Mm Depth
+name_no_size_short: 10 Mm Diameter 1 Mm Depth
+name_no_type: Cylinder 10 Mm Diameter 1 Mm Depth
+oomp_key: oomp_hardware_magnet_cylinder_10_mm_diameter_1_mm_depth
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: cylinder
+size_capital: Cylinder
+size_first_letter: c
+size_first_letter_upper: C
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: CYLINDER
+thickness: 1
+type: magnet
+type_capital: Magnet
+type_first_letter: m
+type_first_letter_upper: M
+type_upper: MAGNET

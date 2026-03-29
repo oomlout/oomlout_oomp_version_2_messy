@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_tool
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_tool_water_chiller
+distributors: []
+filter: ''
+from_yaml: false
+id: category_tool_water_chiller
+id_no_class: tool_water_chiller
+id_no_size: water_chiller
+id_no_type: water_chiller
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_water_chiller
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_water_chiller
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_water_chiller
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_tool_water_chiller](none)<br>[](none)<br>[Category Tool
+    Water Chiller](none)<br><br>'
+markdown_short: '[category_tool_water_chiller](none)<br><br>'
+md5: 383fb950f36b130b1ae8879c0306b54c
+md5_10: 383fb950f3
+md5_10_upper: 383FB950F3
+md5_5: 383fb
+md5_5_upper: 383FB
+md5_6: 383fb9
+md5_6_alpha: 270e1
+md5_6_alpha_upper: 270E1
+md5_6_upper: 383FB9
+name: Category Tool Water Chiller
+name_no_class: Tool Water Chiller
+name_no_size: Water Chiller
+name_no_size_short: Water Chiller
+name_no_type: Water Chiller
+oomp_key: oomp_category_tool_water_chiller
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorytool
+size: water_chiller
+size_capital: Water Chiller
+size_first_letter: w
+size_first_letter_upper: W
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: WATER_CHILLER
+type: tool
+type_capital: Tool
+type_first_letter: t
+type_first_letter_upper: T
+type_upper: TOOL

@@ -1,0 +1,78 @@
+classification: clothes
+classification_capital: Clothes
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CLOTHES
+color: medium
+color_capital: Medium
+color_first_letter: m
+color_first_letter_upper: M
+color_upper: MEDIUM
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: black
+description_main_capital: Black
+description_main_first_letter: b
+description_main_first_letter_upper: B
+description_main_upper: BLACK
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'M '
+description_or_color_upper: 'M '
+directory: parts/clothes_item_hat_medium_black
+distributors: []
+filter: ''
+from_yaml: false
+id: clothes_item_hat_medium_black
+id_no_class: item_hat_medium_black
+id_no_size: medium_black
+id_no_type: hat_medium_black
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_hat_medium_black
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_hat_medium_black
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_hat_medium_black
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[clothes_item_hat_medium_black](none)<br>[](none)<br>[Clothes Item
+    Hat Medium Black](none)<br><br>'
+markdown_short: '[clothes_item_hat_medium_black](none)<br><br>'
+md5: 120755ee8bd3895c8a45f687ef7493db
+md5_10: 120755ee8b
+md5_10_upper: 120755EE8B
+md5_5: '12075'
+md5_5_upper: '12075'
+md5_6: '120755'
+md5_6_alpha: pbo5
+md5_6_alpha_upper: PBO5
+md5_6_upper: '120755'
+name: Clothes Item Hat Medium Black
+name_no_class: Item Hat Medium Black
+name_no_size: Medium Black
+name_no_size_short: Medium Black
+name_no_type: Hat Medium Black
+oomp_key: oomp_clothes_item_hat_medium_black
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: hat
+size_capital: Hat
+size_first_letter: h
+size_first_letter_upper: H
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: HAT
+type: item
+type_capital: Item
+type_first_letter: i
+type_first_letter_upper: I
+type_upper: ITEM

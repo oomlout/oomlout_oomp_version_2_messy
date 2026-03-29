@@ -1,0 +1,80 @@
+classification: food
+classification_capital: Food
+classification_first_letter: f
+classification_first_letter_upper: F
+classification_upper: FOOD
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: peppercorn black
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: peppercorn_black
+description_main_capital: Peppercorn Black
+description_main_first_letter: p
+description_main_first_letter_upper: P
+description_main_upper: PEPPERCORN_BLACK
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/food_seasoning_salt_and_pepper_peppercorn_black
+distributors: []
+filter: ''
+from_yaml: false
+id: food_seasoning_salt_and_pepper_peppercorn_black
+id_no_class: seasoning_salt_and_pepper_peppercorn_black
+id_no_size: peppercorn_black
+id_no_type: salt_and_pepper_peppercorn_black
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_salt_and_pepper_peppercorn_black
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_salt_and_pepper_peppercorn_black
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_salt_and_pepper_peppercorn_black
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[food_seasoning_salt_and_pepper_peppercorn_black](none)<br>[](none)<br>[Food
+    Seasoning Salt And Pepper Peppercorn Black](none)<br><br>'
+markdown_short: '[food_seasoning_salt_and_pepper_peppercorn_black](none)<br><br>'
+md5: f0f7feb43311156dce3e3912b4251427
+md5_10: f0f7feb433
+md5_10_upper: F0F7FEB433
+md5_5: f0f7f
+md5_5_upper: F0F7F
+md5_6: f0f7fe
+md5_6_alpha: 9eha6
+md5_6_alpha_upper: 9EHA6
+md5_6_upper: F0F7FE
+name: Food Seasoning Salt And Pepper Peppercorn Black
+name_no_class: Seasoning Salt And Pepper Peppercorn Black
+name_no_size: Peppercorn Black
+name_no_size_short: Peppercorn Black
+name_no_type: Salt And Pepper Peppercorn Black
+name_short: Peppercorn Black
+oomp_key: oomp_food_seasoning_salt_and_pepper_peppercorn_black
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: salt_and_pepper
+size_capital: Salt And Pepper
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SALT_AND_PEPPER
+type: seasoning
+type_capital: Seasoning
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: SEASONING

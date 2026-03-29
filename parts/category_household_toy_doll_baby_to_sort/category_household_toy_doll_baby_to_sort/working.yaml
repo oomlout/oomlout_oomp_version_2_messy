@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_household_toy
+description_extra: to_sort
+description_extra_capital: To Sort
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TO_SORT
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_household_toy_doll_baby_to_sort
+distributors: []
+filter: ''
+from_yaml: false
+id: category_household_toy_doll_baby_to_sort
+id_no_class: household_toy_doll_baby_to_sort
+id_no_size: to_sort
+id_no_type: doll_baby_to_sort
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_toy_doll_baby_to_sort
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_toy_doll_baby_to_sort
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_toy_doll_baby_to_sort
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_household_toy_doll_baby_to_sort](none)<br>[](none)<br>[Category
+    Household Toy Doll Baby To Sort](none)<br><br>'
+markdown_short: '[category_household_toy_doll_baby_to_sort](none)<br><br>'
+md5: e11298f919f314b2cfc52b9ce3187b91
+md5_10: e11298f919
+md5_10_upper: E11298F919
+md5_5: e1129
+md5_5_upper: E1129
+md5_6: e11298
+md5_6_alpha: 8s5g8
+md5_6_alpha_upper: 8S5G8
+md5_6_upper: E11298
+name: Category Household Toy Doll Baby To Sort
+name_no_class: Household Toy Doll Baby To Sort
+name_no_size: To Sort
+name_no_size_short: To Sort
+name_no_type: Doll Baby To Sort
+oomp_key: oomp_category_household_toy_doll_baby_to_sort
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryhouseholdtoy
+size: doll_baby
+size_capital: Doll Baby
+size_first_letter: d
+size_first_letter_upper: D
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: DOLL_BABY
+type: household_toy
+type_capital: Household Toy
+type_first_letter: h
+type_first_letter_upper: H
+type_upper: HOUSEHOLD_TOY

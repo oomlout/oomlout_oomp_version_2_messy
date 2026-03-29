@@ -1,0 +1,78 @@
+classification: clothes
+classification_capital: Clothes
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CLOTHES
+color: double_extra_large
+color_capital: Double Extra Large
+color_first_letter: d
+color_first_letter_upper: D
+color_upper: DOUBLE_EXTRA_LARGE
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: cyan
+description_main_capital: Cyan
+description_main_first_letter: c
+description_main_first_letter_upper: C
+description_main_upper: CYAN
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'D '
+description_or_color_upper: 'D '
+directory: parts/clothes_item_pants_double_extra_large_cyan
+distributors: []
+filter: ''
+from_yaml: false
+id: clothes_item_pants_double_extra_large_cyan
+id_no_class: item_pants_double_extra_large_cyan
+id_no_size: double_extra_large_cyan
+id_no_type: pants_double_extra_large_cyan
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_pants_double_extra_large_cyan
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_pants_double_extra_large_cyan
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_pants_double_extra_large_cyan
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[clothes_item_pants_double_extra_large_cyan](none)<br>[](none)<br>[Clothes
+    Item Pants Double Extra Large Cyan](none)<br><br>'
+markdown_short: '[clothes_item_pants_double_extra_large_cyan](none)<br><br>'
+md5: c8b2d938cb6527d61e6f810153076b7a
+md5_10: c8b2d938cb
+md5_10_upper: C8B2D938CB
+md5_5: c8b2d
+md5_5_upper: C8B2D
+md5_6: c8b2d9
+md5_6_alpha: 7twwp
+md5_6_alpha_upper: 7TWWP
+md5_6_upper: C8B2D9
+name: Clothes Item Pants Double Extra Large Cyan
+name_no_class: Item Pants Double Extra Large Cyan
+name_no_size: Double Extra Large Cyan
+name_no_size_short: Double Extra Large Cyan
+name_no_type: Pants Double Extra Large Cyan
+oomp_key: oomp_clothes_item_pants_double_extra_large_cyan
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: pants
+size_capital: Pants
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PANTS
+type: item
+type_capital: Item
+type_first_letter: i
+type_first_letter_upper: I
+type_upper: ITEM

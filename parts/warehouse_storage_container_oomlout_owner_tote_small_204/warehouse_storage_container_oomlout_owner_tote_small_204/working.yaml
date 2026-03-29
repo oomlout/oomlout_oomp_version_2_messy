@@ -1,0 +1,78 @@
+classification: warehouse
+classification_capital: Warehouse
+classification_first_letter: w
+classification_first_letter_upper: W
+classification_upper: WAREHOUSE
+color: tote_small
+color_capital: Tote Small
+color_first_letter: t
+color_first_letter_upper: T
+color_upper: TOTE_SMALL
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: '204'
+description_main_capital: '204'
+description_main_first_letter: '2'
+description_main_first_letter_upper: '2'
+description_main_upper: '204'
+description_only_numbers: '204'
+description_only_numbers_short: '204'
+description_or_color: T204
+description_or_color_upper: T204
+directory: parts/warehouse_storage_container_oomlout_owner_tote_small_204
+distributors: []
+id: warehouse_storage_container_oomlout_owner_tote_small_204
+id_no_class: storage_container_oomlout_owner_tote_small_204
+id_no_size: tote_small_204
+id_no_type: oomlout_owner_tote_small_204
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/warehouse_storage_container_oomlout_owner_tote_small_204
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/warehouse_storage_container_oomlout_owner_tote_small_204
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/warehouse_storage_container_oomlout_owner_tote_small_204
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[warehouse_storage_container_oomlout_owner_tote_small_204](none)<br>[](none)<br>[Warehouse
+    Storage Container Oomlout Owner Tote Small 204](none)<br><br>'
+markdown_short: '[warehouse_storage_container_oomlout_owner_tote_small_204](none)<br><br>'
+md5: ec6151a68906211028559b6ed80a6ad4
+md5_10: ec6151a689
+md5_10_upper: EC6151A689
+md5_5: ec615
+md5_5_upper: EC615
+md5_6: ec6151
+md5_6_alpha: 9818x
+md5_6_alpha_upper: 9818X
+md5_6_upper: EC6151
+name: Warehouse Storage Container Oomlout Owner Tote Small 204
+name_no_class: Storage Container Oomlout Owner Tote Small 204
+name_no_size: Tote Small 204
+name_no_size_short: Tote Small 204
+name_no_type: Oomlout Owner Tote Small 204
+oomp_key: oomp_warehouse_storage_container_oomlout_owner_tote_small_204
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: oomlout_owner
+size_capital: Oomlout Owner
+size_first_letter: o
+size_first_letter_upper: O
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: OOMLOUT_OWNER
+type: storage_container
+type_capital: Storage Container
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: STORAGE_CONTAINER

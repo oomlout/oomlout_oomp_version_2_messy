@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: soic_14_wide
+color_capital: Soic 14 Wide
+color_first_letter: s
+color_first_letter_upper: S
+color_upper: SOIC_14_WIDE
+description: category_electronic
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'S '
+description_or_color_upper: 'S '
+directory: parts/category_electronic_interposer_soic_14_wide
+distributors: []
+filter: ''
+from_yaml: false
+id: category_electronic_interposer_soic_14_wide
+id_no_class: electronic_interposer_soic_14_wide
+id_no_size: soic_14_wide
+id_no_type: interposer_soic_14_wide
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_interposer_soic_14_wide
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_interposer_soic_14_wide
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_interposer_soic_14_wide
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_electronic_interposer_soic_14_wide](none)<br>[](none)<br>[Category
+    Electronic Interposer Soic 14 Wide](none)<br><br>'
+markdown_short: '[category_electronic_interposer_soic_14_wide](none)<br><br>'
+md5: e9b099c209fc02e26483562a6b6b99b2
+md5_10: e9b099c209
+md5_10_upper: E9B099C209
+md5_5: e9b09
+md5_5_upper: E9B09
+md5_6: e9b099
+md5_6_alpha: 9497d
+md5_6_alpha_upper: 9497D
+md5_6_upper: E9B099
+name: Category Electronic Interposer Soic 14 Wide
+name_no_class: Electronic Interposer Soic 14 Wide
+name_no_size: Soic 14 Wide
+name_no_size_short: Soic 14 Wide
+name_no_type: Interposer Soic 14 Wide
+oomp_key: oomp_category_electronic_interposer_soic_14_wide
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryelectronic
+size: interposer
+size_capital: Interposer
+size_first_letter: i
+size_first_letter_upper: I
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: INTERPOSER
+type: electronic
+type_capital: Electronic
+type_first_letter: e
+type_first_letter_upper: E
+type_upper: ELECTRONIC

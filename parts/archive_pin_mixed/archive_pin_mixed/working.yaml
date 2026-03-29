@@ -1,0 +1,75 @@
+classification: archive
+classification_capital: Archive
+classification_first_letter: a
+classification_first_letter_upper: A
+classification_upper: ARCHIVE
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: mixed
+description_main_capital: Mixed
+description_main_first_letter: m
+description_main_first_letter_upper: M
+description_main_upper: MIXED
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/archive_pin_mixed
+distributors: []
+id: archive_pin_mixed
+id_no_class: pin_mixed
+id_no_size: mixed
+id_no_type: mixed
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/archive_pin_mixed
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/archive_pin_mixed
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/archive_pin_mixed
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[archive_pin_mixed](none)<br>[](none)<br>[Archive Pin Mixed](none)<br><br>'
+markdown_short: '[archive_pin_mixed](none)<br><br>'
+md5: fa27300ab4d0ed197190bd4af4ff2f42
+md5_10: fa27300ab4
+md5_10_upper: FA27300AB4
+md5_5: fa273
+md5_5_upper: FA273
+md5_6: fa2730
+md5_6_alpha: 9rdps
+md5_6_alpha_upper: 9RDPS
+md5_6_upper: FA2730
+name: Archive Pin Mixed
+name_no_class: Pin Mixed
+name_no_size: Mixed
+name_no_size_short: Mixed
+name_no_type: Mixed
+oomp_key: oomp_archive_pin_mixed
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: pin
+type_capital: Pin
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PIN

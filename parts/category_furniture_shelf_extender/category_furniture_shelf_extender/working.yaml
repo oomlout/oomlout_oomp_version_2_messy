@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_furniture
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_furniture_shelf_extender
+distributors: []
+filter: ''
+from_yaml: false
+id: category_furniture_shelf_extender
+id_no_class: furniture_shelf_extender
+id_no_size: shelf_extender
+id_no_type: shelf_extender
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_furniture_shelf_extender
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_furniture_shelf_extender
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_furniture_shelf_extender
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_furniture_shelf_extender](none)<br>[](none)<br>[Category
+    Furniture Shelf Extender](none)<br><br>'
+markdown_short: '[category_furniture_shelf_extender](none)<br><br>'
+md5: 9724d231af8696625ba70a3ce4a5ed65
+md5_10: 9724d231af
+md5_10_upper: 9724D231AF
+md5_5: 9724d
+md5_5_upper: 9724D
+md5_6: 9724d2
+md5_6_alpha: 5wb0y
+md5_6_alpha_upper: 5WB0Y
+md5_6_upper: 9724D2
+name: Category Furniture Shelf Extender
+name_no_class: Furniture Shelf Extender
+name_no_size: Shelf Extender
+name_no_size_short: Shelf Extender
+name_no_type: Shelf Extender
+oomp_key: oomp_category_furniture_shelf_extender
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryfurniture
+size: shelf_extender
+size_capital: Shelf Extender
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SHELF_EXTENDER
+type: furniture
+type_capital: Furniture
+type_first_letter: f
+type_first_letter_upper: F
+type_upper: FURNITURE

@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_packaging
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_packaging_bag_grip_seal
+distributors: []
+filter: ''
+from_yaml: false
+id: category_packaging_bag_grip_seal
+id_no_class: packaging_bag_grip_seal
+id_no_size: bag_grip_seal
+id_no_type: bag_grip_seal
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_packaging_bag_grip_seal
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_packaging_bag_grip_seal
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_packaging_bag_grip_seal
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_packaging_bag_grip_seal](none)<br>[](none)<br>[Category
+    Packaging Bag Grip Seal](none)<br><br>'
+markdown_short: '[category_packaging_bag_grip_seal](none)<br><br>'
+md5: 44a0edd800eb689637f14802c50dff7b
+md5_10: 44a0edd800
+md5_10_upper: 44A0EDD800
+md5_5: 44a0e
+md5_5_upper: 44A0E
+md5_6: 44a0ed
+md5_6_alpha: 2oeel
+md5_6_alpha_upper: 2OEEL
+md5_6_upper: 44A0ED
+name: Category Packaging Bag Grip Seal
+name_no_class: Packaging Bag Grip Seal
+name_no_size: Bag Grip Seal
+name_no_size_short: Bag Grip Seal
+name_no_type: Bag Grip Seal
+oomp_key: oomp_category_packaging_bag_grip_seal
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorypackaging
+size: bag_grip_seal
+size_capital: Bag Grip Seal
+size_first_letter: b
+size_first_letter_upper: B
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: BAG_GRIP_SEAL
+type: packaging
+type_capital: Packaging
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PACKAGING

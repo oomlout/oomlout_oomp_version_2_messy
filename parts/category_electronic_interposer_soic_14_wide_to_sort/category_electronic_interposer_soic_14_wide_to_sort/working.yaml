@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: soic_14_wide
+color_capital: Soic 14 Wide
+color_first_letter: s
+color_first_letter_upper: S
+color_upper: SOIC_14_WIDE
+description: category_electronic
+description_extra: to_sort
+description_extra_capital: To Sort
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TO_SORT
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'S '
+description_or_color_upper: 'S '
+directory: parts/category_electronic_interposer_soic_14_wide_to_sort
+distributors: []
+filter: ''
+from_yaml: false
+id: category_electronic_interposer_soic_14_wide_to_sort
+id_no_class: electronic_interposer_soic_14_wide_to_sort
+id_no_size: soic_14_wide_to_sort
+id_no_type: interposer_soic_14_wide_to_sort
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_interposer_soic_14_wide_to_sort
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_interposer_soic_14_wide_to_sort
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_interposer_soic_14_wide_to_sort
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_electronic_interposer_soic_14_wide_to_sort](none)<br>[](none)<br>[Category
+    Electronic Interposer Soic 14 Wide To Sort](none)<br><br>'
+markdown_short: '[category_electronic_interposer_soic_14_wide_to_sort](none)<br><br>'
+md5: 562c16210cbb3c5d13ada0845ce3b65b
+md5_10: 562c16210c
+md5_10_upper: 562C16210C
+md5_5: 562c1
+md5_5_upper: 562C1
+md5_6: 562c16
+md5_6_alpha: 3d1jq
+md5_6_alpha_upper: 3D1JQ
+md5_6_upper: 562C16
+name: Category Electronic Interposer Soic 14 Wide To Sort
+name_no_class: Electronic Interposer Soic 14 Wide To Sort
+name_no_size: Soic 14 Wide To Sort
+name_no_size_short: Soic 14 Wide To Sort
+name_no_type: Interposer Soic 14 Wide To Sort
+oomp_key: oomp_category_electronic_interposer_soic_14_wide_to_sort
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryelectronic
+size: interposer
+size_capital: Interposer
+size_first_letter: i
+size_first_letter_upper: I
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: INTERPOSER
+type: electronic
+type_capital: Electronic
+type_first_letter: e
+type_first_letter_upper: E
+type_upper: ELECTRONIC

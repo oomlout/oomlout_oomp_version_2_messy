@@ -1,0 +1,77 @@
+classification: craft
+classification_capital: Craft
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CRAFT
+color: purple
+color_capital: Purple
+color_first_letter: p
+color_first_letter_upper: P
+color_upper: PURPLE
+description_extra: 1_meter
+description_extra_capital: 1 Meter
+description_extra_first_letter: '1'
+description_extra_first_letter_upper: '1'
+description_extra_upper: 1_METER
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'P '
+description_or_color_upper: 'P '
+directory: parts/craft_ribbon_fabric_purple_1_meter
+distributors: []
+id: craft_ribbon_fabric_purple_1_meter
+id_no_class: ribbon_fabric_purple_1_meter
+id_no_size: purple_1_meter
+id_no_type: fabric_purple_1_meter
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/craft_ribbon_fabric_purple_1_meter
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/craft_ribbon_fabric_purple_1_meter
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/craft_ribbon_fabric_purple_1_meter
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[craft_ribbon_fabric_purple_1_meter](none)<br>[v](none)<br>[Craft
+    Ribbon Fabric Purple 1 Meter](none)<br><br>'
+markdown_short: '[craft_ribbon_fabric_purple_1_meter](none)<br><br>'
+md5: 9e10bad979b00cb741c449f996840203
+md5_10: 9e10bad979
+md5_10_upper: 9E10BAD979
+md5_5: 9e10b
+md5_5_upper: 9E10B
+md5_6: 9e10ba
+md5_6_alpha: '66116'
+md5_6_alpha_upper: '66116'
+md5_6_upper: 9E10BA
+name: Craft Ribbon Fabric Purple 1 Meter
+name_no_class: Ribbon Fabric Purple 1 Meter
+name_no_size: Purple 1 Meter
+name_no_size_short: Purple 1 Meter
+name_no_type: Fabric Purple 1 Meter
+oomp_key: oomp_craft_ribbon_fabric_purple_1_meter
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: v
+short_code_upper: V
+short_name: ''
+size: fabric
+size_capital: Fabric
+size_first_letter: f
+size_first_letter_upper: F
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: FABRIC
+type: ribbon
+type_capital: Ribbon
+type_first_letter: r
+type_first_letter_upper: R
+type_upper: RIBBON

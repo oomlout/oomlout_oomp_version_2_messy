@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_sheet_stock
+description_extra: old
+description_extra_capital: Old
+description_extra_first_letter: o
+description_extra_first_letter_upper: O
+description_extra_upper: OLD
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_sheet_stock_old
+distributors: []
+filter: ''
+from_yaml: false
+id: category_sheet_stock_old
+id_no_class: sheet_stock_old
+id_no_size: old
+id_no_type: old
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_sheet_stock_old
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_sheet_stock_old
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_sheet_stock_old
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_sheet_stock_old](none)<br>[](none)<br>[Category Sheet Stock
+    Old](none)<br><br>'
+markdown_short: '[category_sheet_stock_old](none)<br><br>'
+md5: 01314225ddb548199cd045aa191dfb42
+md5_10: 01314225dd
+md5_10_upper: 01314225DD
+md5_5: '01314'
+md5_5_upper: '01314'
+md5_6: '013142'
+md5_6_alpha: 1oaq
+md5_6_alpha_upper: 1OAQ
+md5_6_upper: '013142'
+name: Category Sheet Stock Old
+name_no_class: Sheet Stock Old
+name_no_size: Old
+name_no_size_short: Old
+name_no_type: Old
+oomp_key: oomp_category_sheet_stock_old
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorysheetstock
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: sheet_stock
+type_capital: Sheet Stock
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: SHEET_STOCK

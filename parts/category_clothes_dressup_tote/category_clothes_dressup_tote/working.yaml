@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_clothes
+description_extra: tote
+description_extra_capital: Tote
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TOTE
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_clothes_dressup_tote
+distributors: []
+filter: ''
+from_yaml: false
+id: category_clothes_dressup_tote
+id_no_class: clothes_dressup_tote
+id_no_size: tote
+id_no_type: dressup_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_clothes_dressup_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_clothes_dressup_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_clothes_dressup_tote
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_clothes_dressup_tote](none)<br>[](none)<br>[Category Clothes
+    Dressup Tote](none)<br><br>'
+markdown_short: '[category_clothes_dressup_tote](none)<br><br>'
+md5: 5638433eccd5ebec6ba20b56643eae30
+md5_10: 5638433ecc
+md5_10_upper: 5638433ECC
+md5_5: '56384'
+md5_5_upper: '56384'
+md5_6: '563843'
+md5_6_alpha: 3d3yb
+md5_6_alpha_upper: 3D3YB
+md5_6_upper: '563843'
+name: Category Clothes Dressup Tote
+name_no_class: Clothes Dressup Tote
+name_no_size: Tote
+name_no_size_short: Tote
+name_no_type: Dressup Tote
+oomp_key: oomp_category_clothes_dressup_tote
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryclothes
+size: dressup
+size_capital: Dressup
+size_first_letter: d
+size_first_letter_upper: D
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: DRESSUP
+type: clothes
+type_capital: Clothes
+type_first_letter: c
+type_first_letter_upper: C
+type_upper: CLOTHES

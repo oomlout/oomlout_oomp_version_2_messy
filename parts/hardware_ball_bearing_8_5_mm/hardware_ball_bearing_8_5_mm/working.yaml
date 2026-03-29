@@ -1,0 +1,76 @@
+classification: hardware
+classification_capital: Hardware
+classification_first_letter: h
+classification_first_letter_upper: H
+classification_upper: HARDWARE
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/hardware_ball_bearing_8_5_mm
+distributors: []
+id: hardware_ball_bearing_8_5_mm
+id_no_class: ball_bearing_8_5_mm
+id_no_size: 8_5_mm
+id_no_type: 8_5_mm
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_ball_bearing_8_5_mm
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_ball_bearing_8_5_mm
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_ball_bearing_8_5_mm
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[hardware_ball_bearing_8_5_mm](none)<br>[](none)<br>[Hardware Ball
+    Bearing 8 5 Mm](none)<br><br>'
+markdown_short: '[hardware_ball_bearing_8_5_mm](none)<br><br>'
+md5: e335dcec8afcf007c14e04d8d285e338
+md5_10: e335dcec8a
+md5_10_upper: E335DCEC8A
+md5_5: e335d
+md5_5_upper: E335D
+md5_6: e335dc
+md5_6_alpha: 8v5jw
+md5_6_alpha_upper: 8V5JW
+md5_6_upper: E335DC
+name: Hardware Ball Bearing 8 5 Mm
+name_no_class: Ball Bearing 8 5 Mm
+name_no_size: 8 5 Mm
+name_no_size_short: 8 5 Mm
+name_no_type: 8 5 Mm
+oomp_key: oomp_hardware_ball_bearing_8_5_mm
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: 8_5_mm
+size_capital: 8.5 mm
+size_first_letter: '8'
+size_first_letter_upper: '8'
+size_only_numbers: '85'
+size_only_numbers_no_zeros: '85'
+size_upper: 8_5_MM
+type: ball_bearing
+type_capital: Ball Bearing
+type_first_letter: b
+type_first_letter_upper: B
+type_upper: BALL_BEARING

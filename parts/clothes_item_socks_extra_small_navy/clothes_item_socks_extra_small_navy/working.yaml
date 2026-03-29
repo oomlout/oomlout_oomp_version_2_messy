@@ -1,0 +1,78 @@
+classification: clothes
+classification_capital: Clothes
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CLOTHES
+color: extra_small
+color_capital: Extra Small
+color_first_letter: e
+color_first_letter_upper: E
+color_upper: EXTRA_SMALL
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: navy
+description_main_capital: Navy
+description_main_first_letter: n
+description_main_first_letter_upper: N
+description_main_upper: NAVY
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'E '
+description_or_color_upper: 'E '
+directory: parts/clothes_item_socks_extra_small_navy
+distributors: []
+filter: ''
+from_yaml: false
+id: clothes_item_socks_extra_small_navy
+id_no_class: item_socks_extra_small_navy
+id_no_size: extra_small_navy
+id_no_type: socks_extra_small_navy
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_socks_extra_small_navy
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_socks_extra_small_navy
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_socks_extra_small_navy
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[clothes_item_socks_extra_small_navy](none)<br>[](none)<br>[Clothes
+    Item Socks Extra Small Navy](none)<br><br>'
+markdown_short: '[clothes_item_socks_extra_small_navy](none)<br><br>'
+md5: 360b13411cdfa6af51ae05f2404df735
+md5_10: 360b13411c
+md5_10_upper: 360B13411C
+md5_5: 360b1
+md5_5_upper: 360B1
+md5_6: 360b13
+md5_6_alpha: 23wur
+md5_6_alpha_upper: 23WUR
+md5_6_upper: 360B13
+name: Clothes Item Socks Extra Small Navy
+name_no_class: Item Socks Extra Small Navy
+name_no_size: Extra Small Navy
+name_no_size_short: Extra Small Navy
+name_no_type: Socks Extra Small Navy
+oomp_key: oomp_clothes_item_socks_extra_small_navy
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: socks
+size_capital: Socks
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SOCKS
+type: item
+type_capital: Item
+type_first_letter: i
+type_first_letter_upper: I
+type_upper: ITEM

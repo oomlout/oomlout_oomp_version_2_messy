@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: '5050'
+color_capital: '5050'
+color_first_letter: '5'
+color_first_letter_upper: '5'
+color_upper: '5050'
+description: category_electronic
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: '5 '
+description_or_color_upper: '5 '
+directory: parts/category_electronic_led_5050
+distributors: []
+filter: ''
+from_yaml: false
+id: category_electronic_led_5050
+id_no_class: electronic_led_5050
+id_no_size: '5050'
+id_no_type: led_5050
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_led_5050
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_led_5050
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_led_5050
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_electronic_led_5050](none)<br>[](none)<br>[Category Electronic
+    Led 5050](none)<br><br>'
+markdown_short: '[category_electronic_led_5050](none)<br><br>'
+md5: 11a6084bf0c86e5168f4955845f399f8
+md5_10: 11a6084bf0
+md5_10_upper: 11A6084BF0
+md5_5: 11a60
+md5_5_upper: 11A60
+md5_6: 11a608
+md5_6_alpha: osg8
+md5_6_alpha_upper: OSG8
+md5_6_upper: 11A608
+name: Category Electronic Led 5050
+name_no_class: Electronic Led 5050
+name_no_size: '5050'
+name_no_size_short: '5050'
+name_no_type: Led 5050
+oomp_key: oomp_category_electronic_led_5050
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryelectronic
+size: led
+size_capital: Led
+size_first_letter: l
+size_first_letter_upper: L
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: LED
+type: electronic
+type_capital: Electronic
+type_first_letter: e
+type_first_letter_upper: E
+type_upper: ELECTRONIC

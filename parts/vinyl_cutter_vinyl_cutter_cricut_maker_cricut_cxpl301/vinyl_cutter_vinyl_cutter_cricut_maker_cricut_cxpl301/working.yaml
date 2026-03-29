@@ -1,0 +1,80 @@
+classification: vinyl_cutter
+classification_capital: Vinyl Cutter
+classification_first_letter: v
+classification_first_letter_upper: V
+classification_upper: VINYL_CUTTER
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: maker
+description_main_capital: Maker
+description_main_first_letter: m
+description_main_first_letter_upper: M
+description_main_upper: MAKER
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/vinyl_cutter_vinyl_cutter_cricut_maker_cricut_cxpl301
+distributors: []
+filter: ''
+from_yaml: false
+id: vinyl_cutter_vinyl_cutter_cricut_maker_cricut_cxpl301
+id_no_class: cricut_maker_cricut_cxpl301
+id_no_size: maker_cxpl301
+id_no_type: cricut_maker_cricut_cxpl301
+link_distributor_cricut: ''
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/vinyl_cutter_vinyl_cutter_cricut_maker_cricut_cxpl301
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/vinyl_cutter_vinyl_cutter_cricut_maker_cricut_cxpl301
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/vinyl_cutter_vinyl_cutter_cricut_maker_cricut_cxpl301
+manufacturer: cricut
+manufacturer_capital: Cricut
+manufacturer_first_letter: c
+manufacturer_first_letter_upper: C
+manufacturer_upper: CRICUT
+manufacturers: []
+markdown_full: '[vinyl_cutter_vinyl_cutter_cricut_maker_cricut_cxpl301](none)<br>[](none)<br>[Vinyl
+    Cutter Vinyl Cutter Cricut Maker Cricut Cxpl301](none)<br><br>'
+markdown_short: '[vinyl_cutter_vinyl_cutter_cricut_maker_cricut_cxpl301](none)<br><br>'
+md5: 70a980a5157918be447cc556f56c8bd5
+md5_10: 70a980a515
+md5_10_upper: 70A980A515
+md5_5: 70a98
+md5_5_upper: 70A98
+md5_6: 70a980
+md5_6_alpha: 4e934
+md5_6_alpha_upper: 4E934
+md5_6_upper: 70A980
+name: Vinyl Cutter Vinyl Cutter Cricut Maker Cricut Cxpl301
+name_no_class: Cricut Maker Cricut Cxpl301
+name_no_size: Maker Cxpl301
+name_no_size_short: Maker Cxpl301
+name_no_type: Cricut Maker Cricut Cxpl301
+oomp_key: oomp_vinyl_cutter_vinyl_cutter_cricut_maker_cricut_cxpl301
+part_number: cxpl301
+part_number_capital: Cxpl301
+part_number_exact: CXPL301
+part_number_first_letter: c
+part_number_first_letter_upper: C
+part_number_upper: CXPL301
+short_code: ''
+short_code_upper: ''
+size: cricut
+size_capital: Cricut
+size_first_letter: c
+size_first_letter_upper: C
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: CRICUT
+type: vinyl_cutter
+type_capital: Vinyl Cutter
+type_first_letter: v
+type_first_letter_upper: V
+type_upper: VINYL_CUTTER

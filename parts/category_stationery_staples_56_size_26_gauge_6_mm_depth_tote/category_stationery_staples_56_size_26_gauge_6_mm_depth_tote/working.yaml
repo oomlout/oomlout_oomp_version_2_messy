@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: 56_size_26_gauge_6_mm_depth
+color_capital: 56 Size 26 Gauge 6 mm Depth
+color_first_letter: '5'
+color_first_letter_upper: '5'
+color_upper: 56_SIZE_26_GAUGE_6_MM_DEPTH
+description: category_stationery
+description_extra: tote
+description_extra_capital: Tote
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TOTE
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: '5 '
+description_or_color_upper: '5 '
+directory: parts/category_stationery_staples_56_size_26_gauge_6_mm_depth_tote
+distributors: []
+filter: ''
+from_yaml: false
+id: category_stationery_staples_56_size_26_gauge_6_mm_depth_tote
+id_no_class: stationery_staples_56_size_26_gauge_6_mm_depth_tote
+id_no_size: 56_size_26_gauge_6_mm_depth_tote
+id_no_type: staples_56_size_26_gauge_6_mm_depth_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_stationery_staples_56_size_26_gauge_6_mm_depth_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_stationery_staples_56_size_26_gauge_6_mm_depth_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_stationery_staples_56_size_26_gauge_6_mm_depth_tote
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_stationery_staples_56_size_26_gauge_6_mm_depth_tote](none)<br>[](none)<br>[Category
+    Stationery Staples 56 Size 26 Gauge 6 Mm Depth Tote](none)<br><br>'
+markdown_short: '[category_stationery_staples_56_size_26_gauge_6_mm_depth_tote](none)<br><br>'
+md5: e154bb2821ae18cf830781da490fa749
+md5_10: e154bb2821
+md5_10_upper: E154BB2821
+md5_5: e154b
+md5_5_upper: E154B
+md5_6: e154bb
+md5_6_alpha: 8siij
+md5_6_alpha_upper: 8SIIJ
+md5_6_upper: E154BB
+name: Category Stationery Staples 56 Size 26 Gauge 6 Mm Depth Tote
+name_no_class: Stationery Staples 56 Size 26 Gauge 6 Mm Depth Tote
+name_no_size: 56 Size 26 Gauge 6 Mm Depth Tote
+name_no_size_short: 56 Size 26 Gauge 6 Mm Depth Tote
+name_no_type: Staples 56 Size 26 Gauge 6 Mm Depth Tote
+oomp_key: oomp_category_stationery_staples_56_size_26_gauge_6_mm_depth_tote
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorystationery
+size: staples
+size_capital: Staples
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: STAPLES
+type: stationery
+type_capital: Stationery
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: STATIONERY

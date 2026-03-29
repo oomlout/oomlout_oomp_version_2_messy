@@ -1,0 +1,77 @@
+classification: toy
+classification_capital: Toy
+classification_first_letter: t
+classification_first_letter_upper: T
+classification_upper: TOY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/toy_building_duplo_lego
+distributors: []
+id: toy_building_duplo_lego
+id_no_class: building_duplo_lego
+id_no_size: lego
+id_no_type: duplo_lego
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_building_duplo_lego
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_building_duplo_lego
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_building_duplo_lego
+manufacturer: lego
+manufacturer_capital: Lego
+manufacturer_first_letter: l
+manufacturer_first_letter_upper: L
+manufacturer_upper: LEGO
+manufacturers: []
+markdown_full: '[toy_building_duplo_lego](none)<br>[](none)<br>[Toy Building Duplo
+    Lego](none)<br><br>'
+markdown_short: '[toy_building_duplo_lego](none)<br><br>'
+md5: 14a4ea83b995529ae90983189f0d78a6
+md5_10: 14a4ea83b9
+md5_10_upper: 14A4EA83B9
+md5_5: 14a4e
+md5_5_upper: 14A4E
+md5_6: 14a4ea
+md5_6_alpha: szxm
+md5_6_alpha_upper: SZXM
+md5_6_upper: 14A4EA
+name: Toy Building Duplo Lego
+name_no_class: Building Duplo Lego
+name_no_size: Lego
+name_no_size_short: Lego
+name_no_type: Duplo Lego
+oomp_key: oomp_toy_building_duplo_lego
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: duplo
+size_capital: Duplo
+size_first_letter: d
+size_first_letter_upper: D
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: DUPLO
+type: building
+type_capital: Building
+type_first_letter: b
+type_first_letter_upper: B
+type_upper: BUILDING

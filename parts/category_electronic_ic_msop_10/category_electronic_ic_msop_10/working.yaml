@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: msop_10
+color_capital: Msop 10
+color_first_letter: m
+color_first_letter_upper: M
+color_upper: MSOP_10
+description: category_electronic
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'M '
+description_or_color_upper: 'M '
+directory: parts/category_electronic_ic_msop_10
+distributors: []
+filter: ''
+from_yaml: false
+id: category_electronic_ic_msop_10
+id_no_class: electronic_ic_msop_10
+id_no_size: msop_10
+id_no_type: ic_msop_10
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_ic_msop_10
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_ic_msop_10
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_ic_msop_10
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_electronic_ic_msop_10](none)<br>[](none)<br>[Category Electronic
+    Ic Msop 10](none)<br><br>'
+markdown_short: '[category_electronic_ic_msop_10](none)<br><br>'
+md5: f36b7415b828e26dc0bbeb7ab265f4f7
+md5_10: f36b7415b8
+md5_10_upper: F36B7415B8
+md5_5: f36b7
+md5_5_upper: F36B7
+md5_6: f36b74
+md5_6_alpha: 9hx84
+md5_6_alpha_upper: 9HX84
+md5_6_upper: F36B74
+name: Category Electronic Ic Msop 10
+name_no_class: Electronic Ic Msop 10
+name_no_size: Msop 10
+name_no_size_short: Msop 10
+name_no_type: Ic Msop 10
+oomp_key: oomp_category_electronic_ic_msop_10
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryelectronic
+size: ic
+size_capital: Ic
+size_first_letter: i
+size_first_letter_upper: I
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: IC
+type: electronic
+type_capital: Electronic
+type_first_letter: e
+type_first_letter_upper: E
+type_upper: ELECTRONIC

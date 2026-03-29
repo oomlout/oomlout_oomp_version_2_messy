@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: herb
+color_capital: Herb
+color_first_letter: h
+color_first_letter_upper: H
+color_upper: HERB
+description: category_garden
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'H '
+description_or_color_upper: 'H '
+directory: parts/category_garden_plant_herb
+distributors: []
+filter: ''
+from_yaml: false
+id: category_garden_plant_herb
+id_no_class: garden_plant_herb
+id_no_size: herb
+id_no_type: plant_herb
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_garden_plant_herb
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_garden_plant_herb
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_garden_plant_herb
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_garden_plant_herb](none)<br>[](none)<br>[Category Garden
+    Plant Herb](none)<br><br>'
+markdown_short: '[category_garden_plant_herb](none)<br><br>'
+md5: 1e0888cbd9adaa56dd06bcc3356f5251
+md5_10: 1e0888cbd9
+md5_10_upper: 1E0888CBD9
+md5_5: 1e088
+md5_5_upper: 1E088
+md5_6: 1e0888
+md5_6_alpha: 166q0
+md5_6_alpha_upper: 166Q0
+md5_6_upper: 1E0888
+name: Category Garden Plant Herb
+name_no_class: Garden Plant Herb
+name_no_size: Herb
+name_no_size_short: Herb
+name_no_type: Plant Herb
+oomp_key: oomp_category_garden_plant_herb
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorygarden
+size: plant
+size_capital: Plant
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PLANT
+type: garden
+type_capital: Garden
+type_first_letter: g
+type_first_letter_upper: G
+type_upper: GARDEN

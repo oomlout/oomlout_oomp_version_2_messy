@@ -1,0 +1,78 @@
+classification: clothes
+classification_capital: Clothes
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CLOTHES
+color: extra_small
+color_capital: Extra Small
+color_first_letter: e
+color_first_letter_upper: E
+color_upper: EXTRA_SMALL
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: navy
+description_main_capital: Navy
+description_main_first_letter: n
+description_main_first_letter_upper: N
+description_main_upper: NAVY
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'E '
+description_or_color_upper: 'E '
+directory: parts/clothes_item_coat_extra_small_navy
+distributors: []
+filter: ''
+from_yaml: false
+id: clothes_item_coat_extra_small_navy
+id_no_class: item_coat_extra_small_navy
+id_no_size: extra_small_navy
+id_no_type: coat_extra_small_navy
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_coat_extra_small_navy
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_coat_extra_small_navy
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_coat_extra_small_navy
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[clothes_item_coat_extra_small_navy](none)<br>[](none)<br>[Clothes
+    Item Coat Extra Small Navy](none)<br><br>'
+markdown_short: '[clothes_item_coat_extra_small_navy](none)<br><br>'
+md5: 6ba209801698dfc5c8becca0bb3b0ec5
+md5_10: 6ba2098016
+md5_10_upper: 6BA2098016
+md5_5: 6ba20
+md5_5_upper: 6BA20
+md5_6: 6ba209
+md5_6_alpha: 476rt
+md5_6_alpha_upper: 476RT
+md5_6_upper: 6BA209
+name: Clothes Item Coat Extra Small Navy
+name_no_class: Item Coat Extra Small Navy
+name_no_size: Extra Small Navy
+name_no_size_short: Extra Small Navy
+name_no_type: Coat Extra Small Navy
+oomp_key: oomp_clothes_item_coat_extra_small_navy
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: coat
+size_capital: Coat
+size_first_letter: c
+size_first_letter_upper: C
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: COAT
+type: item
+type_capital: Item
+type_first_letter: i
+type_first_letter_upper: I
+type_upper: ITEM

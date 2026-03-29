@@ -1,0 +1,81 @@
+classification: paper
+classification_capital: Paper
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_upper: PAPER
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: white_color
+description_extra_capital: White Color
+description_extra_first_letter: w
+description_extra_first_letter_upper: W
+description_extra_upper: WHITE_COLOR
+description_main: 120_grams_per_meter_square
+description_main_capital: 120 Grams Per Meter Square
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_upper: 120_GRAMS_PER_METER_SQUARE
+description_only_numbers: '120'
+description_only_numbers_short: '120'
+description_or_color: '120'
+description_or_color_upper: '120'
+directory: parts/paper_sheet_a4_210_mm_width_297_mm_height_120_grams_per_meter_square_white_color
+distributors: []
+filter: ''
+from_yaml: false
+height: 297 mm
+id: paper_sheet_a4_210_mm_width_297_mm_height_120_grams_per_meter_square_white_color
+id_no_class: sheet_a4_210_mm_width_297_mm_height_120_grams_per_meter_square_white_color
+id_no_size: 120_grams_per_meter_square_white_color
+id_no_type: a4_210_mm_width_297_mm_height_120_grams_per_meter_square_white_color
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a4_210_mm_width_297_mm_height_120_grams_per_meter_square_white_color
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a4_210_mm_width_297_mm_height_120_grams_per_meter_square_white_color
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a4_210_mm_width_297_mm_height_120_grams_per_meter_square_white_color
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[paper_sheet_a4_210_mm_width_297_mm_height_120_grams_per_meter_square_white_color](none)<br>[](none)<br>[Paper
+    Sheet A4 210 Mm Width 297 Mm Height 120 Grams Per Meter Square White Color](none)<br><br>'
+markdown_short: '[paper_sheet_a4_210_mm_width_297_mm_height_120_grams_per_meter_square_white_color](none)<br><br>'
+md5: 806305690bd0d28aa3ca1b2b458a8035
+md5_10: 806305690b
+md5_10_upper: 806305690B
+md5_5: '80630'
+md5_5_upper: '80630'
+md5_6: '806305'
+md5_6_alpha: 50c91
+md5_6_alpha_upper: 50C91
+md5_6_upper: '806305'
+name: Paper Sheet A4 210 Mm Width 297 Mm Height 120 Grams Per Meter Square White Color
+name_no_class: Sheet A4 210 Mm Width 297 Mm Height 120 Grams Per Meter Square White
+    Color
+name_no_size: 120 Grams Per Meter Square White Color
+name_no_size_short: 120 Grams Per Meter Square White Color
+name_no_type: A4 210 Mm Width 297 Mm Height 120 Grams Per Meter Square White Color
+oomp_key: oomp_paper_sheet_a4_210_mm_width_297_mm_height_120_grams_per_meter_square_white_color
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: a4_210_mm_width_297_mm_height
+size_capital: A4.210 mm Width 297 mm Height
+size_first_letter: a
+size_first_letter_upper: A
+size_only_numbers: '4210297'
+size_only_numbers_no_zeros: '421297'
+size_upper: A4_210_MM_WIDTH_297_MM_HEIGHT
+type: sheet
+type_capital: Sheet
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: SHEET
+width: 210 mm

@@ -1,0 +1,85 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: kraftform_micro_style_18_mm_diameter_147_mm_depth
+color_capital: Kraftform Micro Style 18 mm Diameter 147 mm Depth
+color_first_letter: k
+color_first_letter_upper: K
+color_upper: KRAFTFORM_MICRO_STYLE_18_MM_DIAMETER_147_MM_DEPTH
+description: category_tool
+description_extra: old
+description_extra_capital: Old
+description_extra_first_letter: o
+description_extra_first_letter_upper: O
+description_extra_upper: OLD
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'K '
+description_or_color_upper: 'K '
+directory: parts/category_tool_screw_driver_precision_kraftform_micro_style_18_mm_diameter_147_mm_depth_old
+distributors: []
+filter: ''
+from_yaml: false
+id: category_tool_screw_driver_precision_kraftform_micro_style_18_mm_diameter_147_mm_depth_old
+id_no_class: tool_screw_driver_precision_kraftform_micro_style_18_mm_diameter_147_mm_depth_old
+id_no_size: kraftform_micro_style_18_mm_diameter_147_mm_depth_old
+id_no_type: screw_driver_precision_kraftform_micro_style_18_mm_diameter_147_mm_depth_old
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_screw_driver_precision_kraftform_micro_style_18_mm_diameter_147_mm_depth_old
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_screw_driver_precision_kraftform_micro_style_18_mm_diameter_147_mm_depth_old
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_screw_driver_precision_kraftform_micro_style_18_mm_diameter_147_mm_depth_old
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_tool_screw_driver_precision_kraftform_micro_style_18_mm_diameter_147_mm_depth_old](none)<br>[](none)<br>[Category
+    Tool Screw Driver Precision Kraftform Micro Style 18 Mm Diameter 147 Mm Depth
+    Old](none)<br><br>'
+markdown_short: '[category_tool_screw_driver_precision_kraftform_micro_style_18_mm_diameter_147_mm_depth_old](none)<br><br>'
+md5: b072b642458607fe1f868253a62c883b
+md5_10: b072b64245
+md5_10_upper: B072B64245
+md5_5: b072b
+md5_5_upper: B072B
+md5_6: b072b6
+md5_6_alpha: 6vuly
+md5_6_alpha_upper: 6VULY
+md5_6_upper: B072B6
+name: Category Tool Screw Driver Precision Kraftform Micro Style 18 Mm Diameter 147
+    Mm Depth Old
+name_no_class: Tool Screw Driver Precision Kraftform Micro Style 18 Mm Diameter 147
+    Mm Depth Old
+name_no_size: Kraftform Micro Style 18 Mm Diameter 147 Mm Depth Old
+name_no_size_short: Kraftform Micro Style 18 Mm Diameter 147 Mm Depth Old
+name_no_type: Screw Driver Precision Kraftform Micro Style 18 Mm Diameter 147 Mm Depth
+    Old
+oomp_key: oomp_category_tool_screw_driver_precision_kraftform_micro_style_18_mm_diameter_147_mm_depth_old
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorytool
+size: screw_driver_precision
+size_capital: Screw Driver Precision
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SCREW_DRIVER_PRECISION
+type: tool
+type_capital: Tool
+type_first_letter: t
+type_first_letter_upper: T
+type_upper: TOOL

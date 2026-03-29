@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_tool
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_tool_electrical_meter_clamp
+distributors: []
+filter: ''
+from_yaml: false
+id: category_tool_electrical_meter_clamp
+id_no_class: tool_electrical_meter_clamp
+id_no_size: electrical_meter_clamp
+id_no_type: electrical_meter_clamp
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_electrical_meter_clamp
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_electrical_meter_clamp
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_electrical_meter_clamp
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_tool_electrical_meter_clamp](none)<br>[](none)<br>[Category
+    Tool Electrical Meter Clamp](none)<br><br>'
+markdown_short: '[category_tool_electrical_meter_clamp](none)<br><br>'
+md5: 2f9ba48468195fa2699b7186dd328dec
+md5_10: 2f9ba48468
+md5_10_upper: 2F9BA48468
+md5_5: 2f9ba
+md5_5_upper: 2F9BA
+md5_6: 2f9ba4
+md5_6_alpha: 1uvfo
+md5_6_alpha_upper: 1UVFO
+md5_6_upper: 2F9BA4
+name: Category Tool Electrical Meter Clamp
+name_no_class: Tool Electrical Meter Clamp
+name_no_size: Electrical Meter Clamp
+name_no_size_short: Electrical Meter Clamp
+name_no_type: Electrical Meter Clamp
+oomp_key: oomp_category_tool_electrical_meter_clamp
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorytool
+size: electrical_meter_clamp
+size_capital: Electrical Meter Clamp
+size_first_letter: e
+size_first_letter_upper: E
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ELECTRICAL_METER_CLAMP
+type: tool
+type_capital: Tool
+type_first_letter: t
+type_first_letter_upper: T
+type_upper: TOOL

@@ -1,0 +1,83 @@
+classification: remote_control
+classification_capital: Remote Control
+classification_first_letter: r
+classification_first_letter_upper: R
+classification_upper: REMOTE_CONTROL
+color: dual_joystick_style
+color_capital: Dual Joystick Style
+color_first_letter: d
+color_first_letter_upper: D
+color_upper: DUAL_JOYSTICK_STYLE
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: transmitter_pcb
+description_main_capital: Transmitter Pcb
+description_main_first_letter: t
+description_main_first_letter_upper: T
+description_main_upper: TRANSMITTER_PCB
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'D '
+description_or_color_upper: 'D '
+directory: parts/remote_control_transmitter_receiver_kit_2_4_ghz_6_channel_dual_joystick_style_transmitter_pcb_turnigy_t6a_v2
+distributors: []
+id: remote_control_transmitter_receiver_kit_2_4_ghz_6_channel_dual_joystick_style_transmitter_pcb_turnigy_t6a_v2
+id_no_class: transmitter_receiver_kit_2_4_ghz_6_channel_dual_joystick_style_transmitter_pcb_turnigy_t6a_v2
+id_no_size: dual_joystick_style_transmitter_pcb_turnigy_t6a_v2
+id_no_type: 2_4_ghz_6_channel_dual_joystick_style_transmitter_pcb_turnigy_t6a_v2
+link_distributor_hobbyking: https://hobbyking.com/en_us/turnigy-t6a-v2-afhds-mode-2-2-4ghz-6ch-transmitter-w-receiver.html
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/remote_control_transmitter_receiver_kit_2_4_ghz_6_channel_dual_joystick_style_transmitter_pcb_turnigy_t6a_v2
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/remote_control_transmitter_receiver_kit_2_4_ghz_6_channel_dual_joystick_style_transmitter_pcb_turnigy_t6a_v2
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/remote_control_transmitter_receiver_kit_2_4_ghz_6_channel_dual_joystick_style_transmitter_pcb_turnigy_t6a_v2
+manufacturer: turnigy
+manufacturer_capital: Turnigy
+manufacturer_first_letter: t
+manufacturer_first_letter_upper: T
+manufacturer_upper: TURNIGY
+manufacturers: []
+markdown_full: '[remote_control_transmitter_receiver_kit_2_4_ghz_6_channel_dual_joystick_style_transmitter_pcb_turnigy_t6a_v2](none)<br>[](none)<br>[Remote
+    Control Transmitter Receiver Kit 2 4 Ghz 6 Channel Dual Joystick Style Transmitter
+    Pcb Turnigy T6A V2](none)<br><br>'
+markdown_short: '[remote_control_transmitter_receiver_kit_2_4_ghz_6_channel_dual_joystick_style_transmitter_pcb_turnigy_t6a_v2](none)<br><br>'
+md5: 51ed3e71c90aae22f58ca3ae823d89d9
+md5_10: 51ed3e71c9
+md5_10_upper: 51ED3E71C9
+md5_5: 51ed3
+md5_5_upper: 51ED3
+md5_6: 51ed3e
+md5_6_alpha: 372v2
+md5_6_alpha_upper: 372V2
+md5_6_upper: 51ED3E
+name: Remote Control Transmitter Receiver Kit 2 4 Ghz 6 Channel Dual Joystick Style
+    Transmitter Pcb Turnigy T6A V2
+name_no_class: Transmitter Receiver Kit 2 4 Ghz 6 Channel Dual Joystick Style Transmitter
+    Pcb Turnigy T6A V2
+name_no_size: Dual Joystick Style Transmitter Pcb Turnigy T6A V2
+name_no_size_short: Dual Joystick Style Transmitter Pcb Turnigy T6A V2
+name_no_type: 2 4 Ghz 6 Channel Dual Joystick Style Transmitter Pcb Turnigy T6A V2
+oomp_key: oomp_remote_control_transmitter_receiver_kit_2_4_ghz_6_channel_dual_joystick_style_transmitter_pcb_turnigy_t6a_v2
+part_number: t6a_v2
+part_number_capital: T6A V2
+part_number_distributor_hobbyking: T6A-V2
+part_number_exact: T6A-V2
+part_number_first_letter: t
+part_number_first_letter_upper: T
+part_number_upper: T6A_V2
+short_code: ''
+short_code_upper: ''
+short_name: Transmitter Kit 6 Channel
+size: 2_4_ghz_6_channel
+size_capital: 2.4 Ghz 6 Channel
+size_first_letter: '2'
+size_first_letter_upper: '2'
+size_only_numbers: '246'
+size_only_numbers_no_zeros: '246'
+size_upper: 2_4_GHZ_6_CHANNEL
+type: transmitter_receiver_kit
+type_capital: Transmitter Receiver Kit
+type_first_letter: t
+type_first_letter_upper: T
+type_upper: TRANSMITTER_RECEIVER_KIT

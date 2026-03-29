@@ -1,0 +1,80 @@
+classification: decorating
+classification_capital: Decorating
+classification_first_letter: d
+classification_first_letter_upper: D
+classification_upper: DECORATING
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: white
+description_extra_capital: White
+description_extra_first_letter: w
+description_extra_first_letter_upper: W
+description_extra_upper: WHITE
+description_main: 300_mm_width_400_mm_height
+description_main_capital: 300 mm Width 400 mm Height
+description_main_first_letter: '3'
+description_main_first_letter_upper: '3'
+description_main_upper: 300_MM_WIDTH_400_MM_HEIGHT
+description_only_numbers: '300400'
+description_only_numbers_short: 300k
+description_or_color: 300k
+description_or_color_upper: 300K
+directory: parts/decorating_picture_frame_ikea_knopppang_300_mm_width_400_mm_height_white_ikea_903_871_20
+distributors: []
+id: decorating_picture_frame_ikea_knopppang_300_mm_width_400_mm_height_white_ikea_903_871_20
+id_no_class: picture_frame_ikea_knopppang_300_mm_width_400_mm_height_white_ikea_903_871_20
+id_no_size: 300_mm_width_400_mm_height_white_ikea_903_871_20
+id_no_type: ikea_knopppang_300_mm_width_400_mm_height_white_ikea_903_871_20
+link_distributor_ikea: https://www.ikea.com/gb/en/search/?q=903.871.20
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/decorating_picture_frame_ikea_knopppang_300_mm_width_400_mm_height_white_ikea_903_871_20
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/decorating_picture_frame_ikea_knopppang_300_mm_width_400_mm_height_white_ikea_903_871_20
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/decorating_picture_frame_ikea_knopppang_300_mm_width_400_mm_height_white_ikea_903_871_20
+manufacturer: ikea
+manufacturer_capital: Ikea
+manufacturer_first_letter: i
+manufacturer_first_letter_upper: I
+manufacturer_upper: IKEA
+manufacturers: []
+markdown_full: '[decorating_picture_frame_ikea_knopppang_300_mm_width_400_mm_height_white_ikea_903_871_20](none)<br>[](none)<br>[Decorating
+    Picture Frame Ikea Knopppang 300 Mm Width 400 Mm Height White Ikea 903 871 20](none)<br><br>'
+markdown_short: '[decorating_picture_frame_ikea_knopppang_300_mm_width_400_mm_height_white_ikea_903_871_20](none)<br><br>'
+md5: 501ea06836ac6305b4fd22150aed8336
+md5_10: 501ea06836
+md5_10_upper: 501EA06836
+md5_5: 501ea
+md5_5_upper: 501EA
+md5_6: 501ea0
+md5_6_alpha: 34jhc
+md5_6_alpha_upper: 34JHC
+md5_6_upper: 501EA0
+name: Decorating Picture Frame Ikea Knopppang 300 Mm Width 400 Mm Height White Ikea
+    903 871 20
+name_no_class: Picture Frame Ikea Knopppang 300 Mm Width 400 Mm Height White Ikea
+    903 871 20
+name_no_size: 300 Mm Width 400 Mm Height White Ikea 903 871 20
+name_no_size_short: 300 Mm Width 400 Mm Height White Ikea 903 871 20
+name_no_type: Ikea Knopppang 300 Mm Width 400 Mm Height White Ikea 903 871 20
+oomp_key: oomp_decorating_picture_frame_ikea_knopppang_300_mm_width_400_mm_height_white_ikea_903_871_20
+part_number: '903_871_20'
+part_number_capital: 903.871.20
+part_number_exact: 903.871.20
+part_number_first_letter: '9'
+part_number_first_letter_upper: '9'
+part_number_upper: '903_871_20'
+short_code: ''
+short_code_upper: ''
+size: ikea_knopppang
+size_capital: Ikea Knopppang
+size_first_letter: i
+size_first_letter_upper: I
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: IKEA_KNOPPPANG
+type: picture_frame
+type_capital: Picture Frame
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PICTURE_FRAME

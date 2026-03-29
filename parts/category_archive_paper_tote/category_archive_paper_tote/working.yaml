@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_archive
+description_extra: tote
+description_extra_capital: Tote
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TOTE
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_archive_paper_tote
+distributors: []
+filter: ''
+from_yaml: false
+id: category_archive_paper_tote
+id_no_class: archive_paper_tote
+id_no_size: tote
+id_no_type: paper_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_archive_paper_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_archive_paper_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_archive_paper_tote
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_archive_paper_tote](none)<br>[](none)<br>[Category Archive
+    Paper Tote](none)<br><br>'
+markdown_short: '[category_archive_paper_tote](none)<br><br>'
+md5: 960af7f106a6fd6516207fd67b24165a
+md5_10: 960af7f106
+md5_10_upper: 960AF7F106
+md5_5: 960af
+md5_5_upper: 960AF
+md5_6: 960af7
+md5_6_alpha: 5urcn
+md5_6_alpha_upper: 5URCN
+md5_6_upper: 960AF7
+name: Category Archive Paper Tote
+name_no_class: Archive Paper Tote
+name_no_size: Tote
+name_no_size_short: Tote
+name_no_type: Paper Tote
+oomp_key: oomp_category_archive_paper_tote
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryarchive
+size: paper
+size_capital: Paper
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PAPER
+type: archive
+type_capital: Archive
+type_first_letter: a
+type_first_letter_upper: A
+type_upper: ARCHIVE

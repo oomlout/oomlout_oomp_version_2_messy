@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: headphone
+color_capital: Headphone
+color_first_letter: h
+color_first_letter_upper: H
+color_upper: HEADPHONE
+description: category_computer
+description_extra: old
+description_extra_capital: Old
+description_extra_first_letter: o
+description_extra_first_letter_upper: O
+description_extra_upper: OLD
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'H '
+description_or_color_upper: 'H '
+directory: parts/category_computer_cable_headphone_old
+distributors: []
+filter: ''
+from_yaml: false
+id: category_computer_cable_headphone_old
+id_no_class: computer_cable_headphone_old
+id_no_size: headphone_old
+id_no_type: cable_headphone_old
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_cable_headphone_old
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_cable_headphone_old
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_cable_headphone_old
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_computer_cable_headphone_old](none)<br>[](none)<br>[Category
+    Computer Cable Headphone Old](none)<br><br>'
+markdown_short: '[category_computer_cable_headphone_old](none)<br><br>'
+md5: ce31fd4ac2fd34be3f668b8a16983e18
+md5_10: ce31fd4ac2
+md5_10_upper: CE31FD4AC2
+md5_5: ce31f
+md5_5_upper: CE31F
+md5_6: ce31fd
+md5_6_alpha: 81mv1
+md5_6_alpha_upper: 81MV1
+md5_6_upper: CE31FD
+name: Category Computer Cable Headphone Old
+name_no_class: Computer Cable Headphone Old
+name_no_size: Headphone Old
+name_no_size_short: Headphone Old
+name_no_type: Cable Headphone Old
+oomp_key: oomp_category_computer_cable_headphone_old
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorycomputer
+size: cable
+size_capital: Cable
+size_first_letter: c
+size_first_letter_upper: C
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: CABLE
+type: computer
+type_capital: Computer
+type_first_letter: c
+type_first_letter_upper: C
+type_upper: COMPUTER

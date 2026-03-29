@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: 60_micron_thickness
+color_capital: 60 Micron Thickness
+color_first_letter: '6'
+color_first_letter_upper: '6'
+color_upper: 60_MICRON_THICKNESS
+description: category_storage
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: '6 '
+description_or_color_upper: '6 '
+directory: parts/category_storage_bin_bag_60_micron_thickness
+distributors: []
+filter: ''
+from_yaml: false
+id: category_storage_bin_bag_60_micron_thickness
+id_no_class: storage_bin_bag_60_micron_thickness
+id_no_size: 60_micron_thickness
+id_no_type: bin_bag_60_micron_thickness
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_storage_bin_bag_60_micron_thickness
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_storage_bin_bag_60_micron_thickness
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_storage_bin_bag_60_micron_thickness
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_storage_bin_bag_60_micron_thickness](none)<br>[](none)<br>[Category
+    Storage Bin Bag 60 Micron Thickness](none)<br><br>'
+markdown_short: '[category_storage_bin_bag_60_micron_thickness](none)<br><br>'
+md5: 4e8d33d920b0eb38ac8ea85dc9e46212
+md5_10: 4e8d33d920
+md5_10_upper: 4E8D33D920
+md5_5: 4e8d3
+md5_5_upper: 4E8D3
+md5_6: 4e8d33
+md5_6_alpha: 32c6r
+md5_6_alpha_upper: 32C6R
+md5_6_upper: 4E8D33
+name: Category Storage Bin Bag 60 Micron Thickness
+name_no_class: Storage Bin Bag 60 Micron Thickness
+name_no_size: 60 Micron Thickness
+name_no_size_short: 60 Micron Thickness
+name_no_type: Bin Bag 60 Micron Thickness
+oomp_key: oomp_category_storage_bin_bag_60_micron_thickness
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorystorage
+size: bin_bag
+size_capital: Bin Bag
+size_first_letter: b
+size_first_letter_upper: B
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: BIN_BAG
+type: storage
+type_capital: Storage
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: STORAGE

@@ -1,0 +1,91 @@
+classification: printer
+classification_capital: Printer
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_upper: PRINTER
+color: color
+color_capital: Color
+color_first_letter: c
+color_first_letter_upper: C
+color_upper: COLOR
+compatible_ink_bottles:
+- '18'
+- 18XL
+description_chat_gpt: A4 single-function with duplex and Wi-Fi/Ethernet.
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'C '
+description_or_color_upper: 'C '
+directory: parts/printer_inkjet_a4_color_epson_workforce_wf_3010dw
+distributors: []
+features:
+- duplex
+- ethernet
+- wifi
+id: printer_inkjet_a4_color_epson_workforce_wf_3010dw
+id_no_class: inkjet_a4_color_epson_workforce_wf_3010dw
+id_no_size: color_epson_workforce_wf_3010dw
+id_no_type: a4_color_epson_workforce_wf_3010dw
+ink_type: pigment
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_inkjet_a4_color_epson_workforce_wf_3010dw
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_inkjet_a4_color_epson_workforce_wf_3010dw
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_inkjet_a4_color_epson_workforce_wf_3010dw
+manufacturer: epson_workforce
+manufacturer_capital: Epson Workforce
+manufacturer_first_letter: e
+manufacturer_first_letter_upper: E
+manufacturer_upper: EPSON_WORKFORCE
+manufacturers: []
+markdown_full: '[printer_inkjet_a4_color_epson_workforce_wf_3010dw](none)<br>[](none)<br>[Printer
+    Inkjet A4 Color Epson Workforce Wf 3010Dw](none)<br><br>'
+markdown_short: '[printer_inkjet_a4_color_epson_workforce_wf_3010dw](none)<br><br>'
+md5: 6f9bf9f5eb6d192043468c8a567172b9
+md5_10: 6f9bf9f5eb
+md5_10_upper: 6F9BF9F5EB
+md5_5: 6f9bf
+md5_5_upper: 6F9BF
+md5_6: 6f9bf9
+md5_6_alpha: 4cruh
+md5_6_alpha_upper: 4CRUH
+md5_6_upper: 6F9BF9
+name: Printer Inkjet A4 Color Epson Workforce Wf 3010Dw
+name_no_class: Inkjet A4 Color Epson Workforce Wf 3010Dw
+name_no_size: Color Epson Workforce Wf 3010Dw
+name_no_size_short: Color Epson Workforce Wf 3010Dw
+name_no_type: A4 Color Epson Workforce Wf 3010Dw
+nozzle_count_black: 384
+nozzle_count_per_colour: 128
+oomp_key: oomp_printer_inkjet_a4_color_epson_workforce_wf_3010dw
+original_rrp_gbp: 139.99
+part_number: wf_3010dw
+part_number_capital: Wf 3010Dw
+part_number_first_letter: w
+part_number_first_letter_upper: W
+part_number_upper: WF_3010DW
+printhead_technology: Micro Piezo
+short_code: ''
+short_code_upper: ''
+short_name: WorkForce WF-3010DW
+size: a4
+size_capital: A4
+size_first_letter: a
+size_first_letter_upper: A
+size_only_numbers: '4'
+size_only_numbers_no_zeros: '4'
+size_upper: A4
+total_colours: 4
+type: inkjet
+type_capital: Inkjet
+type_first_letter: i
+type_first_letter_upper: I
+type_upper: INKJET

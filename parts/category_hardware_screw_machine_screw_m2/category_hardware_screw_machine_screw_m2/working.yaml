@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: m2
+color_capital: M2
+color_first_letter: m
+color_first_letter_upper: M
+color_upper: M2
+description: category_hardware
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'M '
+description_or_color_upper: 'M '
+directory: parts/category_hardware_screw_machine_screw_m2
+distributors: []
+filter: ''
+from_yaml: false
+id: category_hardware_screw_machine_screw_m2
+id_no_class: hardware_screw_machine_screw_m2
+id_no_size: m2
+id_no_type: screw_machine_screw_m2
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_screw_machine_screw_m2
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_screw_machine_screw_m2
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_screw_machine_screw_m2
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_hardware_screw_machine_screw_m2](none)<br>[](none)<br>[Category
+    Hardware Screw Machine Screw M2](none)<br><br>'
+markdown_short: '[category_hardware_screw_machine_screw_m2](none)<br><br>'
+md5: ec346c41b42ff55dce0b6c1af4e409ea
+md5_10: ec346c41b4
+md5_10_upper: EC346C41B4
+md5_5: ec346
+md5_5_upper: EC346
+md5_6: ec346c
+md5_6_alpha: 97sdo
+md5_6_alpha_upper: 97SDO
+md5_6_upper: EC346C
+name: Category Hardware Screw Machine Screw M2
+name_no_class: Hardware Screw Machine Screw M2
+name_no_size: M2
+name_no_size_short: M2
+name_no_type: Screw Machine Screw M2
+oomp_key: oomp_category_hardware_screw_machine_screw_m2
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryhardware
+size: screw_machine_screw
+size_capital: Screw Machine Screw
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SCREW_MACHINE_SCREW
+type: hardware
+type_capital: Hardware
+type_first_letter: h
+type_first_letter_upper: H
+type_upper: HARDWARE

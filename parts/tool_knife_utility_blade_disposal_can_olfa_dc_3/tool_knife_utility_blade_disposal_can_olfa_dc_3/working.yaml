@@ -1,0 +1,79 @@
+classification: tool
+classification_capital: Tool
+classification_first_letter: t
+classification_first_letter_upper: T
+classification_upper: TOOL
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/tool_knife_utility_blade_disposal_can_olfa_dc_3
+distributors: []
+filter: ''
+from_yaml: false
+id: tool_knife_utility_blade_disposal_can_olfa_dc_3
+id_no_class: knife_utility_blade_disposal_can_olfa_dc_3
+id_no_size: olfadc3
+id_no_type: olfa_dc_3
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_knife_utility_blade_disposal_can_olfa_dc_3
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_knife_utility_blade_disposal_can_olfa_dc_3
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_knife_utility_blade_disposal_can_olfa_dc_3
+manufacturer: olfa
+manufacturer_capital: Olfa
+manufacturer_first_letter: o
+manufacturer_first_letter_upper: O
+manufacturer_upper: OLFA
+manufacturers: []
+markdown_full: '[tool_knife_utility_blade_disposal_can_olfa_dc_3](none)<br>[](none)<br>[Tool
+    Knife Utility Blade Disposal Can Olfa Dc 3](none)<br><br>'
+markdown_short: '[tool_knife_utility_blade_disposal_can_olfa_dc_3](none)<br><br>'
+md5: 9f1af56706b97aca3745404231d33c7e
+md5_10: 9f1af56706
+md5_10_upper: 9F1AF56706
+md5_5: 9f1af
+md5_5_upper: 9F1AF
+md5_6: 9f1af5
+md5_6_alpha: 67hmd
+md5_6_alpha_upper: 67HMD
+md5_6_upper: 9F1AF5
+name: Tool Knife Utility Blade Disposal Can Olfa Dc 3
+name_no_class: Knife Utility Blade Disposal Can Olfa Dc 3
+name_no_size: Olfadc3
+name_no_size_short: Olfadc3
+name_no_type: Olfa Dc 3
+oomp_key: oomp_tool_knife_utility_blade_disposal_can_olfa_dc_3
+part_number: dc_3
+part_number_capital: Dc 3
+part_number_exact: DC-3
+part_number_first_letter: d
+part_number_first_letter_upper: D
+part_number_upper: DC_3
+short_code: ''
+short_code_upper: ''
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: knife_utility_blade_disposal_can
+type_capital: Knife Utility Blade Disposal Can
+type_first_letter: k
+type_first_letter_upper: K
+type_upper: KNIFE_UTILITY_BLADE_DISPOSAL_CAN

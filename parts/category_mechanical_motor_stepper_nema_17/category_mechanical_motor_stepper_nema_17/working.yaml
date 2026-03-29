@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: nema_17
+color_capital: Nema 17
+color_first_letter: n
+color_first_letter_upper: N
+color_upper: NEMA_17
+description: category_mechanical
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'N '
+description_or_color_upper: 'N '
+directory: parts/category_mechanical_motor_stepper_nema_17
+distributors: []
+filter: ''
+from_yaml: false
+id: category_mechanical_motor_stepper_nema_17
+id_no_class: mechanical_motor_stepper_nema_17
+id_no_size: nema_17
+id_no_type: motor_stepper_nema_17
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_motor_stepper_nema_17
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_motor_stepper_nema_17
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_motor_stepper_nema_17
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_mechanical_motor_stepper_nema_17](none)<br>[](none)<br>[Category
+    Mechanical Motor Stepper Nema 17](none)<br><br>'
+markdown_short: '[category_mechanical_motor_stepper_nema_17](none)<br><br>'
+md5: 8ee95f5f6daea28b8f59db9db693d464
+md5_10: 8ee95f5f6d
+md5_10_upper: 8EE95F5F6D
+md5_5: 8ee95
+md5_5_upper: 8EE95
+md5_6: 8ee95f
+md5_6_alpha: 5kqqn
+md5_6_alpha_upper: 5KQQN
+md5_6_upper: 8EE95F
+name: Category Mechanical Motor Stepper Nema 17
+name_no_class: Mechanical Motor Stepper Nema 17
+name_no_size: Nema 17
+name_no_size_short: Nema 17
+name_no_type: Motor Stepper Nema 17
+oomp_key: oomp_category_mechanical_motor_stepper_nema_17
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorymechanical
+size: motor_stepper
+size_capital: Motor Stepper
+size_first_letter: m
+size_first_letter_upper: M
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: MOTOR_STEPPER
+type: mechanical
+type_capital: Mechanical
+type_first_letter: m
+type_first_letter_upper: M
+type_upper: MECHANICAL

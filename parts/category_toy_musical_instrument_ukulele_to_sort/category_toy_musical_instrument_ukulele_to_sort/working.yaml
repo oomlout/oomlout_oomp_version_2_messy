@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ukulele
+color_capital: Ukulele
+color_first_letter: u
+color_first_letter_upper: U
+color_upper: UKULELE
+description: category_toy
+description_extra: to_sort
+description_extra_capital: To Sort
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TO_SORT
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'U '
+description_or_color_upper: 'U '
+directory: parts/category_toy_musical_instrument_ukulele_to_sort
+distributors: []
+filter: ''
+from_yaml: false
+id: category_toy_musical_instrument_ukulele_to_sort
+id_no_class: toy_musical_instrument_ukulele_to_sort
+id_no_size: ukulele_to_sort
+id_no_type: musical_instrument_ukulele_to_sort
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_toy_musical_instrument_ukulele_to_sort
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_toy_musical_instrument_ukulele_to_sort
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_toy_musical_instrument_ukulele_to_sort
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_toy_musical_instrument_ukulele_to_sort](none)<br>[](none)<br>[Category
+    Toy Musical Instrument Ukulele To Sort](none)<br><br>'
+markdown_short: '[category_toy_musical_instrument_ukulele_to_sort](none)<br><br>'
+md5: 0279fd4c9dd67c9e9bb5672fa3c6c0fd
+md5_10: 0279fd4c9d
+md5_10_upper: 0279FD4C9D
+md5_5: 0279f
+md5_5_upper: 0279F
+md5_6: 0279fd
+md5_6_alpha: 3h8d
+md5_6_alpha_upper: 3H8D
+md5_6_upper: 0279FD
+name: Category Toy Musical Instrument Ukulele To Sort
+name_no_class: Toy Musical Instrument Ukulele To Sort
+name_no_size: Ukulele To Sort
+name_no_size_short: Ukulele To Sort
+name_no_type: Musical Instrument Ukulele To Sort
+oomp_key: oomp_category_toy_musical_instrument_ukulele_to_sort
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorytoy
+size: musical_instrument
+size_capital: Musical Instrument
+size_first_letter: m
+size_first_letter_upper: M
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: MUSICAL_INSTRUMENT
+type: toy
+type_capital: Toy
+type_first_letter: t
+type_first_letter_upper: T
+type_upper: TOY

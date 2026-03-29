@@ -1,0 +1,76 @@
+classification: toy
+classification_capital: Toy
+classification_first_letter: t
+classification_first_letter_upper: T
+classification_upper: TOY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: mixed
+description_main_capital: Mixed
+description_main_first_letter: m
+description_main_first_letter_upper: M
+description_main_upper: MIXED
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/toy_figurine_mixed
+distributors: []
+id: toy_figurine_mixed
+id_no_class: figurine_mixed
+id_no_size: mixed
+id_no_type: mixed
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_figurine_mixed
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_figurine_mixed
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_figurine_mixed
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[toy_figurine_mixed](none)<br>[](none)<br>[Toy Figurine Mixed](none)<br><br>'
+markdown_short: '[toy_figurine_mixed](none)<br><br>'
+md5: 792e18bf5956c76cadc865bd55557ff7
+md5_10: 792e18bf59
+md5_10_upper: 792E18BF59
+md5_5: 792e1
+md5_5_upper: 792E1
+md5_6: 792e18
+md5_6_alpha: 4q7tk
+md5_6_alpha_upper: 4Q7TK
+md5_6_upper: 792E18
+name: Toy Figurine Mixed
+name_no_class: Figurine Mixed
+name_no_size: Mixed
+name_no_size_short: Mixed
+name_no_type: Mixed
+oomp_key: oomp_toy_figurine_mixed
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: figurine
+type_capital: Figurine
+type_first_letter: f
+type_first_letter_upper: F
+type_upper: FIGURINE

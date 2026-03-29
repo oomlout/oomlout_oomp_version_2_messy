@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_electronic_consumer
+description_extra: to_sort
+description_extra_capital: To Sort
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TO_SORT
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_electronic_consumer_charger_usb_to_sort
+distributors: []
+filter: ''
+from_yaml: false
+id: category_electronic_consumer_charger_usb_to_sort
+id_no_class: electronic_consumer_charger_usb_to_sort
+id_no_size: to_sort
+id_no_type: charger_usb_to_sort
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_consumer_charger_usb_to_sort
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_consumer_charger_usb_to_sort
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_consumer_charger_usb_to_sort
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_electronic_consumer_charger_usb_to_sort](none)<br>[](none)<br>[Category
+    Electronic Consumer Charger Usb To Sort](none)<br><br>'
+markdown_short: '[category_electronic_consumer_charger_usb_to_sort](none)<br><br>'
+md5: b974663dd5b4ab7fac0f7e6579940ffa
+md5_10: b974663dd5
+md5_10_upper: B974663DD5
+md5_5: b9746
+md5_5_upper: B9746
+md5_6: b97466
+md5_6_alpha: 78i1y
+md5_6_alpha_upper: 78I1Y
+md5_6_upper: B97466
+name: Category Electronic Consumer Charger Usb To Sort
+name_no_class: Electronic Consumer Charger Usb To Sort
+name_no_size: To Sort
+name_no_size_short: To Sort
+name_no_type: Charger Usb To Sort
+oomp_key: oomp_category_electronic_consumer_charger_usb_to_sort
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryelectronicconsumer
+size: charger_usb
+size_capital: Charger Usb
+size_first_letter: c
+size_first_letter_upper: C
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: CHARGER_USB
+type: electronic_consumer
+type_capital: Electronic Consumer
+type_first_letter: e
+type_first_letter_upper: E
+type_upper: ELECTRONIC_CONSUMER

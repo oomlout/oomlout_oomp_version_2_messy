@@ -1,0 +1,78 @@
+classification: clothes
+classification_capital: Clothes
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CLOTHES
+color: medium
+color_capital: Medium
+color_first_letter: m
+color_first_letter_upper: M
+color_upper: MEDIUM
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: purple
+description_main_capital: Purple
+description_main_first_letter: p
+description_main_first_letter_upper: P
+description_main_upper: PURPLE
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'M '
+description_or_color_upper: 'M '
+directory: parts/clothes_item_shorts_medium_purple
+distributors: []
+filter: ''
+from_yaml: false
+id: clothes_item_shorts_medium_purple
+id_no_class: item_shorts_medium_purple
+id_no_size: medium_purple
+id_no_type: shorts_medium_purple
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_shorts_medium_purple
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_shorts_medium_purple
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_shorts_medium_purple
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[clothes_item_shorts_medium_purple](none)<br>[](none)<br>[Clothes
+    Item Shorts Medium Purple](none)<br><br>'
+markdown_short: '[clothes_item_shorts_medium_purple](none)<br><br>'
+md5: a61b5bcd27d67a5596e9615f7f6ddc45
+md5_10: a61b5bcd27
+md5_10_upper: A61B5BCD27
+md5_5: a61b5
+md5_5_upper: A61B5
+md5_6: a61b5b
+md5_6_alpha: 6hbob
+md5_6_alpha_upper: 6HBOB
+md5_6_upper: A61B5B
+name: Clothes Item Shorts Medium Purple
+name_no_class: Item Shorts Medium Purple
+name_no_size: Medium Purple
+name_no_size_short: Medium Purple
+name_no_type: Shorts Medium Purple
+oomp_key: oomp_clothes_item_shorts_medium_purple
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: shorts
+size_capital: Shorts
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SHORTS
+type: item
+type_capital: Item
+type_first_letter: i
+type_first_letter_upper: I
+type_upper: ITEM

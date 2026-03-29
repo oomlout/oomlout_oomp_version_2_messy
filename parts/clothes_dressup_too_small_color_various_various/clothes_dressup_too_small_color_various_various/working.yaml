@@ -1,0 +1,78 @@
+classification: clothes
+classification_capital: Clothes
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CLOTHES
+color: color_various
+color_capital: Color Various
+color_first_letter: c
+color_first_letter_upper: C
+color_upper: COLOR_VARIOUS
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: various
+description_main_capital: Various
+description_main_first_letter: v
+description_main_first_letter_upper: V
+description_main_upper: VARIOUS
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'C '
+description_or_color_upper: 'C '
+directory: parts/clothes_dressup_too_small_color_various_various
+distributors: []
+filter: ''
+from_yaml: false
+id: clothes_dressup_too_small_color_various_various
+id_no_class: dressup_too_small_color_various_various
+id_no_size: color_various_various
+id_no_type: too_small_color_various_various
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_dressup_too_small_color_various_various
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_dressup_too_small_color_various_various
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_dressup_too_small_color_various_various
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[clothes_dressup_too_small_color_various_various](none)<br>[](none)<br>[Clothes
+    Dressup Too Small Color Various Various](none)<br><br>'
+markdown_short: '[clothes_dressup_too_small_color_various_various](none)<br><br>'
+md5: 1a7b379677b73bcac787f64be503646d
+md5_10: 1a7b379677
+md5_10_upper: 1A7B379677
+md5_5: 1a7b3
+md5_5_upper: 1A7B3
+md5_6: 1a7b37
+md5_6_alpha: 1173r
+md5_6_alpha_upper: 1173R
+md5_6_upper: 1A7B37
+name: Clothes Dressup Too Small Color Various Various
+name_no_class: Dressup Too Small Color Various Various
+name_no_size: Color Various Various
+name_no_size_short: Color Various Various
+name_no_type: Too Small Color Various Various
+oomp_key: oomp_clothes_dressup_too_small_color_various_various
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: too_small
+size_capital: Too Small
+size_first_letter: t
+size_first_letter_upper: T
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: TOO_SMALL
+type: dressup
+type_capital: Dressup
+type_first_letter: d
+type_first_letter_upper: D
+type_upper: DRESSUP

@@ -1,0 +1,81 @@
+classification: food
+classification_capital: Food
+classification_first_letter: f
+classification_first_letter_upper: F
+classification_upper: FOOD
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: Cathedral City Mature Cheddar Cheese
+description_extra: mature_cheddar
+description_extra_capital: Mature Cheddar
+description_extra_first_letter: m
+description_extra_first_letter_upper: M
+description_extra_upper: MATURE_CHEDDAR
+description_main: cheese
+description_main_capital: Cheese
+description_main_first_letter: c
+description_main_first_letter_upper: C
+description_main_upper: CHEESE
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/food_dairy_cheese_mature_cheddar_cathedral_city
+distributors: []
+filter: ''
+from_yaml: false
+id: food_dairy_cheese_mature_cheddar_cathedral_city
+id_no_class: dairy_cheese_mature_cheddar_cathedral_city
+id_no_size: cheesematurecheddarcathedralcity
+id_no_type: cheese_mature_cheddar_cathedral_city
+link_distributor_ocado: https://www.ocado.com/search?entry=31833011
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_dairy_cheese_mature_cheddar_cathedral_city
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_dairy_cheese_mature_cheddar_cathedral_city
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_dairy_cheese_mature_cheddar_cathedral_city
+manufacturer: cathedral_city
+manufacturer_capital: Cathedral City
+manufacturer_first_letter: c
+manufacturer_first_letter_upper: C
+manufacturer_upper: CATHEDRAL_CITY
+manufacturers: []
+markdown_full: '[food_dairy_cheese_mature_cheddar_cathedral_city](none)<br>[](none)<br>[Food
+    Dairy Cheese Mature Cheddar Cathedral City](none)<br><br>'
+markdown_short: '[food_dairy_cheese_mature_cheddar_cathedral_city](none)<br><br>'
+md5: 6b1737005ce25ec243ae05caaeb6fd43
+md5_10: 6b1737005c
+md5_10_upper: 6B1737005C
+md5_5: 6b173
+md5_5_upper: 6B173
+md5_6: 6b1737
+md5_6_alpha: 46fcn
+md5_6_alpha_upper: 46FCN
+md5_6_upper: 6B1737
+name: Food Dairy Cheese Mature Cheddar Cathedral City
+name_no_class: Dairy Cheese Mature Cheddar Cathedral City
+name_no_size: Cheesematurecheddarcathedralcity
+name_no_size_short: Cheesematurecheddarcathedralcity
+name_no_type: Cheese Mature Cheddar Cathedral City
+oomp_key: oomp_food_dairy_cheese_mature_cheddar_cathedral_city
+part_number: ''
+part_number_capital: ''
+part_number_distributor_ocado: '31833011'
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: dairy
+type_capital: Dairy
+type_first_letter: d
+type_first_letter_upper: D
+type_upper: DAIRY

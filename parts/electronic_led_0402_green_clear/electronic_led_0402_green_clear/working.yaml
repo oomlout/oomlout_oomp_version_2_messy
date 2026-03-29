@@ -1,0 +1,84 @@
+classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_upper: ELECTRONIC
+color: green
+color_capital: Green
+color_first_letter: g
+color_first_letter_upper: G
+color_upper: GREEN
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: clear
+description_main_capital: Clear
+description_main_first_letter: c
+description_main_first_letter_upper: C
+description_main_upper: CLEAR
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'G '
+description_or_color_upper: 'G '
+directory: parts/electronic_led_0402_green_clear
+distributors: []
+filter: ''
+from_yaml: false
+id: electronic_led_0402_green_clear
+id_no_class: led_0402_green_clear
+id_no_size: green_clear
+id_no_type: 0402_green_clear
+kicad_reference: L
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_0402_green_clear
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_0402_green_clear
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_0402_green_clear
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[electronic_led_0402_green_clear](none)<br>[l4g](none)<br>[Electronic
+    Led 0402 Green Clear](none)<br><br>'
+markdown_short: '[electronic_led_0402_green_clear](none)<br><br>'
+md5: 3d6b07b2dbbf0975030d702e750436c6
+md5_10: 3d6b07b2db
+md5_10_upper: 3D6B07B2DB
+md5_5: 3d6b0
+md5_5_upper: 3D6B0
+md5_6: 3d6b07
+md5_6_alpha: 2e9s7
+md5_6_alpha_upper: 2E9S7
+md5_6_upper: 3D6B07
+name: Electronic Led 0402 Green Clear
+name_no_class: Led 0402 Green Clear
+name_no_size: Green Clear
+name_no_size_short: Green Clear
+name_no_type: 0402 Green Clear
+oomp_key: oomp_electronic_led_0402_green_clear
+package_style: smd_tape
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: l4g
+short_code_upper: L4G
+short_name: 0402 Greenclear Led
+size: '0402'
+size_capital: '0402'
+size_first_letter: '0'
+size_first_letter_upper: '0'
+size_only_numbers: '0402'
+size_only_numbers_no_zeros: '42'
+size_upper: '0402'
+smd_tape_depth: 1_5_mm
+smd_tape_pitch: 2_mm
+smd_tape_width: 8_mm
+type: led
+type_capital: Led
+type_first_letter: l
+type_first_letter_upper: L
+type_upper: LED

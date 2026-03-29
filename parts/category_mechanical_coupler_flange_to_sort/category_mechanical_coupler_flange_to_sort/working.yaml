@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: flange
+color_capital: Flange
+color_first_letter: f
+color_first_letter_upper: F
+color_upper: FLANGE
+description: category_mechanical
+description_extra: to_sort
+description_extra_capital: To Sort
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TO_SORT
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'F '
+description_or_color_upper: 'F '
+directory: parts/category_mechanical_coupler_flange_to_sort
+distributors: []
+filter: ''
+from_yaml: false
+id: category_mechanical_coupler_flange_to_sort
+id_no_class: mechanical_coupler_flange_to_sort
+id_no_size: flange_to_sort
+id_no_type: coupler_flange_to_sort
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_coupler_flange_to_sort
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_coupler_flange_to_sort
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_coupler_flange_to_sort
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_mechanical_coupler_flange_to_sort](none)<br>[](none)<br>[Category
+    Mechanical Coupler Flange To Sort](none)<br><br>'
+markdown_short: '[category_mechanical_coupler_flange_to_sort](none)<br><br>'
+md5: 0eb9b46c11566f0c21e31b824f301bcc
+md5_10: 0eb9b46c11
+md5_10_upper: 0EB9B46C11
+md5_5: 0eb9b
+md5_5_upper: 0EB9B
+md5_6: 0eb9b4
+md5_6_alpha: koms
+md5_6_alpha_upper: KOMS
+md5_6_upper: 0EB9B4
+name: Category Mechanical Coupler Flange To Sort
+name_no_class: Mechanical Coupler Flange To Sort
+name_no_size: Flange To Sort
+name_no_size_short: Flange To Sort
+name_no_type: Coupler Flange To Sort
+oomp_key: oomp_category_mechanical_coupler_flange_to_sort
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorymechanical
+size: coupler
+size_capital: Coupler
+size_first_letter: c
+size_first_letter_upper: C
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: COUPLER
+type: mechanical
+type_capital: Mechanical
+type_first_letter: m
+type_first_letter_upper: M
+type_upper: MECHANICAL

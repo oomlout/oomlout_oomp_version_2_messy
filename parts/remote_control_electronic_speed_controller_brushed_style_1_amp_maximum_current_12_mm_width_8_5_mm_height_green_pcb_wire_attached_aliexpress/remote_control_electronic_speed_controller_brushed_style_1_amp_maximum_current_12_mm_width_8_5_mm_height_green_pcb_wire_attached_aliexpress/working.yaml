@@ -1,0 +1,85 @@
+classification: remote_control
+classification_capital: Remote Control
+classification_first_letter: r
+classification_first_letter_upper: R
+classification_upper: REMOTE_CONTROL
+color: 1_amp_maximum_current
+color_capital: 1 Amp Maximum Current
+color_first_letter: '1'
+color_first_letter_upper: '1'
+color_upper: 1_AMP_MAXIMUM_CURRENT
+description_extra: wire_attached
+description_extra_capital: Wire Attached
+description_extra_first_letter: w
+description_extra_first_letter_upper: W
+description_extra_upper: WIRE_ATTACHED
+description_main: 12_mm_width_8_5_mm_height_green_pcb
+description_main_capital: 12 mm Width 8.5 mm Height Green Pcb
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_upper: 12_MM_WIDTH_8_5_MM_HEIGHT_GREEN_PCB
+description_only_numbers: '1285'
+description_only_numbers_short: 1k2
+description_or_color: 11k2
+description_or_color_upper: 11K2
+directory: parts/remote_control_electronic_speed_controller_brushed_style_1_amp_maximum_current_12_mm_width_8_5_mm_height_green_pcb_wire_attached_aliexpress
+distributors: []
+id: remote_control_electronic_speed_controller_brushed_style_1_amp_maximum_current_12_mm_width_8_5_mm_height_green_pcb_wire_attached_aliexpress
+id_no_class: electronic_speed_controller_brushed_style_1_amp_maximum_current_12_mm_width_8_5_mm_height_green_pcb_wire_attached_aliexpress
+id_no_size: 1_amp_maximum_current_12_mm_width_8_5_mm_height_green_pcb_wire_attached_aliexpress
+id_no_type: brushed_style_1_amp_maximum_current_12_mm_width_8_5_mm_height_green_pcb_wire_attached_aliexpress
+link_distributor_aliexpress: https://www.aliexpress.com/item/1005006080168104.html
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/remote_control_electronic_speed_controller_brushed_style_1_amp_maximum_current_12_mm_width_8_5_mm_height_green_pcb_wire_attached_aliexpress
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/remote_control_electronic_speed_controller_brushed_style_1_amp_maximum_current_12_mm_width_8_5_mm_height_green_pcb_wire_attached_aliexpress
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/remote_control_electronic_speed_controller_brushed_style_1_amp_maximum_current_12_mm_width_8_5_mm_height_green_pcb_wire_attached_aliexpress
+manufacturer: aliexpress
+manufacturer_capital: Aliexpress
+manufacturer_first_letter: a
+manufacturer_first_letter_upper: A
+manufacturer_upper: ALIEXPRESS
+manufacturers: []
+markdown_full: '[remote_control_electronic_speed_controller_brushed_style_1_amp_maximum_current_12_mm_width_8_5_mm_height_green_pcb_wire_attached_aliexpress](none)<br>[](none)<br>[Remote
+    Control Electronic Speed Controller Brushed Style 1 Amp Maximum Current 12 Mm
+    Width 8 5 Mm Height Green Pcb Wire Attached Aliexpress](none)<br><br>'
+markdown_short: '[remote_control_electronic_speed_controller_brushed_style_1_amp_maximum_current_12_mm_width_8_5_mm_height_green_pcb_wire_attached_aliexpress](none)<br><br>'
+md5: 2486103a06c0a66482366aeade84e520
+md5_10: 2486103a06
+md5_10_upper: 2486103A06
+md5_5: '24861'
+md5_5_upper: '24861'
+md5_6: '248610'
+md5_6_alpha: 1faxc
+md5_6_alpha_upper: 1FAXC
+md5_6_upper: '248610'
+name: Remote Control Electronic Speed Controller Brushed Style 1 Amp Maximum Current
+    12 Mm Width 8 5 Mm Height Green Pcb Wire Attached Aliexpress
+name_no_class: Electronic Speed Controller Brushed Style 1 Amp Maximum Current 12
+    Mm Width 8 5 Mm Height Green Pcb Wire Attached Aliexpress
+name_no_size: 1 Amp Maximum Current 12 Mm Width 8 5 Mm Height Green Pcb Wire Attached
+    Aliexpress
+name_no_size_short: 1 Amp Maximum Current 12 Mm Width 8 5 Mm Height Green Pcb Wire
+    Attached Aliexpress
+name_no_type: Brushed Style 1 Amp Maximum Current 12 Mm Width 8 5 Mm Height Green
+    Pcb Wire Attached Aliexpress
+oomp_key: oomp_remote_control_electronic_speed_controller_brushed_style_1_amp_maximum_current_12_mm_width_8_5_mm_height_green_pcb_wire_attached_aliexpress
+part_number: ''
+part_number_capital: ''
+part_number_distributor_aliexpress: '1005006080168104'
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ESC 1 amp
+size: brushed_style
+size_capital: Brushed Style
+size_first_letter: b
+size_first_letter_upper: B
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: BRUSHED_STYLE
+type: electronic_speed_controller
+type_capital: Electronic Speed Controller
+type_first_letter: e
+type_first_letter_upper: E
+type_upper: ELECTRONIC_SPEED_CONTROLLER

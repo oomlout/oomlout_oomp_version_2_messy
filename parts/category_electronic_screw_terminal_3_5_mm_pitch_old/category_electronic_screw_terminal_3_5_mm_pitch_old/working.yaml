@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: 3_5_mm_pitch
+color_capital: 3.5 mm Pitch
+color_first_letter: '3'
+color_first_letter_upper: '3'
+color_upper: 3_5_MM_PITCH
+description: category_electronic
+description_extra: old
+description_extra_capital: Old
+description_extra_first_letter: o
+description_extra_first_letter_upper: O
+description_extra_upper: OLD
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: '3 '
+description_or_color_upper: '3 '
+directory: parts/category_electronic_screw_terminal_3_5_mm_pitch_old
+distributors: []
+filter: ''
+from_yaml: false
+id: category_electronic_screw_terminal_3_5_mm_pitch_old
+id_no_class: electronic_screw_terminal_3_5_mm_pitch_old
+id_no_size: 3_5_mm_pitch_old
+id_no_type: screw_terminal_3_5_mm_pitch_old
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_screw_terminal_3_5_mm_pitch_old
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_screw_terminal_3_5_mm_pitch_old
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_screw_terminal_3_5_mm_pitch_old
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_electronic_screw_terminal_3_5_mm_pitch_old](none)<br>[](none)<br>[Category
+    Electronic Screw Terminal 3 5 Mm Pitch Old](none)<br><br>'
+markdown_short: '[category_electronic_screw_terminal_3_5_mm_pitch_old](none)<br><br>'
+md5: 92f5046ea79acb0f551c60547d05c615
+md5_10: 92f5046ea7
+md5_10_upper: 92F5046EA7
+md5_5: 92f50
+md5_5_upper: 92F50
+md5_6: 92f504
+md5_6_alpha: 5qfb8
+md5_6_alpha_upper: 5QFB8
+md5_6_upper: 92F504
+name: Category Electronic Screw Terminal 3 5 Mm Pitch Old
+name_no_class: Electronic Screw Terminal 3 5 Mm Pitch Old
+name_no_size: 3 5 Mm Pitch Old
+name_no_size_short: 3 5 Mm Pitch Old
+name_no_type: Screw Terminal 3 5 Mm Pitch Old
+oomp_key: oomp_category_electronic_screw_terminal_3_5_mm_pitch_old
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryelectronic
+size: screw_terminal
+size_capital: Screw Terminal
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SCREW_TERMINAL
+type: electronic
+type_capital: Electronic
+type_first_letter: e
+type_first_letter_upper: E
+type_upper: ELECTRONIC

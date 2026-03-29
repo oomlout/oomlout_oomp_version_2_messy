@@ -1,0 +1,77 @@
+classification: craft
+classification_capital: Craft
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CRAFT
+color: blue
+color_capital: Blue
+color_first_letter: b
+color_first_letter_upper: B
+color_upper: BLUE
+description_extra: roll
+description_extra_capital: Roll
+description_extra_first_letter: r
+description_extra_first_letter_upper: R
+description_extra_upper: ROLL
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'B '
+description_or_color_upper: 'B '
+directory: parts/craft_ribbon_lacey_blue_roll
+distributors: []
+id: craft_ribbon_lacey_blue_roll
+id_no_class: ribbon_lacey_blue_roll
+id_no_size: blue_roll
+id_no_type: lacey_blue_roll
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/craft_ribbon_lacey_blue_roll
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/craft_ribbon_lacey_blue_roll
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/craft_ribbon_lacey_blue_roll
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[craft_ribbon_lacey_blue_roll](none)<br>[l](none)<br>[Craft Ribbon
+    Lacey Blue Roll](none)<br><br>'
+markdown_short: '[craft_ribbon_lacey_blue_roll](none)<br><br>'
+md5: 1d43cf8870e4c14e6043efa1da6e7653
+md5_10: 1d43cf8870
+md5_10_upper: 1D43CF8870
+md5_5: 1d43c
+md5_5_upper: 1D43C
+md5_6: 1d43cf
+md5_6_alpha: 153v3
+md5_6_alpha_upper: 153V3
+md5_6_upper: 1D43CF
+name: Craft Ribbon Lacey Blue Roll
+name_no_class: Ribbon Lacey Blue Roll
+name_no_size: Blue Roll
+name_no_size_short: Blue Roll
+name_no_type: Lacey Blue Roll
+oomp_key: oomp_craft_ribbon_lacey_blue_roll
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: l
+short_code_upper: L
+short_name: ''
+size: lacey
+size_capital: Lacey
+size_first_letter: l
+size_first_letter_upper: L
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: LACEY
+type: ribbon
+type_capital: Ribbon
+type_first_letter: r
+type_first_letter_upper: R
+type_upper: RIBBON

@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: 2_54_mm_triple_row
+color_capital: 2.54 mm Triple Row
+color_first_letter: '2'
+color_first_letter_upper: '2'
+color_upper: 2_54_MM_TRIPLE_ROW
+description: category_electronic
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: '2 '
+description_or_color_upper: '2 '
+directory: parts/category_electronic_header_2_54_mm_triple_row
+distributors: []
+filter: ''
+from_yaml: false
+id: category_electronic_header_2_54_mm_triple_row
+id_no_class: electronic_header_2_54_mm_triple_row
+id_no_size: 2_54_mm_triple_row
+id_no_type: header_2_54_mm_triple_row
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_header_2_54_mm_triple_row
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_header_2_54_mm_triple_row
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_header_2_54_mm_triple_row
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_electronic_header_2_54_mm_triple_row](none)<br>[](none)<br>[Category
+    Electronic Header 2 54 Mm Triple Row](none)<br><br>'
+markdown_short: '[category_electronic_header_2_54_mm_triple_row](none)<br><br>'
+md5: 6725af1af062c210796d746e57c27157
+md5_10: 6725af1af0
+md5_10_upper: 6725AF1AF0
+md5_5: 6725a
+md5_5_upper: 6725A
+md5_6: 6725af
+md5_6_alpha: 40vxr
+md5_6_alpha_upper: 40VXR
+md5_6_upper: 6725AF
+name: Category Electronic Header 2 54 Mm Triple Row
+name_no_class: Electronic Header 2 54 Mm Triple Row
+name_no_size: 2 54 Mm Triple Row
+name_no_size_short: 2 54 Mm Triple Row
+name_no_type: Header 2 54 Mm Triple Row
+oomp_key: oomp_category_electronic_header_2_54_mm_triple_row
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryelectronic
+size: header
+size_capital: Header
+size_first_letter: h
+size_first_letter_upper: H
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: HEADER
+type: electronic
+type_capital: Electronic
+type_first_letter: e
+type_first_letter_upper: E
+type_upper: ELECTRONIC

@@ -1,0 +1,80 @@
+classification: food
+classification_capital: Food
+classification_first_letter: f
+classification_first_letter_upper: F
+classification_upper: FOOD
+color: penne
+color_capital: Penne
+color_first_letter: p
+color_first_letter_upper: P
+color_upper: PENNE
+description: pasta_penne
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'P '
+description_or_color_upper: 'P '
+directory: parts/food_starch_pasta_penne
+distributors: []
+filter: ''
+from_yaml: false
+id: food_starch_pasta_penne
+id_no_class: starch_pasta_penne
+id_no_size: penne
+id_no_type: pasta_penne
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_pasta_penne
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_pasta_penne
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_pasta_penne
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[food_starch_pasta_penne](none)<br>[](none)<br>[Food Starch Pasta
+    Penne](none)<br><br>'
+markdown_short: '[food_starch_pasta_penne](none)<br><br>'
+md5: 89ba760642aa62e1c5762404120ac8cf
+md5_10: 89ba760642
+md5_10_upper: 89BA760642
+md5_5: 89ba7
+md5_5_upper: 89BA7
+md5_6: 89ba76
+md5_6_alpha: 5dgmu
+md5_6_alpha_upper: 5DGMU
+md5_6_upper: 89BA76
+name: Food Starch Pasta Penne
+name_no_class: Starch Pasta Penne
+name_no_size: Penne
+name_no_size_short: Penne
+name_no_type: Pasta Penne
+name_short: Pasta Penne
+oomp_key: oomp_food_starch_pasta_penne
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: pasta
+size_capital: Pasta
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PASTA
+type: starch
+type_capital: Starch
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: STARCH

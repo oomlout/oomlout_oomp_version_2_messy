@@ -1,0 +1,78 @@
+classification: clothes
+classification_capital: Clothes
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CLOTHES
+color: small
+color_capital: Small
+color_first_letter: s
+color_first_letter_upper: S
+color_upper: SMALL
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: orange
+description_main_capital: Orange
+description_main_first_letter: o
+description_main_first_letter_upper: O
+description_main_upper: ORANGE
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'S '
+description_or_color_upper: 'S '
+directory: parts/clothes_item_sweatshirt_small_orange
+distributors: []
+filter: ''
+from_yaml: false
+id: clothes_item_sweatshirt_small_orange
+id_no_class: item_sweatshirt_small_orange
+id_no_size: small_orange
+id_no_type: sweatshirt_small_orange
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_sweatshirt_small_orange
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_sweatshirt_small_orange
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_sweatshirt_small_orange
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[clothes_item_sweatshirt_small_orange](none)<br>[](none)<br>[Clothes
+    Item Sweatshirt Small Orange](none)<br><br>'
+markdown_short: '[clothes_item_sweatshirt_small_orange](none)<br><br>'
+md5: c2d6546d3111502b32e368b1be9a07e6
+md5_10: c2d6546d31
+md5_10_upper: C2D6546D31
+md5_5: c2d65
+md5_5_upper: C2D65
+md5_6: c2d654
+md5_6_alpha: 7loic
+md5_6_alpha_upper: 7LOIC
+md5_6_upper: C2D654
+name: Clothes Item Sweatshirt Small Orange
+name_no_class: Item Sweatshirt Small Orange
+name_no_size: Small Orange
+name_no_size_short: Small Orange
+name_no_type: Sweatshirt Small Orange
+oomp_key: oomp_clothes_item_sweatshirt_small_orange
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: sweatshirt
+size_capital: Sweatshirt
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SWEATSHIRT
+type: item
+type_capital: Item
+type_first_letter: i
+type_first_letter_upper: I
+type_upper: ITEM

@@ -1,0 +1,77 @@
+classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_upper: ELECTRONIC
+color: basic
+color_capital: Basic
+color_first_letter: b
+color_first_letter_upper: B
+color_upper: BASIC
+description_extra: through_hole_right_angle
+description_extra_capital: Through Hole Right Angle
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: THROUGH_HOLE_RIGHT_ANGLE
+description_main: triple
+description_main_capital: Triple
+description_main_first_letter: t
+description_main_first_letter_upper: T
+description_main_upper: TRIPLE
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'B '
+description_or_color_upper: 'B '
+directory: parts/electronic_header_oobb_basic_triple_through_hole_right_angle
+distributors: []
+id: electronic_header_oobb_basic_triple_through_hole_right_angle
+id_no_class: header_oobb_basic_triple_through_hole_right_angle
+id_no_size: basic_triple_through_hole_right_angle
+id_no_type: oobb_basic_triple_through_hole_right_angle
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_header_oobb_basic_triple_through_hole_right_angle
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_header_oobb_basic_triple_through_hole_right_angle
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_header_oobb_basic_triple_through_hole_right_angle
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[electronic_header_oobb_basic_triple_through_hole_right_angle](none)<br>[hob3thra](none)<br>[Electronic
+    Header Oobb Basic Triple Through Hole Right Angle](none)<br><br>'
+markdown_short: '[electronic_header_oobb_basic_triple_through_hole_right_angle](none)<br><br>'
+md5: 14acfa8141ee845840164a3f996c1f2f
+md5_10: 14acfa8141
+md5_10_upper: 14ACFA8141
+md5_5: 14acf
+md5_5_upper: 14ACF
+md5_6: 14acfa
+md5_6_alpha: t1iy
+md5_6_alpha_upper: T1IY
+md5_6_upper: 14ACFA
+name: Electronic Header Oobb Basic Triple Through Hole Right Angle
+name_no_class: Header Oobb Basic Triple Through Hole Right Angle
+name_no_size: Basic Triple Through Hole Right Angle
+name_no_size_short: Basic Triple Through Hole Right Angle
+name_no_type: Oobb Basic Triple Through Hole Right Angle
+oomp_key: oomp_electronic_header_oobb_basic_triple_through_hole_right_angle
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: hob3thra
+short_code_upper: HOB3THRA
+short_name: ''
+size: oobb
+size_capital: Oobb
+size_first_letter: o
+size_first_letter_upper: O
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: OOBB
+type: header
+type_capital: Header
+type_first_letter: h
+type_first_letter_upper: H
+type_upper: HEADER

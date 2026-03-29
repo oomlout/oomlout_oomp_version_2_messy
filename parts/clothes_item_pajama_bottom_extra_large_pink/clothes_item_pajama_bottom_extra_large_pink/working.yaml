@@ -1,0 +1,78 @@
+classification: clothes
+classification_capital: Clothes
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CLOTHES
+color: extra_large
+color_capital: Extra Large
+color_first_letter: e
+color_first_letter_upper: E
+color_upper: EXTRA_LARGE
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: pink
+description_main_capital: Pink
+description_main_first_letter: p
+description_main_first_letter_upper: P
+description_main_upper: PINK
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'E '
+description_or_color_upper: 'E '
+directory: parts/clothes_item_pajama_bottom_extra_large_pink
+distributors: []
+filter: ''
+from_yaml: false
+id: clothes_item_pajama_bottom_extra_large_pink
+id_no_class: item_pajama_bottom_extra_large_pink
+id_no_size: extra_large_pink
+id_no_type: pajama_bottom_extra_large_pink
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_pajama_bottom_extra_large_pink
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_pajama_bottom_extra_large_pink
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_pajama_bottom_extra_large_pink
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[clothes_item_pajama_bottom_extra_large_pink](none)<br>[](none)<br>[Clothes
+    Item Pajama Bottom Extra Large Pink](none)<br><br>'
+markdown_short: '[clothes_item_pajama_bottom_extra_large_pink](none)<br><br>'
+md5: 3bc7129160173a8fd20b897b0ba416d5
+md5_10: 3bc7129160
+md5_10_upper: 3BC7129160
+md5_5: 3bc71
+md5_5_upper: 3BC71
+md5_6: 3bc712
+md5_6_alpha: 2bytu
+md5_6_alpha_upper: 2BYTU
+md5_6_upper: 3BC712
+name: Clothes Item Pajama Bottom Extra Large Pink
+name_no_class: Item Pajama Bottom Extra Large Pink
+name_no_size: Extra Large Pink
+name_no_size_short: Extra Large Pink
+name_no_type: Pajama Bottom Extra Large Pink
+oomp_key: oomp_clothes_item_pajama_bottom_extra_large_pink
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: pajama_bottom
+size_capital: Pajama Bottom
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PAJAMA_BOTTOM
+type: item
+type_capital: Item
+type_first_letter: i
+type_first_letter_upper: I
+type_upper: ITEM

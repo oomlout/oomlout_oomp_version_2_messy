@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: small
+color_capital: Small
+color_first_letter: s
+color_first_letter_upper: S
+color_upper: SMALL
+description: category_toy
+description_extra: to_sort
+description_extra_capital: To Sort
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TO_SORT
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'S '
+description_or_color_upper: 'S '
+directory: parts/category_toy_ball_small_to_sort
+distributors: []
+filter: ''
+from_yaml: false
+id: category_toy_ball_small_to_sort
+id_no_class: toy_ball_small_to_sort
+id_no_size: small_to_sort
+id_no_type: ball_small_to_sort
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_toy_ball_small_to_sort
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_toy_ball_small_to_sort
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_toy_ball_small_to_sort
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_toy_ball_small_to_sort](none)<br>[](none)<br>[Category Toy
+    Ball Small To Sort](none)<br><br>'
+markdown_short: '[category_toy_ball_small_to_sort](none)<br><br>'
+md5: e440eac23cca3f733b054744ddbfe9d3
+md5_10: e440eac23c
+md5_10_upper: E440EAC23C
+md5_5: e440e
+md5_5_upper: E440E
+md5_6: e440ea
+md5_6_alpha: 8wmay
+md5_6_alpha_upper: 8WMAY
+md5_6_upper: E440EA
+name: Category Toy Ball Small To Sort
+name_no_class: Toy Ball Small To Sort
+name_no_size: Small To Sort
+name_no_size_short: Small To Sort
+name_no_type: Ball Small To Sort
+oomp_key: oomp_category_toy_ball_small_to_sort
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorytoy
+size: ball
+size_capital: Ball
+size_first_letter: b
+size_first_letter_upper: B
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: BALL
+type: toy
+type_capital: Toy
+type_first_letter: t
+type_first_letter_upper: T
+type_upper: TOY

@@ -1,0 +1,79 @@
+classification: garden
+classification_capital: Garden
+classification_first_letter: g
+classification_first_letter_upper: G
+classification_upper: GARDEN
+color: rudebeckia
+color_capital: Rudebeckia
+color_first_letter: r
+color_first_letter_upper: R
+color_upper: RUDEBECKIA
+description_extra: seed_packet
+description_extra_capital: Seed Packet
+description_extra_first_letter: s
+description_extra_first_letter_upper: S
+description_extra_upper: SEED_PACKET
+description_main: viviani
+description_main_capital: Viviani
+description_main_first_letter: v
+description_main_first_letter_upper: V
+description_main_upper: VIVIANI
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'R '
+description_or_color_upper: 'R '
+directory: parts/garden_plant_flower_rudebeckia_viviani_seed_packet
+distributor_sutton_seeds: '130260'
+distributors: []
+id: garden_plant_flower_rudebeckia_viviani_seed_packet
+id_no_class: plant_flower_rudebeckia_viviani_seed_packet
+id_no_size: rudebeckia_viviani_seed_packet
+id_no_type: flower_rudebeckia_viviani_seed_packet
+link_distributor_sutton_seeds: https://www.suttons.co.uk/flower-seeds/rudbeckia-viviani-seeds_mh11893
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/garden_plant_flower_rudebeckia_viviani_seed_packet
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/garden_plant_flower_rudebeckia_viviani_seed_packet
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/garden_plant_flower_rudebeckia_viviani_seed_packet
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[garden_plant_flower_rudebeckia_viviani_seed_packet](none)<br>[](none)<br>[Garden
+    Plant Flower Rudebeckia Viviani Seed Packet](none)<br><br>'
+markdown_short: '[garden_plant_flower_rudebeckia_viviani_seed_packet](none)<br><br>'
+md5: 50ff095fcc17e2868ea926205551b168
+md5_10: 50ff095fcc
+md5_10_upper: 50FF095FCC
+md5_5: 50ff0
+md5_5_upper: 50FF0
+md5_6: 50ff09
+md5_6_alpha: 35rt5
+md5_6_alpha_upper: 35RT5
+md5_6_upper: 50FF09
+name: Garden Plant Flower Rudebeckia Viviani Seed Packet
+name_no_class: Plant Flower Rudebeckia Viviani Seed Packet
+name_no_size: Rudebeckia Viviani Seed Packet
+name_no_size_short: Rudebeckia Viviani Seed Packet
+name_no_type: Flower Rudebeckia Viviani Seed Packet
+oomp_key: oomp_garden_plant_flower_rudebeckia_viviani_seed_packet
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: flower
+size_capital: Flower
+size_first_letter: f
+size_first_letter_upper: F
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: FLOWER
+type: plant
+type_capital: Plant
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PLANT

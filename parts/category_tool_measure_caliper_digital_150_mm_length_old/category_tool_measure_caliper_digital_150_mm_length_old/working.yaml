@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: 150_mm_length
+color_capital: 150 mm Length
+color_first_letter: '1'
+color_first_letter_upper: '1'
+color_upper: 150_MM_LENGTH
+description: category_tool
+description_extra: old
+description_extra_capital: Old
+description_extra_first_letter: o
+description_extra_first_letter_upper: O
+description_extra_upper: OLD
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: '1 '
+description_or_color_upper: '1 '
+directory: parts/category_tool_measure_caliper_digital_150_mm_length_old
+distributors: []
+filter: ''
+from_yaml: false
+id: category_tool_measure_caliper_digital_150_mm_length_old
+id_no_class: tool_measure_caliper_digital_150_mm_length_old
+id_no_size: 150_mm_length_old
+id_no_type: measure_caliper_digital_150_mm_length_old
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_measure_caliper_digital_150_mm_length_old
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_measure_caliper_digital_150_mm_length_old
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_measure_caliper_digital_150_mm_length_old
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_tool_measure_caliper_digital_150_mm_length_old](none)<br>[](none)<br>[Category
+    Tool Measure Caliper Digital 150 Mm Length Old](none)<br><br>'
+markdown_short: '[category_tool_measure_caliper_digital_150_mm_length_old](none)<br><br>'
+md5: 43086aed0a5cf6dd0a809824c776e2db
+md5_10: 43086aed0a
+md5_10_upper: 43086AED0A
+md5_5: '43086'
+md5_5_upper: '43086'
+md5_6: 43086a
+md5_6_alpha: 2m5pm
+md5_6_alpha_upper: 2M5PM
+md5_6_upper: 43086A
+name: Category Tool Measure Caliper Digital 150 Mm Length Old
+name_no_class: Tool Measure Caliper Digital 150 Mm Length Old
+name_no_size: 150 Mm Length Old
+name_no_size_short: 150 Mm Length Old
+name_no_type: Measure Caliper Digital 150 Mm Length Old
+oomp_key: oomp_category_tool_measure_caliper_digital_150_mm_length_old
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorytool
+size: measure_caliper_digital
+size_capital: Measure Caliper Digital
+size_first_letter: m
+size_first_letter_upper: M
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: MEASURE_CALIPER_DIGITAL
+type: tool
+type_capital: Tool
+type_first_letter: t
+type_first_letter_upper: T
+type_upper: TOOL

@@ -1,0 +1,81 @@
+classification: food
+classification_capital: Food
+classification_first_letter: f
+classification_first_letter_upper: F
+classification_upper: FOOD
+color: prepared
+color_capital: Prepared
+color_first_letter: p
+color_first_letter_upper: P
+color_upper: PREPARED
+description_extra: jar_350_gram
+description_extra_capital: Jar 350 Gram
+description_extra_first_letter: j
+description_extra_first_letter_upper: J
+description_extra_upper: JAR_350_GRAM
+description_main: pasta_sauce_tomato_and_roasted_garlic
+description_main_capital: Pasta Sauce Tomato And Roasted Garlic
+description_main_first_letter: p
+description_main_first_letter_upper: P
+description_main_upper: PASTA_SAUCE_TOMATO_AND_ROASTED_GARLIC
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'P '
+description_or_color_upper: 'P '
+directory: parts/food_pantry_prepared_pasta_sauce_tomato_and_roasted_garlic_jar_350_gram_loyd_grossman
+distributors: []
+filter: ''
+from_yaml: false
+id: food_pantry_prepared_pasta_sauce_tomato_and_roasted_garlic_jar_350_gram_loyd_grossman
+id_no_class: pantry_prepared_pasta_sauce_tomato_and_roasted_garlic_jar_350_gram_loyd_grossman
+id_no_size: preparedpastasaucetomatoandroastedgarlicjar350gramloydgrossman
+id_no_type: prepared_pasta_sauce_tomato_and_roasted_garlic_jar_350_gram_loyd_grossman
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_pantry_prepared_pasta_sauce_tomato_and_roasted_garlic_jar_350_gram_loyd_grossman
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_pantry_prepared_pasta_sauce_tomato_and_roasted_garlic_jar_350_gram_loyd_grossman
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_pantry_prepared_pasta_sauce_tomato_and_roasted_garlic_jar_350_gram_loyd_grossman
+manufacturer: loyd_grossman
+manufacturer_capital: Loyd Grossman
+manufacturer_first_letter: l
+manufacturer_first_letter_upper: L
+manufacturer_upper: LOYD_GROSSMAN
+manufacturers: []
+markdown_full: '[food_pantry_prepared_pasta_sauce_tomato_and_roasted_garlic_jar_350_gram_loyd_grossman](none)<br>[](none)<br>[Food
+    Pantry Prepared Pasta Sauce Tomato And Roasted Garlic Jar 350 Gram Loyd Grossman](none)<br><br>'
+markdown_short: '[food_pantry_prepared_pasta_sauce_tomato_and_roasted_garlic_jar_350_gram_loyd_grossman](none)<br><br>'
+md5: d8f683fa52590313c2f319ec01fa8695
+md5_10: d8f683fa52
+md5_10_upper: D8F683FA52
+md5_5: d8f68
+md5_5_upper: D8F68
+md5_6: d8f683
+md5_6_alpha: 8grcz
+md5_6_alpha_upper: 8GRCZ
+md5_6_upper: D8F683
+name: Food Pantry Prepared Pasta Sauce Tomato And Roasted Garlic Jar 350 Gram Loyd
+    Grossman
+name_no_class: Pantry Prepared Pasta Sauce Tomato And Roasted Garlic Jar 350 Gram
+    Loyd Grossman
+name_no_size: Preparedpastasaucetomatoandroastedgarlicjar350Gramloydgrossman
+name_no_size_short: Preparedpastasaucetomatoandroastedgarlicjar350Gramloydgrossman
+name_no_type: Prepared Pasta Sauce Tomato And Roasted Garlic Jar 350 Gram Loyd Grossman
+name_short: Pasta Sauce Tomato and Roasted Garlic
+oomp_key: oomp_food_pantry_prepared_pasta_sauce_tomato_and_roasted_garlic_jar_350_gram_loyd_grossman
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: pantry
+type_capital: Pantry
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PANTRY

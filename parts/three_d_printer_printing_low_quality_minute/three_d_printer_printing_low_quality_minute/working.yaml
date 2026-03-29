@@ -1,0 +1,81 @@
+classification: three_d_printer
+classification_capital: Three D Printer
+classification_first_letter: t
+classification_first_letter_upper: T
+classification_upper: THREE_D_PRINTER
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: minute
+description_main_capital: Minute
+description_main_first_letter: m
+description_main_first_letter_upper: M
+description_main_upper: MINUTE
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/three_d_printer_printing_low_quality_minute
+distributors: []
+id: three_d_printer_printing_low_quality_minute
+id_no_class: printing_low_quality_minute
+id_no_size: minute
+id_no_type: low_quality_minute
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/three_d_printer_printing_low_quality_minute
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/three_d_printer_printing_low_quality_minute
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/three_d_printer_printing_low_quality_minute
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[three_d_printer_printing_low_quality_minute](none)<br>[](none)<br>[Three
+    D Printer Printing Low Quality Minute](none)<br><br>'
+markdown_short: '[three_d_printer_printing_low_quality_minute](none)<br><br>'
+md5: 8e50a8f3f06d5f2e5bab7f48de913d1f
+md5_10: 8e50a8f3f0
+md5_10_upper: 8E50A8F3F0
+md5_5: 8e50a
+md5_5_upper: 8E50A
+md5_6: 8e50a8
+md5_6_alpha: 5jwko
+md5_6_alpha_upper: 5JWKO
+md5_6_upper: 8E50A8
+name: Three D Printer Printing Low Quality Minute
+name_no_class: Printing Low Quality Minute
+name_no_size: Minute
+name_no_size_short: Minute
+name_no_type: Low Quality Minute
+oomp_key: oomp_three_d_printer_printing_low_quality_minute
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+price_current: 0
+price_per: 0
+price_per_gram: 0
+price_per_kilogram: 0
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: low_quality
+size_capital: Low Quality
+size_first_letter: l
+size_first_letter_upper: L
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: LOW_QUALITY
+type: printing
+type_capital: Printing
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PRINTING

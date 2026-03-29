@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: child
+color_capital: Child
+color_first_letter: c
+color_first_letter_upper: C
+color_upper: CHILD
+description: category_book
+description_extra: tote
+description_extra_capital: Tote
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TOTE
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'C '
+description_or_color_upper: 'C '
+directory: parts/category_book_chapter_child_tote
+distributors: []
+filter: ''
+from_yaml: false
+id: category_book_chapter_child_tote
+id_no_class: book_chapter_child_tote
+id_no_size: child_tote
+id_no_type: chapter_child_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_book_chapter_child_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_book_chapter_child_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_book_chapter_child_tote
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_book_chapter_child_tote](none)<br>[](none)<br>[Category
+    Book Chapter Child Tote](none)<br><br>'
+markdown_short: '[category_book_chapter_child_tote](none)<br><br>'
+md5: a2219bcedded644e861058b41f373526
+md5_10: a2219bcedd
+md5_10_upper: A2219BCEDD
+md5_5: a2219
+md5_5_upper: A2219
+md5_6: a2219b
+md5_6_alpha: 6bqmz
+md5_6_alpha_upper: 6BQMZ
+md5_6_upper: A2219B
+name: Category Book Chapter Child Tote
+name_no_class: Book Chapter Child Tote
+name_no_size: Child Tote
+name_no_size_short: Child Tote
+name_no_type: Chapter Child Tote
+oomp_key: oomp_category_book_chapter_child_tote
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorybook
+size: chapter
+size_capital: Chapter
+size_first_letter: c
+size_first_letter_upper: C
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: CHAPTER
+type: book
+type_capital: Book
+type_first_letter: b
+type_first_letter_upper: B
+type_upper: BOOK

@@ -1,0 +1,78 @@
+classification: clothes
+classification_capital: Clothes
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CLOTHES
+color: large
+color_capital: Large
+color_first_letter: l
+color_first_letter_upper: L
+color_upper: LARGE
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: black
+description_main_capital: Black
+description_main_first_letter: b
+description_main_first_letter_upper: B
+description_main_upper: BLACK
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'L '
+description_or_color_upper: 'L '
+directory: parts/clothes_item_t_shirt_large_black
+distributors: []
+filter: ''
+from_yaml: false
+id: clothes_item_t_shirt_large_black
+id_no_class: item_t_shirt_large_black
+id_no_size: large_black
+id_no_type: t_shirt_large_black
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_t_shirt_large_black
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_t_shirt_large_black
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_t_shirt_large_black
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[clothes_item_t_shirt_large_black](none)<br>[](none)<br>[Clothes Item
+    T Shirt Large Black](none)<br><br>'
+markdown_short: '[clothes_item_t_shirt_large_black](none)<br><br>'
+md5: fb926d1337dcc95a213cd11142f9013e
+md5_10: fb926d1337
+md5_10_upper: FB926D1337
+md5_5: fb926
+md5_5_upper: FB926
+md5_6: fb926d
+md5_6_alpha: 9tdgt
+md5_6_alpha_upper: 9TDGT
+md5_6_upper: FB926D
+name: Clothes Item T Shirt Large Black
+name_no_class: Item T Shirt Large Black
+name_no_size: Large Black
+name_no_size_short: Large Black
+name_no_type: T Shirt Large Black
+oomp_key: oomp_clothes_item_t_shirt_large_black
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: t_shirt
+size_capital: T Shirt
+size_first_letter: t
+size_first_letter_upper: T
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: T_SHIRT
+type: item
+type_capital: Item
+type_first_letter: i
+type_first_letter_upper: I
+type_upper: ITEM

@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: 8_mm_diameter_6_5_mm_tall
+color_capital: 8 mm Diameter 6.5 mm Tall
+color_first_letter: '8'
+color_first_letter_upper: '8'
+color_upper: 8_MM_DIAMETER_6_5_MM_TALL
+description: category_electronic
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: '8 '
+description_or_color_upper: '8 '
+directory: parts/category_electronic_capacitor_8_mm_diameter_6_5_mm_tall
+distributors: []
+filter: ''
+from_yaml: false
+id: category_electronic_capacitor_8_mm_diameter_6_5_mm_tall
+id_no_class: electronic_capacitor_8_mm_diameter_6_5_mm_tall
+id_no_size: 8_mm_diameter_6_5_mm_tall
+id_no_type: capacitor_8_mm_diameter_6_5_mm_tall
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_capacitor_8_mm_diameter_6_5_mm_tall
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_capacitor_8_mm_diameter_6_5_mm_tall
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_capacitor_8_mm_diameter_6_5_mm_tall
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_electronic_capacitor_8_mm_diameter_6_5_mm_tall](none)<br>[](none)<br>[Category
+    Electronic Capacitor 8 Mm Diameter 6 5 Mm Tall](none)<br><br>'
+markdown_short: '[category_electronic_capacitor_8_mm_diameter_6_5_mm_tall](none)<br><br>'
+md5: 89a5ccca84e711167dae2bbc2bac2d3d
+md5_10: 89a5ccca84
+md5_10_upper: 89A5CCCA84
+md5_5: 89a5c
+md5_5_upper: 89A5C
+md5_6: 89a5cc
+md5_6_alpha: 5dcjw
+md5_6_alpha_upper: 5DCJW
+md5_6_upper: 89A5CC
+name: Category Electronic Capacitor 8 Mm Diameter 6 5 Mm Tall
+name_no_class: Electronic Capacitor 8 Mm Diameter 6 5 Mm Tall
+name_no_size: 8 Mm Diameter 6 5 Mm Tall
+name_no_size_short: 8 Mm Diameter 6 5 Mm Tall
+name_no_type: Capacitor 8 Mm Diameter 6 5 Mm Tall
+oomp_key: oomp_category_electronic_capacitor_8_mm_diameter_6_5_mm_tall
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryelectronic
+size: capacitor
+size_capital: Capacitor
+size_first_letter: c
+size_first_letter_upper: C
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: CAPACITOR
+type: electronic
+type_capital: Electronic
+type_first_letter: e
+type_first_letter_upper: E
+type_upper: ELECTRONIC

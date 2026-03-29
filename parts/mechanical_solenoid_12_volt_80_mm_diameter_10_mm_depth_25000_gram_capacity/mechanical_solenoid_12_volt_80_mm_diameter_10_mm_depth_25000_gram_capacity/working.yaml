@@ -1,0 +1,77 @@
+classification: mechanical
+classification_capital: Mechanical
+classification_first_letter: m
+classification_first_letter_upper: M
+classification_upper: MECHANICAL
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: 25000_gram_capacity
+description_extra_capital: 25000 Gram Capacity
+description_extra_first_letter: '2'
+description_extra_first_letter_upper: '2'
+description_extra_upper: 25000_GRAM_CAPACITY
+description_main: 80_mm_diameter_10_mm_depth
+description_main_capital: 80 mm Diameter 10 mm Depth
+description_main_first_letter: '8'
+description_main_first_letter_upper: '8'
+description_main_upper: 80_MM_DIAMETER_10_MM_DEPTH
+description_only_numbers: '8010'
+description_only_numbers_short: 8k
+description_or_color: 8k
+description_or_color_upper: 8K
+directory: parts/mechanical_solenoid_12_volt_80_mm_diameter_10_mm_depth_25000_gram_capacity
+distributors: []
+id: mechanical_solenoid_12_volt_80_mm_diameter_10_mm_depth_25000_gram_capacity
+id_no_class: solenoid_12_volt_80_mm_diameter_10_mm_depth_25000_gram_capacity
+id_no_size: 80_mm_diameter_10_mm_depth_25000_gram_capacity
+id_no_type: 12_volt_80_mm_diameter_10_mm_depth_25000_gram_capacity
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_solenoid_12_volt_80_mm_diameter_10_mm_depth_25000_gram_capacity
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_solenoid_12_volt_80_mm_diameter_10_mm_depth_25000_gram_capacity
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_solenoid_12_volt_80_mm_diameter_10_mm_depth_25000_gram_capacity
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[mechanical_solenoid_12_volt_80_mm_diameter_10_mm_depth_25000_gram_capacity](none)<br>[](none)<br>[Mechanical
+    Solenoid 12 Volt 80 Mm Diameter 10 Mm Depth 25000 Gram Capacity](none)<br><br>'
+markdown_short: '[mechanical_solenoid_12_volt_80_mm_diameter_10_mm_depth_25000_gram_capacity](none)<br><br>'
+md5: 7417fda5025aa1e01103ab6c02a77c1e
+md5_10: 7417fda502
+md5_10_upper: 7417FDA502
+md5_5: 7417f
+md5_5_upper: 7417F
+md5_6: 7417fd
+md5_6_alpha: 4j2m5
+md5_6_alpha_upper: 4J2M5
+md5_6_upper: 7417FD
+name: Mechanical Solenoid 12 Volt 80 Mm Diameter 10 Mm Depth 25000 Gram Capacity
+name_no_class: Solenoid 12 Volt 80 Mm Diameter 10 Mm Depth 25000 Gram Capacity
+name_no_size: 80 Mm Diameter 10 Mm Depth 25000 Gram Capacity
+name_no_size_short: 80 Mm Diameter 10 Mm Depth 25000 Gram Capacity
+name_no_type: 12 Volt 80 Mm Diameter 10 Mm Depth 25000 Gram Capacity
+oomp_key: oomp_mechanical_solenoid_12_volt_80_mm_diameter_10_mm_depth_25000_gram_capacity
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Solenoid 80mm x 10mm 25.0kg 12_volt
+size: 12_volt
+size_capital: 12 Volt
+size_first_letter: '1'
+size_first_letter_upper: '1'
+size_only_numbers: '12'
+size_only_numbers_no_zeros: '12'
+size_upper: 12_VOLT
+type: solenoid
+type_capital: Solenoid
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: SOLENOID

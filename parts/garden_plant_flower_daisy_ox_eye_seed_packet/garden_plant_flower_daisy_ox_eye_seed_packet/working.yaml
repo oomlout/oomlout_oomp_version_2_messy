@@ -1,0 +1,79 @@
+classification: garden
+classification_capital: Garden
+classification_first_letter: g
+classification_first_letter_upper: G
+classification_upper: GARDEN
+color: daisy
+color_capital: Daisy
+color_first_letter: d
+color_first_letter_upper: D
+color_upper: DAISY
+description_extra: seed_packet
+description_extra_capital: Seed Packet
+description_extra_first_letter: s
+description_extra_first_letter_upper: S
+description_extra_upper: SEED_PACKET
+description_main: ox_eye
+description_main_capital: Ox Eye
+description_main_first_letter: o
+description_main_first_letter_upper: O
+description_main_upper: OX_EYE
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'D '
+description_or_color_upper: 'D '
+directory: parts/garden_plant_flower_daisy_ox_eye_seed_packet
+distributor_sutton_seeds: '142036'
+distributors: []
+id: garden_plant_flower_daisy_ox_eye_seed_packet
+id_no_class: plant_flower_daisy_ox_eye_seed_packet
+id_no_size: daisy_ox_eye_seed_packet
+id_no_type: flower_daisy_ox_eye_seed_packet
+link_distributor_sutton_seeds: https://www.suttons.co.uk/oxeye-daisy-seeds_mh-53149
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/garden_plant_flower_daisy_ox_eye_seed_packet
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/garden_plant_flower_daisy_ox_eye_seed_packet
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/garden_plant_flower_daisy_ox_eye_seed_packet
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[garden_plant_flower_daisy_ox_eye_seed_packet](none)<br>[](none)<br>[Garden
+    Plant Flower Daisy Ox Eye Seed Packet](none)<br><br>'
+markdown_short: '[garden_plant_flower_daisy_ox_eye_seed_packet](none)<br><br>'
+md5: 1cca6804455f396393b0988ff8451fb6
+md5_10: 1cca680445
+md5_10_upper: 1CCA680445
+md5_5: 1cca6
+md5_5_upper: 1CCA6
+md5_6: 1cca68
+md5_6_alpha: 14fvs
+md5_6_alpha_upper: 14FVS
+md5_6_upper: 1CCA68
+name: Garden Plant Flower Daisy Ox Eye Seed Packet
+name_no_class: Plant Flower Daisy Ox Eye Seed Packet
+name_no_size: Daisy Ox Eye Seed Packet
+name_no_size_short: Daisy Ox Eye Seed Packet
+name_no_type: Flower Daisy Ox Eye Seed Packet
+oomp_key: oomp_garden_plant_flower_daisy_ox_eye_seed_packet
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: flower
+size_capital: Flower
+size_first_letter: f
+size_first_letter_upper: F
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: FLOWER
+type: plant
+type_capital: Plant
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PLANT

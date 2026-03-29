@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: anycubic_vyper
+color_capital: Anycubic Vyper
+color_first_letter: a
+color_first_letter_upper: A
+color_upper: ANYCUBIC_VYPER
+description: category_three_d_printer
+description_extra: to_sort
+description_extra_capital: To Sort
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TO_SORT
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'A '
+description_or_color_upper: 'A '
+directory: parts/category_three_d_printer_spare_part_anycubic_vyper_to_sort
+distributors: []
+filter: ''
+from_yaml: false
+id: category_three_d_printer_spare_part_anycubic_vyper_to_sort
+id_no_class: three_d_printer_spare_part_anycubic_vyper_to_sort
+id_no_size: anycubic_vyper_to_sort
+id_no_type: spare_part_anycubic_vyper_to_sort
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_three_d_printer_spare_part_anycubic_vyper_to_sort
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_three_d_printer_spare_part_anycubic_vyper_to_sort
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_three_d_printer_spare_part_anycubic_vyper_to_sort
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_three_d_printer_spare_part_anycubic_vyper_to_sort](none)<br>[](none)<br>[Category
+    Three D Printer Spare Part Anycubic Vyper To Sort](none)<br><br>'
+markdown_short: '[category_three_d_printer_spare_part_anycubic_vyper_to_sort](none)<br><br>'
+md5: 09d2dc3fc30d0353286f0a76156627d5
+md5_10: 09d2dc3fc3
+md5_10_upper: 09D2DC3FC3
+md5_5: 09d2d
+md5_5_upper: 09D2D
+md5_6: 09d2dc
+md5_6_alpha: dsrg
+md5_6_alpha_upper: DSRG
+md5_6_upper: 09D2DC
+name: Category Three D Printer Spare Part Anycubic Vyper To Sort
+name_no_class: Three D Printer Spare Part Anycubic Vyper To Sort
+name_no_size: Anycubic Vyper To Sort
+name_no_size_short: Anycubic Vyper To Sort
+name_no_type: Spare Part Anycubic Vyper To Sort
+oomp_key: oomp_category_three_d_printer_spare_part_anycubic_vyper_to_sort
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorythreedprinter
+size: spare_part
+size_capital: Spare Part
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SPARE_PART
+type: three_d_printer
+type_capital: Three D Printer
+type_first_letter: t
+type_first_letter_upper: T
+type_upper: THREE_D_PRINTER

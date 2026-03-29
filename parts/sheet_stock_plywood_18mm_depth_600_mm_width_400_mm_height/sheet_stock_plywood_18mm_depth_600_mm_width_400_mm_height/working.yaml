@@ -1,0 +1,78 @@
+classification: sheet_stock
+classification_capital: Sheet Stock
+classification_first_letter: s
+classification_first_letter_upper: S
+classification_upper: SHEET_STOCK
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 600_mm_width_400_mm_height
+description_main_capital: 600 mm Width 400 mm Height
+description_main_first_letter: '6'
+description_main_first_letter_upper: '6'
+description_main_upper: 600_MM_WIDTH_400_MM_HEIGHT
+description_only_numbers: '600400'
+description_only_numbers_short: 600k
+description_or_color: 600k
+description_or_color_upper: 600K
+directory: parts/sheet_stock_plywood_18mm_depth_600_mm_width_400_mm_height
+distributors: []
+filter: ''
+from_yaml: false
+id: sheet_stock_plywood_18mm_depth_600_mm_width_400_mm_height
+id_no_class: plywood_18mm_depth_600_mm_width_400_mm_height
+id_no_size: 600_mm_width_400_mm_height
+id_no_type: 18mm_depth_600_mm_width_400_mm_height
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/sheet_stock_plywood_18mm_depth_600_mm_width_400_mm_height
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/sheet_stock_plywood_18mm_depth_600_mm_width_400_mm_height
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/sheet_stock_plywood_18mm_depth_600_mm_width_400_mm_height
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[sheet_stock_plywood_18mm_depth_600_mm_width_400_mm_height](none)<br>[](none)<br>[Sheet
+    Stock Plywood 18Mm Depth 600 Mm Width 400 Mm Height](none)<br><br>'
+markdown_short: '[sheet_stock_plywood_18mm_depth_600_mm_width_400_mm_height](none)<br><br>'
+md5: c64c54d54c6151eb73eb7f1e1d1811ad
+md5_10: c64c54d54c
+md5_10_upper: C64C54D54C
+md5_5: c64c5
+md5_5_upper: C64C5
+md5_6: c64c54
+md5_6_alpha: 7qjis
+md5_6_alpha_upper: 7QJIS
+md5_6_upper: C64C54
+name: Sheet Stock Plywood 18Mm Depth 600 Mm Width 400 Mm Height
+name_no_class: Plywood 18Mm Depth 600 Mm Width 400 Mm Height
+name_no_size: 600 Mm Width 400 Mm Height
+name_no_size_short: 600 Mm Width 400 Mm Height
+name_no_type: 18Mm Depth 600 Mm Width 400 Mm Height
+oomp_key: oomp_sheet_stock_plywood_18mm_depth_600_mm_width_400_mm_height
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: 18mm_depth
+size_capital: 18mm Depth
+size_first_letter: '1'
+size_first_letter_upper: '1'
+size_only_numbers: '18'
+size_only_numbers_no_zeros: '18'
+size_upper: 18MM_DEPTH
+type: plywood
+type_capital: Plywood
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PLYWOOD

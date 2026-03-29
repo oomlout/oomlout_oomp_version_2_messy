@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: low_quality
+color_capital: Low Quality
+color_first_letter: l
+color_first_letter_upper: L
+color_upper: LOW_QUALITY
+description: category_three_d_printer
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'L '
+description_or_color_upper: 'L '
+directory: parts/category_three_d_printer_printing_low_quality
+distributors: []
+filter: ''
+from_yaml: false
+id: category_three_d_printer_printing_low_quality
+id_no_class: three_d_printer_printing_low_quality
+id_no_size: low_quality
+id_no_type: printing_low_quality
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_three_d_printer_printing_low_quality
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_three_d_printer_printing_low_quality
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_three_d_printer_printing_low_quality
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_three_d_printer_printing_low_quality](none)<br>[](none)<br>[Category
+    Three D Printer Printing Low Quality](none)<br><br>'
+markdown_short: '[category_three_d_printer_printing_low_quality](none)<br><br>'
+md5: b7f24f836eaa084f89d9aebc5367eb85
+md5_10: b7f24f836e
+md5_10_upper: B7F24F836E
+md5_5: b7f24
+md5_5_upper: B7F24
+md5_6: b7f24f
+md5_6_alpha: 76dsf
+md5_6_alpha_upper: 76DSF
+md5_6_upper: B7F24F
+name: Category Three D Printer Printing Low Quality
+name_no_class: Three D Printer Printing Low Quality
+name_no_size: Low Quality
+name_no_size_short: Low Quality
+name_no_type: Printing Low Quality
+oomp_key: oomp_category_three_d_printer_printing_low_quality
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorythreedprinter
+size: printing
+size_capital: Printing
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PRINTING
+type: three_d_printer
+type_capital: Three D Printer
+type_first_letter: t
+type_first_letter_upper: T
+type_upper: THREE_D_PRINTER

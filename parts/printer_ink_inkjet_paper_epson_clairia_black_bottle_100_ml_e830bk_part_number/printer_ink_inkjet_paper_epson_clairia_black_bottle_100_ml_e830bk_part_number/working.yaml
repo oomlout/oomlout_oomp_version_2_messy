@@ -1,0 +1,76 @@
+classification: printer
+classification_capital: Printer
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_upper: PRINTER
+color: epson_clairia
+color_capital: Epson Clairia
+color_first_letter: e
+color_first_letter_upper: E
+color_upper: EPSON_CLAIRIA
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: black_bottle_100_ml_e830bk_part_number
+description_main_capital: Black Bottle 100 Ml E830Bk Part Number
+description_main_first_letter: b
+description_main_first_letter_upper: B
+description_main_upper: BLACK_BOTTLE_100_ML_E830BK_PART_NUMBER
+description_only_numbers: '100830'
+description_only_numbers_short: 101k
+description_or_color: E101k
+description_or_color_upper: E101K
+directory: parts/printer_ink_inkjet_paper_epson_clairia_black_bottle_100_ml_e830bk_part_number
+distributors: []
+id: printer_ink_inkjet_paper_epson_clairia_black_bottle_100_ml_e830bk_part_number
+id_no_class: ink_inkjet_paper_epson_clairia_black_bottle_100_ml_e830bk_part_number
+id_no_size: epson_clairia_black_bottle_100_ml_e830bk_part_number
+id_no_type: inkjet_paper_epson_clairia_black_bottle_100_ml_e830bk_part_number
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_ink_inkjet_paper_epson_clairia_black_bottle_100_ml_e830bk_part_number
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_ink_inkjet_paper_epson_clairia_black_bottle_100_ml_e830bk_part_number
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_ink_inkjet_paper_epson_clairia_black_bottle_100_ml_e830bk_part_number
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[printer_ink_inkjet_paper_epson_clairia_black_bottle_100_ml_e830bk_part_number](none)<br>[](none)<br>[Printer
+    Ink Inkjet Paper Epson Clairia Black Bottle 100 Ml E830Bk Part Number](none)<br><br>'
+markdown_short: '[printer_ink_inkjet_paper_epson_clairia_black_bottle_100_ml_e830bk_part_number](none)<br><br>'
+md5: 68a60cc5d99dc8813bcc5591fae47a4e
+md5_10: 68a60cc5d9
+md5_10_upper: 68A60CC5D9
+md5_5: 68a60
+md5_5_upper: 68A60
+md5_6: 68a60c
+md5_6_alpha: 42zv0
+md5_6_alpha_upper: 42ZV0
+md5_6_upper: 68A60C
+name: Printer Ink Inkjet Paper Epson Clairia Black Bottle 100 Ml E830Bk Part Number
+name_no_class: Ink Inkjet Paper Epson Clairia Black Bottle 100 Ml E830Bk Part Number
+name_no_size: Epson Clairia Black Bottle 100 Ml E830Bk Part Number
+name_no_size_short: Epson Clairia Black Bottle 100 Ml E830Bk Part Number
+name_no_type: Inkjet Paper Epson Clairia Black Bottle 100 Ml E830Bk Part Number
+oomp_key: oomp_printer_ink_inkjet_paper_epson_clairia_black_bottle_100_ml_e830bk_part_number
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: inkjet_paper
+size_capital: Inkjet Paper
+size_first_letter: i
+size_first_letter_upper: I
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: INKJET_PAPER
+type: ink
+type_capital: Ink
+type_first_letter: i
+type_first_letter_upper: I
+type_upper: INK

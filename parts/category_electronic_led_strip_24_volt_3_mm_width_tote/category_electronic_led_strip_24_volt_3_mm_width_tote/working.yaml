@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: strip_24_volt_3_mm_width
+color_capital: Strip 24 Volt 3 mm Width
+color_first_letter: s
+color_first_letter_upper: S
+color_upper: STRIP_24_VOLT_3_MM_WIDTH
+description: category_electronic
+description_extra: tote
+description_extra_capital: Tote
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TOTE
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'S '
+description_or_color_upper: 'S '
+directory: parts/category_electronic_led_strip_24_volt_3_mm_width_tote
+distributors: []
+filter: ''
+from_yaml: false
+id: category_electronic_led_strip_24_volt_3_mm_width_tote
+id_no_class: electronic_led_strip_24_volt_3_mm_width_tote
+id_no_size: strip_24_volt_3_mm_width_tote
+id_no_type: led_strip_24_volt_3_mm_width_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_led_strip_24_volt_3_mm_width_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_led_strip_24_volt_3_mm_width_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_led_strip_24_volt_3_mm_width_tote
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_electronic_led_strip_24_volt_3_mm_width_tote](none)<br>[](none)<br>[Category
+    Electronic Led Strip 24 Volt 3 Mm Width Tote](none)<br><br>'
+markdown_short: '[category_electronic_led_strip_24_volt_3_mm_width_tote](none)<br><br>'
+md5: abffe22658cbf2e5f8ec039706985055
+md5_10: abffe22658
+md5_10_upper: ABFFE22658
+md5_5: abffe
+md5_5_upper: ABFFE
+md5_6: abffe2
+md5_6_alpha: 6plnm
+md5_6_alpha_upper: 6PLNM
+md5_6_upper: ABFFE2
+name: Category Electronic Led Strip 24 Volt 3 Mm Width Tote
+name_no_class: Electronic Led Strip 24 Volt 3 Mm Width Tote
+name_no_size: Strip 24 Volt 3 Mm Width Tote
+name_no_size_short: Strip 24 Volt 3 Mm Width Tote
+name_no_type: Led Strip 24 Volt 3 Mm Width Tote
+oomp_key: oomp_category_electronic_led_strip_24_volt_3_mm_width_tote
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryelectronic
+size: led
+size_capital: Led
+size_first_letter: l
+size_first_letter_upper: L
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: LED
+type: electronic
+type_capital: Electronic
+type_first_letter: e
+type_first_letter_upper: E
+type_upper: ELECTRONIC

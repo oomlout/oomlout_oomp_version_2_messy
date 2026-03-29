@@ -1,0 +1,78 @@
+classification: clothes
+classification_capital: Clothes
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CLOTHES
+color: small
+color_capital: Small
+color_first_letter: s
+color_first_letter_upper: S
+color_upper: SMALL
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: red
+description_main_capital: Red
+description_main_first_letter: r
+description_main_first_letter_upper: R
+description_main_upper: RED
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'S '
+description_or_color_upper: 'S '
+directory: parts/clothes_item_hat_small_red
+distributors: []
+filter: ''
+from_yaml: false
+id: clothes_item_hat_small_red
+id_no_class: item_hat_small_red
+id_no_size: small_red
+id_no_type: hat_small_red
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_hat_small_red
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_hat_small_red
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_hat_small_red
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[clothes_item_hat_small_red](none)<br>[](none)<br>[Clothes Item Hat
+    Small Red](none)<br><br>'
+markdown_short: '[clothes_item_hat_small_red](none)<br><br>'
+md5: c26cc2f9b6ae09b4f8221327d0eb84ed
+md5_10: c26cc2f9b6
+md5_10_upper: C26CC2F9B6
+md5_5: c26cc
+md5_5_upper: C26CC
+md5_6: c26cc2
+md5_6_alpha: 7l3nm
+md5_6_alpha_upper: 7L3NM
+md5_6_upper: C26CC2
+name: Clothes Item Hat Small Red
+name_no_class: Item Hat Small Red
+name_no_size: Small Red
+name_no_size_short: Small Red
+name_no_type: Hat Small Red
+oomp_key: oomp_clothes_item_hat_small_red
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: hat
+size_capital: Hat
+size_first_letter: h
+size_first_letter_upper: H
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: HAT
+type: item
+type_capital: Item
+type_first_letter: i
+type_first_letter_upper: I
+type_upper: ITEM

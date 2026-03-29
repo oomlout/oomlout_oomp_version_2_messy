@@ -1,0 +1,84 @@
+classification: paper
+classification_capital: Paper
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_upper: PAPER
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: paper_material
+description_extra_capital: Paper Material
+description_extra_first_letter: p
+description_extra_first_letter_upper: P
+description_extra_upper: PAPER_MATERIAL
+description_main: label_sheet_210_mm_width_99_mm_height_3_per_sheet
+description_main_capital: Label Sheet 210 mm Width 99 mm Height 3 Per Sheet
+description_main_first_letter: l
+description_main_first_letter_upper: L
+description_main_upper: LABEL_SHEET_210_MM_WIDTH_99_MM_HEIGHT_3_PER_SHEET
+description_only_numbers: '210993'
+description_only_numbers_short: 211k
+description_or_color: 211k
+description_or_color_upper: 211K
+directory: parts/paper_sheet_a4_210_mm_width_297_mm_height_label_sheet_210_mm_width_99_mm_height_3_per_sheet_paper_material
+distributors: []
+filter: ''
+from_yaml: false
+height: 297 mm
+id: paper_sheet_a4_210_mm_width_297_mm_height_label_sheet_210_mm_width_99_mm_height_3_per_sheet_paper_material
+id_no_class: sheet_a4_210_mm_width_297_mm_height_label_sheet_210_mm_width_99_mm_height_3_per_sheet_material
+id_no_size: label_210_mm_width_99_mm_height_3_per_material
+id_no_type: a4_210_mm_width_297_mm_height_label_210_mm_width_99_mm_height_3_per_material
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a4_210_mm_width_297_mm_height_label_sheet_210_mm_width_99_mm_height_3_per_sheet_paper_material
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a4_210_mm_width_297_mm_height_label_sheet_210_mm_width_99_mm_height_3_per_sheet_paper_material
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a4_210_mm_width_297_mm_height_label_sheet_210_mm_width_99_mm_height_3_per_sheet_paper_material
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[paper_sheet_a4_210_mm_width_297_mm_height_label_sheet_210_mm_width_99_mm_height_3_per_sheet_paper_material](none)<br>[](none)<br>[Paper
+    Sheet A4 210 Mm Width 297 Mm Height Label Sheet 210 Mm Width 99 Mm Height 3 Per
+    Sheet Paper Material](none)<br><br>'
+markdown_short: '[paper_sheet_a4_210_mm_width_297_mm_height_label_sheet_210_mm_width_99_mm_height_3_per_sheet_paper_material](none)<br><br>'
+md5: e16ca7bc47d64e5ba47beb9739b7b1e4
+md5_10: e16ca7bc47
+md5_10_upper: E16CA7BC47
+md5_5: e16ca
+md5_5_upper: E16CA
+md5_6: e16ca7
+md5_6_alpha: 8sn8n
+md5_6_alpha_upper: 8SN8N
+md5_6_upper: E16CA7
+name: Paper Sheet A4 210 Mm Width 297 Mm Height Label Sheet 210 Mm Width 99 Mm Height
+    3 Per Sheet Paper Material
+name_no_class: Sheet A4 210 Mm Width 297 Mm Height Label Sheet 210 Mm Width 99 Mm
+    Height 3 Per Sheet Material
+name_no_size: Label 210 Mm Width 99 Mm Height 3 Per Material
+name_no_size_short: Label 210 Mm Width 99 Mm Height 3 Per Material
+name_no_type: A4 210 Mm Width 297 Mm Height Label 210 Mm Width 99 Mm Height 3 Per
+    Material
+oomp_key: oomp_paper_sheet_a4_210_mm_width_297_mm_height_label_sheet_210_mm_width_99_mm_height_3_per_sheet_paper_material
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: a4_210_mm_width_297_mm_height
+size_capital: A4.210 mm Width 297 mm Height
+size_first_letter: a
+size_first_letter_upper: A
+size_only_numbers: '4210297'
+size_only_numbers_no_zeros: '421297'
+size_upper: A4_210_MM_WIDTH_297_MM_HEIGHT
+type: sheet
+type_capital: Sheet
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: SHEET
+width: 210 mm

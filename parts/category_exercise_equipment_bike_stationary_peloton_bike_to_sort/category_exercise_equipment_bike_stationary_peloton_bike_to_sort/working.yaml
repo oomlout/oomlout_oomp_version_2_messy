@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: peloton_bike
+color_capital: Peloton Bike
+color_first_letter: p
+color_first_letter_upper: P
+color_upper: PELOTON_BIKE
+description: category_exercise_equipment
+description_extra: to_sort
+description_extra_capital: To Sort
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TO_SORT
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'P '
+description_or_color_upper: 'P '
+directory: parts/category_exercise_equipment_bike_stationary_peloton_bike_to_sort
+distributors: []
+filter: ''
+from_yaml: false
+id: category_exercise_equipment_bike_stationary_peloton_bike_to_sort
+id_no_class: exercise_equipment_bike_stationary_peloton_bike_to_sort
+id_no_size: peloton_bike_to_sort
+id_no_type: bike_stationary_peloton_bike_to_sort
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_exercise_equipment_bike_stationary_peloton_bike_to_sort
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_exercise_equipment_bike_stationary_peloton_bike_to_sort
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_exercise_equipment_bike_stationary_peloton_bike_to_sort
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_exercise_equipment_bike_stationary_peloton_bike_to_sort](none)<br>[](none)<br>[Category
+    Exercise Equipment Bike Stationary Peloton Bike To Sort](none)<br><br>'
+markdown_short: '[category_exercise_equipment_bike_stationary_peloton_bike_to_sort](none)<br><br>'
+md5: b8b07dd423f714ba0cd77c375dde6bf5
+md5_10: b8b07dd423
+md5_10_upper: B8B07DD423
+md5_5: b8b07
+md5_5_upper: B8B07
+md5_6: b8b07d
+md5_6_alpha: 77fct
+md5_6_alpha_upper: 77FCT
+md5_6_upper: B8B07D
+name: Category Exercise Equipment Bike Stationary Peloton Bike To Sort
+name_no_class: Exercise Equipment Bike Stationary Peloton Bike To Sort
+name_no_size: Peloton Bike To Sort
+name_no_size_short: Peloton Bike To Sort
+name_no_type: Bike Stationary Peloton Bike To Sort
+oomp_key: oomp_category_exercise_equipment_bike_stationary_peloton_bike_to_sort
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryexerciseequipment
+size: bike_stationary
+size_capital: Bike Stationary
+size_first_letter: b
+size_first_letter_upper: B
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: BIKE_STATIONARY
+type: exercise_equipment
+type_capital: Exercise Equipment
+type_first_letter: e
+type_first_letter_upper: E
+type_upper: EXERCISE_EQUIPMENT

@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_tool
+description_extra: old
+description_extra_capital: Old
+description_extra_first_letter: o
+description_extra_first_letter_upper: O
+description_extra_upper: OLD
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_tool_knife_utility_blade_disposal_can_old
+distributors: []
+filter: ''
+from_yaml: false
+id: category_tool_knife_utility_blade_disposal_can_old
+id_no_class: tool_knife_utility_blade_disposal_can_old
+id_no_size: old
+id_no_type: knife_utility_blade_disposal_can_old
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_knife_utility_blade_disposal_can_old
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_knife_utility_blade_disposal_can_old
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_knife_utility_blade_disposal_can_old
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_tool_knife_utility_blade_disposal_can_old](none)<br>[](none)<br>[Category
+    Tool Knife Utility Blade Disposal Can Old](none)<br><br>'
+markdown_short: '[category_tool_knife_utility_blade_disposal_can_old](none)<br><br>'
+md5: eea30bde3aa714f2d4dba8c01cc6fe70
+md5_10: eea30bde3a
+md5_10_upper: EEA30BDE3A
+md5_5: eea30
+md5_5_upper: EEA30
+md5_6: eea30b
+md5_6_alpha: 9b7d7
+md5_6_alpha_upper: 9B7D7
+md5_6_upper: EEA30B
+name: Category Tool Knife Utility Blade Disposal Can Old
+name_no_class: Tool Knife Utility Blade Disposal Can Old
+name_no_size: Old
+name_no_size_short: Old
+name_no_type: Knife Utility Blade Disposal Can Old
+oomp_key: oomp_category_tool_knife_utility_blade_disposal_can_old
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorytool
+size: knife_utility_blade_disposal_can
+size_capital: Knife Utility Blade Disposal Can
+size_first_letter: k
+size_first_letter_upper: K
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: KNIFE_UTILITY_BLADE_DISPOSAL_CAN
+type: tool
+type_capital: Tool
+type_first_letter: t
+type_first_letter_upper: T
+type_upper: TOOL

@@ -1,0 +1,81 @@
+classification: mechanical
+classification_capital: Mechanical
+classification_first_letter: m
+classification_first_letter_upper: M
+classification_upper: MECHANICAL
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: micro_size_16_mm_width_24_mm_height_18_mm_depth
+description_main_capital: Micro Size 16 mm Width 24 mm Height 18 mm Depth
+description_main_first_letter: m
+description_main_first_letter_upper: M
+description_main_upper: MICRO_SIZE_16_MM_WIDTH_24_MM_HEIGHT_18_MM_DEPTH
+description_only_numbers: '162418'
+description_only_numbers_short: 162k
+description_or_color: 162k
+description_or_color_upper: 162K
+directory: parts/mechanical_motor_building_block_compatible_micro_size_16_mm_width_24_mm_height_18_mm_depth
+distributor_aliexpress: '1005007142691134'
+distributors: []
+id: mechanical_motor_building_block_compatible_micro_size_16_mm_width_24_mm_height_18_mm_depth
+id_no_class: motor_building_block_compatible_micro_size_16_mm_width_24_mm_height_18_mm_depth
+id_no_size: micro_size_16_mm_width_24_mm_height_18_mm_depth
+id_no_type: building_block_compatible_micro_size_16_mm_width_24_mm_height_18_mm_depth
+link_distributor_aliexpress: https://www.aliexpress.com/item/1005007142691134.html
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_motor_building_block_compatible_micro_size_16_mm_width_24_mm_height_18_mm_depth
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_motor_building_block_compatible_micro_size_16_mm_width_24_mm_height_18_mm_depth
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_motor_building_block_compatible_micro_size_16_mm_width_24_mm_height_18_mm_depth
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[mechanical_motor_building_block_compatible_micro_size_16_mm_width_24_mm_height_18_mm_depth](none)<br>[](none)<br>[Mechanical
+    Motor Building Block Compatible Micro Size 16 Mm Width 24 Mm Height 18 Mm Depth](none)<br><br>'
+markdown_short: '[mechanical_motor_building_block_compatible_micro_size_16_mm_width_24_mm_height_18_mm_depth](none)<br><br>'
+md5: 13756c996acbdc9cb5d88473ce023adb
+md5_10: 13756c996a
+md5_10_upper: 13756C996A
+md5_5: '13756'
+md5_5_upper: '13756'
+md5_6: 13756c
+md5_6_alpha: rbzg
+md5_6_alpha_upper: RBZG
+md5_6_upper: 13756C
+name: Mechanical Motor Building Block Compatible Micro Size 16 Mm Width 24 Mm Height
+    18 Mm Depth
+name_no_class: Motor Building Block Compatible Micro Size 16 Mm Width 24 Mm Height
+    18 Mm Depth
+name_no_size: Micro Size 16 Mm Width 24 Mm Height 18 Mm Depth
+name_no_size_short: Micro Size 16 Mm Width 24 Mm Height 18 Mm Depth
+name_no_type: Building Block Compatible Micro Size 16 Mm Width 24 Mm Height 18 Mm
+    Depth
+oomp_key: oomp_mechanical_motor_building_block_compatible_micro_size_16_mm_width_24_mm_height_18_mm_depth
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: building_block_compatible
+size_capital: Building Block Compatible
+size_first_letter: b
+size_first_letter_upper: B
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: BUILDING_BLOCK_COMPATIBLE
+type: motor
+type_capital: Motor
+type_first_letter: m
+type_first_letter_upper: M
+type_upper: MOTOR

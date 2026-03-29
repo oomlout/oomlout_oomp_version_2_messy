@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: m6
+color_capital: M6
+color_first_letter: m
+color_first_letter_upper: M
+color_upper: M6
+description: category_hardware
+description_extra: old
+description_extra_capital: Old
+description_extra_first_letter: o
+description_extra_first_letter_upper: O
+description_extra_upper: OLD
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'M '
+description_or_color_upper: 'M '
+directory: parts/category_hardware_screw_grub_m6_old
+distributors: []
+filter: ''
+from_yaml: false
+id: category_hardware_screw_grub_m6_old
+id_no_class: hardware_screw_grub_m6_old
+id_no_size: m6_old
+id_no_type: screw_grub_m6_old
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_screw_grub_m6_old
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_screw_grub_m6_old
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_screw_grub_m6_old
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_hardware_screw_grub_m6_old](none)<br>[](none)<br>[Category
+    Hardware Screw Grub M6 Old](none)<br><br>'
+markdown_short: '[category_hardware_screw_grub_m6_old](none)<br><br>'
+md5: fd9fc81b00a868430c717d8d76ef10b7
+md5_10: fd9fc81b00
+md5_10_upper: FD9FC81B00
+md5_5: fd9fc
+md5_5_upper: FD9FC
+md5_6: fd9fc8
+md5_6_alpha: 9w98o
+md5_6_alpha_upper: 9W98O
+md5_6_upper: FD9FC8
+name: Category Hardware Screw Grub M6 Old
+name_no_class: Hardware Screw Grub M6 Old
+name_no_size: M6 Old
+name_no_size_short: M6 Old
+name_no_type: Screw Grub M6 Old
+oomp_key: oomp_category_hardware_screw_grub_m6_old
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryhardware
+size: screw_grub
+size_capital: Screw Grub
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SCREW_GRUB
+type: hardware
+type_capital: Hardware
+type_first_letter: h
+type_first_letter_upper: H
+type_upper: HARDWARE

@@ -1,0 +1,81 @@
+classification: food
+classification_capital: Food
+classification_first_letter: f
+classification_first_letter_upper: F
+classification_upper: FOOD
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: M&S Rosa Vine Tomatoes
+description_extra: rosa_vine
+description_extra_capital: Rosa Vine
+description_extra_first_letter: r
+description_extra_first_letter_upper: R
+description_extra_upper: ROSA_VINE
+description_main: tomato
+description_main_capital: Tomato
+description_main_first_letter: t
+description_main_first_letter_upper: T
+description_main_upper: TOMATO
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/food_vegetable_tomato_rosa_vine
+distributors: []
+filter: ''
+from_yaml: false
+id: food_vegetable_tomato_rosa_vine
+id_no_class: vegetable_tomato_rosa_vine
+id_no_size: tomatorosavine
+id_no_type: tomato_rosa_vine
+link_distributor_ocado: https://www.ocado.com/search?entry=517944011
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_vegetable_tomato_rosa_vine
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_vegetable_tomato_rosa_vine
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_vegetable_tomato_rosa_vine
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[food_vegetable_tomato_rosa_vine](none)<br>[](none)<br>[Food Vegetable
+    Tomato Rosa Vine](none)<br><br>'
+markdown_short: '[food_vegetable_tomato_rosa_vine](none)<br><br>'
+md5: 9b3f1b0ea166fe260227611ec94a1643
+md5_10: 9b3f1b0ea1
+md5_10_upper: 9B3F1B0EA1
+md5_5: 9b3f1
+md5_5_upper: 9B3F1
+md5_6: 9b3f1b
+md5_6_alpha: 622hn
+md5_6_alpha_upper: 622HN
+md5_6_upper: 9B3F1B
+name: Food Vegetable Tomato Rosa Vine
+name_no_class: Vegetable Tomato Rosa Vine
+name_no_size: Tomatorosavine
+name_no_size_short: Tomatorosavine
+name_no_type: Tomato Rosa Vine
+oomp_key: oomp_food_vegetable_tomato_rosa_vine
+part_number: ''
+part_number_capital: ''
+part_number_distributor_ocado: '517944011'
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: vegetable
+type_capital: Vegetable
+type_first_letter: v
+type_first_letter_upper: V
+type_upper: VEGETABLE

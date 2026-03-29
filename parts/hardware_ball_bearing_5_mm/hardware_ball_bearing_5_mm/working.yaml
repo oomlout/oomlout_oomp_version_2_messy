@@ -1,0 +1,76 @@
+classification: hardware
+classification_capital: Hardware
+classification_first_letter: h
+classification_first_letter_upper: H
+classification_upper: HARDWARE
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/hardware_ball_bearing_5_mm
+distributors: []
+id: hardware_ball_bearing_5_mm
+id_no_class: ball_bearing_5_mm
+id_no_size: 5_mm
+id_no_type: 5_mm
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_ball_bearing_5_mm
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_ball_bearing_5_mm
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_ball_bearing_5_mm
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[hardware_ball_bearing_5_mm](none)<br>[5](none)<br>[Hardware Ball
+    Bearing 5 Mm](none)<br><br>'
+markdown_short: '[hardware_ball_bearing_5_mm](none)<br><br>'
+md5: 33e501862134e37537103f98dc720c7c
+md5_10: 33e5018621
+md5_10_upper: 33E5018621
+md5_5: 33e50
+md5_5_upper: 33E50
+md5_6: 33e501
+md5_6_alpha: 20w75
+md5_6_alpha_upper: 20W75
+md5_6_upper: 33E501
+name: Hardware Ball Bearing 5 Mm
+name_no_class: Ball Bearing 5 Mm
+name_no_size: 5 Mm
+name_no_size_short: 5 Mm
+name_no_type: 5 Mm
+oomp_key: oomp_hardware_ball_bearing_5_mm
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: '5'
+short_code_upper: '5'
+size: 5_mm
+size_capital: 5 mm
+size_first_letter: '5'
+size_first_letter_upper: '5'
+size_only_numbers: '5'
+size_only_numbers_no_zeros: '5'
+size_upper: 5_MM
+type: ball_bearing
+type_capital: Ball Bearing
+type_first_letter: b
+type_first_letter_upper: B
+type_upper: BALL_BEARING

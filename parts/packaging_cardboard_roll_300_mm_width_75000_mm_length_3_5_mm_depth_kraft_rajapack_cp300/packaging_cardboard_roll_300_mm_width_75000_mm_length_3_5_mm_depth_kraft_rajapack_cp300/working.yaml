@@ -1,0 +1,82 @@
+classification: packaging
+classification_capital: Packaging
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_upper: PACKAGING
+color: kraft
+color_capital: Kraft
+color_first_letter: k
+color_first_letter_upper: K
+color_upper: KRAFT
+cost_per: "\xA323.10"
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'K '
+description_or_color_upper: 'K '
+directory: parts/packaging_cardboard_roll_300_mm_width_75000_mm_length_3_5_mm_depth_kraft_rajapack_cp300
+distributors: []
+id: packaging_cardboard_roll_300_mm_width_75000_mm_length_3_5_mm_depth_kraft_rajapack_cp300
+id_no_class: cardboard_roll_300_mm_width_75000_mm_length_3_5_mm_depth_kraft_rajapack_cp300
+id_no_size: kraft_rajapack_cp300
+id_no_type: 300_mm_width_75000_mm_length_3_5_mm_depth_kraft_rajapack_cp300
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/packaging_cardboard_roll_300_mm_width_75000_mm_length_3_5_mm_depth_kraft_rajapack_cp300
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/packaging_cardboard_roll_300_mm_width_75000_mm_length_3_5_mm_depth_kraft_rajapack_cp300
+link_purchase:
+- https://www.rajapack.co.uk/protective-packaging/paper-packaging/corrugated-cardboard-rolls_PDT05562.html
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/packaging_cardboard_roll_300_mm_width_75000_mm_length_3_5_mm_depth_kraft_rajapack_cp300
+manufacturer: rajapack
+manufacturer_capital: Rajapack
+manufacturer_first_letter: r
+manufacturer_first_letter_upper: R
+manufacturer_upper: RAJAPACK
+manufacturers: []
+markdown_full: '[packaging_cardboard_roll_300_mm_width_75000_mm_length_3_5_mm_depth_kraft_rajapack_cp300](none)<br>[](none)<br>[Packaging
+    Cardboard Roll 300 Mm Width 75000 Mm Length 3 5 Mm Depth Kraft Rajapack Cp300](none)<br><br>'
+markdown_short: '[packaging_cardboard_roll_300_mm_width_75000_mm_length_3_5_mm_depth_kraft_rajapack_cp300](none)<br><br>'
+md5: c2f0c1e4af2e4d7fe859f1801bd335c6
+md5_10: c2f0c1e4af
+md5_10_upper: C2F0C1E4AF
+md5_5: c2f0c
+md5_5_upper: C2F0C
+md5_6: c2f0c1
+md5_6_alpha: 7ltq9
+md5_6_alpha_upper: 7LTQ9
+md5_6_upper: C2F0C1
+name: Packaging Cardboard Roll 300 Mm Width 75000 Mm Length 3 5 Mm Depth Kraft Rajapack
+    Cp300
+name_no_class: Cardboard Roll 300 Mm Width 75000 Mm Length 3 5 Mm Depth Kraft Rajapack
+    Cp300
+name_no_size: Kraft Rajapack Cp300
+name_no_size_short: Kraft Rajapack Cp300
+name_no_type: 300 Mm Width 75000 Mm Length 3 5 Mm Depth Kraft Rajapack Cp300
+oomp_key: oomp_packaging_cardboard_roll_300_mm_width_75000_mm_length_3_5_mm_depth_kraft_rajapack_cp300
+part_number: cp300
+part_number_capital: Cp300
+part_number_first_letter: c
+part_number_first_letter_upper: C
+part_number_upper: CP300
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: 300_mm_width_75000_mm_length_3_5_mm_depth
+size_capital: 300 mm Width 75000 mm Length 3.5 mm Depth
+size_first_letter: '3'
+size_first_letter_upper: '3'
+size_only_numbers: '3007500035'
+size_only_numbers_no_zeros: '37535'
+size_upper: 300_MM_WIDTH_75000_MM_LENGTH_3_5_MM_DEPTH
+type: cardboard_roll
+type_capital: Cardboard Roll
+type_first_letter: c
+type_first_letter_upper: C
+type_upper: CARDBOARD_ROLL

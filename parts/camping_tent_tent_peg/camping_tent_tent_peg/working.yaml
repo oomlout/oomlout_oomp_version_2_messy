@@ -1,0 +1,77 @@
+classification: camping
+classification_capital: Camping
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CAMPING
+color: tent_peg
+color_capital: Tent Peg
+color_first_letter: t
+color_first_letter_upper: T
+color_upper: TENT_PEG
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'T '
+description_or_color_upper: 'T '
+directory: parts/camping_tent_tent_peg
+distributors: []
+filter: ''
+from_yaml: false
+id: camping_tent_tent_peg
+id_no_class: tent_tent_peg
+id_no_size: peg
+id_no_type: peg
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/camping_tent_tent_peg
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/camping_tent_tent_peg
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/camping_tent_tent_peg
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[camping_tent_tent_peg](none)<br>[](none)<br>[Camping Tent Tent Peg](none)<br><br>'
+markdown_short: '[camping_tent_tent_peg](none)<br><br>'
+md5: 1905f46aab9ffd4159bad222f1905c20
+md5_10: 1905f46aab
+md5_10_upper: 1905F46AAB
+md5_5: 1905f
+md5_5_upper: 1905F
+md5_6: 1905f4
+md5_6_alpha: z5dg
+md5_6_alpha_upper: Z5DG
+md5_6_upper: 1905F4
+name: Camping Tent Tent Peg
+name_no_class: Tent Tent Peg
+name_no_size: Peg
+name_no_size_short: Peg
+name_no_type: Peg
+oomp_key: oomp_camping_tent_tent_peg
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: tent
+type_capital: Tent
+type_first_letter: t
+type_first_letter_upper: T
+type_upper: TENT

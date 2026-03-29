@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_sheet_stock
+description_extra: to_sort
+description_extra_capital: To Sort
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TO_SORT
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_sheet_stock_plywood_to_sort
+distributors: []
+filter: ''
+from_yaml: false
+id: category_sheet_stock_plywood_to_sort
+id_no_class: sheet_stock_plywood_to_sort
+id_no_size: to_sort
+id_no_type: plywood_to_sort
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_sheet_stock_plywood_to_sort
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_sheet_stock_plywood_to_sort
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_sheet_stock_plywood_to_sort
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_sheet_stock_plywood_to_sort](none)<br>[](none)<br>[Category
+    Sheet Stock Plywood To Sort](none)<br><br>'
+markdown_short: '[category_sheet_stock_plywood_to_sort](none)<br><br>'
+md5: 38314d77374119e8619e14d92a0f4f82
+md5_10: 38314d7737
+md5_10_upper: 38314D7737
+md5_5: '38314'
+md5_5_upper: '38314'
+md5_6: 38314d
+md5_6_alpha: 26xjh
+md5_6_alpha_upper: 26XJH
+md5_6_upper: 38314D
+name: Category Sheet Stock Plywood To Sort
+name_no_class: Sheet Stock Plywood To Sort
+name_no_size: To Sort
+name_no_size_short: To Sort
+name_no_type: Plywood To Sort
+oomp_key: oomp_category_sheet_stock_plywood_to_sort
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorysheetstock
+size: plywood
+size_capital: Plywood
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PLYWOOD
+type: sheet_stock
+type_capital: Sheet Stock
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: SHEET_STOCK

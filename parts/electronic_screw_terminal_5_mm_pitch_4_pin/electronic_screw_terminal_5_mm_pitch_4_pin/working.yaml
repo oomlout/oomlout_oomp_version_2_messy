@@ -1,0 +1,78 @@
+classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_upper: ELECTRONIC
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 4_pin
+description_main_capital: 4 Pin
+description_main_first_letter: '4'
+description_main_first_letter_upper: '4'
+description_main_upper: 4_PIN
+description_only_numbers: '4'
+description_only_numbers_short: '4'
+description_or_color: '4'
+description_or_color_upper: '4'
+directory: parts/electronic_screw_terminal_5_mm_pitch_4_pin
+distributors: []
+id: electronic_screw_terminal_5_mm_pitch_4_pin
+id_no_class: screw_terminal_5_mm_pitch_4_pin
+id_no_size: 4_pin
+id_no_type: 5_mm_pitch_4_pin
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_screw_terminal_5_mm_pitch_4_pin
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_screw_terminal_5_mm_pitch_4_pin
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_screw_terminal_5_mm_pitch_4_pin
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[electronic_screw_terminal_5_mm_pitch_4_pin](none)<br>[4p](none)<br>[Electronic
+    Screw Terminal 5 Mm Pitch 4 Pin](none)<br><br>'
+markdown_short: '[electronic_screw_terminal_5_mm_pitch_4_pin](none)<br><br>'
+md5: d5c14e880ac1b0666b1e31c834b8d4c3
+md5_10: d5c14e880a
+md5_10_upper: D5C14E880A
+md5_5: d5c14
+md5_5_upper: D5C14
+md5_6: d5c14e
+md5_6_alpha: 8c95a
+md5_6_alpha_upper: 8C95A
+md5_6_upper: D5C14E
+name: Electronic Screw Terminal 5 Mm Pitch 4 Pin
+name_no_class: Screw Terminal 5 Mm Pitch 4 Pin
+name_no_size: 4 Pin
+name_no_size_short: 4 Pin
+name_no_type: 5 Mm Pitch 4 Pin
+oomp_key: oomp_electronic_screw_terminal_5_mm_pitch_4_pin
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: 4p
+short_code_upper: 4P
+short_name: ''
+size: 5_mm_pitch
+size_capital: 5 mm Pitch
+size_first_letter: '5'
+size_first_letter_upper: '5'
+size_only_numbers: '5'
+size_only_numbers_no_zeros: '5'
+size_upper: 5_MM_PITCH
+type: screw_terminal
+type_capital: Screw Terminal
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: SCREW_TERMINAL

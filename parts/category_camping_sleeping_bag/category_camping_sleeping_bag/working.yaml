@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_camping
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_camping_sleeping_bag
+distributors: []
+filter: ''
+from_yaml: false
+id: category_camping_sleeping_bag
+id_no_class: camping_sleeping_bag
+id_no_size: sleeping_bag
+id_no_type: sleeping_bag
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_camping_sleeping_bag
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_camping_sleeping_bag
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_camping_sleeping_bag
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_camping_sleeping_bag](none)<br>[](none)<br>[Category Camping
+    Sleeping Bag](none)<br><br>'
+markdown_short: '[category_camping_sleeping_bag](none)<br><br>'
+md5: b6b234b846a164a35571734516c2f112
+md5_10: b6b234b846
+md5_10_upper: B6B234B846
+md5_5: b6b23
+md5_5_upper: B6B23
+md5_6: b6b234
+md5_6_alpha: 74mk4
+md5_6_alpha_upper: 74MK4
+md5_6_upper: B6B234
+name: Category Camping Sleeping Bag
+name_no_class: Camping Sleeping Bag
+name_no_size: Sleeping Bag
+name_no_size_short: Sleeping Bag
+name_no_type: Sleeping Bag
+oomp_key: oomp_category_camping_sleeping_bag
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorycamping
+size: sleeping_bag
+size_capital: Sleeping Bag
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SLEEPING_BAG
+type: camping
+type_capital: Camping
+type_first_letter: c
+type_first_letter_upper: C
+type_upper: CAMPING

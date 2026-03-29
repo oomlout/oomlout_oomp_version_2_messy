@@ -1,0 +1,83 @@
+classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_upper: ELECTRONIC
+color: warm_white
+color_capital: Warm White
+color_first_letter: w
+color_first_letter_upper: W
+color_upper: WARM_WHITE
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 38_mm_length
+description_main_capital: 38 mm Length
+description_main_first_letter: '3'
+description_main_first_letter_upper: '3'
+description_main_upper: 38_MM_LENGTH
+description_only_numbers: '38'
+description_only_numbers_short: '38'
+description_or_color: W38
+description_or_color_upper: W38
+directory: parts/electronic_led_filament_3_volt_warm_white_38_mm_length
+distributors: []
+filter: ''
+from_yaml: false
+id: electronic_led_filament_3_volt_warm_white_38_mm_length
+id_no_class: led_filament_3_volt_warm_white_38_mm_length
+id_no_size: warm_white_38_mm_length
+id_no_type: filament_3_volt_warm_white_38_mm_length
+link_distributor_adafruit: https://www.adafruit.com/product/5509
+link_distributor_aliexpress: https://www.aliexpress.com/item/1005006222719149.html
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_filament_3_volt_warm_white_38_mm_length
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_filament_3_volt_warm_white_38_mm_length
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_filament_3_volt_warm_white_38_mm_length
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[electronic_led_filament_3_volt_warm_white_38_mm_length](none)<br>[l38](none)<br>[Electronic
+    Led Filament 3 Volt Warm White 38 Mm Length](none)<br><br>'
+markdown_short: '[electronic_led_filament_3_volt_warm_white_38_mm_length](none)<br><br>'
+md5: b3020feaef50c94e1157edaf51232a34
+md5_10: b3020feaef
+md5_10_upper: B3020FEAEF
+md5_5: b3020
+md5_5_upper: B3020
+md5_6: b3020f
+md5_6_alpha: 6zg27
+md5_6_alpha_upper: 6ZG27
+md5_6_upper: B3020F
+name: Electronic Led Filament 3 Volt Warm White 38 Mm Length
+name_no_class: Led Filament 3 Volt Warm White 38 Mm Length
+name_no_size: Warm White 38 Mm Length
+name_no_size_short: Warm White 38 Mm Length
+name_no_type: Filament 3 Volt Warm White 38 Mm Length
+oomp_key: oomp_electronic_led_filament_3_volt_warm_white_38_mm_length
+part_number: ''
+part_number_capital: ''
+part_number_distriubutor_adafruit: '5509'
+part_number_distriubutor_aliexpress: '1005006222719149'
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: l38
+short_code_upper: L38
+short_name: Filament 3 Volt Warm White38 Mm Length Led
+size: filament_3_volt
+size_capital: Filament 3 Volt
+size_first_letter: f
+size_first_letter_upper: F
+size_only_numbers: '3'
+size_only_numbers_no_zeros: '3'
+size_upper: FILAMENT_3_VOLT
+type: led
+type_capital: Led
+type_first_letter: l
+type_first_letter_upper: L
+type_upper: LED

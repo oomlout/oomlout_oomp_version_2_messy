@@ -1,0 +1,80 @@
+classification: paper
+classification_capital: Paper
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_upper: PAPER
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/paper_sheet_a0_841_mm_width_1189_mm_height
+distributors: []
+filter: ''
+from_yaml: false
+height: 1189 mm
+id: paper_sheet_a0_841_mm_width_1189_mm_height
+id_no_class: sheet_a0_841_mm_width_1189_mm_height
+id_no_size: a0_841_mm_width_1189_mm_height
+id_no_type: a0_841_mm_width_1189_mm_height
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a0_841_mm_width_1189_mm_height
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a0_841_mm_width_1189_mm_height
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a0_841_mm_width_1189_mm_height
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[paper_sheet_a0_841_mm_width_1189_mm_height](none)<br>[](none)<br>[Paper
+    Sheet A0 841 Mm Width 1189 Mm Height](none)<br><br>'
+markdown_short: '[paper_sheet_a0_841_mm_width_1189_mm_height](none)<br><br>'
+md5: 0cc7bc0c0b4649174450f7b69704d94e
+md5_10: 0cc7bc0c0b
+md5_10_upper: 0CC7BC0C0B
+md5_5: 0cc7b
+md5_5_upper: 0CC7B
+md5_6: 0cc7bc
+md5_6_alpha: hy9o
+md5_6_alpha_upper: HY9O
+md5_6_upper: 0CC7BC
+name: Paper Sheet A0 841 Mm Width 1189 Mm Height
+name_no_class: Sheet A0 841 Mm Width 1189 Mm Height
+name_no_size: A0 841 Mm Width 1189 Mm Height
+name_no_size_short: A0 841 Mm Width 1189 Mm Height
+name_no_type: A0 841 Mm Width 1189 Mm Height
+oomp_key: oomp_paper_sheet_a0_841_mm_width_1189_mm_height
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: a0_841_mm_width_1189_mm_height
+size_capital: A0 841 mm Width 1189 mm Height
+size_first_letter: a
+size_first_letter_upper: A
+size_only_numbers: 08411189
+size_only_numbers_no_zeros: '8411189'
+size_upper: A0_841_MM_WIDTH_1189_MM_HEIGHT
+type: sheet
+type_capital: Sheet
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: SHEET
+width: 841 mm

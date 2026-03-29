@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: too_small
+color_capital: Too Small
+color_first_letter: t
+color_first_letter_upper: T
+color_upper: TOO_SMALL
+description: category_clothes
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'T '
+description_or_color_upper: 'T '
+directory: parts/category_clothes_dressup_too_small
+distributors: []
+filter: ''
+from_yaml: false
+id: category_clothes_dressup_too_small
+id_no_class: clothes_dressup_too_small
+id_no_size: too_small
+id_no_type: dressup_too_small
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_clothes_dressup_too_small
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_clothes_dressup_too_small
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_clothes_dressup_too_small
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_clothes_dressup_too_small](none)<br>[](none)<br>[Category
+    Clothes Dressup Too Small](none)<br><br>'
+markdown_short: '[category_clothes_dressup_too_small](none)<br><br>'
+md5: df42b19e616730695bcb12cdb745b6f9
+md5_10: df42b19e61
+md5_10_upper: DF42B19E61
+md5_5: df42b
+md5_5_upper: DF42B
+md5_6: df42b1
+md5_6_alpha: 8pltd
+md5_6_alpha_upper: 8PLTD
+md5_6_upper: DF42B1
+name: Category Clothes Dressup Too Small
+name_no_class: Clothes Dressup Too Small
+name_no_size: Too Small
+name_no_size_short: Too Small
+name_no_type: Dressup Too Small
+oomp_key: oomp_category_clothes_dressup_too_small
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryclothes
+size: dressup
+size_capital: Dressup
+size_first_letter: d
+size_first_letter_upper: D
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: DRESSUP
+type: clothes
+type_capital: Clothes
+type_first_letter: c
+type_first_letter_upper: C
+type_upper: CLOTHES

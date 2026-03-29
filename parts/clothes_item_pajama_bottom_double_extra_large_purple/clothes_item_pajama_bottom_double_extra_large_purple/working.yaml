@@ -1,0 +1,78 @@
+classification: clothes
+classification_capital: Clothes
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CLOTHES
+color: double_extra_large
+color_capital: Double Extra Large
+color_first_letter: d
+color_first_letter_upper: D
+color_upper: DOUBLE_EXTRA_LARGE
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: purple
+description_main_capital: Purple
+description_main_first_letter: p
+description_main_first_letter_upper: P
+description_main_upper: PURPLE
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'D '
+description_or_color_upper: 'D '
+directory: parts/clothes_item_pajama_bottom_double_extra_large_purple
+distributors: []
+filter: ''
+from_yaml: false
+id: clothes_item_pajama_bottom_double_extra_large_purple
+id_no_class: item_pajama_bottom_double_extra_large_purple
+id_no_size: double_extra_large_purple
+id_no_type: pajama_bottom_double_extra_large_purple
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_pajama_bottom_double_extra_large_purple
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_pajama_bottom_double_extra_large_purple
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_pajama_bottom_double_extra_large_purple
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[clothes_item_pajama_bottom_double_extra_large_purple](none)<br>[](none)<br>[Clothes
+    Item Pajama Bottom Double Extra Large Purple](none)<br><br>'
+markdown_short: '[clothes_item_pajama_bottom_double_extra_large_purple](none)<br><br>'
+md5: 026c2d1a56168c3bb657e96fdfeedcf5
+md5_10: 026c2d1a56
+md5_10_upper: 026C2D1A56
+md5_5: 026c2
+md5_5_upper: 026C2
+md5_6: 026c2d
+md5_6_alpha: 3ei5
+md5_6_alpha_upper: 3EI5
+md5_6_upper: 026C2D
+name: Clothes Item Pajama Bottom Double Extra Large Purple
+name_no_class: Item Pajama Bottom Double Extra Large Purple
+name_no_size: Double Extra Large Purple
+name_no_size_short: Double Extra Large Purple
+name_no_type: Pajama Bottom Double Extra Large Purple
+oomp_key: oomp_clothes_item_pajama_bottom_double_extra_large_purple
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: pajama_bottom
+size_capital: Pajama Bottom
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PAJAMA_BOTTOM
+type: item
+type_capital: Item
+type_first_letter: i
+type_first_letter_upper: I
+type_upper: ITEM

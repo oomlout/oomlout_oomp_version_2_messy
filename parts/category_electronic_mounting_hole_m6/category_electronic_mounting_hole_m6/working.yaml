@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: m6
+color_capital: M6
+color_first_letter: m
+color_first_letter_upper: M
+color_upper: M6
+description: category_electronic
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'M '
+description_or_color_upper: 'M '
+directory: parts/category_electronic_mounting_hole_m6
+distributors: []
+filter: ''
+from_yaml: false
+id: category_electronic_mounting_hole_m6
+id_no_class: electronic_mounting_hole_m6
+id_no_size: m6
+id_no_type: mounting_hole_m6
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_mounting_hole_m6
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_mounting_hole_m6
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_mounting_hole_m6
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_electronic_mounting_hole_m6](none)<br>[](none)<br>[Category
+    Electronic Mounting Hole M6](none)<br><br>'
+markdown_short: '[category_electronic_mounting_hole_m6](none)<br><br>'
+md5: 93b4b3e2da95264c2863927f91181ce6
+md5_10: 93b4b3e2da
+md5_10_upper: 93B4B3E2DA
+md5_5: 93b4b
+md5_5_upper: 93B4B
+md5_6: 93b4b3
+md5_6_alpha: 5rh6b
+md5_6_alpha_upper: 5RH6B
+md5_6_upper: 93B4B3
+name: Category Electronic Mounting Hole M6
+name_no_class: Electronic Mounting Hole M6
+name_no_size: M6
+name_no_size_short: M6
+name_no_type: Mounting Hole M6
+oomp_key: oomp_category_electronic_mounting_hole_m6
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryelectronic
+size: mounting_hole
+size_capital: Mounting Hole
+size_first_letter: m
+size_first_letter_upper: M
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: MOUNTING_HOLE
+type: electronic
+type_capital: Electronic
+type_first_letter: e
+type_first_letter_upper: E
+type_upper: ELECTRONIC

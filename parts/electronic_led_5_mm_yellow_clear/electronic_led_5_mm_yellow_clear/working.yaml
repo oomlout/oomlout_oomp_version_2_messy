@@ -1,0 +1,80 @@
+classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_upper: ELECTRONIC
+color: yellow
+color_capital: Yellow
+color_first_letter: y
+color_first_letter_upper: Y
+color_upper: YELLOW
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: clear
+description_main_capital: Clear
+description_main_first_letter: c
+description_main_first_letter_upper: C
+description_main_upper: CLEAR
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'Y '
+description_or_color_upper: 'Y '
+directory: parts/electronic_led_5_mm_yellow_clear
+distributors: []
+filter: ''
+from_yaml: false
+id: electronic_led_5_mm_yellow_clear
+id_no_class: led_5_mm_yellow_clear
+id_no_size: yellow_clear
+id_no_type: 5_mm_yellow_clear
+kicad_reference: L
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_5_mm_yellow_clear
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_5_mm_yellow_clear
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_5_mm_yellow_clear
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[electronic_led_5_mm_yellow_clear](none)<br>[l5y](none)<br>[Electronic
+    Led 5 Mm Yellow Clear](none)<br><br>'
+markdown_short: '[electronic_led_5_mm_yellow_clear](none)<br><br>'
+md5: eee574af2687a9d3e25b2ea280d7a0f5
+md5_10: eee574af26
+md5_10_upper: EEE574AF26
+md5_5: eee57
+md5_5_upper: EEE57
+md5_6: eee574
+md5_6_alpha: 9bkhg
+md5_6_alpha_upper: 9BKHG
+md5_6_upper: EEE574
+name: Electronic Led 5 Mm Yellow Clear
+name_no_class: Led 5 Mm Yellow Clear
+name_no_size: Yellow Clear
+name_no_size_short: Yellow Clear
+name_no_type: 5 Mm Yellow Clear
+oomp_key: oomp_electronic_led_5_mm_yellow_clear
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: l5y
+short_code_upper: L5Y
+short_name: 5 Mm Yellowclear Led
+size: 5_mm
+size_capital: 5 mm
+size_first_letter: '5'
+size_first_letter_upper: '5'
+size_only_numbers: '5'
+size_only_numbers_no_zeros: '5'
+size_upper: 5_MM
+type: led
+type_capital: Led
+type_first_letter: l
+type_first_letter_upper: L
+type_upper: LED

@@ -1,0 +1,83 @@
+classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_upper: ELECTRONIC
+color: yellow
+color_capital: Yellow
+color_first_letter: y
+color_first_letter_upper: Y
+color_upper: YELLOW
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 260_mm_length
+description_main_capital: 260 mm Length
+description_main_first_letter: '2'
+description_main_first_letter_upper: '2'
+description_main_upper: 260_MM_LENGTH
+description_only_numbers: '260'
+description_only_numbers_short: '260'
+description_or_color: Y260
+description_or_color_upper: Y260
+directory: parts/electronic_led_filament_3_volt_yellow_260_mm_length
+distributors: []
+filter: ''
+from_yaml: false
+id: electronic_led_filament_3_volt_yellow_260_mm_length
+id_no_class: led_filament_3_volt_yellow_260_mm_length
+id_no_size: yellow_260_mm_length
+id_no_type: filament_3_volt_yellow_260_mm_length
+link_distributor_adafruit: https://www.adafruit.com/product/5509
+link_distributor_aliexpress: https://www.aliexpress.com/item/1005006222719149.html
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_filament_3_volt_yellow_260_mm_length
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_filament_3_volt_yellow_260_mm_length
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_filament_3_volt_yellow_260_mm_length
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[electronic_led_filament_3_volt_yellow_260_mm_length](none)<br>[ly](none)<br>[Electronic
+    Led Filament 3 Volt Yellow 260 Mm Length](none)<br><br>'
+markdown_short: '[electronic_led_filament_3_volt_yellow_260_mm_length](none)<br><br>'
+md5: 8bf16d46d06fdd57c9a7f85f7d2622ca
+md5_10: 8bf16d46d0
+md5_10_upper: 8BF16D46D0
+md5_5: 8bf16
+md5_5_upper: 8BF16
+md5_6: 8bf16d
+md5_6_alpha: 5gkml
+md5_6_alpha_upper: 5GKML
+md5_6_upper: 8BF16D
+name: Electronic Led Filament 3 Volt Yellow 260 Mm Length
+name_no_class: Led Filament 3 Volt Yellow 260 Mm Length
+name_no_size: Yellow 260 Mm Length
+name_no_size_short: Yellow 260 Mm Length
+name_no_type: Filament 3 Volt Yellow 260 Mm Length
+oomp_key: oomp_electronic_led_filament_3_volt_yellow_260_mm_length
+part_number: ''
+part_number_capital: ''
+part_number_distriubutor_adafruit: '5509'
+part_number_distriubutor_aliexpress: '1005006222719149'
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ly
+short_code_upper: LY
+short_name: Filament 3 Volt Yellow260 Mm Length Led
+size: filament_3_volt
+size_capital: Filament 3 Volt
+size_first_letter: f
+size_first_letter_upper: F
+size_only_numbers: '3'
+size_only_numbers_no_zeros: '3'
+size_upper: FILAMENT_3_VOLT
+type: led
+type_capital: Led
+type_first_letter: l
+type_first_letter_upper: L
+type_upper: LED

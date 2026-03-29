@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_video_game_console
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_video_game_console_nintendo_64
+distributors: []
+filter: ''
+from_yaml: false
+id: category_video_game_console_nintendo_64
+id_no_class: video_game_console_nintendo_64
+id_no_size: nintendo_64
+id_no_type: nintendo_64
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_video_game_console_nintendo_64
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_video_game_console_nintendo_64
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_video_game_console_nintendo_64
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_video_game_console_nintendo_64](none)<br>[](none)<br>[Category
+    Video Game Console Nintendo 64](none)<br><br>'
+markdown_short: '[category_video_game_console_nintendo_64](none)<br><br>'
+md5: 76b567b40bf22eafbf2e9da5ba848464
+md5_10: 76b567b40b
+md5_10_upper: 76B567B40B
+md5_5: 76b56
+md5_5_upper: 76B56
+md5_6: 76b567
+md5_6_alpha: 4mquf
+md5_6_alpha_upper: 4MQUF
+md5_6_upper: 76B567
+name: Category Video Game Console Nintendo 64
+name_no_class: Video Game Console Nintendo 64
+name_no_size: Nintendo 64
+name_no_size_short: Nintendo 64
+name_no_type: Nintendo 64
+oomp_key: oomp_category_video_game_console_nintendo_64
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryvideogameconsole
+size: nintendo_64
+size_capital: Nintendo 64
+size_first_letter: n
+size_first_letter_upper: N
+size_only_numbers: '64'
+size_only_numbers_no_zeros: '64'
+size_upper: NINTENDO_64
+type: video_game_console
+type_capital: Video Game Console
+type_first_letter: v
+type_first_letter_upper: V
+type_upper: VIDEO_GAME_CONSOLE

@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: prototyping_tin
+color_capital: Prototyping Tin
+color_first_letter: p
+color_first_letter_upper: P
+color_upper: PROTOTYPING_TIN
+description: category_company_oomlout
+description_extra: tote
+description_extra_capital: Tote
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TOTE
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'P '
+description_or_color_upper: 'P '
+directory: parts/category_company_oomlout_product_prototyping_tin_tote
+distributors: []
+filter: ''
+from_yaml: false
+id: category_company_oomlout_product_prototyping_tin_tote
+id_no_class: company_oomlout_product_prototyping_tin_tote
+id_no_size: prototyping_tin_tote
+id_no_type: product_prototyping_tin_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_company_oomlout_product_prototyping_tin_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_company_oomlout_product_prototyping_tin_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_company_oomlout_product_prototyping_tin_tote
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_company_oomlout_product_prototyping_tin_tote](none)<br>[](none)<br>[Category
+    Company Oomlout Product Prototyping Tin Tote](none)<br><br>'
+markdown_short: '[category_company_oomlout_product_prototyping_tin_tote](none)<br><br>'
+md5: c28bb8d3f4f9c546ab7dfb94cd3620ba
+md5_10: c28bb8d3f4
+md5_10_upper: C28BB8D3F4
+md5_5: c28bb
+md5_5_upper: C28BB
+md5_6: c28bb8
+md5_6_alpha: 7l9rs
+md5_6_alpha_upper: 7L9RS
+md5_6_upper: C28BB8
+name: Category Company Oomlout Product Prototyping Tin Tote
+name_no_class: Company Oomlout Product Prototyping Tin Tote
+name_no_size: Prototyping Tin Tote
+name_no_size_short: Prototyping Tin Tote
+name_no_type: Product Prototyping Tin Tote
+oomp_key: oomp_category_company_oomlout_product_prototyping_tin_tote
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorycompanyoomlout
+size: product
+size_capital: Product
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PRODUCT
+type: company_oomlout
+type_capital: Company Oomlout
+type_first_letter: c
+type_first_letter_upper: C
+type_upper: COMPANY_OOMLOUT

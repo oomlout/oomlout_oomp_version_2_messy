@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: disc
+color_capital: Disc
+color_first_letter: d
+color_first_letter_upper: D
+color_upper: DISC
+description: category_hardware
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'D '
+description_or_color_upper: 'D '
+directory: parts/category_hardware_magnet_disc
+distributors: []
+filter: ''
+from_yaml: false
+id: category_hardware_magnet_disc
+id_no_class: hardware_magnet_disc
+id_no_size: disc
+id_no_type: magnet_disc
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_magnet_disc
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_magnet_disc
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_magnet_disc
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_hardware_magnet_disc](none)<br>[](none)<br>[Category Hardware
+    Magnet Disc](none)<br><br>'
+markdown_short: '[category_hardware_magnet_disc](none)<br><br>'
+md5: 87b19c53a49f66ba638239052333dc26
+md5_10: 87b19c53a4
+md5_10_upper: 87B19C53A4
+md5_5: 87b19
+md5_5_upper: 87B19
+md5_6: 87b19c
+md5_6_alpha: 5alr0
+md5_6_alpha_upper: 5ALR0
+md5_6_upper: 87B19C
+name: Category Hardware Magnet Disc
+name_no_class: Hardware Magnet Disc
+name_no_size: Disc
+name_no_size_short: Disc
+name_no_type: Magnet Disc
+oomp_key: oomp_category_hardware_magnet_disc
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryhardware
+size: magnet
+size_capital: Magnet
+size_first_letter: m
+size_first_letter_upper: M
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: MAGNET
+type: hardware
+type_capital: Hardware
+type_first_letter: h
+type_first_letter_upper: H
+type_upper: HARDWARE

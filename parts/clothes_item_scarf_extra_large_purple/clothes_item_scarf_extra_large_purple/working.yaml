@@ -1,0 +1,78 @@
+classification: clothes
+classification_capital: Clothes
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CLOTHES
+color: extra_large
+color_capital: Extra Large
+color_first_letter: e
+color_first_letter_upper: E
+color_upper: EXTRA_LARGE
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: purple
+description_main_capital: Purple
+description_main_first_letter: p
+description_main_first_letter_upper: P
+description_main_upper: PURPLE
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'E '
+description_or_color_upper: 'E '
+directory: parts/clothes_item_scarf_extra_large_purple
+distributors: []
+filter: ''
+from_yaml: false
+id: clothes_item_scarf_extra_large_purple
+id_no_class: item_scarf_extra_large_purple
+id_no_size: extra_large_purple
+id_no_type: scarf_extra_large_purple
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_scarf_extra_large_purple
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_scarf_extra_large_purple
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_scarf_extra_large_purple
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[clothes_item_scarf_extra_large_purple](none)<br>[](none)<br>[Clothes
+    Item Scarf Extra Large Purple](none)<br><br>'
+markdown_short: '[clothes_item_scarf_extra_large_purple](none)<br><br>'
+md5: c323372ee1b35bd4b0d854725cb72605
+md5_10: c323372ee1
+md5_10_upper: C323372EE1
+md5_5: c3233
+md5_5_upper: C3233
+md5_6: c32337
+md5_6_alpha: 7m3p3
+md5_6_alpha_upper: 7M3P3
+md5_6_upper: C32337
+name: Clothes Item Scarf Extra Large Purple
+name_no_class: Item Scarf Extra Large Purple
+name_no_size: Extra Large Purple
+name_no_size_short: Extra Large Purple
+name_no_type: Scarf Extra Large Purple
+oomp_key: oomp_clothes_item_scarf_extra_large_purple
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: scarf
+size_capital: Scarf
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SCARF
+type: item
+type_capital: Item
+type_first_letter: i
+type_first_letter_upper: I
+type_upper: ITEM

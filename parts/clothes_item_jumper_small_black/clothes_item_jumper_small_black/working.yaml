@@ -1,0 +1,78 @@
+classification: clothes
+classification_capital: Clothes
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CLOTHES
+color: small
+color_capital: Small
+color_first_letter: s
+color_first_letter_upper: S
+color_upper: SMALL
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: black
+description_main_capital: Black
+description_main_first_letter: b
+description_main_first_letter_upper: B
+description_main_upper: BLACK
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'S '
+description_or_color_upper: 'S '
+directory: parts/clothes_item_jumper_small_black
+distributors: []
+filter: ''
+from_yaml: false
+id: clothes_item_jumper_small_black
+id_no_class: item_jumper_small_black
+id_no_size: small_black
+id_no_type: jumper_small_black
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_jumper_small_black
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_jumper_small_black
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_jumper_small_black
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[clothes_item_jumper_small_black](none)<br>[](none)<br>[Clothes Item
+    Jumper Small Black](none)<br><br>'
+markdown_short: '[clothes_item_jumper_small_black](none)<br><br>'
+md5: 645bb88f92399e77667ab9bc6e189784
+md5_10: 645bb88f92
+md5_10_upper: 645BB88F92
+md5_5: 645bb
+md5_5_upper: 645BB
+md5_6: 645bb8
+md5_6_alpha: 3wywo
+md5_6_alpha_upper: 3WYWO
+md5_6_upper: 645BB8
+name: Clothes Item Jumper Small Black
+name_no_class: Item Jumper Small Black
+name_no_size: Small Black
+name_no_size_short: Small Black
+name_no_type: Jumper Small Black
+oomp_key: oomp_clothes_item_jumper_small_black
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: jumper
+size_capital: Jumper
+size_first_letter: j
+size_first_letter_upper: J
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: JUMPER
+type: item
+type_capital: Item
+type_first_letter: i
+type_first_letter_upper: I
+type_upper: ITEM

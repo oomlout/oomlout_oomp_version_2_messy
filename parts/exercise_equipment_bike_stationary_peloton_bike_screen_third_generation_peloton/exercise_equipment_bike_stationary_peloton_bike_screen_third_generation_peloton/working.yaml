@@ -1,0 +1,77 @@
+classification: exercise_equipment
+classification_capital: Exercise Equipment
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_upper: EXERCISE_EQUIPMENT
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: third_generation
+description_extra_capital: Third Generation
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: THIRD_GENERATION
+description_main: screen
+description_main_capital: Screen
+description_main_first_letter: s
+description_main_first_letter_upper: S
+description_main_upper: SCREEN
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/exercise_equipment_bike_stationary_peloton_bike_screen_third_generation_peloton
+distributors: []
+id: exercise_equipment_bike_stationary_peloton_bike_screen_third_generation_peloton
+id_no_class: bike_stationary_peloton_bike_screen_third_generation_peloton
+id_no_size: screen_third_generation_peloton
+id_no_type: peloton_bike_screen_third_generation_peloton
+link_distributor_ikea: https://www.ikea.com/gb/en/search/?q=
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/exercise_equipment_bike_stationary_peloton_bike_screen_third_generation_peloton
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/exercise_equipment_bike_stationary_peloton_bike_screen_third_generation_peloton
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/exercise_equipment_bike_stationary_peloton_bike_screen_third_generation_peloton
+manufacturer: peloton
+manufacturer_capital: Peloton
+manufacturer_first_letter: p
+manufacturer_first_letter_upper: P
+manufacturer_upper: PELOTON
+manufacturers: []
+markdown_full: '[exercise_equipment_bike_stationary_peloton_bike_screen_third_generation_peloton](none)<br>[](none)<br>[Exercise
+    Equipment Bike Stationary Peloton Bike Screen Third Generation Peloton](none)<br><br>'
+markdown_short: '[exercise_equipment_bike_stationary_peloton_bike_screen_third_generation_peloton](none)<br><br>'
+md5: cd654f7ceb4e81633a86317cc96a2f00
+md5_10: cd654f7ceb
+md5_10_upper: CD654F7CEB
+md5_5: cd654
+md5_5_upper: CD654
+md5_6: cd654f
+md5_6_alpha: 80ifj
+md5_6_alpha_upper: 80IFJ
+md5_6_upper: CD654F
+name: Exercise Equipment Bike Stationary Peloton Bike Screen Third Generation Peloton
+name_no_class: Bike Stationary Peloton Bike Screen Third Generation Peloton
+name_no_size: Screen Third Generation Peloton
+name_no_size_short: Screen Third Generation Peloton
+name_no_type: Peloton Bike Screen Third Generation Peloton
+oomp_key: oomp_exercise_equipment_bike_stationary_peloton_bike_screen_third_generation_peloton
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: peloton_bike
+size_capital: Peloton Bike
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PELOTON_BIKE
+type: bike_stationary
+type_capital: Bike Stationary
+type_first_letter: b
+type_first_letter_upper: B
+type_upper: BIKE_STATIONARY

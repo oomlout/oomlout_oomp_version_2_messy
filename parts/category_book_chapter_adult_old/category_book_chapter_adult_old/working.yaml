@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: adult
+color_capital: Adult
+color_first_letter: a
+color_first_letter_upper: A
+color_upper: ADULT
+description: category_book
+description_extra: old
+description_extra_capital: Old
+description_extra_first_letter: o
+description_extra_first_letter_upper: O
+description_extra_upper: OLD
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'A '
+description_or_color_upper: 'A '
+directory: parts/category_book_chapter_adult_old
+distributors: []
+filter: ''
+from_yaml: false
+id: category_book_chapter_adult_old
+id_no_class: book_chapter_adult_old
+id_no_size: adult_old
+id_no_type: chapter_adult_old
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_book_chapter_adult_old
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_book_chapter_adult_old
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_book_chapter_adult_old
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_book_chapter_adult_old](none)<br>[](none)<br>[Category Book
+    Chapter Adult Old](none)<br><br>'
+markdown_short: '[category_book_chapter_adult_old](none)<br><br>'
+md5: baf2d41ca66f5eaf323d9b97d3a07272
+md5_10: baf2d41ca6
+md5_10_upper: BAF2D41CA6
+md5_5: baf2d
+md5_5_upper: BAF2D
+md5_6: baf2d4
+md5_6_alpha: 7allg
+md5_6_alpha_upper: 7ALLG
+md5_6_upper: BAF2D4
+name: Category Book Chapter Adult Old
+name_no_class: Book Chapter Adult Old
+name_no_size: Adult Old
+name_no_size_short: Adult Old
+name_no_type: Chapter Adult Old
+oomp_key: oomp_category_book_chapter_adult_old
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorybook
+size: chapter
+size_capital: Chapter
+size_first_letter: c
+size_first_letter_upper: C
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: CHAPTER
+type: book
+type_capital: Book
+type_first_letter: b
+type_first_letter_upper: B
+type_upper: BOOK

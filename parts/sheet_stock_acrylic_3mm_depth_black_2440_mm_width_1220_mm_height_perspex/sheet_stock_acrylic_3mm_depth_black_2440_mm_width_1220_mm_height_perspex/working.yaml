@@ -1,0 +1,78 @@
+classification: sheet_stock
+classification_capital: Sheet Stock
+classification_first_letter: s
+classification_first_letter_upper: S
+classification_upper: SHEET_STOCK
+color: black
+color_capital: Black
+color_first_letter: b
+color_first_letter_upper: B
+color_upper: BLACK
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 2440_mm_width_1220_mm_height
+description_main_capital: 2440 mm Width 1220 mm Height
+description_main_first_letter: '2'
+description_main_first_letter_upper: '2'
+description_main_upper: 2440_MM_WIDTH_1220_MM_HEIGHT
+description_only_numbers: '24401220'
+description_only_numbers_short: 2M4
+description_or_color: B2M4
+description_or_color_upper: B2M4
+directory: parts/sheet_stock_acrylic_3mm_depth_black_2440_mm_width_1220_mm_height_perspex
+distributors: []
+filter: ''
+from_yaml: false
+id: sheet_stock_acrylic_3mm_depth_black_2440_mm_width_1220_mm_height_perspex
+id_no_class: acrylic_3mm_depth_black_2440_mm_width_1220_mm_height_perspex
+id_no_size: black_2440_mm_width_1220_mm_height_perspex
+id_no_type: 3mm_depth_black_2440_mm_width_1220_mm_height_perspex
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/sheet_stock_acrylic_3mm_depth_black_2440_mm_width_1220_mm_height_perspex
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/sheet_stock_acrylic_3mm_depth_black_2440_mm_width_1220_mm_height_perspex
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/sheet_stock_acrylic_3mm_depth_black_2440_mm_width_1220_mm_height_perspex
+manufacturer: perspex
+manufacturer_capital: Perspex
+manufacturer_first_letter: p
+manufacturer_first_letter_upper: P
+manufacturer_upper: PERSPEX
+manufacturers: []
+markdown_full: '[sheet_stock_acrylic_3mm_depth_black_2440_mm_width_1220_mm_height_perspex](none)<br>[b](none)<br>[Sheet
+    Stock Acrylic 3Mm Depth Black 2440 Mm Width 1220 Mm Height Perspex](none)<br><br>'
+markdown_short: '[sheet_stock_acrylic_3mm_depth_black_2440_mm_width_1220_mm_height_perspex](none)<br><br>'
+md5: 765d7cb660aa461ebb31ff73dc4a1d1d
+md5_10: 765d7cb660
+md5_10_upper: 765D7CB660
+md5_5: 765d7
+md5_5_upper: 765D7
+md5_6: 765d7c
+md5_6_alpha: 4m9h8
+md5_6_alpha_upper: 4M9H8
+md5_6_upper: 765D7C
+name: Sheet Stock Acrylic 3Mm Depth Black 2440 Mm Width 1220 Mm Height Perspex
+name_no_class: Acrylic 3Mm Depth Black 2440 Mm Width 1220 Mm Height Perspex
+name_no_size: Black 2440 Mm Width 1220 Mm Height Perspex
+name_no_size_short: Black 2440 Mm Width 1220 Mm Height Perspex
+name_no_type: 3Mm Depth Black 2440 Mm Width 1220 Mm Height Perspex
+oomp_key: oomp_sheet_stock_acrylic_3mm_depth_black_2440_mm_width_1220_mm_height_perspex
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: b
+short_code_upper: B
+size: 3mm_depth
+size_capital: 3mm Depth
+size_first_letter: '3'
+size_first_letter_upper: '3'
+size_only_numbers: '3'
+size_only_numbers_no_zeros: '3'
+size_upper: 3MM_DEPTH
+type: acrylic
+type_capital: Acrylic
+type_first_letter: a
+type_first_letter_upper: A
+type_upper: ACRYLIC

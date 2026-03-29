@@ -1,0 +1,77 @@
+classification: mechanical
+classification_capital: Mechanical
+classification_first_letter: m
+classification_first_letter_upper: M
+classification_upper: MECHANICAL
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: 300_gram_capacity
+description_extra_capital: 300 Gram Capacity
+description_extra_first_letter: '3'
+description_extra_first_letter_upper: '3'
+description_extra_upper: 300_GRAM_CAPACITY
+description_main: 8_mm_diameter_20_mm_depth
+description_main_capital: 8 mm Diameter 20 mm Depth
+description_main_first_letter: '8'
+description_main_first_letter_upper: '8'
+description_main_upper: 8_MM_DIAMETER_20_MM_DEPTH
+description_only_numbers: '820'
+description_only_numbers_short: '820'
+description_or_color: '820'
+description_or_color_upper: '820'
+directory: parts/mechanical_solenoid_24_volt_8_mm_diameter_20_mm_depth_300_gram_capacity
+distributors: []
+id: mechanical_solenoid_24_volt_8_mm_diameter_20_mm_depth_300_gram_capacity
+id_no_class: solenoid_24_volt_8_mm_diameter_20_mm_depth_300_gram_capacity
+id_no_size: 8_mm_diameter_20_mm_depth_300_gram_capacity
+id_no_type: 24_volt_8_mm_diameter_20_mm_depth_300_gram_capacity
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_solenoid_24_volt_8_mm_diameter_20_mm_depth_300_gram_capacity
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_solenoid_24_volt_8_mm_diameter_20_mm_depth_300_gram_capacity
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_solenoid_24_volt_8_mm_diameter_20_mm_depth_300_gram_capacity
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[mechanical_solenoid_24_volt_8_mm_diameter_20_mm_depth_300_gram_capacity](none)<br>[](none)<br>[Mechanical
+    Solenoid 24 Volt 8 Mm Diameter 20 Mm Depth 300 Gram Capacity](none)<br><br>'
+markdown_short: '[mechanical_solenoid_24_volt_8_mm_diameter_20_mm_depth_300_gram_capacity](none)<br><br>'
+md5: 49e7207a11d0a62451a4c92b1352dd3b
+md5_10: 49e7207a11
+md5_10_upper: 49E7207A11
+md5_5: 49e72
+md5_5_upper: 49E72
+md5_6: 49e720
+md5_6_alpha: 2vt40
+md5_6_alpha_upper: 2VT40
+md5_6_upper: 49E720
+name: Mechanical Solenoid 24 Volt 8 Mm Diameter 20 Mm Depth 300 Gram Capacity
+name_no_class: Solenoid 24 Volt 8 Mm Diameter 20 Mm Depth 300 Gram Capacity
+name_no_size: 8 Mm Diameter 20 Mm Depth 300 Gram Capacity
+name_no_size_short: 8 Mm Diameter 20 Mm Depth 300 Gram Capacity
+name_no_type: 24 Volt 8 Mm Diameter 20 Mm Depth 300 Gram Capacity
+oomp_key: oomp_mechanical_solenoid_24_volt_8_mm_diameter_20_mm_depth_300_gram_capacity
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Solenoid 8mm x 20mm 0.3kg 24_volt
+size: 24_volt
+size_capital: 24 Volt
+size_first_letter: '2'
+size_first_letter_upper: '2'
+size_only_numbers: '24'
+size_only_numbers_no_zeros: '24'
+size_upper: 24_VOLT
+type: solenoid
+type_capital: Solenoid
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: SOLENOID

@@ -1,0 +1,80 @@
+classification: food
+classification_capital: Food
+classification_first_letter: f
+classification_first_letter_upper: F
+classification_upper: FOOD
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: chilli flakes
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: chilli_flakes
+description_main_capital: Chilli Flakes
+description_main_first_letter: c
+description_main_first_letter_upper: C
+description_main_upper: CHILLI_FLAKES
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/food_seasoning_spice_chilli_flakes
+distributors: []
+filter: ''
+from_yaml: false
+id: food_seasoning_spice_chilli_flakes
+id_no_class: seasoning_spice_chilli_flakes
+id_no_size: chilli_flakes
+id_no_type: spice_chilli_flakes
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_spice_chilli_flakes
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_spice_chilli_flakes
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_spice_chilli_flakes
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[food_seasoning_spice_chilli_flakes](none)<br>[](none)<br>[Food Seasoning
+    Spice Chilli Flakes](none)<br><br>'
+markdown_short: '[food_seasoning_spice_chilli_flakes](none)<br><br>'
+md5: ecebeb15ba3a9a3364739395ae0a2840
+md5_10: ecebeb15ba
+md5_10_upper: ECEBEB15BA
+md5_5: ecebe
+md5_5_upper: ECEBE
+md5_6: ecebeb
+md5_6_alpha: 98smj
+md5_6_alpha_upper: 98SMJ
+md5_6_upper: ECEBEB
+name: Food Seasoning Spice Chilli Flakes
+name_no_class: Seasoning Spice Chilli Flakes
+name_no_size: Chilli Flakes
+name_no_size_short: Chilli Flakes
+name_no_type: Spice Chilli Flakes
+name_short: Chilli Flakes
+oomp_key: oomp_food_seasoning_spice_chilli_flakes
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: spice
+size_capital: Spice
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SPICE
+type: seasoning
+type_capital: Seasoning
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: SEASONING

@@ -1,0 +1,78 @@
+classification: warehouse
+classification_capital: Warehouse
+classification_first_letter: w
+classification_first_letter_upper: W
+classification_upper: WAREHOUSE
+color: box_cube
+color_capital: Box Cube
+color_first_letter: b
+color_first_letter_upper: B
+color_upper: BOX_CUBE
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: '73'
+description_main_capital: '73'
+description_main_first_letter: '7'
+description_main_first_letter_upper: '7'
+description_main_upper: '73'
+description_only_numbers: '73'
+description_only_numbers_short: '73'
+description_or_color: B73
+description_or_color_upper: B73
+directory: parts/warehouse_storage_container_oomlout_owner_box_cube_73
+distributors: []
+id: warehouse_storage_container_oomlout_owner_box_cube_73
+id_no_class: storage_container_oomlout_owner_box_cube_73
+id_no_size: box_cube_73
+id_no_type: oomlout_owner_box_cube_73
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/warehouse_storage_container_oomlout_owner_box_cube_73
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/warehouse_storage_container_oomlout_owner_box_cube_73
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/warehouse_storage_container_oomlout_owner_box_cube_73
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[warehouse_storage_container_oomlout_owner_box_cube_73](none)<br>[](none)<br>[Warehouse
+    Storage Container Oomlout Owner Box Cube 73](none)<br><br>'
+markdown_short: '[warehouse_storage_container_oomlout_owner_box_cube_73](none)<br><br>'
+md5: 7c9eb71486f062093c7c4fe0c470d939
+md5_10: 7c9eb71486
+md5_10_upper: 7C9EB71486
+md5_5: 7c9eb
+md5_5_upper: 7C9EB
+md5_6: 7c9eb7
+md5_6_alpha: 4v1rr
+md5_6_alpha_upper: 4V1RR
+md5_6_upper: 7C9EB7
+name: Warehouse Storage Container Oomlout Owner Box Cube 73
+name_no_class: Storage Container Oomlout Owner Box Cube 73
+name_no_size: Box Cube 73
+name_no_size_short: Box Cube 73
+name_no_type: Oomlout Owner Box Cube 73
+oomp_key: oomp_warehouse_storage_container_oomlout_owner_box_cube_73
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: oomlout_owner
+size_capital: Oomlout Owner
+size_first_letter: o
+size_first_letter_upper: O
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: OOMLOUT_OWNER
+type: storage_container
+type_capital: Storage Container
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: STORAGE_CONTAINER

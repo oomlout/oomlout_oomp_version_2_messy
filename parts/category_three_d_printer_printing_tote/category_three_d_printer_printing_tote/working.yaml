@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_three_d_printer
+description_extra: tote
+description_extra_capital: Tote
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TOTE
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_three_d_printer_printing_tote
+distributors: []
+filter: ''
+from_yaml: false
+id: category_three_d_printer_printing_tote
+id_no_class: three_d_printer_printing_tote
+id_no_size: tote
+id_no_type: printing_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_three_d_printer_printing_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_three_d_printer_printing_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_three_d_printer_printing_tote
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_three_d_printer_printing_tote](none)<br>[](none)<br>[Category
+    Three D Printer Printing Tote](none)<br><br>'
+markdown_short: '[category_three_d_printer_printing_tote](none)<br><br>'
+md5: c0d67cc6aa533f02098b41b071c8a685
+md5_10: c0d67cc6aa
+md5_10_upper: C0D67CC6AA
+md5_5: c0d67
+md5_5_upper: C0D67
+md5_6: c0d67c
+md5_6_alpha: 7ivek
+md5_6_alpha_upper: 7IVEK
+md5_6_upper: C0D67C
+name: Category Three D Printer Printing Tote
+name_no_class: Three D Printer Printing Tote
+name_no_size: Tote
+name_no_size_short: Tote
+name_no_type: Printing Tote
+oomp_key: oomp_category_three_d_printer_printing_tote
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorythreedprinter
+size: printing
+size_capital: Printing
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PRINTING
+type: three_d_printer
+type_capital: Three D Printer
+type_first_letter: t
+type_first_letter_upper: T
+type_upper: THREE_D_PRINTER

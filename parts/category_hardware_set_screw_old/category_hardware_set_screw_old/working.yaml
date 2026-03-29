@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_hardware
+description_extra: old
+description_extra_capital: Old
+description_extra_first_letter: o
+description_extra_first_letter_upper: O
+description_extra_upper: OLD
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_hardware_set_screw_old
+distributors: []
+filter: ''
+from_yaml: false
+id: category_hardware_set_screw_old
+id_no_class: hardware_set_screw_old
+id_no_size: old
+id_no_type: set_screw_old
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_set_screw_old
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_set_screw_old
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_set_screw_old
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_hardware_set_screw_old](none)<br>[](none)<br>[Category Hardware
+    Set Screw Old](none)<br><br>'
+markdown_short: '[category_hardware_set_screw_old](none)<br><br>'
+md5: 285e6d14068a064d6aca1da8147c75bf
+md5_10: 285e6d1406
+md5_10_upper: 285E6D1406
+md5_5: 285e6
+md5_5_upper: 285E6
+md5_6: 285e6d
+md5_6_alpha: 1kpd9
+md5_6_alpha_upper: 1KPD9
+md5_6_upper: 285E6D
+name: Category Hardware Set Screw Old
+name_no_class: Hardware Set Screw Old
+name_no_size: Old
+name_no_size_short: Old
+name_no_type: Set Screw Old
+oomp_key: oomp_category_hardware_set_screw_old
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryhardware
+size: set_screw
+size_capital: Set Screw
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SET_SCREW
+type: hardware
+type_capital: Hardware
+type_first_letter: h
+type_first_letter_upper: H
+type_upper: HARDWARE

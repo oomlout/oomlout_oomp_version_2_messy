@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: mechano
+color_capital: Mechano
+color_first_letter: m
+color_first_letter_upper: M
+color_upper: MECHANO
+description: category_toy
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'M '
+description_or_color_upper: 'M '
+directory: parts/category_toy_building_mechano
+distributors: []
+filter: ''
+from_yaml: false
+id: category_toy_building_mechano
+id_no_class: toy_building_mechano
+id_no_size: mechano
+id_no_type: building_mechano
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_toy_building_mechano
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_toy_building_mechano
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_toy_building_mechano
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_toy_building_mechano](none)<br>[](none)<br>[Category Toy
+    Building Mechano](none)<br><br>'
+markdown_short: '[category_toy_building_mechano](none)<br><br>'
+md5: 9912951480790bb64e3ff29bbf9e7ded
+md5_10: '9912951480'
+md5_10_upper: '9912951480'
+md5_5: '99129'
+md5_5_upper: '99129'
+md5_6: '991295'
+md5_6_alpha: 5z0k5
+md5_6_alpha_upper: 5Z0K5
+md5_6_upper: '991295'
+name: Category Toy Building Mechano
+name_no_class: Toy Building Mechano
+name_no_size: Mechano
+name_no_size_short: Mechano
+name_no_type: Building Mechano
+oomp_key: oomp_category_toy_building_mechano
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorytoy
+size: building
+size_capital: Building
+size_first_letter: b
+size_first_letter_upper: B
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: BUILDING
+type: toy
+type_capital: Toy
+type_first_letter: t
+type_first_letter_upper: T
+type_upper: TOY

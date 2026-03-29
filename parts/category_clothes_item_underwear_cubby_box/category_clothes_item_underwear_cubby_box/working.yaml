@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: underwear
+color_capital: Underwear
+color_first_letter: u
+color_first_letter_upper: U
+color_upper: UNDERWEAR
+description: category_clothes
+description_extra: cubby_box
+description_extra_capital: Cubby Box
+description_extra_first_letter: c
+description_extra_first_letter_upper: C
+description_extra_upper: CUBBY_BOX
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'U '
+description_or_color_upper: 'U '
+directory: parts/category_clothes_item_underwear_cubby_box
+distributors: []
+filter: ''
+from_yaml: false
+id: category_clothes_item_underwear_cubby_box
+id_no_class: clothes_item_underwear_cubby_box
+id_no_size: underwear_cubby_box
+id_no_type: item_underwear_cubby_box
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_clothes_item_underwear_cubby_box
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_clothes_item_underwear_cubby_box
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_clothes_item_underwear_cubby_box
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_clothes_item_underwear_cubby_box](none)<br>[](none)<br>[Category
+    Clothes Item Underwear Cubby Box](none)<br><br>'
+markdown_short: '[category_clothes_item_underwear_cubby_box](none)<br><br>'
+md5: f5b30e3d511d0422dd87b7178baef479
+md5_10: f5b30e3d51
+md5_10_upper: F5B30E3D51
+md5_5: f5b30
+md5_5_upper: F5B30
+md5_6: f5b30e
+md5_6_alpha: 9l4i6
+md5_6_alpha_upper: 9L4I6
+md5_6_upper: F5B30E
+name: Category Clothes Item Underwear Cubby Box
+name_no_class: Clothes Item Underwear Cubby Box
+name_no_size: Underwear Cubby Box
+name_no_size_short: Underwear Cubby Box
+name_no_type: Item Underwear Cubby Box
+oomp_key: oomp_category_clothes_item_underwear_cubby_box
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryclothes
+size: item
+size_capital: Item
+size_first_letter: i
+size_first_letter_upper: I
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ITEM
+type: clothes
+type_capital: Clothes
+type_first_letter: c
+type_first_letter_upper: C
+type_upper: CLOTHES

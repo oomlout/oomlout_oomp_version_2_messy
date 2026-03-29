@@ -1,0 +1,78 @@
+classification: card_trading
+classification_capital: Card Trading
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CARD_TRADING
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/card_trading_sport_hockey
+distributors: []
+filter: ''
+from_yaml: false
+id: card_trading_sport_hockey
+id_no_class: sport_hockey
+id_no_size: sporthockey
+id_no_type: sport_hockey
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/card_trading_sport_hockey
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/card_trading_sport_hockey
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/card_trading_sport_hockey
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[card_trading_sport_hockey](none)<br>[](none)<br>[Card Trading Sport
+    Hockey](none)<br><br>'
+markdown_short: '[card_trading_sport_hockey](none)<br><br>'
+md5: f3220db9935fd21ff7eb9c5f470efd32
+md5_10: f3220db993
+md5_10_upper: F3220DB993
+md5_5: f3220
+md5_5_upper: F3220
+md5_6: f3220d
+md5_6_alpha: 9hiq5
+md5_6_alpha_upper: 9HIQ5
+md5_6_upper: F3220D
+name: Card Trading Sport Hockey
+name_no_class: Sport Hockey
+name_no_size: Sporthockey
+name_no_size_short: Sporthockey
+name_no_type: Sport Hockey
+oomp_key: oomp_card_trading_sport_hockey
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: sport_hockey
+type_capital: Sport Hockey
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: SPORT_HOCKEY

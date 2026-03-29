@@ -1,0 +1,78 @@
+classification: clothes
+classification_capital: Clothes
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CLOTHES
+color: extra_small
+color_capital: Extra Small
+color_first_letter: e
+color_first_letter_upper: E
+color_upper: EXTRA_SMALL
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: red
+description_main_capital: Red
+description_main_first_letter: r
+description_main_first_letter_upper: R
+description_main_upper: RED
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'E '
+description_or_color_upper: 'E '
+directory: parts/clothes_item_jumper_extra_small_red
+distributors: []
+filter: ''
+from_yaml: false
+id: clothes_item_jumper_extra_small_red
+id_no_class: item_jumper_extra_small_red
+id_no_size: extra_small_red
+id_no_type: jumper_extra_small_red
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_jumper_extra_small_red
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_jumper_extra_small_red
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_jumper_extra_small_red
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[clothes_item_jumper_extra_small_red](none)<br>[](none)<br>[Clothes
+    Item Jumper Extra Small Red](none)<br><br>'
+markdown_short: '[clothes_item_jumper_extra_small_red](none)<br><br>'
+md5: 375f1a61a90c83f519a4c36a68a478a0
+md5_10: 375f1a61a9
+md5_10_upper: 375F1A61A9
+md5_5: 375f1
+md5_5_upper: 375F1
+md5_6: 375f1a
+md5_6_alpha: 25s0q
+md5_6_alpha_upper: 25S0Q
+md5_6_upper: 375F1A
+name: Clothes Item Jumper Extra Small Red
+name_no_class: Item Jumper Extra Small Red
+name_no_size: Extra Small Red
+name_no_size_short: Extra Small Red
+name_no_type: Jumper Extra Small Red
+oomp_key: oomp_clothes_item_jumper_extra_small_red
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: jumper
+size_capital: Jumper
+size_first_letter: j
+size_first_letter_upper: J
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: JUMPER
+type: item
+type_capital: Item
+type_first_letter: i
+type_first_letter_upper: I
+type_upper: ITEM

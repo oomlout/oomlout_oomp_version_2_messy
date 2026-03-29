@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ikea_havsta
+color_capital: Ikea Havsta
+color_first_letter: i
+color_first_letter_upper: I
+color_upper: IKEA_HAVSTA
+description: category_furniture
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'I '
+description_or_color_upper: 'I '
+directory: parts/category_furniture_cabinet_ikea_havsta
+distributors: []
+filter: ''
+from_yaml: false
+id: category_furniture_cabinet_ikea_havsta
+id_no_class: furniture_cabinet_ikea_havsta
+id_no_size: ikea_havsta
+id_no_type: cabinet_ikea_havsta
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_furniture_cabinet_ikea_havsta
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_furniture_cabinet_ikea_havsta
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_furniture_cabinet_ikea_havsta
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_furniture_cabinet_ikea_havsta](none)<br>[](none)<br>[Category
+    Furniture Cabinet Ikea Havsta](none)<br><br>'
+markdown_short: '[category_furniture_cabinet_ikea_havsta](none)<br><br>'
+md5: 01535fa7726d3977993f528ee678db7b
+md5_10: 01535fa772
+md5_10_upper: 01535FA772
+md5_5: '01535'
+md5_5_upper: '01535'
+md5_6: 01535f
+md5_6_alpha: 1v1b
+md5_6_alpha_upper: 1V1B
+md5_6_upper: 01535F
+name: Category Furniture Cabinet Ikea Havsta
+name_no_class: Furniture Cabinet Ikea Havsta
+name_no_size: Ikea Havsta
+name_no_size_short: Ikea Havsta
+name_no_type: Cabinet Ikea Havsta
+oomp_key: oomp_category_furniture_cabinet_ikea_havsta
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryfurniture
+size: cabinet
+size_capital: Cabinet
+size_first_letter: c
+size_first_letter_upper: C
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: CABINET
+type: furniture
+type_capital: Furniture
+type_first_letter: f
+type_first_letter_upper: F
+type_upper: FURNITURE

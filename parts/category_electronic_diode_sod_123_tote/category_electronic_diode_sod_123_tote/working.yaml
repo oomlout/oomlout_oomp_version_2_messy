@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: sod_123
+color_capital: Sod 123
+color_first_letter: s
+color_first_letter_upper: S
+color_upper: SOD_123
+description: category_electronic
+description_extra: tote
+description_extra_capital: Tote
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TOTE
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'S '
+description_or_color_upper: 'S '
+directory: parts/category_electronic_diode_sod_123_tote
+distributors: []
+filter: ''
+from_yaml: false
+id: category_electronic_diode_sod_123_tote
+id_no_class: electronic_diode_sod_123_tote
+id_no_size: sod_123_tote
+id_no_type: diode_sod_123_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_diode_sod_123_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_diode_sod_123_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_diode_sod_123_tote
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_electronic_diode_sod_123_tote](none)<br>[](none)<br>[Category
+    Electronic Diode Sod 123 Tote](none)<br><br>'
+markdown_short: '[category_electronic_diode_sod_123_tote](none)<br><br>'
+md5: ede817dfd3775333d54abd70485aa97d
+md5_10: ede817dfd3
+md5_10_upper: EDE817DFD3
+md5_5: ede81
+md5_5_upper: EDE81
+md5_6: ede817
+md5_6_alpha: 9a6fr
+md5_6_alpha_upper: 9A6FR
+md5_6_upper: EDE817
+name: Category Electronic Diode Sod 123 Tote
+name_no_class: Electronic Diode Sod 123 Tote
+name_no_size: Sod 123 Tote
+name_no_size_short: Sod 123 Tote
+name_no_type: Diode Sod 123 Tote
+oomp_key: oomp_category_electronic_diode_sod_123_tote
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryelectronic
+size: diode
+size_capital: Diode
+size_first_letter: d
+size_first_letter_upper: D
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: DIODE
+type: electronic
+type_capital: Electronic
+type_first_letter: e
+type_first_letter_upper: E
+type_upper: ELECTRONIC

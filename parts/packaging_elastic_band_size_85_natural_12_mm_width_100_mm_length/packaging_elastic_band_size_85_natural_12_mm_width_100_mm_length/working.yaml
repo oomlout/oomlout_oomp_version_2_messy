@@ -1,0 +1,77 @@
+classification: packaging
+classification_capital: Packaging
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_upper: PACKAGING
+color: natural
+color_capital: Natural
+color_first_letter: n
+color_first_letter_upper: N
+color_upper: NATURAL
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 12_mm_width_100_mm_length
+description_main_capital: 12 mm Width 100 mm Length
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_upper: 12_MM_WIDTH_100_MM_LENGTH
+description_only_numbers: '12100'
+description_only_numbers_short: 12k
+description_or_color: N12k
+description_or_color_upper: N12K
+directory: parts/packaging_elastic_band_size_85_natural_12_mm_width_100_mm_length
+distributors: []
+id: packaging_elastic_band_size_85_natural_12_mm_width_100_mm_length
+id_no_class: elastic_band_size_85_natural_12_mm_width_100_mm_length
+id_no_size: natural_12_mm_width_100_mm_length
+id_no_type: size_85_natural_12_mm_width_100_mm_length
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/packaging_elastic_band_size_85_natural_12_mm_width_100_mm_length
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/packaging_elastic_band_size_85_natural_12_mm_width_100_mm_length
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/packaging_elastic_band_size_85_natural_12_mm_width_100_mm_length
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[packaging_elastic_band_size_85_natural_12_mm_width_100_mm_length](none)<br>[](none)<br>[Packaging
+    Elastic Band Size 85 Natural 12 Mm Width 100 Mm Length](none)<br><br>'
+markdown_short: '[packaging_elastic_band_size_85_natural_12_mm_width_100_mm_length](none)<br><br>'
+md5: 2e2e038273a79ba02fa387133b4f2710
+md5_10: 2e2e038273
+md5_10_upper: 2E2E038273
+md5_5: 2e2e0
+md5_5_upper: 2E2E0
+md5_6: 2e2e03
+md5_6_alpha: 1sv7n
+md5_6_alpha_upper: 1SV7N
+md5_6_upper: 2E2E03
+name: Packaging Elastic Band Size 85 Natural 12 Mm Width 100 Mm Length
+name_no_class: Elastic Band Size 85 Natural 12 Mm Width 100 Mm Length
+name_no_size: Natural 12 Mm Width 100 Mm Length
+name_no_size_short: Natural 12 Mm Width 100 Mm Length
+name_no_type: Size 85 Natural 12 Mm Width 100 Mm Length
+oomp_key: oomp_packaging_elastic_band_size_85_natural_12_mm_width_100_mm_length
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: size_85
+size_capital: Size 85
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: '85'
+size_only_numbers_no_zeros: '85'
+size_upper: SIZE_85
+type: elastic_band
+type_capital: Elastic Band
+type_first_letter: e
+type_first_letter_upper: E
+type_upper: ELASTIC_BAND

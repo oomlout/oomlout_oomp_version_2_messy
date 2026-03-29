@@ -1,0 +1,82 @@
+classification: hardware
+classification_capital: Hardware
+classification_first_letter: h
+classification_first_letter_upper: H
+classification_upper: HARDWARE
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+depth: 5
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 5_mm_length_5_mm_width_5_mm_depth
+description_main_capital: 5 mm Length 5 mm Width 5 mm Depth
+description_main_first_letter: '5'
+description_main_first_letter_upper: '5'
+description_main_upper: 5_MM_LENGTH_5_MM_WIDTH_5_MM_DEPTH
+description_only_numbers: '555'
+description_only_numbers_short: '555'
+description_or_color: '555'
+description_or_color_upper: '555'
+directory: parts/hardware_magnet_rectangle_5_mm_length_5_mm_width_5_mm_depth
+distributors: []
+filter: ''
+from_yaml: false
+id: hardware_magnet_rectangle_5_mm_length_5_mm_width_5_mm_depth
+id_no_class: magnet_rectangle_5_mm_length_5_mm_width_5_mm_depth
+id_no_size: 5_mm_length_5_mm_width_5_mm_depth
+id_no_type: rectangle_5_mm_length_5_mm_width_5_mm_depth
+length: 5
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_magnet_rectangle_5_mm_length_5_mm_width_5_mm_depth
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_magnet_rectangle_5_mm_length_5_mm_width_5_mm_depth
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_magnet_rectangle_5_mm_length_5_mm_width_5_mm_depth
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[hardware_magnet_rectangle_5_mm_length_5_mm_width_5_mm_depth](none)<br>[](none)<br>[Hardware
+    Magnet Rectangle 5 Mm Length 5 Mm Width 5 Mm Depth](none)<br><br>'
+markdown_short: '[hardware_magnet_rectangle_5_mm_length_5_mm_width_5_mm_depth](none)<br><br>'
+md5: 0c1baa9cd849dba50b9789f2274165aa
+md5_10: 0c1baa9cd8
+md5_10_upper: 0C1BAA9CD8
+md5_5: 0c1ba
+md5_5_upper: 0C1BA
+md5_6: 0c1baa
+md5_6_alpha: h0a2
+md5_6_alpha_upper: H0A2
+md5_6_upper: 0C1BAA
+name: Hardware Magnet Rectangle 5 Mm Length 5 Mm Width 5 Mm Depth
+name_no_class: Magnet Rectangle 5 Mm Length 5 Mm Width 5 Mm Depth
+name_no_size: 5 Mm Length 5 Mm Width 5 Mm Depth
+name_no_size_short: 5 Mm Length 5 Mm Width 5 Mm Depth
+name_no_type: Rectangle 5 Mm Length 5 Mm Width 5 Mm Depth
+oomp_key: oomp_hardware_magnet_rectangle_5_mm_length_5_mm_width_5_mm_depth
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: rectangle
+size_capital: Rectangle
+size_first_letter: r
+size_first_letter_upper: R
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: RECTANGLE
+thickness: 5
+type: magnet
+type_capital: Magnet
+type_first_letter: m
+type_first_letter_upper: M
+type_upper: MAGNET
+width: 5

@@ -1,0 +1,78 @@
+classification: clothes
+classification_capital: Clothes
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CLOTHES
+color: extra_large
+color_capital: Extra Large
+color_first_letter: e
+color_first_letter_upper: E
+color_upper: EXTRA_LARGE
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: brown
+description_main_capital: Brown
+description_main_first_letter: b
+description_main_first_letter_upper: B
+description_main_upper: BROWN
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'E '
+description_or_color_upper: 'E '
+directory: parts/clothes_item_pajama_top_extra_large_brown
+distributors: []
+filter: ''
+from_yaml: false
+id: clothes_item_pajama_top_extra_large_brown
+id_no_class: item_pajama_top_extra_large_brown
+id_no_size: extra_large_brown
+id_no_type: pajama_top_extra_large_brown
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_pajama_top_extra_large_brown
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_pajama_top_extra_large_brown
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_pajama_top_extra_large_brown
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[clothes_item_pajama_top_extra_large_brown](none)<br>[](none)<br>[Clothes
+    Item Pajama Top Extra Large Brown](none)<br><br>'
+markdown_short: '[clothes_item_pajama_top_extra_large_brown](none)<br><br>'
+md5: e71ff4945481d62479a9318862618d12
+md5_10: e71ff49454
+md5_10_upper: E71FF49454
+md5_5: e71ff
+md5_5_upper: E71FF
+md5_6: e71ff4
+md5_6_alpha: 90nhw
+md5_6_alpha_upper: 90NHW
+md5_6_upper: E71FF4
+name: Clothes Item Pajama Top Extra Large Brown
+name_no_class: Item Pajama Top Extra Large Brown
+name_no_size: Extra Large Brown
+name_no_size_short: Extra Large Brown
+name_no_type: Pajama Top Extra Large Brown
+oomp_key: oomp_clothes_item_pajama_top_extra_large_brown
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: pajama_top
+size_capital: Pajama Top
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PAJAMA_TOP
+type: item
+type_capital: Item
+type_first_letter: i
+type_first_letter_upper: I
+type_upper: ITEM

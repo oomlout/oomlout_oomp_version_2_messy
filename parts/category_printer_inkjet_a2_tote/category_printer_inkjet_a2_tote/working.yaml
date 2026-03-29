@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: a2
+color_capital: A2
+color_first_letter: a
+color_first_letter_upper: A
+color_upper: A2
+description: category_printer
+description_extra: tote
+description_extra_capital: Tote
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TOTE
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'A '
+description_or_color_upper: 'A '
+directory: parts/category_printer_inkjet_a2_tote
+distributors: []
+filter: ''
+from_yaml: false
+id: category_printer_inkjet_a2_tote
+id_no_class: printer_inkjet_a2_tote
+id_no_size: a2_tote
+id_no_type: inkjet_a2_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_printer_inkjet_a2_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_printer_inkjet_a2_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_printer_inkjet_a2_tote
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_printer_inkjet_a2_tote](none)<br>[](none)<br>[Category Printer
+    Inkjet A2 Tote](none)<br><br>'
+markdown_short: '[category_printer_inkjet_a2_tote](none)<br><br>'
+md5: 67c8266fb3c03c60a58e8775150a66f0
+md5_10: 67c8266fb3
+md5_10_upper: 67C8266FB3
+md5_5: 67c82
+md5_5_upper: 67C82
+md5_6: 67c826
+md5_6_alpha: 41s12
+md5_6_alpha_upper: 41S12
+md5_6_upper: 67C826
+name: Category Printer Inkjet A2 Tote
+name_no_class: Printer Inkjet A2 Tote
+name_no_size: A2 Tote
+name_no_size_short: A2 Tote
+name_no_type: Inkjet A2 Tote
+oomp_key: oomp_category_printer_inkjet_a2_tote
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryprinter
+size: inkjet
+size_capital: Inkjet
+size_first_letter: i
+size_first_letter_upper: I
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: INKJET
+type: printer
+type_capital: Printer
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PRINTER

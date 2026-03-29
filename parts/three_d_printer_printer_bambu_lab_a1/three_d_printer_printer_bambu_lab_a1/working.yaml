@@ -1,0 +1,77 @@
+classification: three_d_printer
+classification_capital: Three D Printer
+classification_first_letter: t
+classification_first_letter_upper: T
+classification_upper: THREE_D_PRINTER
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/three_d_printer_printer_bambu_lab_a1
+distributors: []
+id: three_d_printer_printer_bambu_lab_a1
+id_no_class: printer_bambu_lab_a1
+id_no_size: bambu_lab_a1
+id_no_type: bambu_lab_a1
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/three_d_printer_printer_bambu_lab_a1
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/three_d_printer_printer_bambu_lab_a1
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/three_d_printer_printer_bambu_lab_a1
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[three_d_printer_printer_bambu_lab_a1](none)<br>[](none)<br>[Three
+    D Printer Printer Bambu Lab A1](none)<br><br>'
+markdown_short: '[three_d_printer_printer_bambu_lab_a1](none)<br><br>'
+md5: 32aca79eafad192ac10821a1465e9cc4
+md5_10: 32aca79eaf
+md5_10_upper: 32ACA79EAF
+md5_5: 32aca
+md5_5_upper: 32ACA
+md5_6: 32aca7
+md5_6_alpha: 1z6hz
+md5_6_alpha_upper: 1Z6HZ
+md5_6_upper: 32ACA7
+name: Three D Printer Printer Bambu Lab A1
+name_no_class: Printer Bambu Lab A1
+name_no_size: Bambu Lab A1
+name_no_size_short: Bambu Lab A1
+name_no_type: Bambu Lab A1
+oomp_key: oomp_three_d_printer_printer_bambu_lab_a1
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: bambu_lab_a1
+size_capital: Bambu Lab A1
+size_first_letter: b
+size_first_letter_upper: B
+size_only_numbers: '1'
+size_only_numbers_no_zeros: '1'
+size_upper: BAMBU_LAB_A1
+type: printer
+type_capital: Printer
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PRINTER

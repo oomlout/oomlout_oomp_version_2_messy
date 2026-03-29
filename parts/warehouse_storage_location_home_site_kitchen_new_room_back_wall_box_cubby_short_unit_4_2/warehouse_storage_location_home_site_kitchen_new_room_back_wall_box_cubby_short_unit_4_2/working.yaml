@@ -1,0 +1,80 @@
+classification: warehouse
+classification_capital: Warehouse
+classification_first_letter: w
+classification_first_letter_upper: W
+classification_upper: WAREHOUSE
+color: kitchen_new_room
+color_capital: Kitchen New Room
+color_first_letter: k
+color_first_letter_upper: K
+color_upper: KITCHEN_NEW_ROOM
+description_extra: '4_2'
+description_extra_capital: '4.2'
+description_extra_first_letter: '4'
+description_extra_first_letter_upper: '4'
+description_extra_upper: '4_2'
+description_main: back_wall_box_cubby_short_unit
+description_main_capital: Back Wall Box Cubby Short Unit
+description_main_first_letter: b
+description_main_first_letter_upper: B
+description_main_upper: BACK_WALL_BOX_CUBBY_SHORT_UNIT
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'K '
+description_or_color_upper: 'K '
+directory: parts/warehouse_storage_location_home_site_kitchen_new_room_back_wall_box_cubby_short_unit_4_2
+distributors: []
+id: warehouse_storage_location_home_site_kitchen_new_room_back_wall_box_cubby_short_unit_4_2
+id_no_class: storage_location_home_site_kitchen_new_room_back_wall_box_cubby_short_unit_4_2
+id_no_size: kitchen_new_room_back_wall_box_cubby_short_unit_4_2
+id_no_type: home_site_kitchen_new_room_back_wall_box_cubby_short_unit_4_2
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/warehouse_storage_location_home_site_kitchen_new_room_back_wall_box_cubby_short_unit_4_2
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/warehouse_storage_location_home_site_kitchen_new_room_back_wall_box_cubby_short_unit_4_2
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/warehouse_storage_location_home_site_kitchen_new_room_back_wall_box_cubby_short_unit_4_2
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[warehouse_storage_location_home_site_kitchen_new_room_back_wall_box_cubby_short_unit_4_2](none)<br>[](none)<br>[Warehouse
+    Storage Location Home Site Kitchen New Room Back Wall Box Cubby Short Unit 4 2](none)<br><br>'
+markdown_short: '[warehouse_storage_location_home_site_kitchen_new_room_back_wall_box_cubby_short_unit_4_2](none)<br><br>'
+md5: 53cc155427dbf3763699a87b06b95d8f
+md5_10: 53cc155427
+md5_10_upper: 53CC155427
+md5_5: 53cc1
+md5_5_upper: 53CC1
+md5_6: 53cc15
+md5_6_alpha: 39pg5
+md5_6_alpha_upper: 39PG5
+md5_6_upper: 53CC15
+name: Warehouse Storage Location Home Site Kitchen New Room Back Wall Box Cubby Short
+    Unit 4 2
+name_no_class: Storage Location Home Site Kitchen New Room Back Wall Box Cubby Short
+    Unit 4 2
+name_no_size: Kitchen New Room Back Wall Box Cubby Short Unit 4 2
+name_no_size_short: Kitchen New Room Back Wall Box Cubby Short Unit 4 2
+name_no_type: Home Site Kitchen New Room Back Wall Box Cubby Short Unit 4 2
+oomp_key: oomp_warehouse_storage_location_home_site_kitchen_new_room_back_wall_box_cubby_short_unit_4_2
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: home_site
+size_capital: Home Site
+size_first_letter: h
+size_first_letter_upper: H
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: HOME_SITE
+type: storage_location
+type_capital: Storage Location
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: STORAGE_LOCATION

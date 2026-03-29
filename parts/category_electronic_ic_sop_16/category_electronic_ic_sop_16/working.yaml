@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: sop_16
+color_capital: Sop 16
+color_first_letter: s
+color_first_letter_upper: S
+color_upper: SOP_16
+description: category_electronic
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'S '
+description_or_color_upper: 'S '
+directory: parts/category_electronic_ic_sop_16
+distributors: []
+filter: ''
+from_yaml: false
+id: category_electronic_ic_sop_16
+id_no_class: electronic_ic_sop_16
+id_no_size: sop_16
+id_no_type: ic_sop_16
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_ic_sop_16
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_ic_sop_16
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_ic_sop_16
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_electronic_ic_sop_16](none)<br>[](none)<br>[Category Electronic
+    Ic Sop 16](none)<br><br>'
+markdown_short: '[category_electronic_ic_sop_16](none)<br><br>'
+md5: 4e9ddcbe34f961cd7c0a954d5547a840
+md5_10: 4e9ddcbe34
+md5_10_upper: 4E9DDCBE34
+md5_5: 4e9dd
+md5_5_upper: 4E9DD
+md5_6: 4e9ddc
+md5_6_alpha: 32fh8
+md5_6_alpha_upper: 32FH8
+md5_6_upper: 4E9DDC
+name: Category Electronic Ic Sop 16
+name_no_class: Electronic Ic Sop 16
+name_no_size: Sop 16
+name_no_size_short: Sop 16
+name_no_type: Ic Sop 16
+oomp_key: oomp_category_electronic_ic_sop_16
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryelectronic
+size: ic
+size_capital: Ic
+size_first_letter: i
+size_first_letter_upper: I
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: IC
+type: electronic
+type_capital: Electronic
+type_first_letter: e
+type_first_letter_upper: E
+type_upper: ELECTRONIC

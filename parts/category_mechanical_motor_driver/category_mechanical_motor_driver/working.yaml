@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_mechanical
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_mechanical_motor_driver
+distributors: []
+filter: ''
+from_yaml: false
+id: category_mechanical_motor_driver
+id_no_class: mechanical_motor_driver
+id_no_size: motor_driver
+id_no_type: motor_driver
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_motor_driver
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_motor_driver
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_motor_driver
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_mechanical_motor_driver](none)<br>[](none)<br>[Category
+    Mechanical Motor Driver](none)<br><br>'
+markdown_short: '[category_mechanical_motor_driver](none)<br><br>'
+md5: 0fcffa245f87b96ba3dbcc63163a0f99
+md5_10: 0fcffa245f
+md5_10_upper: 0FCFFA245F
+md5_5: 0fcff
+md5_5_upper: 0FCFF
+md5_6: 0fcffa
+md5_6_alpha: m7lm
+md5_6_alpha_upper: M7LM
+md5_6_upper: 0FCFFA
+name: Category Mechanical Motor Driver
+name_no_class: Mechanical Motor Driver
+name_no_size: Motor Driver
+name_no_size_short: Motor Driver
+name_no_type: Motor Driver
+oomp_key: oomp_category_mechanical_motor_driver
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorymechanical
+size: motor_driver
+size_capital: Motor Driver
+size_first_letter: m
+size_first_letter_upper: M
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: MOTOR_DRIVER
+type: mechanical
+type_capital: Mechanical
+type_first_letter: m
+type_first_letter_upper: M
+type_upper: MECHANICAL

@@ -1,0 +1,80 @@
+classification: food
+classification_capital: Food
+classification_first_letter: f
+classification_first_letter_upper: F
+classification_upper: FOOD
+color: almond_whole
+color_capital: Almond Whole
+color_first_letter: a
+color_first_letter_upper: A
+color_upper: ALMOND_WHOLE
+description: nut_almond_whole
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'A '
+description_or_color_upper: 'A '
+directory: parts/food_baking_nut_almond_whole
+distributors: []
+filter: ''
+from_yaml: false
+id: food_baking_nut_almond_whole
+id_no_class: baking_nut_almond_whole
+id_no_size: almond_whole
+id_no_type: nut_almond_whole
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_baking_nut_almond_whole
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_baking_nut_almond_whole
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_baking_nut_almond_whole
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[food_baking_nut_almond_whole](none)<br>[](none)<br>[Food Baking Nut
+    Almond Whole](none)<br><br>'
+markdown_short: '[food_baking_nut_almond_whole](none)<br><br>'
+md5: 46bb6a13ddac8f08855ee4c14ce030bf
+md5_10: 46bb6a13dd
+md5_10_upper: 46BB6A13DD
+md5_5: 46bb6
+md5_5_upper: 46BB6
+md5_6: 46bb6a
+md5_6_alpha: 2rcru
+md5_6_alpha_upper: 2RCRU
+md5_6_upper: 46BB6A
+name: Food Baking Nut Almond Whole
+name_no_class: Baking Nut Almond Whole
+name_no_size: Almond Whole
+name_no_size_short: Almond Whole
+name_no_type: Nut Almond Whole
+name_short: Nut Almond Whole
+oomp_key: oomp_food_baking_nut_almond_whole
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: nut
+size_capital: Nut
+size_first_letter: n
+size_first_letter_upper: N
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: NUT
+type: baking
+type_capital: Baking
+type_first_letter: b
+type_first_letter_upper: B
+type_upper: BAKING

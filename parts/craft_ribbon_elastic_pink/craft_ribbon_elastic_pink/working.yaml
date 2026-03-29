@@ -1,0 +1,77 @@
+classification: craft
+classification_capital: Craft
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CRAFT
+color: pink
+color_capital: Pink
+color_first_letter: p
+color_first_letter_upper: P
+color_upper: PINK
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'P '
+description_or_color_upper: 'P '
+directory: parts/craft_ribbon_elastic_pink
+distributors: []
+id: craft_ribbon_elastic_pink
+id_no_class: ribbon_elastic_pink
+id_no_size: pink
+id_no_type: elastic_pink
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/craft_ribbon_elastic_pink
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/craft_ribbon_elastic_pink
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/craft_ribbon_elastic_pink
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[craft_ribbon_elastic_pink](none)<br>[p](none)<br>[Craft Ribbon Elastic
+    Pink](none)<br><br>'
+markdown_short: '[craft_ribbon_elastic_pink](none)<br><br>'
+md5: 055eb2e7845c4e85abd348507eb568c0
+md5_10: 055eb2e784
+md5_10_upper: 055EB2E784
+md5_5: 055eb
+md5_5_upper: 055EB
+md5_6: 055eb2
+md5_6_alpha: 7jjm
+md5_6_alpha_upper: 7JJM
+md5_6_upper: 055EB2
+name: Craft Ribbon Elastic Pink
+name_no_class: Ribbon Elastic Pink
+name_no_size: Pink
+name_no_size_short: Pink
+name_no_type: Elastic Pink
+oomp_key: oomp_craft_ribbon_elastic_pink
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: p
+short_code_upper: P
+short_name: ''
+size: elastic
+size_capital: Elastic
+size_first_letter: e
+size_first_letter_upper: E
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ELASTIC
+type: ribbon
+type_capital: Ribbon
+type_first_letter: r
+type_first_letter_upper: R
+type_upper: RIBBON

@@ -1,0 +1,77 @@
+classification: camping
+classification_capital: Camping
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CAMPING
+color: bowl
+color_capital: Bowl
+color_first_letter: b
+color_first_letter_upper: B
+color_upper: BOWL
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'B '
+description_or_color_upper: 'B '
+directory: parts/camping_kitchen_bowl
+distributors: []
+filter: ''
+from_yaml: false
+id: camping_kitchen_bowl
+id_no_class: kitchen_bowl
+id_no_size: bowl
+id_no_type: bowl
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/camping_kitchen_bowl
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/camping_kitchen_bowl
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/camping_kitchen_bowl
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[camping_kitchen_bowl](none)<br>[](none)<br>[Camping Kitchen Bowl](none)<br><br>'
+markdown_short: '[camping_kitchen_bowl](none)<br><br>'
+md5: 7fdd8cc2df52570e540d8eeab44165db
+md5_10: 7fdd8cc2df
+md5_10_upper: 7FDD8CC2DF
+md5_5: 7fdd8
+md5_5_upper: 7FDD8
+md5_6: 7fdd8c
+md5_6_alpha: 4zlvw
+md5_6_alpha_upper: 4ZLVW
+md5_6_upper: 7FDD8C
+name: Camping Kitchen Bowl
+name_no_class: Kitchen Bowl
+name_no_size: Bowl
+name_no_size_short: Bowl
+name_no_type: Bowl
+oomp_key: oomp_camping_kitchen_bowl
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: kitchen
+type_capital: Kitchen
+type_first_letter: k
+type_first_letter_upper: K
+type_upper: KITCHEN

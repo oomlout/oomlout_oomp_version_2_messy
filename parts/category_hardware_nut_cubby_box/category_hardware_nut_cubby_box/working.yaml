@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_hardware
+description_extra: cubby_box
+description_extra_capital: Cubby Box
+description_extra_first_letter: c
+description_extra_first_letter_upper: C
+description_extra_upper: CUBBY_BOX
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_hardware_nut_cubby_box
+distributors: []
+filter: ''
+from_yaml: false
+id: category_hardware_nut_cubby_box
+id_no_class: hardware_nut_cubby_box
+id_no_size: cubby_box
+id_no_type: nut_cubby_box
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_nut_cubby_box
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_nut_cubby_box
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_nut_cubby_box
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_hardware_nut_cubby_box](none)<br>[](none)<br>[Category Hardware
+    Nut Cubby Box](none)<br><br>'
+markdown_short: '[category_hardware_nut_cubby_box](none)<br><br>'
+md5: 0918b5271c27b12634c87b27d393c468
+md5_10: 0918b5271c
+md5_10_upper: 0918B5271C
+md5_5: 0918b
+md5_5_upper: 0918B
+md5_6: 0918b5
+md5_6_alpha: crzp
+md5_6_alpha_upper: CRZP
+md5_6_upper: 0918B5
+name: Category Hardware Nut Cubby Box
+name_no_class: Hardware Nut Cubby Box
+name_no_size: Cubby Box
+name_no_size_short: Cubby Box
+name_no_type: Nut Cubby Box
+oomp_key: oomp_category_hardware_nut_cubby_box
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryhardware
+size: nut
+size_capital: Nut
+size_first_letter: n
+size_first_letter_upper: N
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: NUT
+type: hardware
+type_capital: Hardware
+type_first_letter: h
+type_first_letter_upper: H
+type_upper: HARDWARE

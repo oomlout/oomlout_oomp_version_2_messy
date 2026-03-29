@@ -1,0 +1,81 @@
+classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_upper: ELECTRONIC
+color: red
+color_capital: Red
+color_first_letter: r
+color_first_letter_upper: R
+color_upper: RED
+description_extra: 320_leds_per_meter
+description_extra_capital: 320 Leds Per Meter
+description_extra_first_letter: '3'
+description_extra_first_letter_upper: '3'
+description_extra_upper: 320_LEDS_PER_METER
+description_main: 500_mm_length
+description_main_capital: 500 mm Length
+description_main_first_letter: '5'
+description_main_first_letter_upper: '5'
+description_main_upper: 500_MM_LENGTH
+description_only_numbers: '500'
+description_only_numbers_short: '500'
+description_or_color: R500
+description_or_color_upper: R500
+directory: parts/electronic_led_strip_12_volt_5_mm_width_red_500_mm_length_320_leds_per_meter
+distributors: []
+filter: ''
+from_yaml: false
+id: electronic_led_strip_12_volt_5_mm_width_red_500_mm_length_320_leds_per_meter
+id_no_class: led_strip_12_volt_5_mm_width_red_500_mm_length_320_leds_per_meter
+id_no_size: red_500_mm_length_320_leds_per_meter
+id_no_type: strip_12_volt_5_mm_width_red_500_mm_length_320_leds_per_meter
+link_distributor_aliexpress: https://www.aliexpress.com/item/1005007532172895.html
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_strip_12_volt_5_mm_width_red_500_mm_length_320_leds_per_meter
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_strip_12_volt_5_mm_width_red_500_mm_length_320_leds_per_meter
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_strip_12_volt_5_mm_width_red_500_mm_length_320_leds_per_meter
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[electronic_led_strip_12_volt_5_mm_width_red_500_mm_length_320_leds_per_meter](none)<br>[lr](none)<br>[Electronic
+    Led Strip 12 Volt 5 Mm Width Red 500 Mm Length 320 Leds Per Meter](none)<br><br>'
+markdown_short: '[electronic_led_strip_12_volt_5_mm_width_red_500_mm_length_320_leds_per_meter](none)<br><br>'
+md5: 3e4df567ed42b7c53b0b2834fdb58d20
+md5_10: 3e4df567ed
+md5_10_upper: 3E4DF567ED
+md5_5: 3e4df
+md5_5_upper: 3E4DF
+md5_6: 3e4df5
+md5_6_alpha: 2filx
+md5_6_alpha_upper: 2FILX
+md5_6_upper: 3E4DF5
+name: Electronic Led Strip 12 Volt 5 Mm Width Red 500 Mm Length 320 Leds Per Meter
+name_no_class: Led Strip 12 Volt 5 Mm Width Red 500 Mm Length 320 Leds Per Meter
+name_no_size: Red 500 Mm Length 320 Leds Per Meter
+name_no_size_short: Red 500 Mm Length 320 Leds Per Meter
+name_no_type: Strip 12 Volt 5 Mm Width Red 500 Mm Length 320 Leds Per Meter
+oomp_key: oomp_electronic_led_strip_12_volt_5_mm_width_red_500_mm_length_320_leds_per_meter
+part_number: ''
+part_number_capital: ''
+part_number_distriubutor_aliexpress: '1005007532172895'
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: lr
+short_code_upper: LR
+short_name: Strip 12 Volt 5 Mm Width Red500 Mm Length Led
+size: strip_12_volt_5_mm_width
+size_capital: Strip 12 Volt 5 mm Width
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: '125'
+size_only_numbers_no_zeros: '125'
+size_upper: STRIP_12_VOLT_5_MM_WIDTH
+type: led
+type_capital: Led
+type_first_letter: l
+type_first_letter_upper: L
+type_upper: LED

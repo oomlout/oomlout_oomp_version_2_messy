@@ -1,0 +1,79 @@
+classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_upper: ELECTRONIC
+color: black
+color_capital: Black
+color_first_letter: b
+color_first_letter_upper: B
+color_upper: BLACK
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 25_mm_length
+description_main_capital: 25 mm Length
+description_main_first_letter: '2'
+description_main_first_letter_upper: '2'
+description_main_upper: 25_MM_LENGTH
+description_only_numbers: '25'
+description_only_numbers_short: '25'
+description_or_color: B25
+description_or_color_upper: B25
+directory: parts/electronic_heatshrink_2_to_1_shrink_ratio_50_8_mm_internal_diameter_black_25_mm_length
+distributors: []
+id: electronic_heatshrink_2_to_1_shrink_ratio_50_8_mm_internal_diameter_black_25_mm_length
+id_no_class: heatshrink_2_to_1_shrink_ratio_50_8_mm_internal_diameter_black_25_mm_length
+id_no_size: black_25_mm_length
+id_no_type: 50_8_mm_internal_diameter_black_25_mm_length
+kicad_reference: ''
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_50_8_mm_internal_diameter_black_25_mm_length
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_50_8_mm_internal_diameter_black_25_mm_length
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_50_8_mm_internal_diameter_black_25_mm_length
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[electronic_heatshrink_2_to_1_shrink_ratio_50_8_mm_internal_diameter_black_25_mm_length](none)<br>[b25](none)<br>[Electronic
+    Heatshrink 2 To 1 Shrink Ratio 50 8 Mm Internal Diameter Black 25 Mm Length](none)<br><br>'
+markdown_short: '[electronic_heatshrink_2_to_1_shrink_ratio_50_8_mm_internal_diameter_black_25_mm_length](none)<br><br>'
+md5: 841946f0339f6afde199fecf92d4b123
+md5_10: 841946f033
+md5_10_upper: 841946F033
+md5_5: '84194'
+md5_5_upper: '84194'
+md5_6: '841946'
+md5_6_alpha: 55jye
+md5_6_alpha_upper: 55JYE
+md5_6_upper: '841946'
+name: Electronic Heatshrink 2 To 1 Shrink Ratio 50 8 Mm Internal Diameter Black 25
+    Mm Length
+name_no_class: Heatshrink 2 To 1 Shrink Ratio 50 8 Mm Internal Diameter Black 25 Mm
+    Length
+name_no_size: Black 25 Mm Length
+name_no_size_short: Black 25 Mm Length
+name_no_type: 50 8 Mm Internal Diameter Black 25 Mm Length
+oomp_key: oomp_electronic_heatshrink_2_to_1_shrink_ratio_50_8_mm_internal_diameter_black_25_mm_length
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: b25
+short_code_upper: B25
+size: 50_8_mm_internal_diameter
+size_capital: 50 8 mm Internal Diameter
+size_first_letter: '5'
+size_first_letter_upper: '5'
+size_only_numbers: '508'
+size_only_numbers_no_zeros: '58'
+size_upper: 50_8_MM_INTERNAL_DIAMETER
+type: heatshrink_2_to_1_shrink_ratio
+type_capital: Heatshrink 2 To 1 Shrink Ratio
+type_first_letter: h
+type_first_letter_upper: H
+type_upper: HEATSHRINK_2_TO_1_SHRINK_RATIO

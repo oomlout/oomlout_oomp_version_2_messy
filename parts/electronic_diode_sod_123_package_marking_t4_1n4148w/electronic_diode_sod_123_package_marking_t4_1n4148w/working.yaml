@@ -1,0 +1,89 @@
+classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_upper: ELECTRONIC
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: package_marking_t4
+description_extra_capital: Package Marking T4
+description_extra_first_letter: p
+description_extra_first_letter_upper: P
+description_extra_upper: PACKAGE_MARKING_T4
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/electronic_diode_sod_123_package_marking_t4_1n4148w
+distributors:
+-   id: distributor_lcsc
+    link: https://lcsc.com/product-detail/C2099.html
+    name: LCSC
+    part_number: C2099
+-   id: distributor_lcsc
+    link: https://lcsc.com/product-detail/C444720.html
+    name: LCSC
+    part_number: C444720
+filter: ''
+from_yaml: false
+id: electronic_diode_sod_123_package_marking_t4_1n4148w
+id_no_class: diode_sod_123_package_marking_t4_1n4148w
+id_no_size: package_marking_t4_1n4148w
+id_no_type: sod_123_package_marking_t4_1n4148w
+kicad_reference: D
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_diode_sod_123_package_marking_t4_1n4148w
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_diode_sod_123_package_marking_t4_1n4148w
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_diode_sod_123_package_marking_t4_1n4148w
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[electronic_diode_sod_123_package_marking_t4_1n4148w](none)<br>[dsod123pmt44148](none)<br>[Electronic
+    Diode Sod 123 Package Marking T4 1N4148W](none)<br>[LCSC - C2099<br>](https://lcsc.com/product-detail/C2099.html)[LCSC
+    - C444720<br>](https://lcsc.com/product-detail/C444720.html)<br>'
+markdown_short: '[electronic_diode_sod_123_package_marking_t4_1n4148w](none)<br>[LCSC
+    - C2099<br>](https://lcsc.com/product-detail/C2099.html)[LCSC - C444720<br>](https://lcsc.com/product-detail/C444720.html)<br>'
+md5: 35b545ced662ea6b79a91d4e083ad0fd
+md5_10: 35b545ced6
+md5_10_upper: 35B545CED6
+md5_5: 35b54
+md5_5_upper: 35B54
+md5_6: 35b545
+md5_6_alpha: 23fwl
+md5_6_alpha_upper: 23FWL
+md5_6_upper: 35B545
+name: Electronic Diode Sod 123 Package Marking T4 1N4148W
+name_no_class: Diode Sod 123 Package Marking T4 1N4148W
+name_no_size: Package Marking T4 1N4148W
+name_no_size_short: Package Marking T4 1N4148W
+name_no_type: Sod 123 Package Marking T4 1N4148W
+oomp_key: oomp_electronic_diode_sod_123_package_marking_t4_1n4148w
+part_number: 1n4148w
+part_number_capital: 1N4148W
+part_number_first_letter: '1'
+part_number_first_letter_upper: '1'
+part_number_upper: 1N4148W
+short_code: dsod123pmt44148
+short_code_upper: DSOD123PMT44148
+size: sod_123
+size_capital: Sod 123
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: '123'
+size_only_numbers_no_zeros: '123'
+size_upper: SOD_123
+type: diode
+type_capital: Diode
+type_first_letter: d
+type_first_letter_upper: D
+type_upper: DIODE

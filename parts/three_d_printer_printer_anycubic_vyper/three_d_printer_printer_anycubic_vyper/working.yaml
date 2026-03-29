@@ -1,0 +1,77 @@
+classification: three_d_printer
+classification_capital: Three D Printer
+classification_first_letter: t
+classification_first_letter_upper: T
+classification_upper: THREE_D_PRINTER
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/three_d_printer_printer_anycubic_vyper
+distributors: []
+id: three_d_printer_printer_anycubic_vyper
+id_no_class: printer_anycubic_vyper
+id_no_size: anycubicvyper
+id_no_type: anycubic_vyper
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/three_d_printer_printer_anycubic_vyper
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/three_d_printer_printer_anycubic_vyper
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/three_d_printer_printer_anycubic_vyper
+manufacturer: anycubic
+manufacturer_capital: Anycubic
+manufacturer_first_letter: a
+manufacturer_first_letter_upper: A
+manufacturer_upper: ANYCUBIC
+manufacturers: []
+markdown_full: '[three_d_printer_printer_anycubic_vyper](none)<br>[](none)<br>[Three
+    D Printer Printer Anycubic Vyper](none)<br><br>'
+markdown_short: '[three_d_printer_printer_anycubic_vyper](none)<br><br>'
+md5: 8eeee0a554cb5221e09be7c0225221f9
+md5_10: 8eeee0a554
+md5_10_upper: 8EEEE0A554
+md5_5: 8eeee
+md5_5_upper: 8EEEE
+md5_6: 8eeee0
+md5_6_alpha: 5krts
+md5_6_alpha_upper: 5KRTS
+md5_6_upper: 8EEEE0
+name: Three D Printer Printer Anycubic Vyper
+name_no_class: Printer Anycubic Vyper
+name_no_size: Anycubicvyper
+name_no_size_short: Anycubicvyper
+name_no_type: Anycubic Vyper
+oomp_key: oomp_three_d_printer_printer_anycubic_vyper
+part_number: vyper
+part_number_capital: Vyper
+part_number_first_letter: v
+part_number_first_letter_upper: V
+part_number_upper: VYPER
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: printer
+type_capital: Printer
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PRINTER

@@ -1,0 +1,79 @@
+classification: garden
+classification_capital: Garden
+classification_first_letter: g
+classification_first_letter_upper: G
+classification_upper: GARDEN
+color: cosmos
+color_capital: Cosmos
+color_first_letter: c
+color_first_letter_upper: C
+color_upper: COSMOS
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: apricotta
+description_main_capital: Apricotta
+description_main_first_letter: a
+description_main_first_letter_upper: A
+description_main_upper: APRICOTTA
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'C '
+description_or_color_upper: 'C '
+directory: parts/garden_plant_flower_cosmos_apricotta
+distributor_sutton_seeds: '111300'
+distributors: []
+id: garden_plant_flower_cosmos_apricotta
+id_no_class: plant_flower_cosmos_apricotta
+id_no_size: cosmos_apricotta
+id_no_type: flower_cosmos_apricotta
+link_distributor_sutton_seeds: https://www.suttons.co.uk/flower-seeds/cosmos-apricotta-seeds_mh11840
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/garden_plant_flower_cosmos_apricotta
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/garden_plant_flower_cosmos_apricotta
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/garden_plant_flower_cosmos_apricotta
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[garden_plant_flower_cosmos_apricotta](none)<br>[](none)<br>[Garden
+    Plant Flower Cosmos Apricotta](none)<br><br>'
+markdown_short: '[garden_plant_flower_cosmos_apricotta](none)<br><br>'
+md5: 6dfee5d1529d2e1023250de8a9f27c6a
+md5_10: 6dfee5d152
+md5_10_upper: 6DFEE5D152
+md5_5: 6dfee
+md5_5_upper: 6DFEE
+md5_6: 6dfee5
+md5_6_alpha: 4ai91
+md5_6_alpha_upper: 4AI91
+md5_6_upper: 6DFEE5
+name: Garden Plant Flower Cosmos Apricotta
+name_no_class: Plant Flower Cosmos Apricotta
+name_no_size: Cosmos Apricotta
+name_no_size_short: Cosmos Apricotta
+name_no_type: Flower Cosmos Apricotta
+oomp_key: oomp_garden_plant_flower_cosmos_apricotta
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: flower
+size_capital: Flower
+size_first_letter: f
+size_first_letter_upper: F
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: FLOWER
+type: plant
+type_capital: Plant
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PLANT

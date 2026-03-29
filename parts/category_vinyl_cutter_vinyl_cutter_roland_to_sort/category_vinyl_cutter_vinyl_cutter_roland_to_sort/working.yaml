@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: roland
+color_capital: Roland
+color_first_letter: r
+color_first_letter_upper: R
+color_upper: ROLAND
+description: category_vinyl_cutter
+description_extra: to_sort
+description_extra_capital: To Sort
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TO_SORT
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'R '
+description_or_color_upper: 'R '
+directory: parts/category_vinyl_cutter_vinyl_cutter_roland_to_sort
+distributors: []
+filter: ''
+from_yaml: false
+id: category_vinyl_cutter_vinyl_cutter_roland_to_sort
+id_no_class: vinyl_cutter_vinyl_cutter_roland_to_sort
+id_no_size: roland_to_sort
+id_no_type: roland_to_sort
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_vinyl_cutter_vinyl_cutter_roland_to_sort
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_vinyl_cutter_vinyl_cutter_roland_to_sort
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_vinyl_cutter_vinyl_cutter_roland_to_sort
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_vinyl_cutter_vinyl_cutter_roland_to_sort](none)<br>[](none)<br>[Category
+    Vinyl Cutter Vinyl Cutter Roland To Sort](none)<br><br>'
+markdown_short: '[category_vinyl_cutter_vinyl_cutter_roland_to_sort](none)<br><br>'
+md5: 16728e87e53cf427a7e5305deee18bc2
+md5_10: 16728e87e5
+md5_10_upper: 16728E87E5
+md5_5: '16728'
+md5_5_upper: '16728'
+md5_6: 16728e
+md5_6_alpha: vj4e
+md5_6_alpha_upper: VJ4E
+md5_6_upper: 16728E
+name: Category Vinyl Cutter Vinyl Cutter Roland To Sort
+name_no_class: Vinyl Cutter Vinyl Cutter Roland To Sort
+name_no_size: Roland To Sort
+name_no_size_short: Roland To Sort
+name_no_type: Roland To Sort
+oomp_key: oomp_category_vinyl_cutter_vinyl_cutter_roland_to_sort
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryvinylcutter
+size: vinyl_cutter
+size_capital: Vinyl Cutter
+size_first_letter: v
+size_first_letter_upper: V
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: VINYL_CUTTER
+type: vinyl_cutter
+type_capital: Vinyl Cutter
+type_first_letter: v
+type_first_letter_upper: V
+type_upper: VINYL_CUTTER

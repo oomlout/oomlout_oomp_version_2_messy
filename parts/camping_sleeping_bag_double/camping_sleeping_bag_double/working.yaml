@@ -1,0 +1,78 @@
+classification: camping
+classification_capital: Camping
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CAMPING
+color: double
+color_capital: Double
+color_first_letter: d
+color_first_letter_upper: D
+color_upper: DOUBLE
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'D '
+description_or_color_upper: 'D '
+directory: parts/camping_sleeping_bag_double
+distributors: []
+filter: ''
+from_yaml: false
+id: camping_sleeping_bag_double
+id_no_class: sleeping_bag_double
+id_no_size: double
+id_no_type: double
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/camping_sleeping_bag_double
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/camping_sleeping_bag_double
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/camping_sleeping_bag_double
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[camping_sleeping_bag_double](none)<br>[](none)<br>[Camping Sleeping
+    Bag Double](none)<br><br>'
+markdown_short: '[camping_sleeping_bag_double](none)<br><br>'
+md5: 62888a2656e92e0dae07be513aba0f28
+md5_10: 62888a2656
+md5_10_upper: 62888A2656
+md5_5: '62888'
+md5_5_upper: '62888'
+md5_6: 62888a
+md5_6_alpha: 3uemi
+md5_6_alpha_upper: 3UEMI
+md5_6_upper: 62888A
+name: Camping Sleeping Bag Double
+name_no_class: Sleeping Bag Double
+name_no_size: Double
+name_no_size_short: Double
+name_no_type: Double
+oomp_key: oomp_camping_sleeping_bag_double
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: sleeping_bag
+type_capital: Sleeping Bag
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: SLEEPING_BAG

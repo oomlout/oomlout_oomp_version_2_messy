@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_electronic
+description_extra: tote
+description_extra_capital: Tote
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TOTE
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_electronic_voltage_converter_buck_tote
+distributors: []
+filter: ''
+from_yaml: false
+id: category_electronic_voltage_converter_buck_tote
+id_no_class: electronic_voltage_converter_buck_tote
+id_no_size: tote
+id_no_type: voltage_converter_buck_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_voltage_converter_buck_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_voltage_converter_buck_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_voltage_converter_buck_tote
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_electronic_voltage_converter_buck_tote](none)<br>[](none)<br>[Category
+    Electronic Voltage Converter Buck Tote](none)<br><br>'
+markdown_short: '[category_electronic_voltage_converter_buck_tote](none)<br><br>'
+md5: 88aa5884a139733f475eaab4a44b8385
+md5_10: 88aa5884a1
+md5_10_upper: 88AA5884A1
+md5_5: 88aa5
+md5_5_upper: 88AA5
+md5_6: 88aa58
+md5_6_alpha: 5byvs
+md5_6_alpha_upper: 5BYVS
+md5_6_upper: 88AA58
+name: Category Electronic Voltage Converter Buck Tote
+name_no_class: Electronic Voltage Converter Buck Tote
+name_no_size: Tote
+name_no_size_short: Tote
+name_no_type: Voltage Converter Buck Tote
+oomp_key: oomp_category_electronic_voltage_converter_buck_tote
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryelectronic
+size: voltage_converter_buck
+size_capital: Voltage Converter Buck
+size_first_letter: v
+size_first_letter_upper: V
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: VOLTAGE_CONVERTER_BUCK
+type: electronic
+type_capital: Electronic
+type_first_letter: e
+type_first_letter_upper: E
+type_upper: ELECTRONIC

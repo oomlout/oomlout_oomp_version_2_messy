@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: 508_mm_screen_diagonal
+color_capital: 508 mm Screen Diagonal
+color_first_letter: '5'
+color_first_letter_upper: '5'
+color_upper: 508_MM_SCREEN_DIAGONAL
+description: category_computer
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: '5 '
+description_or_color_upper: '5 '
+directory: parts/category_computer_monitor_508_mm_screen_diagonal
+distributors: []
+filter: ''
+from_yaml: false
+id: category_computer_monitor_508_mm_screen_diagonal
+id_no_class: computer_monitor_508_mm_screen_diagonal
+id_no_size: 508_mm_screen_diagonal
+id_no_type: monitor_508_mm_screen_diagonal
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_monitor_508_mm_screen_diagonal
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_monitor_508_mm_screen_diagonal
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_monitor_508_mm_screen_diagonal
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_computer_monitor_508_mm_screen_diagonal](none)<br>[](none)<br>[Category
+    Computer Monitor 508 Mm Screen Diagonal](none)<br><br>'
+markdown_short: '[category_computer_monitor_508_mm_screen_diagonal](none)<br><br>'
+md5: 75fd1b0509f35b952740eb68f80f577b
+md5_10: 75fd1b0509
+md5_10_upper: 75FD1B0509
+md5_5: 75fd1
+md5_5_upper: 75FD1
+md5_6: 75fd1b
+md5_6_alpha: 4lqfv
+md5_6_alpha_upper: 4LQFV
+md5_6_upper: 75FD1B
+name: Category Computer Monitor 508 Mm Screen Diagonal
+name_no_class: Computer Monitor 508 Mm Screen Diagonal
+name_no_size: 508 Mm Screen Diagonal
+name_no_size_short: 508 Mm Screen Diagonal
+name_no_type: Monitor 508 Mm Screen Diagonal
+oomp_key: oomp_category_computer_monitor_508_mm_screen_diagonal
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorycomputer
+size: monitor
+size_capital: Monitor
+size_first_letter: m
+size_first_letter_upper: M
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: MONITOR
+type: computer
+type_capital: Computer
+type_first_letter: c
+type_first_letter_upper: C
+type_upper: COMPUTER

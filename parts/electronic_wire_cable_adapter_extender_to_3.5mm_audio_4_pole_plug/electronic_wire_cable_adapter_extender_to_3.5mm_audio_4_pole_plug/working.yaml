@@ -1,0 +1,78 @@
+classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_upper: ELECTRONIC
+color: extender
+color_capital: Extender
+color_first_letter: e
+color_first_letter_upper: E
+color_upper: EXTENDER
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: to_3.5mm_audio_4_pole_plug
+description_main_capital: To 3.5mm Audio 4 Pole Plug
+description_main_first_letter: t
+description_main_first_letter_upper: T
+description_main_upper: TO_3.5MM_AUDIO_4_POLE_PLUG
+description_only_numbers: '354'
+description_only_numbers_short: '354'
+description_or_color: E354
+description_or_color_upper: E354
+directory: parts/electronic_wire_cable_adapter_extender_to_3.5mm_audio_4_pole_plug
+distributors: []
+filter: ''
+from_yaml: false
+id: electronic_wire_cable_adapter_extender_to_3.5mm_audio_4_pole_plug
+id_no_class: wire_cable_adapter_extender_to_3.5mm_audio_4_pole_plug
+id_no_size: extender_to_3.5mm_audio_4_pole_plug
+id_no_type: adapter_extender_to_3.5mm_audio_4_pole_plug
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_wire_cable_adapter_extender_to_3.5mm_audio_4_pole_plug
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_wire_cable_adapter_extender_to_3.5mm_audio_4_pole_plug
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_wire_cable_adapter_extender_to_3.5mm_audio_4_pole_plug
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[electronic_wire_cable_adapter_extender_to_3.5mm_audio_4_pole_plug](none)<br>[](none)<br>[Electronic
+    Wire Cable Adapter Extender To 3.5Mm Audio 4 Pole Plug](none)<br><br>'
+markdown_short: '[electronic_wire_cable_adapter_extender_to_3.5mm_audio_4_pole_plug](none)<br><br>'
+md5: 56fcf311c37af9c686cffc7d86cbdf8a
+md5_10: 56fcf311c3
+md5_10_upper: 56FCF311C3
+md5_5: 56fcf
+md5_5_upper: 56FCF
+md5_6: 56fcf3
+md5_6_alpha: 3e6sz
+md5_6_alpha_upper: 3E6SZ
+md5_6_upper: 56FCF3
+name: Electronic Wire Cable Adapter Extender To 3.5Mm Audio 4 Pole Plug
+name_no_class: Wire Cable Adapter Extender To 3.5Mm Audio 4 Pole Plug
+name_no_size: Extender To 3.5Mm Audio 4 Pole Plug
+name_no_size_short: Extender To 3.5Mm Audio 4 Pole Plug
+name_no_type: Adapter Extender To 3.5Mm Audio 4 Pole Plug
+oomp_key: oomp_electronic_wire_cable_adapter_extender_to_3.5mm_audio_4_pole_plug
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: adapter
+size_capital: Adapter
+size_first_letter: a
+size_first_letter_upper: A
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ADAPTER
+type: wire_cable
+type_capital: Wire Cable
+type_first_letter: w
+type_first_letter_upper: W
+type_upper: WIRE_CABLE

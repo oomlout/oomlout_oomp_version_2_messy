@@ -1,0 +1,78 @@
+classification: sheet_stock
+classification_capital: Sheet Stock
+classification_first_letter: s
+classification_first_letter_upper: S
+classification_upper: SHEET_STOCK
+color: clear
+color_capital: Clear
+color_first_letter: c
+color_first_letter_upper: C
+color_upper: CLEAR
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'C '
+description_or_color_upper: 'C '
+directory: parts/sheet_stock_acrylic_3mm_depth_clear
+distributors: []
+filter: ''
+from_yaml: false
+id: sheet_stock_acrylic_3mm_depth_clear
+id_no_class: acrylic_3mm_depth_clear
+id_no_size: clear
+id_no_type: 3mm_depth_clear
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/sheet_stock_acrylic_3mm_depth_clear
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/sheet_stock_acrylic_3mm_depth_clear
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/sheet_stock_acrylic_3mm_depth_clear
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[sheet_stock_acrylic_3mm_depth_clear](none)<br>[c](none)<br>[Sheet
+    Stock Acrylic 3Mm Depth Clear](none)<br><br>'
+markdown_short: '[sheet_stock_acrylic_3mm_depth_clear](none)<br><br>'
+md5: 516e2d13be1681902b19f831216b0953
+md5_10: 516e2d13be
+md5_10_upper: 516E2D13BE
+md5_5: 516e2
+md5_5_upper: 516E2
+md5_6: 516e2d
+md5_6_alpha: 36drh
+md5_6_alpha_upper: 36DRH
+md5_6_upper: 516E2D
+name: Sheet Stock Acrylic 3Mm Depth Clear
+name_no_class: Acrylic 3Mm Depth Clear
+name_no_size: Clear
+name_no_size_short: Clear
+name_no_type: 3Mm Depth Clear
+oomp_key: oomp_sheet_stock_acrylic_3mm_depth_clear
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: c
+short_code_upper: C
+size: 3mm_depth
+size_capital: 3mm Depth
+size_first_letter: '3'
+size_first_letter_upper: '3'
+size_only_numbers: '3'
+size_only_numbers_no_zeros: '3'
+size_upper: 3MM_DEPTH
+type: acrylic
+type_capital: Acrylic
+type_first_letter: a
+type_first_letter_upper: A
+type_upper: ACRYLIC

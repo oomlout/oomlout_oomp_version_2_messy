@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_printer
+description_extra: to_sort
+description_extra_capital: To Sort
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TO_SORT
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_printer_risograph_to_sort
+distributors: []
+filter: ''
+from_yaml: false
+id: category_printer_risograph_to_sort
+id_no_class: printer_risograph_to_sort
+id_no_size: to_sort
+id_no_type: risograph_to_sort
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_printer_risograph_to_sort
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_printer_risograph_to_sort
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_printer_risograph_to_sort
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_printer_risograph_to_sort](none)<br>[](none)<br>[Category
+    Printer Risograph To Sort](none)<br><br>'
+markdown_short: '[category_printer_risograph_to_sort](none)<br><br>'
+md5: 2f186394538ba5b6e8412c85ac222c56
+md5_10: 2f18639453
+md5_10_upper: 2F18639453
+md5_5: 2f186
+md5_5_upper: 2F186
+md5_6: 2f1863
+md5_6_alpha: 1u5ib
+md5_6_alpha_upper: 1U5IB
+md5_6_upper: 2F1863
+name: Category Printer Risograph To Sort
+name_no_class: Printer Risograph To Sort
+name_no_size: To Sort
+name_no_size_short: To Sort
+name_no_type: Risograph To Sort
+oomp_key: oomp_category_printer_risograph_to_sort
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryprinter
+size: risograph
+size_capital: Risograph
+size_first_letter: r
+size_first_letter_upper: R
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: RISOGRAPH
+type: printer
+type_capital: Printer
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PRINTER

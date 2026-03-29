@@ -1,0 +1,78 @@
+classification: sheet_stock
+classification_capital: Sheet Stock
+classification_first_letter: s
+classification_first_letter_upper: S
+classification_upper: SHEET_STOCK
+color: red
+color_capital: Red
+color_first_letter: r
+color_first_letter_upper: R
+color_upper: RED
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'R '
+description_or_color_upper: 'R '
+directory: parts/sheet_stock_acrylic_3mm_depth_red_perspex
+distributors: []
+filter: ''
+from_yaml: false
+id: sheet_stock_acrylic_3mm_depth_red_perspex
+id_no_class: acrylic_3mm_depth_red_perspex
+id_no_size: red_perspex
+id_no_type: 3mm_depth_red_perspex
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/sheet_stock_acrylic_3mm_depth_red_perspex
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/sheet_stock_acrylic_3mm_depth_red_perspex
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/sheet_stock_acrylic_3mm_depth_red_perspex
+manufacturer: perspex
+manufacturer_capital: Perspex
+manufacturer_first_letter: p
+manufacturer_first_letter_upper: P
+manufacturer_upper: PERSPEX
+manufacturers: []
+markdown_full: '[sheet_stock_acrylic_3mm_depth_red_perspex](none)<br>[r](none)<br>[Sheet
+    Stock Acrylic 3Mm Depth Red Perspex](none)<br><br>'
+markdown_short: '[sheet_stock_acrylic_3mm_depth_red_perspex](none)<br><br>'
+md5: 8b986f366da9a4ce3f1edbc5c097a82d
+md5_10: 8b986f366d
+md5_10_upper: 8B986F366D
+md5_5: 8b986
+md5_5_upper: 8B986
+md5_6: 8b986f
+md5_6_alpha: 5g31r
+md5_6_alpha_upper: 5G31R
+md5_6_upper: 8B986F
+name: Sheet Stock Acrylic 3Mm Depth Red Perspex
+name_no_class: Acrylic 3Mm Depth Red Perspex
+name_no_size: Red Perspex
+name_no_size_short: Red Perspex
+name_no_type: 3Mm Depth Red Perspex
+oomp_key: oomp_sheet_stock_acrylic_3mm_depth_red_perspex
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: r
+short_code_upper: R
+size: 3mm_depth
+size_capital: 3mm Depth
+size_first_letter: '3'
+size_first_letter_upper: '3'
+size_only_numbers: '3'
+size_only_numbers_no_zeros: '3'
+size_upper: 3MM_DEPTH
+type: acrylic
+type_capital: Acrylic
+type_first_letter: a
+type_first_letter_upper: A
+type_upper: ACRYLIC

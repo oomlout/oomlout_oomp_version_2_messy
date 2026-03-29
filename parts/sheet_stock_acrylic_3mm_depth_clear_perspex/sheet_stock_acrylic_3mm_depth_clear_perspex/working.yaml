@@ -1,0 +1,78 @@
+classification: sheet_stock
+classification_capital: Sheet Stock
+classification_first_letter: s
+classification_first_letter_upper: S
+classification_upper: SHEET_STOCK
+color: clear
+color_capital: Clear
+color_first_letter: c
+color_first_letter_upper: C
+color_upper: CLEAR
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'C '
+description_or_color_upper: 'C '
+directory: parts/sheet_stock_acrylic_3mm_depth_clear_perspex
+distributors: []
+filter: ''
+from_yaml: false
+id: sheet_stock_acrylic_3mm_depth_clear_perspex
+id_no_class: acrylic_3mm_depth_clear_perspex
+id_no_size: clear_perspex
+id_no_type: 3mm_depth_clear_perspex
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/sheet_stock_acrylic_3mm_depth_clear_perspex
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/sheet_stock_acrylic_3mm_depth_clear_perspex
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/sheet_stock_acrylic_3mm_depth_clear_perspex
+manufacturer: perspex
+manufacturer_capital: Perspex
+manufacturer_first_letter: p
+manufacturer_first_letter_upper: P
+manufacturer_upper: PERSPEX
+manufacturers: []
+markdown_full: '[sheet_stock_acrylic_3mm_depth_clear_perspex](none)<br>[c](none)<br>[Sheet
+    Stock Acrylic 3Mm Depth Clear Perspex](none)<br><br>'
+markdown_short: '[sheet_stock_acrylic_3mm_depth_clear_perspex](none)<br><br>'
+md5: 7dcefa903a8264e789e642b1b17cbe26
+md5_10: 7dcefa903a
+md5_10_upper: 7DCEFA903A
+md5_5: 7dcef
+md5_5_upper: 7DCEF
+md5_6: 7dcefa
+md5_6_alpha: 4wpve
+md5_6_alpha_upper: 4WPVE
+md5_6_upper: 7DCEFA
+name: Sheet Stock Acrylic 3Mm Depth Clear Perspex
+name_no_class: Acrylic 3Mm Depth Clear Perspex
+name_no_size: Clear Perspex
+name_no_size_short: Clear Perspex
+name_no_type: 3Mm Depth Clear Perspex
+oomp_key: oomp_sheet_stock_acrylic_3mm_depth_clear_perspex
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: c
+short_code_upper: C
+size: 3mm_depth
+size_capital: 3mm Depth
+size_first_letter: '3'
+size_first_letter_upper: '3'
+size_only_numbers: '3'
+size_only_numbers_no_zeros: '3'
+size_upper: 3MM_DEPTH
+type: acrylic
+type_capital: Acrylic
+type_first_letter: a
+type_first_letter_upper: A
+type_upper: ACRYLIC

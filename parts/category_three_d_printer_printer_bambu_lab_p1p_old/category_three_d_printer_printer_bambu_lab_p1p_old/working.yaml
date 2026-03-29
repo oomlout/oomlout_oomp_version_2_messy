@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: bambu_lab_p1p
+color_capital: Bambu Lab P1P
+color_first_letter: b
+color_first_letter_upper: B
+color_upper: BAMBU_LAB_P1P
+description: category_three_d_printer
+description_extra: old
+description_extra_capital: Old
+description_extra_first_letter: o
+description_extra_first_letter_upper: O
+description_extra_upper: OLD
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'B '
+description_or_color_upper: 'B '
+directory: parts/category_three_d_printer_printer_bambu_lab_p1p_old
+distributors: []
+filter: ''
+from_yaml: false
+id: category_three_d_printer_printer_bambu_lab_p1p_old
+id_no_class: three_d_printer_printer_bambu_lab_p1p_old
+id_no_size: bambu_lab_p1p_old
+id_no_type: printer_bambu_lab_p1p_old
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_three_d_printer_printer_bambu_lab_p1p_old
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_three_d_printer_printer_bambu_lab_p1p_old
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_three_d_printer_printer_bambu_lab_p1p_old
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_three_d_printer_printer_bambu_lab_p1p_old](none)<br>[](none)<br>[Category
+    Three D Printer Printer Bambu Lab P1P Old](none)<br><br>'
+markdown_short: '[category_three_d_printer_printer_bambu_lab_p1p_old](none)<br><br>'
+md5: 2e8300d3c55a6dfd19577bb55e28be38
+md5_10: 2e8300d3c5
+md5_10_upper: 2E8300D3C5
+md5_5: 2e830
+md5_5_upper: 2E830
+md5_6: 2e8300
+md5_6_alpha: 1tc00
+md5_6_alpha_upper: 1TC00
+md5_6_upper: 2E8300
+name: Category Three D Printer Printer Bambu Lab P1P Old
+name_no_class: Three D Printer Printer Bambu Lab P1P Old
+name_no_size: Bambu Lab P1P Old
+name_no_size_short: Bambu Lab P1P Old
+name_no_type: Printer Bambu Lab P1P Old
+oomp_key: oomp_category_three_d_printer_printer_bambu_lab_p1p_old
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorythreedprinter
+size: printer
+size_capital: Printer
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PRINTER
+type: three_d_printer
+type_capital: Three D Printer
+type_first_letter: t
+type_first_letter_upper: T
+type_upper: THREE_D_PRINTER

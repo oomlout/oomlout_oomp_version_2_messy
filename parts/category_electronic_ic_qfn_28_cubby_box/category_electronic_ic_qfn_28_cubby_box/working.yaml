@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: qfn_28
+color_capital: Qfn 28
+color_first_letter: q
+color_first_letter_upper: Q
+color_upper: QFN_28
+description: category_electronic
+description_extra: cubby_box
+description_extra_capital: Cubby Box
+description_extra_first_letter: c
+description_extra_first_letter_upper: C
+description_extra_upper: CUBBY_BOX
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'Q '
+description_or_color_upper: 'Q '
+directory: parts/category_electronic_ic_qfn_28_cubby_box
+distributors: []
+filter: ''
+from_yaml: false
+id: category_electronic_ic_qfn_28_cubby_box
+id_no_class: electronic_ic_qfn_28_cubby_box
+id_no_size: qfn_28_cubby_box
+id_no_type: ic_qfn_28_cubby_box
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_ic_qfn_28_cubby_box
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_ic_qfn_28_cubby_box
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_ic_qfn_28_cubby_box
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_electronic_ic_qfn_28_cubby_box](none)<br>[](none)<br>[Category
+    Electronic Ic Qfn 28 Cubby Box](none)<br><br>'
+markdown_short: '[category_electronic_ic_qfn_28_cubby_box](none)<br><br>'
+md5: c14a2002394bd06481b558a71e17e057
+md5_10: c14a200239
+md5_10_upper: C14A200239
+md5_5: c14a2
+md5_5_upper: C14A2
+md5_6: c14a20
+md5_6_alpha: 7ji8w
+md5_6_alpha_upper: 7JI8W
+md5_6_upper: C14A20
+name: Category Electronic Ic Qfn 28 Cubby Box
+name_no_class: Electronic Ic Qfn 28 Cubby Box
+name_no_size: Qfn 28 Cubby Box
+name_no_size_short: Qfn 28 Cubby Box
+name_no_type: Ic Qfn 28 Cubby Box
+oomp_key: oomp_category_electronic_ic_qfn_28_cubby_box
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryelectronic
+size: ic
+size_capital: Ic
+size_first_letter: i
+size_first_letter_upper: I
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: IC
+type: electronic
+type_capital: Electronic
+type_first_letter: e
+type_first_letter_upper: E
+type_upper: ELECTRONIC

@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: coffee
+color_capital: Coffee
+color_first_letter: c
+color_first_letter_upper: C
+color_upper: COFFEE
+description: category_food
+description_extra: old
+description_extra_capital: Old
+description_extra_first_letter: o
+description_extra_first_letter_upper: O
+description_extra_upper: OLD
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'C '
+description_or_color_upper: 'C '
+directory: parts/category_food_drink_coffee_old
+distributors: []
+filter: ''
+from_yaml: false
+id: category_food_drink_coffee_old
+id_no_class: food_drink_coffee_old
+id_no_size: coffee_old
+id_no_type: drink_coffee_old
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_drink_coffee_old
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_drink_coffee_old
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_food_drink_coffee_old
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_food_drink_coffee_old](none)<br>[](none)<br>[Category Food
+    Drink Coffee Old](none)<br><br>'
+markdown_short: '[category_food_drink_coffee_old](none)<br><br>'
+md5: 657e2208c461211bee0d14ea99239187
+md5_10: 657e2208c4
+md5_10_upper: 657E2208C4
+md5_5: 657e2
+md5_5_upper: 657E2
+md5_6: 657e22
+md5_6_alpha: 3yk9u
+md5_6_alpha_upper: 3YK9U
+md5_6_upper: 657E22
+name: Category Food Drink Coffee Old
+name_no_class: Food Drink Coffee Old
+name_no_size: Coffee Old
+name_no_size_short: Coffee Old
+name_no_type: Drink Coffee Old
+oomp_key: oomp_category_food_drink_coffee_old
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryfood
+size: drink
+size_capital: Drink
+size_first_letter: d
+size_first_letter_upper: D
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: DRINK
+type: food
+type_capital: Food
+type_first_letter: f
+type_first_letter_upper: F
+type_upper: FOOD

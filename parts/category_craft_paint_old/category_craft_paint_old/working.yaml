@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_craft
+description_extra: old
+description_extra_capital: Old
+description_extra_first_letter: o
+description_extra_first_letter_upper: O
+description_extra_upper: OLD
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_craft_paint_old
+distributors: []
+filter: ''
+from_yaml: false
+id: category_craft_paint_old
+id_no_class: craft_paint_old
+id_no_size: old
+id_no_type: paint_old
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_craft_paint_old
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_craft_paint_old
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_craft_paint_old
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_craft_paint_old](none)<br>[](none)<br>[Category Craft Paint
+    Old](none)<br><br>'
+markdown_short: '[category_craft_paint_old](none)<br><br>'
+md5: 952ee37c0c35e6b4ec1426fb8ec5e5e9
+md5_10: 952ee37c0c
+md5_10_upper: 952EE37C0C
+md5_5: 952ee
+md5_5_upper: 952EE
+md5_6: 952ee3
+md5_6_alpha: 5tjvn
+md5_6_alpha_upper: 5TJVN
+md5_6_upper: 952EE3
+name: Category Craft Paint Old
+name_no_class: Craft Paint Old
+name_no_size: Old
+name_no_size_short: Old
+name_no_type: Paint Old
+oomp_key: oomp_category_craft_paint_old
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorycraft
+size: paint
+size_capital: Paint
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PAINT
+type: craft
+type_capital: Craft
+type_first_letter: c
+type_first_letter_upper: C
+type_upper: CRAFT

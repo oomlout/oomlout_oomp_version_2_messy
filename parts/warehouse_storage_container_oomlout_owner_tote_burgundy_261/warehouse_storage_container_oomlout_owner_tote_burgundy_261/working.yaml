@@ -1,0 +1,78 @@
+classification: warehouse
+classification_capital: Warehouse
+classification_first_letter: w
+classification_first_letter_upper: W
+classification_upper: WAREHOUSE
+color: tote_burgundy
+color_capital: Tote Burgundy
+color_first_letter: t
+color_first_letter_upper: T
+color_upper: TOTE_BURGUNDY
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: '261'
+description_main_capital: '261'
+description_main_first_letter: '2'
+description_main_first_letter_upper: '2'
+description_main_upper: '261'
+description_only_numbers: '261'
+description_only_numbers_short: '261'
+description_or_color: T261
+description_or_color_upper: T261
+directory: parts/warehouse_storage_container_oomlout_owner_tote_burgundy_261
+distributors: []
+id: warehouse_storage_container_oomlout_owner_tote_burgundy_261
+id_no_class: storage_container_oomlout_owner_tote_burgundy_261
+id_no_size: tote_burgundy_261
+id_no_type: oomlout_owner_tote_burgundy_261
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/warehouse_storage_container_oomlout_owner_tote_burgundy_261
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/warehouse_storage_container_oomlout_owner_tote_burgundy_261
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/warehouse_storage_container_oomlout_owner_tote_burgundy_261
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[warehouse_storage_container_oomlout_owner_tote_burgundy_261](none)<br>[](none)<br>[Warehouse
+    Storage Container Oomlout Owner Tote Burgundy 261](none)<br><br>'
+markdown_short: '[warehouse_storage_container_oomlout_owner_tote_burgundy_261](none)<br><br>'
+md5: 97c8d06e8d1017b3ed9880dc540a176b
+md5_10: 97c8d06e8d
+md5_10_upper: 97C8D06E8D
+md5_5: 97c8d
+md5_5_upper: 97C8D
+md5_6: 97c8d0
+md5_6_alpha: 5x7f4
+md5_6_alpha_upper: 5X7F4
+md5_6_upper: 97C8D0
+name: Warehouse Storage Container Oomlout Owner Tote Burgundy 261
+name_no_class: Storage Container Oomlout Owner Tote Burgundy 261
+name_no_size: Tote Burgundy 261
+name_no_size_short: Tote Burgundy 261
+name_no_type: Oomlout Owner Tote Burgundy 261
+oomp_key: oomp_warehouse_storage_container_oomlout_owner_tote_burgundy_261
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: oomlout_owner
+size_capital: Oomlout Owner
+size_first_letter: o
+size_first_letter_upper: O
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: OOMLOUT_OWNER
+type: storage_container
+type_capital: Storage Container
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: STORAGE_CONTAINER

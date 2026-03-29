@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: camera
+color_capital: Camera
+color_first_letter: c
+color_first_letter_upper: C
+color_upper: CAMERA
+description: category_computer
+description_extra: old
+description_extra_capital: Old
+description_extra_first_letter: o
+description_extra_first_letter_upper: O
+description_extra_upper: OLD
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'C '
+description_or_color_upper: 'C '
+directory: parts/category_computer_video_conferencing_camera_old
+distributors: []
+filter: ''
+from_yaml: false
+id: category_computer_video_conferencing_camera_old
+id_no_class: computer_video_conferencing_camera_old
+id_no_size: camera_old
+id_no_type: video_conferencing_camera_old
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_video_conferencing_camera_old
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_video_conferencing_camera_old
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_video_conferencing_camera_old
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_computer_video_conferencing_camera_old](none)<br>[](none)<br>[Category
+    Computer Video Conferencing Camera Old](none)<br><br>'
+markdown_short: '[category_computer_video_conferencing_camera_old](none)<br><br>'
+md5: e08479347b308edea66988151a3ec577
+md5_10: e08479347b
+md5_10_upper: E08479347B
+md5_5: e0847
+md5_5_upper: E0847
+md5_6: e08479
+md5_6_alpha: 8rddl
+md5_6_alpha_upper: 8RDDL
+md5_6_upper: E08479
+name: Category Computer Video Conferencing Camera Old
+name_no_class: Computer Video Conferencing Camera Old
+name_no_size: Camera Old
+name_no_size_short: Camera Old
+name_no_type: Video Conferencing Camera Old
+oomp_key: oomp_category_computer_video_conferencing_camera_old
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorycomputer
+size: video_conferencing
+size_capital: Video Conferencing
+size_first_letter: v
+size_first_letter_upper: V
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: VIDEO_CONFERENCING
+type: computer
+type_capital: Computer
+type_first_letter: c
+type_first_letter_upper: C
+type_upper: COMPUTER

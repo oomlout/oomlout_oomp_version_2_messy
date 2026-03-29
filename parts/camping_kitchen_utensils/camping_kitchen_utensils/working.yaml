@@ -1,0 +1,77 @@
+classification: camping
+classification_capital: Camping
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CAMPING
+color: utensils
+color_capital: Utensils
+color_first_letter: u
+color_first_letter_upper: U
+color_upper: UTENSILS
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'U '
+description_or_color_upper: 'U '
+directory: parts/camping_kitchen_utensils
+distributors: []
+filter: ''
+from_yaml: false
+id: camping_kitchen_utensils
+id_no_class: kitchen_utensils
+id_no_size: utensils
+id_no_type: utensils
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/camping_kitchen_utensils
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/camping_kitchen_utensils
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/camping_kitchen_utensils
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[camping_kitchen_utensils](none)<br>[](none)<br>[Camping Kitchen Utensils](none)<br><br>'
+markdown_short: '[camping_kitchen_utensils](none)<br><br>'
+md5: 3a463747c29fe2b184353b8808858794
+md5_10: 3a463747c2
+md5_10_upper: 3A463747C2
+md5_5: 3a463
+md5_5_upper: 3A463
+md5_6: 3a4637
+md5_6_alpha: 29ut3
+md5_6_alpha_upper: 29UT3
+md5_6_upper: 3A4637
+name: Camping Kitchen Utensils
+name_no_class: Kitchen Utensils
+name_no_size: Utensils
+name_no_size_short: Utensils
+name_no_type: Utensils
+oomp_key: oomp_camping_kitchen_utensils
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: kitchen
+type_capital: Kitchen
+type_first_letter: k
+type_first_letter_upper: K
+type_upper: KITCHEN

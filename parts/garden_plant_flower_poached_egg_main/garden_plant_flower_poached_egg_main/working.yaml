@@ -1,0 +1,79 @@
+classification: garden
+classification_capital: Garden
+classification_first_letter: g
+classification_first_letter_upper: G
+classification_upper: GARDEN
+color: poached_egg
+color_capital: Poached Egg
+color_first_letter: p
+color_first_letter_upper: P
+color_upper: POACHED_EGG
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: main
+description_main_capital: Main
+description_main_first_letter: m
+description_main_first_letter_upper: M
+description_main_upper: MAIN
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'P '
+description_or_color_upper: 'P '
+directory: parts/garden_plant_flower_poached_egg_main
+distributor_sutton_seeds: '142008'
+distributors: []
+id: garden_plant_flower_poached_egg_main
+id_no_class: plant_flower_poached_egg_main
+id_no_size: poached_egg_main
+id_no_type: flower_poached_egg_main
+link_distributor_sutton_seeds: https://www.suttons.co.uk/SUDM2/lupin-gallery-mix-seeds_mh-623
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/garden_plant_flower_poached_egg_main
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/garden_plant_flower_poached_egg_main
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/garden_plant_flower_poached_egg_main
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[garden_plant_flower_poached_egg_main](none)<br>[](none)<br>[Garden
+    Plant Flower Poached Egg Main](none)<br><br>'
+markdown_short: '[garden_plant_flower_poached_egg_main](none)<br><br>'
+md5: b8ef84791915ede57cfb9eb8cef354fb
+md5_10: b8ef847919
+md5_10_upper: B8EF847919
+md5_5: b8ef8
+md5_5_upper: B8EF8
+md5_6: b8ef84
+md5_6_alpha: 77rt0
+md5_6_alpha_upper: 77RT0
+md5_6_upper: B8EF84
+name: Garden Plant Flower Poached Egg Main
+name_no_class: Plant Flower Poached Egg Main
+name_no_size: Poached Egg Main
+name_no_size_short: Poached Egg Main
+name_no_type: Flower Poached Egg Main
+oomp_key: oomp_garden_plant_flower_poached_egg_main
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: flower
+size_capital: Flower
+size_first_letter: f
+size_first_letter_upper: F
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: FLOWER
+type: plant
+type_capital: Plant
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PLANT

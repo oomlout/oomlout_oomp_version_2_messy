@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_electrical
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_electrical_wall_wart
+distributors: []
+filter: ''
+from_yaml: false
+id: category_electrical_wall_wart
+id_no_class: electrical_wall_wart
+id_no_size: wall_wart
+id_no_type: wall_wart
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electrical_wall_wart
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electrical_wall_wart
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electrical_wall_wart
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_electrical_wall_wart](none)<br>[](none)<br>[Category Electrical
+    Wall Wart](none)<br><br>'
+markdown_short: '[category_electrical_wall_wart](none)<br><br>'
+md5: 360bd1367289a84c43380e70425051de
+md5_10: 360bd13672
+md5_10_upper: 360BD13672
+md5_5: 360bd
+md5_5_upper: 360BD
+md5_6: 360bd1
+md5_6_alpha: 23x01
+md5_6_alpha_upper: 23X01
+md5_6_upper: 360BD1
+name: Category Electrical Wall Wart
+name_no_class: Electrical Wall Wart
+name_no_size: Wall Wart
+name_no_size_short: Wall Wart
+name_no_type: Wall Wart
+oomp_key: oomp_category_electrical_wall_wart
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryelectrical
+size: wall_wart
+size_capital: Wall Wart
+size_first_letter: w
+size_first_letter_upper: W
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: WALL_WART
+type: electrical
+type_capital: Electrical
+type_first_letter: e
+type_first_letter_upper: E
+type_upper: ELECTRICAL

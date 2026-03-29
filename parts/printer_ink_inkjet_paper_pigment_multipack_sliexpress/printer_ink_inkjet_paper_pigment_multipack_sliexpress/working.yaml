@@ -1,0 +1,76 @@
+classification: printer
+classification_capital: Printer
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_upper: PRINTER
+color: pigment
+color_capital: Pigment
+color_first_letter: p
+color_first_letter_upper: P
+color_upper: PIGMENT
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: multipack
+description_main_capital: Multipack
+description_main_first_letter: m
+description_main_first_letter_upper: M
+description_main_upper: MULTIPACK
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'P '
+description_or_color_upper: 'P '
+directory: parts/printer_ink_inkjet_paper_pigment_multipack_sliexpress
+distributors: []
+id: printer_ink_inkjet_paper_pigment_multipack_sliexpress
+id_no_class: ink_inkjet_paper_pigment_multipack_sliexpress
+id_no_size: pigment_multipack_sliexpress
+id_no_type: inkjet_paper_pigment_multipack_sliexpress
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_ink_inkjet_paper_pigment_multipack_sliexpress
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_ink_inkjet_paper_pigment_multipack_sliexpress
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_ink_inkjet_paper_pigment_multipack_sliexpress
+manufacturer: sliexpress
+manufacturer_capital: Sliexpress
+manufacturer_first_letter: s
+manufacturer_first_letter_upper: S
+manufacturer_upper: SLIEXPRESS
+manufacturers: []
+markdown_full: '[printer_ink_inkjet_paper_pigment_multipack_sliexpress](none)<br>[](none)<br>[Printer
+    Ink Inkjet Paper Pigment Multipack Sliexpress](none)<br><br>'
+markdown_short: '[printer_ink_inkjet_paper_pigment_multipack_sliexpress](none)<br><br>'
+md5: c65e46a30c49313ef48a088b4558b821
+md5_10: c65e46a30c
+md5_10_upper: C65E46A30C
+md5_5: c65e4
+md5_5_upper: C65E4
+md5_6: c65e46
+md5_6_alpha: 7qn2e
+md5_6_alpha_upper: 7QN2E
+md5_6_upper: C65E46
+name: Printer Ink Inkjet Paper Pigment Multipack Sliexpress
+name_no_class: Ink Inkjet Paper Pigment Multipack Sliexpress
+name_no_size: Pigment Multipack Sliexpress
+name_no_size_short: Pigment Multipack Sliexpress
+name_no_type: Inkjet Paper Pigment Multipack Sliexpress
+oomp_key: oomp_printer_ink_inkjet_paper_pigment_multipack_sliexpress
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: inkjet_paper
+size_capital: Inkjet Paper
+size_first_letter: i
+size_first_letter_upper: I
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: INKJET_PAPER
+type: ink
+type_capital: Ink
+type_first_letter: i
+type_first_letter_upper: I
+type_upper: INK

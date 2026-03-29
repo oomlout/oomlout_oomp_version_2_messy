@@ -1,0 +1,78 @@
+classification: tool
+classification_capital: Tool
+classification_first_letter: t
+classification_first_letter_upper: T
+classification_upper: TOOL
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: flat_top_style
+description_extra_capital: Flat Top Style
+description_extra_first_letter: f
+description_extra_first_letter_upper: F
+description_extra_upper: FLAT_TOP_STYLE
+description_main: 10_ml
+description_main_capital: 10 Ml
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_upper: 10_ML
+description_only_numbers: '10'
+description_only_numbers_short: '10'
+description_or_color: '10'
+description_or_color_upper: '10'
+directory: parts/tool_syringe_10_ml_flat_top_style
+distributors: []
+filter: ''
+from_yaml: false
+id: tool_syringe_10_ml_flat_top_style
+id_no_class: syringe_10_ml_flat_top_style
+id_no_size: 10mlflattopstyle
+id_no_type: 10_ml_flat_top_style
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_syringe_10_ml_flat_top_style
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_syringe_10_ml_flat_top_style
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_syringe_10_ml_flat_top_style
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[tool_syringe_10_ml_flat_top_style](none)<br>[](none)<br>[Tool Syringe
+    10 Ml Flat Top Style](none)<br><br>'
+markdown_short: '[tool_syringe_10_ml_flat_top_style](none)<br><br>'
+md5: b7077988221777b3668cc9452c46a7b5
+md5_10: b707798822
+md5_10_upper: B707798822
+md5_5: b7077
+md5_5_upper: B7077
+md5_6: b70779
+md5_6_alpha: 753eh
+md5_6_alpha_upper: 753EH
+md5_6_upper: B70779
+name: Tool Syringe 10 Ml Flat Top Style
+name_no_class: Syringe 10 Ml Flat Top Style
+name_no_size: 10Mlflattopstyle
+name_no_size_short: 10Mlflattopstyle
+name_no_type: 10 Ml Flat Top Style
+oomp_key: oomp_tool_syringe_10_ml_flat_top_style
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: syringe
+type_capital: Syringe
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: SYRINGE

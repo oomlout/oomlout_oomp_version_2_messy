@@ -1,0 +1,78 @@
+classification: robot_dog
+classification_capital: Robot Dog
+classification_first_letter: r
+classification_first_letter_upper: R
+classification_upper: ROBOT_DOG
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: x
+description_main_capital: X
+description_main_first_letter: x
+description_main_first_letter_upper: X
+description_main_upper: X
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/robot_dog_unitree_go2_x
+distributors: []
+filter: ''
+from_yaml: false
+id: robot_dog_unitree_go2_x
+id_no_class: unitree_go2_x
+id_no_size: x
+id_no_type: go2_x
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/robot_dog_unitree_go2_x
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/robot_dog_unitree_go2_x
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/robot_dog_unitree_go2_x
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[robot_dog_unitree_go2_x](none)<br>[](none)<br>[Robot Dog Unitree
+    Go2 X](none)<br><br>'
+markdown_short: '[robot_dog_unitree_go2_x](none)<br><br>'
+md5: d4407d47cfcb8d03867735aa54a15e86
+md5_10: d4407d47cf
+md5_10_upper: D4407D47CF
+md5_5: d4407
+md5_5_upper: D4407
+md5_6: d4407d
+md5_6_alpha: 8a54t
+md5_6_alpha_upper: 8A54T
+md5_6_upper: D4407D
+name: Robot Dog Unitree Go2 X
+name_no_class: Unitree Go2 X
+name_no_size: X
+name_no_size_short: X
+name_no_type: Go2 X
+oomp_key: oomp_robot_dog_unitree_go2_x
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: go2
+size_capital: Go2
+size_first_letter: g
+size_first_letter_upper: G
+size_only_numbers: '2'
+size_only_numbers_no_zeros: '2'
+size_upper: GO2
+type: unitree
+type_capital: Unitree
+type_first_letter: u
+type_first_letter_upper: U
+type_upper: UNITREE

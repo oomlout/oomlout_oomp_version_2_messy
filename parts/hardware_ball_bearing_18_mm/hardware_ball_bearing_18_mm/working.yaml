@@ -1,0 +1,76 @@
+classification: hardware
+classification_capital: Hardware
+classification_first_letter: h
+classification_first_letter_upper: H
+classification_upper: HARDWARE
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/hardware_ball_bearing_18_mm
+distributors: []
+id: hardware_ball_bearing_18_mm
+id_no_class: ball_bearing_18_mm
+id_no_size: 18_mm
+id_no_type: 18_mm
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_ball_bearing_18_mm
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_ball_bearing_18_mm
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_ball_bearing_18_mm
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[hardware_ball_bearing_18_mm](none)<br>[18](none)<br>[Hardware Ball
+    Bearing 18 Mm](none)<br><br>'
+markdown_short: '[hardware_ball_bearing_18_mm](none)<br><br>'
+md5: 1abe92d38207d18835de67733e0d4542
+md5_10: 1abe92d382
+md5_10_upper: 1ABE92D382
+md5_5: 1abe9
+md5_5_upper: 1ABE9
+md5_6: 1abe92
+md5_6_alpha: 11keq
+md5_6_alpha_upper: 11KEQ
+md5_6_upper: 1ABE92
+name: Hardware Ball Bearing 18 Mm
+name_no_class: Ball Bearing 18 Mm
+name_no_size: 18 Mm
+name_no_size_short: 18 Mm
+name_no_type: 18 Mm
+oomp_key: oomp_hardware_ball_bearing_18_mm
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: '18'
+short_code_upper: '18'
+size: 18_mm
+size_capital: 18 mm
+size_first_letter: '1'
+size_first_letter_upper: '1'
+size_only_numbers: '18'
+size_only_numbers_no_zeros: '18'
+size_upper: 18_MM
+type: ball_bearing
+type_capital: Ball Bearing
+type_first_letter: b
+type_first_letter_upper: B
+type_upper: BALL_BEARING

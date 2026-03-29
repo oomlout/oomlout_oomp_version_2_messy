@@ -1,0 +1,89 @@
+classification: packaging
+classification_capital: Packaging
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_upper: PACKAGING
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+depth_internal:
+- 18 mm
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/packaging_tin_hinged_lid_169_mm_width_130_mm_height_18_mm_depth_350_ml_tinware_direct_t4066
+distributors: []
+height_internal:
+- 124 mm
+id: packaging_tin_hinged_lid_169_mm_width_130_mm_height_18_mm_depth_350_ml_tinware_direct_t4066
+id_no_class: tin_hinged_lid_169_mm_width_130_mm_height_18_mm_depth_350_ml_tinware_direct_t4066
+id_no_size: tinware_direct_t4066
+id_no_type: 169_mm_width_130_mm_height_18_mm_depth_350_ml_tinware_direct_t4066
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/packaging_tin_hinged_lid_169_mm_width_130_mm_height_18_mm_depth_350_ml_tinware_direct_t4066
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/packaging_tin_hinged_lid_169_mm_width_130_mm_height_18_mm_depth_350_ml_tinware_direct_t4066
+link_purchase:
+- https://tinwaredirect.com/products/silver-rectangular-stationery-tins-with-hinged-lid?variant=1726837358619
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/packaging_tin_hinged_lid_169_mm_width_130_mm_height_18_mm_depth_350_ml_tinware_direct_t4066
+manufacturer: tinware_direct
+manufacturer_capital: Tinware Direct
+manufacturer_first_letter: t
+manufacturer_first_letter_upper: T
+manufacturer_upper: TINWARE_DIRECT
+manufacturers: []
+markdown_full: '[packaging_tin_hinged_lid_169_mm_width_130_mm_height_18_mm_depth_350_ml_tinware_direct_t4066](none)<br>[](none)<br>[Packaging
+    Tin Hinged Lid 169 Mm Width 130 Mm Height 18 Mm Depth 350 Ml Tinware Direct T4066](none)<br><br>'
+markdown_short: '[packaging_tin_hinged_lid_169_mm_width_130_mm_height_18_mm_depth_350_ml_tinware_direct_t4066](none)<br><br>'
+md5: a65de53d6d59292797c98b9e15f69c27
+md5_10: a65de53d6d
+md5_10_upper: A65DE53D6D
+md5_5: a65de
+md5_5_upper: A65DE
+md5_6: a65de5
+md5_6_alpha: 6hoth
+md5_6_alpha_upper: 6HOTH
+md5_6_upper: A65DE5
+name: Packaging Tin Hinged Lid 169 Mm Width 130 Mm Height 18 Mm Depth 350 Ml Tinware
+    Direct T4066
+name_no_class: Tin Hinged Lid 169 Mm Width 130 Mm Height 18 Mm Depth 350 Ml Tinware
+    Direct T4066
+name_no_size: Tinware Direct T4066
+name_no_size_short: Tinware Direct T4066
+name_no_type: 169 Mm Width 130 Mm Height 18 Mm Depth 350 Ml Tinware Direct T4066
+oomp_key: oomp_packaging_tin_hinged_lid_169_mm_width_130_mm_height_18_mm_depth_350_ml_tinware_direct_t4066
+part_number: t4066
+part_number_capital: T4066
+part_number_first_letter: t
+part_number_first_letter_upper: T
+part_number_upper: T4066
+price_1: "\xA30.79"
+price_10: "\xA30.79"
+price_current: "\xA30.79"
+short_code: ''
+short_code_upper: ''
+size: 169_mm_width_130_mm_height_18_mm_depth_350_ml
+size_capital: 169 mm Width 130 mm Height 18 mm Depth 350 Ml
+size_first_letter: '1'
+size_first_letter_upper: '1'
+size_only_numbers: '16913018350'
+size_only_numbers_no_zeros: '169131835'
+size_upper: 169_MM_WIDTH_130_MM_HEIGHT_18_MM_DEPTH_350_ML
+type: tin_hinged_lid
+type_capital: Tin Hinged Lid
+type_first_letter: t
+type_first_letter_upper: T
+type_upper: TIN_HINGED_LID
+width_internal:
+- 165 mm

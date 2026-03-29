@@ -1,0 +1,90 @@
+classification: packaging
+classification_capital: Packaging
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_upper: PACKAGING
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+depth_internal:
+- 21 mm
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/packaging_tin_hinged_lid_a5_220_mm_width_160_mm_height_25_mm_depth_450_ml_tinware_direct_t4005
+distributors: []
+height_internal:
+- 156 mm
+id: packaging_tin_hinged_lid_a5_220_mm_width_160_mm_height_25_mm_depth_450_ml_tinware_direct_t4005
+id_no_class: tin_hinged_lid_a5_220_mm_width_160_mm_height_25_mm_depth_450_ml_tinware_direct_t4005
+id_no_size: tinware_direct_t4005
+id_no_type: a5_220_mm_width_160_mm_height_25_mm_depth_450_ml_tinware_direct_t4005
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/packaging_tin_hinged_lid_a5_220_mm_width_160_mm_height_25_mm_depth_450_ml_tinware_direct_t4005
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/packaging_tin_hinged_lid_a5_220_mm_width_160_mm_height_25_mm_depth_450_ml_tinware_direct_t4005
+link_purchase:
+- https://tinwaredirect.com/products/silver-rectangular-stationery-tins-with-hinged-lid?variant=1726838210587
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/packaging_tin_hinged_lid_a5_220_mm_width_160_mm_height_25_mm_depth_450_ml_tinware_direct_t4005
+manufacturer: tinware_direct
+manufacturer_capital: Tinware Direct
+manufacturer_first_letter: t
+manufacturer_first_letter_upper: T
+manufacturer_upper: TINWARE_DIRECT
+manufacturers: []
+markdown_full: '[packaging_tin_hinged_lid_a5_220_mm_width_160_mm_height_25_mm_depth_450_ml_tinware_direct_t4005](none)<br>[](none)<br>[Packaging
+    Tin Hinged Lid A5 220 Mm Width 160 Mm Height 25 Mm Depth 450 Ml Tinware Direct
+    T4005](none)<br><br>'
+markdown_short: '[packaging_tin_hinged_lid_a5_220_mm_width_160_mm_height_25_mm_depth_450_ml_tinware_direct_t4005](none)<br><br>'
+md5: 92ef2cf4b21c7b6eb67924a4168e6f21
+md5_10: 92ef2cf4b2
+md5_10_upper: 92EF2CF4B2
+md5_5: 92ef2
+md5_5_upper: 92EF2
+md5_6: 92ef2c
+md5_6_alpha: 5qe5o
+md5_6_alpha_upper: 5QE5O
+md5_6_upper: 92EF2C
+name: Packaging Tin Hinged Lid A5 220 Mm Width 160 Mm Height 25 Mm Depth 450 Ml Tinware
+    Direct T4005
+name_no_class: Tin Hinged Lid A5 220 Mm Width 160 Mm Height 25 Mm Depth 450 Ml Tinware
+    Direct T4005
+name_no_size: Tinware Direct T4005
+name_no_size_short: Tinware Direct T4005
+name_no_type: A5 220 Mm Width 160 Mm Height 25 Mm Depth 450 Ml Tinware Direct T4005
+oomp_key: oomp_packaging_tin_hinged_lid_a5_220_mm_width_160_mm_height_25_mm_depth_450_ml_tinware_direct_t4005
+part_number: t4005
+part_number_capital: T4005
+part_number_first_letter: t
+part_number_first_letter_upper: T
+part_number_upper: T4005
+price_1: "\xA31.25"
+price_10: "\xA31.25"
+price_current: "\xA31.25"
+short_code: ''
+short_code_upper: ''
+size: a5_220_mm_width_160_mm_height_25_mm_depth_450_ml
+size_capital: A5.220 mm Width 160 mm Height 25 mm Depth 450 Ml
+size_first_letter: a
+size_first_letter_upper: A
+size_only_numbers: '522016025450'
+size_only_numbers_no_zeros: '522162545'
+size_upper: A5_220_MM_WIDTH_160_MM_HEIGHT_25_MM_DEPTH_450_ML
+type: tin_hinged_lid
+type_capital: Tin Hinged Lid
+type_first_letter: t
+type_first_letter_upper: T
+type_upper: TIN_HINGED_LID
+width_internal:
+- 215 mm

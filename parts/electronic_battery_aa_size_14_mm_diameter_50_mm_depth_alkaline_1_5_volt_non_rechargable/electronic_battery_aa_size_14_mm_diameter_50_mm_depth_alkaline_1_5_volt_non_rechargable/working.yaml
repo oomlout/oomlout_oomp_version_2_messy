@@ -1,0 +1,79 @@
+classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_upper: ELECTRONIC
+color: alkaline_1_5_volt_non_rechargable
+color_capital: Alkaline 1.5 Volt Non Rechargable
+color_first_letter: a
+color_first_letter_upper: A
+color_upper: ALKALINE_1_5_VOLT_NON_RECHARGABLE
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'A '
+description_or_color_upper: 'A '
+directory: parts/electronic_battery_aa_size_14_mm_diameter_50_mm_depth_alkaline_1_5_volt_non_rechargable
+distributors: []
+id: electronic_battery_aa_size_14_mm_diameter_50_mm_depth_alkaline_1_5_volt_non_rechargable
+id_no_class: battery_aa_size_14_mm_diameter_50_mm_depth_alkaline_1_5_volt_non_rechargable
+id_no_size: alkaline_1_5_volt_non_rechargable
+id_no_type: aa_size_14_mm_diameter_50_mm_depth_alkaline_1_5_volt_non_rechargable
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_battery_aa_size_14_mm_diameter_50_mm_depth_alkaline_1_5_volt_non_rechargable
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_battery_aa_size_14_mm_diameter_50_mm_depth_alkaline_1_5_volt_non_rechargable
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_battery_aa_size_14_mm_diameter_50_mm_depth_alkaline_1_5_volt_non_rechargable
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[electronic_battery_aa_size_14_mm_diameter_50_mm_depth_alkaline_1_5_volt_non_rechargable](none)<br>[](none)<br>[Electronic
+    Battery Aa Size 14 Mm Diameter 50 Mm Depth Alkaline 1 5 Volt Non Rechargable](none)<br><br>'
+markdown_short: '[electronic_battery_aa_size_14_mm_diameter_50_mm_depth_alkaline_1_5_volt_non_rechargable](none)<br><br>'
+md5: cfa2b92535b223189b2457388473ba00
+md5_10: cfa2b92535
+md5_10_upper: CFA2B92535
+md5_5: cfa2b
+md5_5_upper: CFA2B
+md5_6: cfa2b9
+md5_6_alpha: 83np5
+md5_6_alpha_upper: 83NP5
+md5_6_upper: CFA2B9
+name: Electronic Battery Aa Size 14 Mm Diameter 50 Mm Depth Alkaline 1 5 Volt Non
+    Rechargable
+name_no_class: Battery Aa Size 14 Mm Diameter 50 Mm Depth Alkaline 1 5 Volt Non Rechargable
+name_no_size: Alkaline 1 5 Volt Non Rechargable
+name_no_size_short: Alkaline 1 5 Volt Non Rechargable
+name_no_type: Aa Size 14 Mm Diameter 50 Mm Depth Alkaline 1 5 Volt Non Rechargable
+oomp_key: oomp_electronic_battery_aa_size_14_mm_diameter_50_mm_depth_alkaline_1_5_volt_non_rechargable
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: aa_size_14_mm_diameter_50_mm_depth
+size_capital: Aa Size 14 mm Diameter 50 mm Depth
+size_first_letter: a
+size_first_letter_upper: A
+size_only_numbers: '1450'
+size_only_numbers_no_zeros: '145'
+size_upper: AA_SIZE_14_MM_DIAMETER_50_MM_DEPTH
+type: battery
+type_capital: Battery
+type_first_letter: b
+type_first_letter_upper: B
+type_upper: BATTERY

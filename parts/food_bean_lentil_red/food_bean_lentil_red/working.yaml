@@ -1,0 +1,78 @@
+classification: food
+classification_capital: Food
+classification_first_letter: f
+classification_first_letter_upper: F
+classification_upper: FOOD
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: lentil_red
+description_main_capital: Lentil Red
+description_main_first_letter: l
+description_main_first_letter_upper: L
+description_main_upper: LENTIL_RED
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/food_bean_lentil_red
+distributors: []
+filter: ''
+from_yaml: false
+id: food_bean_lentil_red
+id_no_class: bean_lentil_red
+id_no_size: lentilred
+id_no_type: lentil_red
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_bean_lentil_red
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_bean_lentil_red
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_bean_lentil_red
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[food_bean_lentil_red](none)<br>[](none)<br>[Food Bean Lentil Red](none)<br><br>'
+markdown_short: '[food_bean_lentil_red](none)<br><br>'
+md5: ee8c7fa4176e16d729244f3543207705
+md5_10: ee8c7fa417
+md5_10_upper: EE8C7FA417
+md5_5: ee8c7
+md5_5_upper: EE8C7
+md5_6: ee8c7f
+md5_6_alpha: 9b2wv
+md5_6_alpha_upper: 9B2WV
+md5_6_upper: EE8C7F
+name: Food Bean Lentil Red
+name_no_class: Bean Lentil Red
+name_no_size: Lentilred
+name_no_size_short: Lentilred
+name_no_type: Lentil Red
+name_short: Red Lentils
+oomp_key: oomp_food_bean_lentil_red
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: bean
+type_capital: Bean
+type_first_letter: b
+type_first_letter_upper: B
+type_upper: BEAN

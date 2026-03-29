@@ -1,0 +1,77 @@
+classification: three_d_printer
+classification_capital: Three D Printer
+classification_first_letter: t
+classification_first_letter_upper: T
+classification_upper: THREE_D_PRINTER
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: hotend
+description_main_capital: Hotend
+description_main_first_letter: h
+description_main_first_letter_upper: H
+description_main_upper: HOTEND
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/three_d_printer_spare_part_anycubic_vyper_hotend
+distributors: []
+id: three_d_printer_spare_part_anycubic_vyper_hotend
+id_no_class: spare_part_anycubic_vyper_hotend
+id_no_size: hotend
+id_no_type: anycubic_vyper_hotend
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/three_d_printer_spare_part_anycubic_vyper_hotend
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/three_d_printer_spare_part_anycubic_vyper_hotend
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/three_d_printer_spare_part_anycubic_vyper_hotend
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[three_d_printer_spare_part_anycubic_vyper_hotend](none)<br>[](none)<br>[Three
+    D Printer Spare Part Anycubic Vyper Hotend](none)<br><br>'
+markdown_short: '[three_d_printer_spare_part_anycubic_vyper_hotend](none)<br><br>'
+md5: eff11793d0ec0a84acc360de42f9207c
+md5_10: eff11793d0
+md5_10_upper: EFF11793D0
+md5_5: eff11
+md5_5_upper: EFF11
+md5_6: eff117
+md5_6_alpha: 9d1cn
+md5_6_alpha_upper: 9D1CN
+md5_6_upper: EFF117
+name: Three D Printer Spare Part Anycubic Vyper Hotend
+name_no_class: Spare Part Anycubic Vyper Hotend
+name_no_size: Hotend
+name_no_size_short: Hotend
+name_no_type: Anycubic Vyper Hotend
+oomp_key: oomp_three_d_printer_spare_part_anycubic_vyper_hotend
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Anycubic Vyper Hotend
+size: anycubic_vyper
+size_capital: Anycubic Vyper
+size_first_letter: a
+size_first_letter_upper: A
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ANYCUBIC_VYPER
+type: spare_part
+type_capital: Spare Part
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: SPARE_PART

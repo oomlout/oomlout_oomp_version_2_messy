@@ -1,0 +1,78 @@
+classification: tool
+classification_capital: Tool
+classification_first_letter: t
+classification_first_letter_upper: T
+classification_upper: TOOL
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/tool_water_chiller_420_mm_width_350_mm_height_500_mm_depth_hpc_laser_cw4000
+distributors: []
+filter: ''
+from_yaml: false
+id: tool_water_chiller_420_mm_width_350_mm_height_500_mm_depth_hpc_laser_cw4000
+id_no_class: water_chiller_420_mm_width_350_mm_height_500_mm_depth_hpc_laser_cw4000
+id_no_size: hpc_laser_cw4000
+id_no_type: 420_mm_width_350_mm_height_500_mm_depth_hpc_laser_cw4000
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_water_chiller_420_mm_width_350_mm_height_500_mm_depth_hpc_laser_cw4000
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_water_chiller_420_mm_width_350_mm_height_500_mm_depth_hpc_laser_cw4000
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_water_chiller_420_mm_width_350_mm_height_500_mm_depth_hpc_laser_cw4000
+manufacturer: hpc_laser
+manufacturer_capital: Hpc Laser
+manufacturer_first_letter: h
+manufacturer_first_letter_upper: H
+manufacturer_upper: HPC_LASER
+manufacturers: []
+markdown_full: '[tool_water_chiller_420_mm_width_350_mm_height_500_mm_depth_hpc_laser_cw4000](none)<br>[](none)<br>[Tool
+    Water Chiller 420 Mm Width 350 Mm Height 500 Mm Depth Hpc Laser Cw4000](none)<br><br>'
+markdown_short: '[tool_water_chiller_420_mm_width_350_mm_height_500_mm_depth_hpc_laser_cw4000](none)<br><br>'
+md5: 378fcf1b02c2ca89b25b6d10ec2614cc
+md5_10: 378fcf1b02
+md5_10_upper: 378FCF1B02
+md5_5: 378fc
+md5_5_upper: 378FC
+md5_6: 378fcf
+md5_6_alpha: 261n3
+md5_6_alpha_upper: 261N3
+md5_6_upper: 378FCF
+name: Tool Water Chiller 420 Mm Width 350 Mm Height 500 Mm Depth Hpc Laser Cw4000
+name_no_class: Water Chiller 420 Mm Width 350 Mm Height 500 Mm Depth Hpc Laser Cw4000
+name_no_size: Hpc Laser Cw4000
+name_no_size_short: Hpc Laser Cw4000
+name_no_type: 420 Mm Width 350 Mm Height 500 Mm Depth Hpc Laser Cw4000
+oomp_key: oomp_tool_water_chiller_420_mm_width_350_mm_height_500_mm_depth_hpc_laser_cw4000
+part_number: cw4000
+part_number_capital: Cw4000
+part_number_first_letter: c
+part_number_first_letter_upper: C
+part_number_upper: CW4000
+short_code: ''
+short_code_upper: ''
+size: 420_mm_width_350_mm_height_500_mm_depth
+size_capital: 420 mm Width 350 mm Height 500 mm Depth
+size_first_letter: '4'
+size_first_letter_upper: '4'
+size_only_numbers: '420350500'
+size_only_numbers_no_zeros: '42355'
+size_upper: 420_MM_WIDTH_350_MM_HEIGHT_500_MM_DEPTH
+type: water_chiller
+type_capital: Water Chiller
+type_first_letter: w
+type_first_letter_upper: W
+type_upper: WATER_CHILLER

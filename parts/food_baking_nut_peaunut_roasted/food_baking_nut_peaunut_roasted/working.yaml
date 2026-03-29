@@ -1,0 +1,80 @@
+classification: food
+classification_capital: Food
+classification_first_letter: f
+classification_first_letter_upper: F
+classification_upper: FOOD
+color: peaunut_roasted
+color_capital: Peaunut Roasted
+color_first_letter: p
+color_first_letter_upper: P
+color_upper: PEAUNUT_ROASTED
+description: nut_peaunut_roasted
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'P '
+description_or_color_upper: 'P '
+directory: parts/food_baking_nut_peaunut_roasted
+distributors: []
+filter: ''
+from_yaml: false
+id: food_baking_nut_peaunut_roasted
+id_no_class: baking_nut_peaunut_roasted
+id_no_size: peauroasted
+id_no_type: nut_peaunut_roasted
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_baking_nut_peaunut_roasted
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_baking_nut_peaunut_roasted
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_baking_nut_peaunut_roasted
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[food_baking_nut_peaunut_roasted](none)<br>[](none)<br>[Food Baking
+    Nut Peaunut Roasted](none)<br><br>'
+markdown_short: '[food_baking_nut_peaunut_roasted](none)<br><br>'
+md5: 4474109c4ec8e47d3c9f3708ede2b95c
+md5_10: 4474109c4e
+md5_10_upper: 4474109C4E
+md5_5: '44741'
+md5_5_upper: '44741'
+md5_6: '447410'
+md5_6_alpha: 2o5jk
+md5_6_alpha_upper: 2O5JK
+md5_6_upper: '447410'
+name: Food Baking Nut Peaunut Roasted
+name_no_class: Baking Nut Peaunut Roasted
+name_no_size: Peauroasted
+name_no_size_short: Peauroasted
+name_no_type: Nut Peaunut Roasted
+name_short: Nut Peaunut Roasted
+oomp_key: oomp_food_baking_nut_peaunut_roasted
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: nut
+size_capital: Nut
+size_first_letter: n
+size_first_letter_upper: N
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: NUT
+type: baking
+type_capital: Baking
+type_first_letter: b
+type_first_letter_upper: B
+type_upper: BAKING

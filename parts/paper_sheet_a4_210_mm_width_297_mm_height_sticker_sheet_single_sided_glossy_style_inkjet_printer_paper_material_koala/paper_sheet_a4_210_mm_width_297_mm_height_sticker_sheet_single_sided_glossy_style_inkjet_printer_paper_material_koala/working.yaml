@@ -1,0 +1,88 @@
+classification: paper
+classification_capital: Paper
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_upper: PAPER
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: single_sided_glossy_style_inkjet_printer_paper_material
+description_extra_capital: Single Sided Glossy Style Inkjet Printer Paper Material
+description_extra_first_letter: s
+description_extra_first_letter_upper: S
+description_extra_upper: SINGLE_SIDED_GLOSSY_STYLE_INKJET_PRINTER_PAPER_MATERIAL
+description_main: sticker_sheet
+description_main_capital: Sticker Sheet
+description_main_first_letter: s
+description_main_first_letter_upper: S
+description_main_upper: STICKER_SHEET
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/paper_sheet_a4_210_mm_width_297_mm_height_sticker_sheet_single_sided_glossy_style_inkjet_printer_paper_material_koala
+distributor_amazon: B082XKGBF4
+distributors: []
+filter: ''
+from_yaml: false
+height: 297 mm
+id: paper_sheet_a4_210_mm_width_297_mm_height_sticker_sheet_single_sided_glossy_style_inkjet_printer_paper_material_koala
+id_no_class: sheet_a4_210_mm_width_297_mm_height_sticker_sheet_single_sided_glossy_style_inkjet_printer_material_koala
+id_no_size: sticker_single_sided_glossy_style_inkjet_printer_material_koala
+id_no_type: a4_210_mm_width_297_mm_height_sticker_single_sided_glossy_style_inkjet_printer_material_koala
+link_distributor_amazon: https://www.amazon.co.uk/dp/B082XKGBF4
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a4_210_mm_width_297_mm_height_sticker_sheet_single_sided_glossy_style_inkjet_printer_paper_material_koala
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a4_210_mm_width_297_mm_height_sticker_sheet_single_sided_glossy_style_inkjet_printer_paper_material_koala
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_a4_210_mm_width_297_mm_height_sticker_sheet_single_sided_glossy_style_inkjet_printer_paper_material_koala
+manufacturer: koala
+manufacturer_capital: Koala
+manufacturer_first_letter: k
+manufacturer_first_letter_upper: K
+manufacturer_upper: KOALA
+manufacturers: []
+markdown_full: '[paper_sheet_a4_210_mm_width_297_mm_height_sticker_sheet_single_sided_glossy_style_inkjet_printer_paper_material_koala](none)<br>[](none)<br>[Paper
+    Sheet A4 210 Mm Width 297 Mm Height Sticker Sheet Single Sided Glossy Style Inkjet
+    Printer Paper Material Koala](none)<br><br>'
+markdown_short: '[paper_sheet_a4_210_mm_width_297_mm_height_sticker_sheet_single_sided_glossy_style_inkjet_printer_paper_material_koala](none)<br><br>'
+md5: 04fa48a85b062df9d86e3786c9c64d14
+md5_10: 04fa48a85b
+md5_10_upper: 04FA48A85B
+md5_5: 04fa4
+md5_5_upper: 04FA4
+md5_6: 04fa48
+md5_6_alpha: 6zpk
+md5_6_alpha_upper: 6ZPK
+md5_6_upper: 04FA48
+name: Paper Sheet A4 210 Mm Width 297 Mm Height Sticker Sheet Single Sided Glossy
+    Style Inkjet Printer Paper Material Koala
+name_no_class: Sheet A4 210 Mm Width 297 Mm Height Sticker Sheet Single Sided Glossy
+    Style Inkjet Printer Material Koala
+name_no_size: Sticker Single Sided Glossy Style Inkjet Printer Material Koala
+name_no_size_short: Sticker Single Sided Glossy Style Inkjet Printer Material Koala
+name_no_type: A4 210 Mm Width 297 Mm Height Sticker Single Sided Glossy Style Inkjet
+    Printer Material Koala
+oomp_key: oomp_paper_sheet_a4_210_mm_width_297_mm_height_sticker_sheet_single_sided_glossy_style_inkjet_printer_paper_material_koala
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+price_1: 0.10825000000000001
+price_1_distributor_amazon: 0.10825000000000001
+short_code: ''
+short_code_upper: ''
+size: a4_210_mm_width_297_mm_height
+size_capital: A4.210 mm Width 297 mm Height
+size_first_letter: a
+size_first_letter_upper: A
+size_only_numbers: '4210297'
+size_only_numbers_no_zeros: '421297'
+size_upper: A4_210_MM_WIDTH_297_MM_HEIGHT
+type: sheet
+type_capital: Sheet
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: SHEET
+width: 210 mm

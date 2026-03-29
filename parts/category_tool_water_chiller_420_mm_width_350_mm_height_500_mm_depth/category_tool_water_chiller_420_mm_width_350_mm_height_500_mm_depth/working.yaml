@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: 420_mm_width_350_mm_height_500_mm_depth
+color_capital: 420 mm Width 350 mm Height 500 mm Depth
+color_first_letter: '4'
+color_first_letter_upper: '4'
+color_upper: 420_MM_WIDTH_350_MM_HEIGHT_500_MM_DEPTH
+description: category_tool
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: '4 '
+description_or_color_upper: '4 '
+directory: parts/category_tool_water_chiller_420_mm_width_350_mm_height_500_mm_depth
+distributors: []
+filter: ''
+from_yaml: false
+id: category_tool_water_chiller_420_mm_width_350_mm_height_500_mm_depth
+id_no_class: tool_water_chiller_420_mm_width_350_mm_height_500_mm_depth
+id_no_size: 420_mm_width_350_mm_height_500_mm_depth
+id_no_type: water_chiller_420_mm_width_350_mm_height_500_mm_depth
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_water_chiller_420_mm_width_350_mm_height_500_mm_depth
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_water_chiller_420_mm_width_350_mm_height_500_mm_depth
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_water_chiller_420_mm_width_350_mm_height_500_mm_depth
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_tool_water_chiller_420_mm_width_350_mm_height_500_mm_depth](none)<br>[](none)<br>[Category
+    Tool Water Chiller 420 Mm Width 350 Mm Height 500 Mm Depth](none)<br><br>'
+markdown_short: '[category_tool_water_chiller_420_mm_width_350_mm_height_500_mm_depth](none)<br><br>'
+md5: 4ed80dd41b754a4c4064886b273dc02f
+md5_10: 4ed80dd41b
+md5_10_upper: 4ED80DD41B
+md5_5: 4ed80
+md5_5_upper: 4ED80
+md5_6: 4ed80d
+md5_6_alpha: 32qz1
+md5_6_alpha_upper: 32QZ1
+md5_6_upper: 4ED80D
+name: Category Tool Water Chiller 420 Mm Width 350 Mm Height 500 Mm Depth
+name_no_class: Tool Water Chiller 420 Mm Width 350 Mm Height 500 Mm Depth
+name_no_size: 420 Mm Width 350 Mm Height 500 Mm Depth
+name_no_size_short: 420 Mm Width 350 Mm Height 500 Mm Depth
+name_no_type: Water Chiller 420 Mm Width 350 Mm Height 500 Mm Depth
+oomp_key: oomp_category_tool_water_chiller_420_mm_width_350_mm_height_500_mm_depth
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorytool
+size: water_chiller
+size_capital: Water Chiller
+size_first_letter: w
+size_first_letter_upper: W
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: WATER_CHILLER
+type: tool
+type_capital: Tool
+type_first_letter: t
+type_first_letter_upper: T
+type_upper: TOOL

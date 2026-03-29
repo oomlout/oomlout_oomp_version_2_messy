@@ -1,0 +1,80 @@
+classification: vinyl
+classification_capital: Vinyl
+classification_first_letter: v
+classification_first_letter_upper: V
+classification_upper: VINYL
+color: white
+color_capital: White
+color_first_letter: w
+color_first_letter_upper: W
+color_upper: WHITE
+description_extra: a4_210_mm_width_297_mm_height
+description_extra_capital: A4.210 mm Width 297 mm Height
+description_extra_first_letter: a
+description_extra_first_letter_upper: A
+description_extra_upper: A4_210_MM_WIDTH_297_MM_HEIGHT
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'W '
+description_or_color_upper: 'W '
+directory: parts/vinyl_white_a4_210_mm_width_297_mm_height
+distributors: []
+filter: ''
+from_yaml: false
+height: 297 mm
+id: vinyl_white_a4_210_mm_width_297_mm_height
+id_no_class: white_a4_210_mm_width_297_mm_height
+id_no_size: whitea4210mmwidth297mmheight
+id_no_type: whitea4210mmwidth297mmheight
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/vinyl_white_a4_210_mm_width_297_mm_height
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/vinyl_white_a4_210_mm_width_297_mm_height
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/vinyl_white_a4_210_mm_width_297_mm_height
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[vinyl_white_a4_210_mm_width_297_mm_height](none)<br>[w](none)<br>[Vinyl
+    White A4 210 Mm Width 297 Mm Height](none)<br><br>'
+markdown_short: '[vinyl_white_a4_210_mm_width_297_mm_height](none)<br><br>'
+md5: c826b7c5e5594dbb8af82ec60cb6dbde
+md5_10: c826b7c5e5
+md5_10_upper: C826B7C5E5
+md5_5: c826b
+md5_5_upper: C826B
+md5_6: c826b7
+md5_6_alpha: 7t587
+md5_6_alpha_upper: 7T587
+md5_6_upper: C826B7
+name: Vinyl White A4 210 Mm Width 297 Mm Height
+name_no_class: White A4 210 Mm Width 297 Mm Height
+name_no_size: Whitea4210Mmwidth297Mmheight
+name_no_size_short: Whitea4210Mmwidth297Mmheight
+name_no_type: Whitea4210Mmwidth297Mmheight
+oomp_key: oomp_vinyl_white_a4_210_mm_width_297_mm_height
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: w
+short_code_upper: W
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: ''
+type_capital: ''
+type_first_letter: ''
+type_first_letter_upper: ''
+type_upper: ''
+width: 210 mm

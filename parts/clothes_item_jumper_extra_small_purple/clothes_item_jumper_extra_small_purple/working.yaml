@@ -1,0 +1,78 @@
+classification: clothes
+classification_capital: Clothes
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CLOTHES
+color: extra_small
+color_capital: Extra Small
+color_first_letter: e
+color_first_letter_upper: E
+color_upper: EXTRA_SMALL
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: purple
+description_main_capital: Purple
+description_main_first_letter: p
+description_main_first_letter_upper: P
+description_main_upper: PURPLE
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'E '
+description_or_color_upper: 'E '
+directory: parts/clothes_item_jumper_extra_small_purple
+distributors: []
+filter: ''
+from_yaml: false
+id: clothes_item_jumper_extra_small_purple
+id_no_class: item_jumper_extra_small_purple
+id_no_size: extra_small_purple
+id_no_type: jumper_extra_small_purple
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_jumper_extra_small_purple
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_jumper_extra_small_purple
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_jumper_extra_small_purple
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[clothes_item_jumper_extra_small_purple](none)<br>[](none)<br>[Clothes
+    Item Jumper Extra Small Purple](none)<br><br>'
+markdown_short: '[clothes_item_jumper_extra_small_purple](none)<br><br>'
+md5: 4b9d6a4fde3eeb255672009ecf89ef34
+md5_10: 4b9d6a4fde
+md5_10_upper: 4B9D6A4FDE
+md5_5: 4b9d6
+md5_5_upper: 4B9D6
+md5_6: 4b9d6a
+md5_6_alpha: 2y7oq
+md5_6_alpha_upper: 2Y7OQ
+md5_6_upper: 4B9D6A
+name: Clothes Item Jumper Extra Small Purple
+name_no_class: Item Jumper Extra Small Purple
+name_no_size: Extra Small Purple
+name_no_size_short: Extra Small Purple
+name_no_type: Jumper Extra Small Purple
+oomp_key: oomp_clothes_item_jumper_extra_small_purple
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: jumper
+size_capital: Jumper
+size_first_letter: j
+size_first_letter_upper: J
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: JUMPER
+type: item
+type_capital: Item
+type_first_letter: i
+type_first_letter_upper: I
+type_upper: ITEM

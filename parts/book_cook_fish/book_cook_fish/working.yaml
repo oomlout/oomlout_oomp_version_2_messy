@@ -1,0 +1,77 @@
+classification: book
+classification_capital: Book
+classification_first_letter: b
+classification_first_letter_upper: B
+classification_upper: BOOK
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/book_cook_fish
+distributors: []
+filter: ''
+from_yaml: false
+id: book_cook_fish
+id_no_class: cook_fish
+id_no_size: fish
+id_no_type: fish
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/book_cook_fish
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/book_cook_fish
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/book_cook_fish
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[book_cook_fish](none)<br>[](none)<br>[Book Cook Fish](none)<br><br>'
+markdown_short: '[book_cook_fish](none)<br><br>'
+md5: e3cb7d84322612ca68616ea9c10c65ae
+md5_10: e3cb7d8432
+md5_10_upper: E3CB7D8432
+md5_5: e3cb7
+md5_5_upper: E3CB7
+md5_6: e3cb7d
+md5_6_alpha: 8vz3x
+md5_6_alpha_upper: 8VZ3X
+md5_6_upper: E3CB7D
+name: Book Cook Fish
+name_no_class: Cook Fish
+name_no_size: Fish
+name_no_size_short: Fish
+name_no_type: Fish
+oomp_key: oomp_book_cook_fish
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: fish
+size_capital: Fish
+size_first_letter: f
+size_first_letter_upper: F
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: FISH
+type: cook
+type_capital: Cook
+type_first_letter: c
+type_first_letter_upper: C
+type_upper: COOK

@@ -1,0 +1,79 @@
+classification: dish
+classification_capital: Dish
+classification_first_letter: d
+classification_first_letter_upper: D
+classification_upper: DISH
+color: white
+color_capital: White
+color_first_letter: w
+color_first_letter_upper: W
+color_upper: WHITE
+description_extra: 110_mm_diameter
+description_extra_capital: 110 mm Diameter
+description_extra_first_letter: '1'
+description_extra_first_letter_upper: '1'
+description_extra_upper: 110_MM_DIAMETER
+description_main: bowl
+description_main_capital: Bowl
+description_main_first_letter: b
+description_main_first_letter_upper: B
+description_main_upper: BOWL
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'W '
+description_or_color_upper: 'W '
+directory: parts/dish_ikea_oftast_white_bowl_110_mm_diameter_ikea_904_671_12
+distributors: []
+filter: ''
+from_yaml: false
+id: dish_ikea_oftast_white_bowl_110_mm_diameter_ikea_904_671_12
+id_no_class: ikea_oftast_white_bowl_110_mm_diameter_ikea_904_671_12
+id_no_size: ikeaoftastwhitebowl110mmdiameterikea90467112
+id_no_type: ikeaoftastwhitebowl110mmdiameterikea90467112
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/dish_ikea_oftast_white_bowl_110_mm_diameter_ikea_904_671_12
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/dish_ikea_oftast_white_bowl_110_mm_diameter_ikea_904_671_12
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/dish_ikea_oftast_white_bowl_110_mm_diameter_ikea_904_671_12
+manufacturer: ikea
+manufacturer_capital: Ikea
+manufacturer_first_letter: i
+manufacturer_first_letter_upper: I
+manufacturer_upper: IKEA
+manufacturers: []
+markdown_full: '[dish_ikea_oftast_white_bowl_110_mm_diameter_ikea_904_671_12](none)<br>[w](none)<br>[Dish
+    Ikea Oftast White Bowl 110 Mm Diameter Ikea 904 671 12](none)<br><br>'
+markdown_short: '[dish_ikea_oftast_white_bowl_110_mm_diameter_ikea_904_671_12](none)<br><br>'
+md5: fb74c85487e9c27bfe2b37324de72e8b
+md5_10: fb74c85487
+md5_10_upper: FB74C85487
+md5_5: fb74c
+md5_5_upper: FB74C
+md5_6: fb74c8
+md5_6_alpha: 9t7m0
+md5_6_alpha_upper: 9T7M0
+md5_6_upper: FB74C8
+name: Dish Ikea Oftast White Bowl 110 Mm Diameter Ikea 904 671 12
+name_no_class: Ikea Oftast White Bowl 110 Mm Diameter Ikea 904 671 12
+name_no_size: Ikeaoftastwhitebowl110Mmdiameterikea90467112
+name_no_size_short: Ikeaoftastwhitebowl110Mmdiameterikea90467112
+name_no_type: Ikeaoftastwhitebowl110Mmdiameterikea90467112
+oomp_key: oomp_dish_ikea_oftast_white_bowl_110_mm_diameter_ikea_904_671_12
+part_number: '904_671_12'
+part_number_capital: 904.671.12
+part_number_exact: 904.671.12
+part_number_first_letter: '9'
+part_number_first_letter_upper: '9'
+part_number_upper: '904_671_12'
+short_code: w
+short_code_upper: W
+size: ikea_oftast
+size_capital: Ikea Oftast
+size_first_letter: i
+size_first_letter_upper: I
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: IKEA_OFTAST
+type: ''
+type_capital: ''
+type_first_letter: ''
+type_first_letter_upper: ''
+type_upper: ''

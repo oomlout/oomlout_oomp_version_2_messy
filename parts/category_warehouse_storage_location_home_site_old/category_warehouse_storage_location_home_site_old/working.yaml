@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: home_site
+color_capital: Home Site
+color_first_letter: h
+color_first_letter_upper: H
+color_upper: HOME_SITE
+description: category_warehouse
+description_extra: old
+description_extra_capital: Old
+description_extra_first_letter: o
+description_extra_first_letter_upper: O
+description_extra_upper: OLD
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'H '
+description_or_color_upper: 'H '
+directory: parts/category_warehouse_storage_location_home_site_old
+distributors: []
+filter: ''
+from_yaml: false
+id: category_warehouse_storage_location_home_site_old
+id_no_class: warehouse_storage_location_home_site_old
+id_no_size: home_site_old
+id_no_type: storage_location_home_site_old
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_warehouse_storage_location_home_site_old
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_warehouse_storage_location_home_site_old
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_warehouse_storage_location_home_site_old
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_warehouse_storage_location_home_site_old](none)<br>[](none)<br>[Category
+    Warehouse Storage Location Home Site Old](none)<br><br>'
+markdown_short: '[category_warehouse_storage_location_home_site_old](none)<br><br>'
+md5: efc37fdabe09cf7f6852336dda4d2084
+md5_10: efc37fdabe
+md5_10_upper: EFC37FDABE
+md5_5: efc37
+md5_5_upper: EFC37
+md5_6: efc37f
+md5_6_alpha: 9cscf
+md5_6_alpha_upper: 9CSCF
+md5_6_upper: EFC37F
+name: Category Warehouse Storage Location Home Site Old
+name_no_class: Warehouse Storage Location Home Site Old
+name_no_size: Home Site Old
+name_no_size_short: Home Site Old
+name_no_type: Storage Location Home Site Old
+oomp_key: oomp_category_warehouse_storage_location_home_site_old
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorywarehouse
+size: storage_location
+size_capital: Storage Location
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: STORAGE_LOCATION
+type: warehouse
+type_capital: Warehouse
+type_first_letter: w
+type_first_letter_upper: W
+type_upper: WAREHOUSE

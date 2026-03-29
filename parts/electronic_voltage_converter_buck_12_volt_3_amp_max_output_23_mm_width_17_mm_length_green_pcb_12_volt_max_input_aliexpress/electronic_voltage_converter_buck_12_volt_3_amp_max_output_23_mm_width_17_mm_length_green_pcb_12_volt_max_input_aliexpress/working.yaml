@@ -1,0 +1,85 @@
+classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_upper: ELECTRONIC
+color: 3_amp_max_output
+color_capital: 3 Amp Max Output
+color_first_letter: '3'
+color_first_letter_upper: '3'
+color_upper: 3_AMP_MAX_OUTPUT
+description_extra: 12_volt_max_input
+description_extra_capital: 12 Volt Max Input
+description_extra_first_letter: '1'
+description_extra_first_letter_upper: '1'
+description_extra_upper: 12_VOLT_MAX_INPUT
+description_main: 23_mm_width_17_mm_length_green_pcb
+description_main_capital: 23 mm Width 17 mm Length Green Pcb
+description_main_first_letter: '2'
+description_main_first_letter_upper: '2'
+description_main_upper: 23_MM_WIDTH_17_MM_LENGTH_GREEN_PCB
+description_only_numbers: '2317'
+description_only_numbers_short: 2k3
+description_or_color: 32k3
+description_or_color_upper: 32K3
+directory: parts/electronic_voltage_converter_buck_12_volt_3_amp_max_output_23_mm_width_17_mm_length_green_pcb_12_volt_max_input_aliexpress
+distributor_aliexpress: '1005006982841208'
+distributors: []
+id: electronic_voltage_converter_buck_12_volt_3_amp_max_output_23_mm_width_17_mm_length_green_pcb_12_volt_max_input_aliexpress
+id_no_class: voltage_converter_buck_12_volt_3_amp_max_output_23_mm_width_17_mm_length_green_pcb_12_volt_max_input_aliexpress
+id_no_size: 3_amp_max_output_23_mm_width_17_mm_length_green_pcb_max_input_aliexpress
+id_no_type: 12_volt_3_amp_max_output_23_mm_width_17_mm_length_green_pcb_12_volt_max_input_aliexpress
+link_distributor_aliexpress: https://www.aliexpress.com/item/1005006982841208.html
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_voltage_converter_buck_12_volt_3_amp_max_output_23_mm_width_17_mm_length_green_pcb_12_volt_max_input_aliexpress
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_voltage_converter_buck_12_volt_3_amp_max_output_23_mm_width_17_mm_length_green_pcb_12_volt_max_input_aliexpress
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_voltage_converter_buck_12_volt_3_amp_max_output_23_mm_width_17_mm_length_green_pcb_12_volt_max_input_aliexpress
+manufacturer: aliexpress
+manufacturer_capital: Aliexpress
+manufacturer_first_letter: a
+manufacturer_first_letter_upper: A
+manufacturer_upper: ALIEXPRESS
+manufacturers: []
+markdown_full: '[electronic_voltage_converter_buck_12_volt_3_amp_max_output_23_mm_width_17_mm_length_green_pcb_12_volt_max_input_aliexpress](none)<br>[](none)<br>[Electronic
+    Voltage Converter Buck 12 Volt 3 Amp Max Output 23 Mm Width 17 Mm Length Green
+    Pcb 12 Volt Max Input Aliexpress](none)<br><br>'
+markdown_short: '[electronic_voltage_converter_buck_12_volt_3_amp_max_output_23_mm_width_17_mm_length_green_pcb_12_volt_max_input_aliexpress](none)<br><br>'
+md5: ebafd82d761032e0ee9e8516f386c401
+md5_10: ebafd82d76
+md5_10_upper: EBAFD82D76
+md5_5: ebafd
+md5_5_upper: EBAFD
+md5_6: ebafd8
+md5_6_alpha: 9726w
+md5_6_alpha_upper: 9726W
+md5_6_upper: EBAFD8
+name: Electronic Voltage Converter Buck 12 Volt 3 Amp Max Output 23 Mm Width 17 Mm
+    Length Green Pcb 12 Volt Max Input Aliexpress
+name_no_class: Voltage Converter Buck 12 Volt 3 Amp Max Output 23 Mm Width 17 Mm Length
+    Green Pcb 12 Volt Max Input Aliexpress
+name_no_size: 3 Amp Max Output 23 Mm Width 17 Mm Length Green Pcb Max Input Aliexpress
+name_no_size_short: 3 Amp Max Output 23 Mm Width 17 Mm Length Green Pcb Max Input
+    Aliexpress
+name_no_type: 12 Volt 3 Amp Max Output 23 Mm Width 17 Mm Length Green Pcb 12 Volt
+    Max Input Aliexpress
+notes: []
+oomp_key: oomp_electronic_voltage_converter_buck_12_volt_3_amp_max_output_23_mm_width_17_mm_length_green_pcb_12_volt_max_input_aliexpress
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: 12_volt
+size_capital: 12 Volt
+size_first_letter: '1'
+size_first_letter_upper: '1'
+size_only_numbers: '12'
+size_only_numbers_no_zeros: '12'
+size_upper: 12_VOLT
+type: voltage_converter_buck
+type_capital: Voltage Converter Buck
+type_first_letter: v
+type_first_letter_upper: V
+type_upper: VOLTAGE_CONVERTER_BUCK

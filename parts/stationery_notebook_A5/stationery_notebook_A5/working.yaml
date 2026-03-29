@@ -1,0 +1,77 @@
+classification: stationery
+classification_capital: Stationery
+classification_first_letter: s
+classification_first_letter_upper: S
+classification_upper: STATIONERY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/stationery_notebook_A5
+distributors: []
+id: stationery_notebook_A5
+id_no_class: notebook_A5
+id_no_size: A5
+id_no_type: A5
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_notebook_A5
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_notebook_A5
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_notebook_A5
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[stationery_notebook_A5](none)<br>[](none)<br>[Stationery Notebook
+    A5](none)<br><br>'
+markdown_short: '[stationery_notebook_A5](none)<br><br>'
+md5: 18fcfb9a0c9491856aa983e0feeea505
+md5_10: 18fcfb9a0c
+md5_10_upper: 18FCFB9A0C
+md5_5: 18fcf
+md5_5_upper: 18FCF
+md5_6: 18fcfb
+md5_6_alpha: z3ln
+md5_6_alpha_upper: Z3LN
+md5_6_upper: 18FCFB
+name: Stationery Notebook A5
+name_no_class: Notebook A5
+name_no_size: A5
+name_no_size_short: A5
+name_no_type: A5
+oomp_key: oomp_stationery_notebook_A5
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: A5
+size_capital: A5
+size_first_letter: A
+size_first_letter_upper: A
+size_only_numbers: '5'
+size_only_numbers_no_zeros: '5'
+size_upper: A5
+type: notebook
+type_capital: Notebook
+type_first_letter: n
+type_first_letter_upper: N
+type_upper: NOTEBOOK

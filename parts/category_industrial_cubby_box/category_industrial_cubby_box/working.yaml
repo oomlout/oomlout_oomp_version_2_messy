@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_industrial
+description_extra: cubby_box
+description_extra_capital: Cubby Box
+description_extra_first_letter: c
+description_extra_first_letter_upper: C
+description_extra_upper: CUBBY_BOX
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_industrial_cubby_box
+distributors: []
+filter: ''
+from_yaml: false
+id: category_industrial_cubby_box
+id_no_class: industrial_cubby_box
+id_no_size: cubbybox
+id_no_type: cubby_box
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_industrial_cubby_box
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_industrial_cubby_box
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_industrial_cubby_box
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_industrial_cubby_box](none)<br>[](none)<br>[Category Industrial
+    Cubby Box](none)<br><br>'
+markdown_short: '[category_industrial_cubby_box](none)<br><br>'
+md5: fb84dd3432e69a3e0e334e32b9f48a4c
+md5_10: fb84dd3432
+md5_10_upper: FB84DD3432
+md5_5: fb84d
+md5_5_upper: FB84D
+md5_6: fb84dd
+md5_6_alpha: 9tasd
+md5_6_alpha_upper: 9TASD
+md5_6_upper: FB84DD
+name: Category Industrial Cubby Box
+name_no_class: Industrial Cubby Box
+name_no_size: Cubbybox
+name_no_size_short: Cubbybox
+name_no_type: Cubby Box
+oomp_key: oomp_category_industrial_cubby_box
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryindustrial
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: industrial
+type_capital: Industrial
+type_first_letter: i
+type_first_letter_upper: I
+type_upper: INDUSTRIAL

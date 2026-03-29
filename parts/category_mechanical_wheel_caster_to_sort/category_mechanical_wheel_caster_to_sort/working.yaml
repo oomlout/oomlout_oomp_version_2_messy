@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: caster
+color_capital: Caster
+color_first_letter: c
+color_first_letter_upper: C
+color_upper: CASTER
+description: category_mechanical
+description_extra: to_sort
+description_extra_capital: To Sort
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TO_SORT
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'C '
+description_or_color_upper: 'C '
+directory: parts/category_mechanical_wheel_caster_to_sort
+distributors: []
+filter: ''
+from_yaml: false
+id: category_mechanical_wheel_caster_to_sort
+id_no_class: mechanical_wheel_caster_to_sort
+id_no_size: caster_to_sort
+id_no_type: wheel_caster_to_sort
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_wheel_caster_to_sort
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_wheel_caster_to_sort
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_wheel_caster_to_sort
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_mechanical_wheel_caster_to_sort](none)<br>[](none)<br>[Category
+    Mechanical Wheel Caster To Sort](none)<br><br>'
+markdown_short: '[category_mechanical_wheel_caster_to_sort](none)<br><br>'
+md5: e621143d51792006a1d9ddb08353d7a9
+md5_10: e621143d51
+md5_10_upper: E621143D51
+md5_5: e6211
+md5_5_upper: E6211
+md5_6: e62114
+md5_6_alpha: 8z95g
+md5_6_alpha_upper: 8Z95G
+md5_6_upper: E62114
+name: Category Mechanical Wheel Caster To Sort
+name_no_class: Mechanical Wheel Caster To Sort
+name_no_size: Caster To Sort
+name_no_size_short: Caster To Sort
+name_no_type: Wheel Caster To Sort
+oomp_key: oomp_category_mechanical_wheel_caster_to_sort
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorymechanical
+size: wheel
+size_capital: Wheel
+size_first_letter: w
+size_first_letter_upper: W
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: WHEEL
+type: mechanical
+type_capital: Mechanical
+type_first_letter: m
+type_first_letter_upper: M
+type_upper: MECHANICAL

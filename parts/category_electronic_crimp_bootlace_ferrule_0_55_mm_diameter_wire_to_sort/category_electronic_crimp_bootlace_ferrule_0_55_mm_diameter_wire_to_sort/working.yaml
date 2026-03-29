@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: 0_55_mm_diameter_wire
+color_capital: 0 55 mm Diameter Wire
+color_first_letter: '0'
+color_first_letter_upper: '0'
+color_upper: 0_55_MM_DIAMETER_WIRE
+description: category_electronic
+description_extra: to_sort
+description_extra_capital: To Sort
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TO_SORT
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: '0 '
+description_or_color_upper: '0 '
+directory: parts/category_electronic_crimp_bootlace_ferrule_0_55_mm_diameter_wire_to_sort
+distributors: []
+filter: ''
+from_yaml: false
+id: category_electronic_crimp_bootlace_ferrule_0_55_mm_diameter_wire_to_sort
+id_no_class: electronic_crimp_bootlace_ferrule_0_55_mm_diameter_wire_to_sort
+id_no_size: 0_55_mm_diameter_wire_to_sort
+id_no_type: crimp_bootlace_ferrule_0_55_mm_diameter_wire_to_sort
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_crimp_bootlace_ferrule_0_55_mm_diameter_wire_to_sort
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_crimp_bootlace_ferrule_0_55_mm_diameter_wire_to_sort
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_crimp_bootlace_ferrule_0_55_mm_diameter_wire_to_sort
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_electronic_crimp_bootlace_ferrule_0_55_mm_diameter_wire_to_sort](none)<br>[](none)<br>[Category
+    Electronic Crimp Bootlace Ferrule 0 55 Mm Diameter Wire To Sort](none)<br><br>'
+markdown_short: '[category_electronic_crimp_bootlace_ferrule_0_55_mm_diameter_wire_to_sort](none)<br><br>'
+md5: f6d843fc566a06f834a657a1a95b2aa4
+md5_10: f6d843fc56
+md5_10_upper: F6D843FC56
+md5_5: f6d84
+md5_5_upper: F6D84
+md5_6: f6d843
+md5_6_alpha: 9mqf7
+md5_6_alpha_upper: 9MQF7
+md5_6_upper: F6D843
+name: Category Electronic Crimp Bootlace Ferrule 0 55 Mm Diameter Wire To Sort
+name_no_class: Electronic Crimp Bootlace Ferrule 0 55 Mm Diameter Wire To Sort
+name_no_size: 0 55 Mm Diameter Wire To Sort
+name_no_size_short: 0 55 Mm Diameter Wire To Sort
+name_no_type: Crimp Bootlace Ferrule 0 55 Mm Diameter Wire To Sort
+oomp_key: oomp_category_electronic_crimp_bootlace_ferrule_0_55_mm_diameter_wire_to_sort
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryelectronic
+size: crimp_bootlace_ferrule
+size_capital: Crimp Bootlace Ferrule
+size_first_letter: c
+size_first_letter_upper: C
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: CRIMP_BOOTLACE_FERRULE
+type: electronic
+type_capital: Electronic
+type_first_letter: e
+type_first_letter_upper: E
+type_upper: ELECTRONIC

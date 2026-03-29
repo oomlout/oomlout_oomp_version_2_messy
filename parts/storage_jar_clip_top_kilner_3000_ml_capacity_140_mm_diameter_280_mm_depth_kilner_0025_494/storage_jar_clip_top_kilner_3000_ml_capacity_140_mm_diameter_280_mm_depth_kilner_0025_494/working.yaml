@@ -1,0 +1,83 @@
+classification: storage
+classification_capital: Storage
+classification_first_letter: s
+classification_first_letter_upper: S
+classification_upper: STORAGE
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 3000_ml_capacity_140_mm_diameter_280_mm_depth
+description_main_capital: 3000 Ml Capacity 140 mm Diameter 280 mm Depth
+description_main_first_letter: '3'
+description_main_first_letter_upper: '3'
+description_main_upper: 3000_ML_CAPACITY_140_MM_DIAMETER_280_MM_DEPTH
+description_only_numbers: '3000140280'
+description_only_numbers_short: 3M
+description_or_color: 3M
+description_or_color_upper: 3M
+directory: parts/storage_jar_clip_top_kilner_3000_ml_capacity_140_mm_diameter_280_mm_depth_kilner_0025_494
+distributors: []
+id: storage_jar_clip_top_kilner_3000_ml_capacity_140_mm_diameter_280_mm_depth_kilner_0025_494
+id_no_class: jar_clip_top_kilner_3000_ml_capacity_140_mm_diameter_280_mm_depth_kilner_0025_494
+id_no_size: 3000mlcapacity140mmdiameter280mmdepthkilner0025494
+id_no_type: 3000_ml_capacity_140_mm_diameter_280_mm_depth_kilner_0025_494
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/storage_jar_clip_top_kilner_3000_ml_capacity_140_mm_diameter_280_mm_depth_kilner_0025_494
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/storage_jar_clip_top_kilner_3000_ml_capacity_140_mm_diameter_280_mm_depth_kilner_0025_494
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/storage_jar_clip_top_kilner_3000_ml_capacity_140_mm_diameter_280_mm_depth_kilner_0025_494
+link_short_1: kilner_3_litre
+link_short_2: kilner3l
+link_short_3: kilner3liter
+manufacturer: kilner
+manufacturer_capital: Kilner
+manufacturer_first_letter: k
+manufacturer_first_letter_upper: K
+manufacturer_upper: KILNER
+manufacturers: []
+markdown_full: '[storage_jar_clip_top_kilner_3000_ml_capacity_140_mm_diameter_280_mm_depth_kilner_0025_494](none)<br>[](none)<br>[Storage
+    Jar Clip Top Kilner 3000 Ml Capacity 140 Mm Diameter 280 Mm Depth Kilner 0025
+    494](none)<br><br>'
+markdown_short: '[storage_jar_clip_top_kilner_3000_ml_capacity_140_mm_diameter_280_mm_depth_kilner_0025_494](none)<br><br>'
+md5: 488ed23874cd65267c1764d625ec6a40
+md5_10: 488ed23874
+md5_10_upper: 488ED23874
+md5_5: 488ed
+md5_5_upper: 488ED
+md5_6: 488ed2
+md5_6_alpha: 2tx3m
+md5_6_alpha_upper: 2TX3M
+md5_6_upper: 488ED2
+name: Storage Jar Clip Top Kilner 3000 Ml Capacity 140 Mm Diameter 280 Mm Depth Kilner
+    0025 494
+name_no_class: Jar Clip Top Kilner 3000 Ml Capacity 140 Mm Diameter 280 Mm Depth Kilner
+    0025 494
+name_no_size: 3000Mlcapacity140Mmdiameter280Mmdepthkilner0025494
+name_no_size_short: 3000Mlcapacity140Mmdiameter280Mmdepthkilner0025494
+name_no_type: 3000 Ml Capacity 140 Mm Diameter 280 Mm Depth Kilner 0025 494
+oomp_key: oomp_storage_jar_clip_top_kilner_3000_ml_capacity_140_mm_diameter_280_mm_depth_kilner_0025_494
+part_number: 0025_494
+part_number_capital: '0025.494'
+part_number_exact: '0025.494'
+part_number_first_letter: '0'
+part_number_first_letter_upper: '0'
+part_number_upper: 0025_494
+short_code: ''
+short_code_upper: ''
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: jar_clip_top_kilner
+type_capital: Jar Clip Top Kilner
+type_first_letter: j
+type_first_letter_upper: J
+type_upper: JAR_CLIP_TOP_KILNER

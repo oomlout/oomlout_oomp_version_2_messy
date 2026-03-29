@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: rc5
+color_capital: Rc5
+color_first_letter: r
+color_first_letter_upper: R
+color_upper: RC5
+description: category_robot_arm_controller
+description_extra: old
+description_extra_capital: Old
+description_extra_first_letter: o
+description_extra_first_letter_upper: O
+description_extra_upper: OLD
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'R '
+description_or_color_upper: 'R '
+directory: parts/category_robot_arm_controller_denso_rc5_old
+distributors: []
+filter: ''
+from_yaml: false
+id: category_robot_arm_controller_denso_rc5_old
+id_no_class: robot_arm_controller_denso_rc5_old
+id_no_size: rc5_old
+id_no_type: denso_rc5_old
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_robot_arm_controller_denso_rc5_old
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_robot_arm_controller_denso_rc5_old
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_robot_arm_controller_denso_rc5_old
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_robot_arm_controller_denso_rc5_old](none)<br>[](none)<br>[Category
+    Robot Arm Controller Denso Rc5 Old](none)<br><br>'
+markdown_short: '[category_robot_arm_controller_denso_rc5_old](none)<br><br>'
+md5: c1303c40b9798bda0a10d1eb7f0abb9d
+md5_10: c1303c40b9
+md5_10_upper: C1303C40B9
+md5_5: c1303
+md5_5_upper: C1303
+md5_6: c1303c
+md5_6_alpha: 7jd4s
+md5_6_alpha_upper: 7JD4S
+md5_6_upper: C1303C
+name: Category Robot Arm Controller Denso Rc5 Old
+name_no_class: Robot Arm Controller Denso Rc5 Old
+name_no_size: Rc5 Old
+name_no_size_short: Rc5 Old
+name_no_type: Denso Rc5 Old
+oomp_key: oomp_category_robot_arm_controller_denso_rc5_old
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryrobotarmcontroller
+size: denso
+size_capital: Denso
+size_first_letter: d
+size_first_letter_upper: D
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: DENSO
+type: robot_arm_controller
+type_capital: Robot Arm Controller
+type_first_letter: r
+type_first_letter_upper: R
+type_upper: ROBOT_ARM_CONTROLLER

@@ -1,0 +1,79 @@
+classification: stationery
+classification_capital: Stationery
+classification_first_letter: s
+classification_first_letter_upper: S
+classification_upper: STATIONERY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: pink_color
+description_extra_capital: Pink Color
+description_extra_first_letter: p
+description_extra_first_letter_upper: P
+description_extra_upper: PINK_COLOR
+description_main: bic_mark_it_style_12_mm_diameter_140_mm_length
+description_main_capital: Bic Mark It Style 12 mm Diameter 140 mm Length
+description_main_first_letter: b
+description_main_first_letter_upper: B
+description_main_upper: BIC_MARK_IT_STYLE_12_MM_DIAMETER_140_MM_LENGTH
+description_only_numbers: '12140'
+description_only_numbers_short: 12k
+description_or_color: 12k
+description_or_color_upper: 12K
+directory: parts/stationery_felt_tip_pen_bic_mark_it_style_12_mm_diameter_140_mm_length_pink_color_sharpie
+distributors: []
+id: stationery_felt_tip_pen_bic_mark_it_style_12_mm_diameter_140_mm_length_pink_color_sharpie
+id_no_class: felt_tip_pen_bic_mark_it_style_12_mm_diameter_140_mm_length_pink_color_sharpie
+id_no_size: bicmarkitstyle12mmdiameter140mmlengthpinkcolorsharpie
+id_no_type: bic_mark_it_style_12_mm_diameter_140_mm_length_pink_color_sharpie
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_felt_tip_pen_bic_mark_it_style_12_mm_diameter_140_mm_length_pink_color_sharpie
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_felt_tip_pen_bic_mark_it_style_12_mm_diameter_140_mm_length_pink_color_sharpie
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_felt_tip_pen_bic_mark_it_style_12_mm_diameter_140_mm_length_pink_color_sharpie
+manufacturer: sharpie
+manufacturer_capital: Sharpie
+manufacturer_first_letter: s
+manufacturer_first_letter_upper: S
+manufacturer_upper: SHARPIE
+manufacturers: []
+markdown_full: '[stationery_felt_tip_pen_bic_mark_it_style_12_mm_diameter_140_mm_length_pink_color_sharpie](none)<br>[](none)<br>[Stationery
+    Felt Tip Pen Bic Mark It Style 12 Mm Diameter 140 Mm Length Pink Color Sharpie](none)<br><br>'
+markdown_short: '[stationery_felt_tip_pen_bic_mark_it_style_12_mm_diameter_140_mm_length_pink_color_sharpie](none)<br><br>'
+md5: a86c0fe823d237a977ba95cb79948e0b
+md5_10: a86c0fe823
+md5_10_upper: A86C0FE823
+md5_5: a86c0
+md5_5_upper: A86C0
+md5_6: a86c0f
+md5_6_alpha: 6kkr3
+md5_6_alpha_upper: 6KKR3
+md5_6_upper: A86C0F
+name: Stationery Felt Tip Pen Bic Mark It Style 12 Mm Diameter 140 Mm Length Pink
+    Color Sharpie
+name_no_class: Felt Tip Pen Bic Mark It Style 12 Mm Diameter 140 Mm Length Pink Color
+    Sharpie
+name_no_size: Bicmarkitstyle12Mmdiameter140Mmlengthpinkcolorsharpie
+name_no_size_short: Bicmarkitstyle12Mmdiameter140Mmlengthpinkcolorsharpie
+name_no_type: Bic Mark It Style 12 Mm Diameter 140 Mm Length Pink Color Sharpie
+oomp_key: oomp_stationery_felt_tip_pen_bic_mark_it_style_12_mm_diameter_140_mm_length_pink_color_sharpie
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: felt_tip_pen
+type_capital: Felt Tip Pen
+type_first_letter: f
+type_first_letter_upper: F
+type_upper: FELT_TIP_PEN

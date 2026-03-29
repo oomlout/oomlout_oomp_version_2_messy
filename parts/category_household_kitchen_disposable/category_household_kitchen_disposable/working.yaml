@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_household_kitchen
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_household_kitchen_disposable
+distributors: []
+filter: ''
+from_yaml: false
+id: category_household_kitchen_disposable
+id_no_class: household_kitchen_disposable
+id_no_size: disposable
+id_no_type: disposable
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_kitchen_disposable
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_kitchen_disposable
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_household_kitchen_disposable
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_household_kitchen_disposable](none)<br>[](none)<br>[Category
+    Household Kitchen Disposable](none)<br><br>'
+markdown_short: '[category_household_kitchen_disposable](none)<br><br>'
+md5: 0b8ed8ad2c269280ac2e496a5ad1407a
+md5_10: 0b8ed8ad2c
+md5_10_upper: 0B8ED8AD2C
+md5_5: 0b8ed
+md5_5_upper: 0B8ED
+md5_6: 0b8ed8
+md5_6_alpha: g8go
+md5_6_alpha_upper: G8GO
+md5_6_upper: 0B8ED8
+name: Category Household Kitchen Disposable
+name_no_class: Household Kitchen Disposable
+name_no_size: Disposable
+name_no_size_short: Disposable
+name_no_type: Disposable
+oomp_key: oomp_category_household_kitchen_disposable
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryhouseholdkitchen
+size: disposable
+size_capital: Disposable
+size_first_letter: d
+size_first_letter_upper: D
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: DISPOSABLE
+type: household_kitchen
+type_capital: Household Kitchen
+type_first_letter: h
+type_first_letter_upper: H
+type_upper: HOUSEHOLD_KITCHEN

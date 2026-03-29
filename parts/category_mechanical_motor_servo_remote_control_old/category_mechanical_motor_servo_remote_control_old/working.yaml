@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_mechanical
+description_extra: old
+description_extra_capital: Old
+description_extra_first_letter: o
+description_extra_first_letter_upper: O
+description_extra_upper: OLD
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_mechanical_motor_servo_remote_control_old
+distributors: []
+filter: ''
+from_yaml: false
+id: category_mechanical_motor_servo_remote_control_old
+id_no_class: mechanical_motor_servo_remote_control_old
+id_no_size: old
+id_no_type: motor_servo_remote_control_old
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_motor_servo_remote_control_old
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_motor_servo_remote_control_old
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_mechanical_motor_servo_remote_control_old
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_mechanical_motor_servo_remote_control_old](none)<br>[](none)<br>[Category
+    Mechanical Motor Servo Remote Control Old](none)<br><br>'
+markdown_short: '[category_mechanical_motor_servo_remote_control_old](none)<br><br>'
+md5: 32f0ca1e3fe146cfd9fff69cfe6f0f09
+md5_10: 32f0ca1e3f
+md5_10_upper: 32F0CA1E3F
+md5_5: 32f0c
+md5_5_upper: 32F0C
+md5_6: 32f0ca
+md5_6_alpha: 1zjyi
+md5_6_alpha_upper: 1ZJYI
+md5_6_upper: 32F0CA
+name: Category Mechanical Motor Servo Remote Control Old
+name_no_class: Mechanical Motor Servo Remote Control Old
+name_no_size: Old
+name_no_size_short: Old
+name_no_type: Motor Servo Remote Control Old
+oomp_key: oomp_category_mechanical_motor_servo_remote_control_old
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorymechanical
+size: motor_servo_remote_control
+size_capital: Motor Servo Remote Control
+size_first_letter: m
+size_first_letter_upper: M
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: MOTOR_SERVO_REMOTE_CONTROL
+type: mechanical
+type_capital: Mechanical
+type_first_letter: m
+type_first_letter_upper: M
+type_upper: MECHANICAL

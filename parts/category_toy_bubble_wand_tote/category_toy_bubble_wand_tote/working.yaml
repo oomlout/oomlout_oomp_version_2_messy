@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: wand
+color_capital: Wand
+color_first_letter: w
+color_first_letter_upper: W
+color_upper: WAND
+description: category_toy
+description_extra: tote
+description_extra_capital: Tote
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TOTE
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'W '
+description_or_color_upper: 'W '
+directory: parts/category_toy_bubble_wand_tote
+distributors: []
+filter: ''
+from_yaml: false
+id: category_toy_bubble_wand_tote
+id_no_class: toy_bubble_wand_tote
+id_no_size: wand_tote
+id_no_type: bubble_wand_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_toy_bubble_wand_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_toy_bubble_wand_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_toy_bubble_wand_tote
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_toy_bubble_wand_tote](none)<br>[](none)<br>[Category Toy
+    Bubble Wand Tote](none)<br><br>'
+markdown_short: '[category_toy_bubble_wand_tote](none)<br><br>'
+md5: bb5f3c7824cb176606b266d76cfadccb
+md5_10: bb5f3c7824
+md5_10_upper: BB5F3C7824
+md5_5: bb5f3
+md5_5_upper: BB5F3
+md5_6: bb5f3c
+md5_6_alpha: 7b70c
+md5_6_alpha_upper: 7B70C
+md5_6_upper: BB5F3C
+name: Category Toy Bubble Wand Tote
+name_no_class: Toy Bubble Wand Tote
+name_no_size: Wand Tote
+name_no_size_short: Wand Tote
+name_no_type: Bubble Wand Tote
+oomp_key: oomp_category_toy_bubble_wand_tote
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorytoy
+size: bubble
+size_capital: Bubble
+size_first_letter: b
+size_first_letter_upper: B
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: BUBBLE
+type: toy
+type_capital: Toy
+type_first_letter: t
+type_first_letter_upper: T
+type_upper: TOY

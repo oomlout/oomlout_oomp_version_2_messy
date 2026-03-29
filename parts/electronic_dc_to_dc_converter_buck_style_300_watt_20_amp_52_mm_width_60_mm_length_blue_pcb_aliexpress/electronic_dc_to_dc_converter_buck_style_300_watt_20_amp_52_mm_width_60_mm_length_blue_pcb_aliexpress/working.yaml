@@ -1,0 +1,84 @@
+classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_upper: ELECTRONIC
+color: 300_watt_20_amp
+color_capital: 300 Watt 20 Amp
+color_first_letter: '3'
+color_first_letter_upper: '3'
+color_upper: 300_WATT_20_AMP
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 52_mm_width_60_mm_length_blue_pcb
+description_main_capital: 52 mm Width 60 mm Length Blue Pcb
+description_main_first_letter: '5'
+description_main_first_letter_upper: '5'
+description_main_upper: 52_MM_WIDTH_60_MM_LENGTH_BLUE_PCB
+description_only_numbers: '5260'
+description_only_numbers_short: 5k2
+description_or_color: 35k2
+description_or_color_upper: 35K2
+directory: parts/electronic_dc_to_dc_converter_buck_style_300_watt_20_amp_52_mm_width_60_mm_length_blue_pcb_aliexpress
+distributors: []
+filter: ''
+from_yaml: false
+id: electronic_dc_to_dc_converter_buck_style_300_watt_20_amp_52_mm_width_60_mm_length_blue_pcb_aliexpress
+id_no_class: dc_to_dc_converter_buck_style_300_watt_20_amp_52_mm_width_60_mm_length_blue_pcb_aliexpress
+id_no_size: 300_watt_20_amp_52_mm_width_60_mm_length_blue_pcb_aliexpress
+id_no_type: buck_style_300_watt_20_amp_52_mm_width_60_mm_length_blue_pcb_aliexpress
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_dc_to_dc_converter_buck_style_300_watt_20_amp_52_mm_width_60_mm_length_blue_pcb_aliexpress
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_dc_to_dc_converter_buck_style_300_watt_20_amp_52_mm_width_60_mm_length_blue_pcb_aliexpress
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_dc_to_dc_converter_buck_style_300_watt_20_amp_52_mm_width_60_mm_length_blue_pcb_aliexpress
+manufacturer: aliexpress
+manufacturer_capital: Aliexpress
+manufacturer_first_letter: a
+manufacturer_first_letter_upper: A
+manufacturer_upper: ALIEXPRESS
+manufacturers: []
+markdown_full: '[electronic_dc_to_dc_converter_buck_style_300_watt_20_amp_52_mm_width_60_mm_length_blue_pcb_aliexpress](none)<br>[](none)<br>[Electronic
+    Dc To Dc Converter Buck Style 300 Watt 20 Amp 52 Mm Width 60 Mm Length Blue Pcb
+    Aliexpress](none)<br><br>'
+markdown_short: '[electronic_dc_to_dc_converter_buck_style_300_watt_20_amp_52_mm_width_60_mm_length_blue_pcb_aliexpress](none)<br><br>'
+md5: 50ae15556f927ff008335030e4612b6d
+md5_10: 50ae15556f
+md5_10_upper: 50AE15556F
+md5_5: 50ae1
+md5_5_upper: 50AE1
+md5_6: 50ae15
+md5_6_alpha: 35bth
+md5_6_alpha_upper: 35BTH
+md5_6_upper: 50AE15
+mounting_hole_length: 53
+mounting_hole_size: m3
+mounting_hole_width: 39
+name: Electronic Dc To Dc Converter Buck Style 300 Watt 20 Amp 52 Mm Width 60 Mm Length
+    Blue Pcb Aliexpress
+name_no_class: Dc To Dc Converter Buck Style 300 Watt 20 Amp 52 Mm Width 60 Mm Length
+    Blue Pcb Aliexpress
+name_no_size: 300 Watt 20 Amp 52 Mm Width 60 Mm Length Blue Pcb Aliexpress
+name_no_size_short: 300 Watt 20 Amp 52 Mm Width 60 Mm Length Blue Pcb Aliexpress
+name_no_type: Buck Style 300 Watt 20 Amp 52 Mm Width 60 Mm Length Blue Pcb Aliexpress
+oomp_key: oomp_electronic_dc_to_dc_converter_buck_style_300_watt_20_amp_52_mm_width_60_mm_length_blue_pcb_aliexpress
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: buck_style
+size_capital: Buck Style
+size_first_letter: b
+size_first_letter_upper: B
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: BUCK_STYLE
+type: dc_to_dc_converter
+type_capital: Dc To Dc Converter
+type_first_letter: d
+type_first_letter_upper: D
+type_upper: DC_TO_DC_CONVERTER

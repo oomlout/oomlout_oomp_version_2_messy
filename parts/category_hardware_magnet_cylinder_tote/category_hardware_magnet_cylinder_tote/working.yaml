@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: cylinder
+color_capital: Cylinder
+color_first_letter: c
+color_first_letter_upper: C
+color_upper: CYLINDER
+description: category_hardware
+description_extra: tote
+description_extra_capital: Tote
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TOTE
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'C '
+description_or_color_upper: 'C '
+directory: parts/category_hardware_magnet_cylinder_tote
+distributors: []
+filter: ''
+from_yaml: false
+id: category_hardware_magnet_cylinder_tote
+id_no_class: hardware_magnet_cylinder_tote
+id_no_size: cylinder_tote
+id_no_type: magnet_cylinder_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_magnet_cylinder_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_magnet_cylinder_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_magnet_cylinder_tote
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_hardware_magnet_cylinder_tote](none)<br>[](none)<br>[Category
+    Hardware Magnet Cylinder Tote](none)<br><br>'
+markdown_short: '[category_hardware_magnet_cylinder_tote](none)<br><br>'
+md5: 2f0bacf10ebc777d6acb8047ad295ff4
+md5_10: 2f0bacf10e
+md5_10_upper: 2F0BACF10E
+md5_5: 2f0ba
+md5_5_upper: 2F0BA
+md5_6: 2f0bac
+md5_6_alpha: 1u2zw
+md5_6_alpha_upper: 1U2ZW
+md5_6_upper: 2F0BAC
+name: Category Hardware Magnet Cylinder Tote
+name_no_class: Hardware Magnet Cylinder Tote
+name_no_size: Cylinder Tote
+name_no_size_short: Cylinder Tote
+name_no_type: Magnet Cylinder Tote
+oomp_key: oomp_category_hardware_magnet_cylinder_tote
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryhardware
+size: magnet
+size_capital: Magnet
+size_first_letter: m
+size_first_letter_upper: M
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: MAGNET
+type: hardware
+type_capital: Hardware
+type_first_letter: h
+type_first_letter_upper: H
+type_upper: HARDWARE

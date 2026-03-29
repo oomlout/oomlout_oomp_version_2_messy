@@ -1,0 +1,79 @@
+classification: vinyl
+classification_capital: Vinyl
+classification_first_letter: v
+classification_first_letter_upper: V
+classification_upper: VINYL
+color: clear
+color_capital: Clear
+color_first_letter: c
+color_first_letter_upper: C
+color_upper: CLEAR
+description_extra: 1260_mm_width_roll
+description_extra_capital: 1260 mm Width Roll
+description_extra_first_letter: '1'
+description_extra_first_letter_upper: '1'
+description_extra_upper: 1260_MM_WIDTH_ROLL
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'C '
+description_or_color_upper: 'C '
+directory: parts/vinyl_clear_1260_mm_width_roll
+distributors: []
+filter: ''
+from_yaml: false
+id: vinyl_clear_1260_mm_width_roll
+id_no_class: clear_1260_mm_width_roll
+id_no_size: clear1260mmwidthroll
+id_no_type: clear1260mmwidthroll
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/vinyl_clear_1260_mm_width_roll
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/vinyl_clear_1260_mm_width_roll
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/vinyl_clear_1260_mm_width_roll
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[vinyl_clear_1260_mm_width_roll](none)<br>[c](none)<br>[Vinyl Clear
+    1260 Mm Width Roll](none)<br><br>'
+markdown_short: '[vinyl_clear_1260_mm_width_roll](none)<br><br>'
+md5: f03267178a428da4331da191e64f95be
+md5_10: f03267178a
+md5_10_upper: F03267178A
+md5_5: f0326
+md5_5_upper: F0326
+md5_6: f03267
+md5_6_alpha: 9de93
+md5_6_alpha_upper: 9DE93
+md5_6_upper: F03267
+name: Vinyl Clear 1260 Mm Width Roll
+name_no_class: Clear 1260 Mm Width Roll
+name_no_size: Clear1260Mmwidthroll
+name_no_size_short: Clear1260Mmwidthroll
+name_no_type: Clear1260Mmwidthroll
+oomp_key: oomp_vinyl_clear_1260_mm_width_roll
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: c
+short_code_upper: C
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: ''
+type_capital: ''
+type_first_letter: ''
+type_first_letter_upper: ''
+type_upper: ''
+width: 1260 mm

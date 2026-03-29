@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: postcard_100_mm_width_150_mm_height
+color_capital: Postcard 100 mm Width 150 mm Height
+color_first_letter: p
+color_first_letter_upper: P
+color_upper: POSTCARD_100_MM_WIDTH_150_MM_HEIGHT
+description: category_paper
+description_extra: tote
+description_extra_capital: Tote
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TOTE
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'P '
+description_or_color_upper: 'P '
+directory: parts/category_paper_sheet_postcard_100_mm_width_150_mm_height_tote
+distributors: []
+filter: ''
+from_yaml: false
+id: category_paper_sheet_postcard_100_mm_width_150_mm_height_tote
+id_no_class: paper_sheet_postcard_100_mm_width_150_mm_height_tote
+id_no_size: postcard_100_mm_width_150_mm_height_tote
+id_no_type: sheet_postcard_100_mm_width_150_mm_height_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_paper_sheet_postcard_100_mm_width_150_mm_height_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_paper_sheet_postcard_100_mm_width_150_mm_height_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_paper_sheet_postcard_100_mm_width_150_mm_height_tote
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_paper_sheet_postcard_100_mm_width_150_mm_height_tote](none)<br>[](none)<br>[Category
+    Paper Sheet Postcard 100 Mm Width 150 Mm Height Tote](none)<br><br>'
+markdown_short: '[category_paper_sheet_postcard_100_mm_width_150_mm_height_tote](none)<br><br>'
+md5: 35eb0ebee5a25f60f0edc54f668430d9
+md5_10: 35eb0ebee5
+md5_10_upper: 35EB0EBEE5
+md5_5: 35eb0
+md5_5_upper: 35EB0
+md5_6: 35eb0e
+md5_6_alpha: 23qj2
+md5_6_alpha_upper: 23QJ2
+md5_6_upper: 35EB0E
+name: Category Paper Sheet Postcard 100 Mm Width 150 Mm Height Tote
+name_no_class: Paper Sheet Postcard 100 Mm Width 150 Mm Height Tote
+name_no_size: Postcard 100 Mm Width 150 Mm Height Tote
+name_no_size_short: Postcard 100 Mm Width 150 Mm Height Tote
+name_no_type: Sheet Postcard 100 Mm Width 150 Mm Height Tote
+oomp_key: oomp_category_paper_sheet_postcard_100_mm_width_150_mm_height_tote
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorypaper
+size: sheet
+size_capital: Sheet
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SHEET
+type: paper
+type_capital: Paper
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PAPER

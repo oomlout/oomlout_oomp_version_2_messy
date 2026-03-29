@@ -1,0 +1,78 @@
+classification: clothes
+classification_capital: Clothes
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CLOTHES
+color: small
+color_capital: Small
+color_first_letter: s
+color_first_letter_upper: S
+color_upper: SMALL
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: gray
+description_main_capital: Gray
+description_main_first_letter: g
+description_main_first_letter_upper: G
+description_main_upper: GRAY
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'S '
+description_or_color_upper: 'S '
+directory: parts/clothes_item_sweater_small_gray
+distributors: []
+filter: ''
+from_yaml: false
+id: clothes_item_sweater_small_gray
+id_no_class: item_sweater_small_gray
+id_no_size: small_gray
+id_no_type: sweater_small_gray
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_sweater_small_gray
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_sweater_small_gray
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_sweater_small_gray
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[clothes_item_sweater_small_gray](none)<br>[](none)<br>[Clothes Item
+    Sweater Small Gray](none)<br><br>'
+markdown_short: '[clothes_item_sweater_small_gray](none)<br><br>'
+md5: 1eee0b6d5b3fa05a4f07785b709e662d
+md5_10: 1eee0b6d5b
+md5_10_upper: 1EEE0B6D5B
+md5_5: 1eee0
+md5_5_upper: 1EEE0
+md5_6: 1eee0b
+md5_6_alpha: 17g23
+md5_6_alpha_upper: 17G23
+md5_6_upper: 1EEE0B
+name: Clothes Item Sweater Small Gray
+name_no_class: Item Sweater Small Gray
+name_no_size: Small Gray
+name_no_size_short: Small Gray
+name_no_type: Sweater Small Gray
+oomp_key: oomp_clothes_item_sweater_small_gray
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: sweater
+size_capital: Sweater
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SWEATER
+type: item
+type_capital: Item
+type_first_letter: i
+type_first_letter_upper: I
+type_upper: ITEM

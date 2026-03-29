@@ -1,0 +1,80 @@
+classification: vinyl_cutter
+classification_capital: Vinyl Cutter
+classification_first_letter: v
+classification_first_letter_upper: V
+classification_upper: VINYL_CUTTER
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: personal
+description_main_capital: Personal
+description_main_first_letter: p
+description_main_first_letter_upper: P
+description_main_upper: PERSONAL
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/vinyl_cutter_vinyl_cutter_cricut_personal_cricut_crv001
+distributors: []
+filter: ''
+from_yaml: false
+id: vinyl_cutter_vinyl_cutter_cricut_personal_cricut_crv001
+id_no_class: cricut_personal_cricut_crv001
+id_no_size: personal_crv001
+id_no_type: cricut_personal_cricut_crv001
+link_distributor_cricut: ''
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/vinyl_cutter_vinyl_cutter_cricut_personal_cricut_crv001
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/vinyl_cutter_vinyl_cutter_cricut_personal_cricut_crv001
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/vinyl_cutter_vinyl_cutter_cricut_personal_cricut_crv001
+manufacturer: cricut
+manufacturer_capital: Cricut
+manufacturer_first_letter: c
+manufacturer_first_letter_upper: C
+manufacturer_upper: CRICUT
+manufacturers: []
+markdown_full: '[vinyl_cutter_vinyl_cutter_cricut_personal_cricut_crv001](none)<br>[](none)<br>[Vinyl
+    Cutter Vinyl Cutter Cricut Personal Cricut Crv001](none)<br><br>'
+markdown_short: '[vinyl_cutter_vinyl_cutter_cricut_personal_cricut_crv001](none)<br><br>'
+md5: 2e7905e1c7a3fb489ad97a96711bc76b
+md5_10: 2e7905e1c7
+md5_10_upper: 2E7905E1C7
+md5_5: 2e790
+md5_5_upper: 2E790
+md5_6: 2e7905
+md5_6_alpha: 1ta11
+md5_6_alpha_upper: 1TA11
+md5_6_upper: 2E7905
+name: Vinyl Cutter Vinyl Cutter Cricut Personal Cricut Crv001
+name_no_class: Cricut Personal Cricut Crv001
+name_no_size: Personal Crv001
+name_no_size_short: Personal Crv001
+name_no_type: Cricut Personal Cricut Crv001
+oomp_key: oomp_vinyl_cutter_vinyl_cutter_cricut_personal_cricut_crv001
+part_number: crv001
+part_number_capital: Crv001
+part_number_exact: CRV001
+part_number_first_letter: c
+part_number_first_letter_upper: C
+part_number_upper: CRV001
+short_code: ''
+short_code_upper: ''
+size: cricut
+size_capital: Cricut
+size_first_letter: c
+size_first_letter_upper: C
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: CRICUT
+type: vinyl_cutter
+type_capital: Vinyl Cutter
+type_first_letter: v
+type_first_letter_upper: V
+type_upper: VINYL_CUTTER

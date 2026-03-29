@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: teen
+color_capital: Teen
+color_first_letter: t
+color_first_letter_upper: T
+color_upper: TEEN
+description: category_book
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'T '
+description_or_color_upper: 'T '
+directory: parts/category_book_chapter_teen
+distributors: []
+filter: ''
+from_yaml: false
+id: category_book_chapter_teen
+id_no_class: book_chapter_teen
+id_no_size: teen
+id_no_type: chapter_teen
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_book_chapter_teen
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_book_chapter_teen
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_book_chapter_teen
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_book_chapter_teen](none)<br>[](none)<br>[Category Book Chapter
+    Teen](none)<br><br>'
+markdown_short: '[category_book_chapter_teen](none)<br><br>'
+md5: c06d6a4adcd4f0e6cce8e7b9f57472f0
+md5_10: c06d6a4adc
+md5_10_upper: C06D6A4ADC
+md5_5: c06d6
+md5_5_upper: C06D6
+md5_6: c06d6a
+md5_6_alpha: 7iane
+md5_6_alpha_upper: 7IANE
+md5_6_upper: C06D6A
+name: Category Book Chapter Teen
+name_no_class: Book Chapter Teen
+name_no_size: Teen
+name_no_size_short: Teen
+name_no_type: Chapter Teen
+oomp_key: oomp_category_book_chapter_teen
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorybook
+size: chapter
+size_capital: Chapter
+size_first_letter: c
+size_first_letter_upper: C
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: CHAPTER
+type: book
+type_capital: Book
+type_first_letter: b
+type_first_letter_upper: B
+type_upper: BOOK

@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: oobb
+color_capital: Oobb
+color_first_letter: o
+color_first_letter_upper: O
+color_upper: OOBB
+description: category_electronic
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'O '
+description_or_color_upper: 'O '
+directory: parts/category_electronic_header_oobb
+distributors: []
+filter: ''
+from_yaml: false
+id: category_electronic_header_oobb
+id_no_class: electronic_header_oobb
+id_no_size: oobb
+id_no_type: header_oobb
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_header_oobb
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_header_oobb
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_header_oobb
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_electronic_header_oobb](none)<br>[](none)<br>[Category Electronic
+    Header Oobb](none)<br><br>'
+markdown_short: '[category_electronic_header_oobb](none)<br><br>'
+md5: abd10a56de2e6d4631deeb47ba438319
+md5_10: abd10a56de
+md5_10_upper: ABD10A56DE
+md5_5: abd10
+md5_5_upper: ABD10
+md5_6: abd10a
+md5_6_alpha: 6pcei
+md5_6_alpha_upper: 6PCEI
+md5_6_upper: ABD10A
+name: Category Electronic Header Oobb
+name_no_class: Electronic Header Oobb
+name_no_size: Oobb
+name_no_size_short: Oobb
+name_no_type: Header Oobb
+oomp_key: oomp_category_electronic_header_oobb
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryelectronic
+size: header
+size_capital: Header
+size_first_letter: h
+size_first_letter_upper: H
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: HEADER
+type: electronic
+type_capital: Electronic
+type_first_letter: e
+type_first_letter_upper: E
+type_upper: ELECTRONIC

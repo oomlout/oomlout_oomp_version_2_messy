@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_hardware
+description_extra: to_sort
+description_extra_capital: To Sort
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TO_SORT
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_hardware_to_sort
+distributors: []
+filter: ''
+from_yaml: false
+id: category_hardware_to_sort
+id_no_class: hardware_to_sort
+id_no_size: tosort
+id_no_type: to_sort
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_to_sort
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_to_sort
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_to_sort
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_hardware_to_sort](none)<br>[](none)<br>[Category Hardware
+    To Sort](none)<br><br>'
+markdown_short: '[category_hardware_to_sort](none)<br><br>'
+md5: e3e3108d3ba2b7a2b1eb6fb7806d4f18
+md5_10: e3e3108d3b
+md5_10_upper: E3E3108D3B
+md5_5: e3e31
+md5_5_upper: E3E31
+md5_6: e3e310
+md5_6_alpha: 8w3rk
+md5_6_alpha_upper: 8W3RK
+md5_6_upper: E3E310
+name: Category Hardware To Sort
+name_no_class: Hardware To Sort
+name_no_size: Tosort
+name_no_size_short: Tosort
+name_no_type: To Sort
+oomp_key: oomp_category_hardware_to_sort
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryhardware
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: hardware
+type_capital: Hardware
+type_first_letter: h
+type_first_letter_upper: H
+type_upper: HARDWARE

@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: 200_kilogram_capacity
+color_capital: 200 Kilogram Capacity
+color_first_letter: '2'
+color_first_letter_upper: '2'
+color_upper: 200_KILOGRAM_CAPACITY
+description: category_tool
+description_extra: tote
+description_extra_capital: Tote
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TOTE
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: '2 '
+description_or_color_upper: '2 '
+directory: parts/category_tool_trolley_200_kilogram_capacity_tote
+distributors: []
+filter: ''
+from_yaml: false
+id: category_tool_trolley_200_kilogram_capacity_tote
+id_no_class: tool_trolley_200_kilogram_capacity_tote
+id_no_size: 200_kilogram_capacity_tote
+id_no_type: trolley_200_kilogram_capacity_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_trolley_200_kilogram_capacity_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_trolley_200_kilogram_capacity_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_tool_trolley_200_kilogram_capacity_tote
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_tool_trolley_200_kilogram_capacity_tote](none)<br>[](none)<br>[Category
+    Tool Trolley 200 Kilogram Capacity Tote](none)<br><br>'
+markdown_short: '[category_tool_trolley_200_kilogram_capacity_tote](none)<br><br>'
+md5: b7396725df58e493f61f71c471e171e4
+md5_10: b7396725df
+md5_10_upper: B7396725DF
+md5_5: b7396
+md5_5_upper: B7396
+md5_6: b73967
+md5_6_alpha: 75d9j
+md5_6_alpha_upper: 75D9J
+md5_6_upper: B73967
+name: Category Tool Trolley 200 Kilogram Capacity Tote
+name_no_class: Tool Trolley 200 Kilogram Capacity Tote
+name_no_size: 200 Kilogram Capacity Tote
+name_no_size_short: 200 Kilogram Capacity Tote
+name_no_type: Trolley 200 Kilogram Capacity Tote
+oomp_key: oomp_category_tool_trolley_200_kilogram_capacity_tote
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorytool
+size: trolley
+size_capital: Trolley
+size_first_letter: t
+size_first_letter_upper: T
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: TROLLEY
+type: tool
+type_capital: Tool
+type_first_letter: t
+type_first_letter_upper: T
+type_upper: TOOL

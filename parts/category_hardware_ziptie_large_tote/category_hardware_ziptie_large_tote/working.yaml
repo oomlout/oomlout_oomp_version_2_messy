@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: large
+color_capital: Large
+color_first_letter: l
+color_first_letter_upper: L
+color_upper: LARGE
+description: category_hardware
+description_extra: tote
+description_extra_capital: Tote
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TOTE
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'L '
+description_or_color_upper: 'L '
+directory: parts/category_hardware_ziptie_large_tote
+distributors: []
+filter: ''
+from_yaml: false
+id: category_hardware_ziptie_large_tote
+id_no_class: hardware_ziptie_large_tote
+id_no_size: large_tote
+id_no_type: ziptie_large_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_ziptie_large_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_ziptie_large_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_ziptie_large_tote
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_hardware_ziptie_large_tote](none)<br>[](none)<br>[Category
+    Hardware Ziptie Large Tote](none)<br><br>'
+markdown_short: '[category_hardware_ziptie_large_tote](none)<br><br>'
+md5: a204f59032d21fbbca20a2bdb56ff1f0
+md5_10: a204f59032
+md5_10_upper: A204F59032
+md5_5: a204f
+md5_5_upper: A204F
+md5_6: a204f5
+md5_6_alpha: 6bkz9
+md5_6_alpha_upper: 6BKZ9
+md5_6_upper: A204F5
+name: Category Hardware Ziptie Large Tote
+name_no_class: Hardware Ziptie Large Tote
+name_no_size: Large Tote
+name_no_size_short: Large Tote
+name_no_type: Ziptie Large Tote
+oomp_key: oomp_category_hardware_ziptie_large_tote
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryhardware
+size: ziptie
+size_capital: Ziptie
+size_first_letter: z
+size_first_letter_upper: Z
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ZIPTIE
+type: hardware
+type_capital: Hardware
+type_first_letter: h
+type_first_letter_upper: H
+type_upper: HARDWARE

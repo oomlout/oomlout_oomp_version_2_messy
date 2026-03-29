@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_stationery
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_stationery_glue_stick
+distributors: []
+filter: ''
+from_yaml: false
+id: category_stationery_glue_stick
+id_no_class: stationery_glue_stick
+id_no_size: glue_stick
+id_no_type: glue_stick
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_stationery_glue_stick
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_stationery_glue_stick
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_stationery_glue_stick
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_stationery_glue_stick](none)<br>[](none)<br>[Category Stationery
+    Glue Stick](none)<br><br>'
+markdown_short: '[category_stationery_glue_stick](none)<br><br>'
+md5: 25ddd4cc64a976b959ffce367a5ebca3
+md5_10: 25ddd4cc64
+md5_10_upper: 25DDD4CC64
+md5_5: 25ddd
+md5_5_upper: 25DDD
+md5_6: 25ddd4
+md5_6_alpha: 1h6tw
+md5_6_alpha_upper: 1H6TW
+md5_6_upper: 25DDD4
+name: Category Stationery Glue Stick
+name_no_class: Stationery Glue Stick
+name_no_size: Glue Stick
+name_no_size_short: Glue Stick
+name_no_type: Glue Stick
+oomp_key: oomp_category_stationery_glue_stick
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorystationery
+size: glue_stick
+size_capital: Glue Stick
+size_first_letter: g
+size_first_letter_upper: G
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: GLUE_STICK
+type: stationery
+type_capital: Stationery
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: STATIONERY

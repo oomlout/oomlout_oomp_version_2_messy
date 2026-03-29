@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_storage
+description_extra: to_sort
+description_extra_capital: To Sort
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TO_SORT
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_storage_jar_clip_top_kilner_to_sort
+distributors: []
+filter: ''
+from_yaml: false
+id: category_storage_jar_clip_top_kilner_to_sort
+id_no_class: storage_jar_clip_top_kilner_to_sort
+id_no_size: to_sort
+id_no_type: jar_clip_top_kilner_to_sort
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_storage_jar_clip_top_kilner_to_sort
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_storage_jar_clip_top_kilner_to_sort
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_storage_jar_clip_top_kilner_to_sort
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_storage_jar_clip_top_kilner_to_sort](none)<br>[](none)<br>[Category
+    Storage Jar Clip Top Kilner To Sort](none)<br><br>'
+markdown_short: '[category_storage_jar_clip_top_kilner_to_sort](none)<br><br>'
+md5: 47357ea184459084c6a60218fe32ed82
+md5_10: 47357ea184
+md5_10_upper: 47357EA184
+md5_5: '47357'
+md5_5_upper: '47357'
+md5_6: 47357e
+md5_6_alpha: 2s0vy
+md5_6_alpha_upper: 2S0VY
+md5_6_upper: 47357E
+name: Category Storage Jar Clip Top Kilner To Sort
+name_no_class: Storage Jar Clip Top Kilner To Sort
+name_no_size: To Sort
+name_no_size_short: To Sort
+name_no_type: Jar Clip Top Kilner To Sort
+oomp_key: oomp_category_storage_jar_clip_top_kilner_to_sort
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorystorage
+size: jar_clip_top_kilner
+size_capital: Jar Clip Top Kilner
+size_first_letter: j
+size_first_letter_upper: J
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: JAR_CLIP_TOP_KILNER
+type: storage
+type_capital: Storage
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: STORAGE

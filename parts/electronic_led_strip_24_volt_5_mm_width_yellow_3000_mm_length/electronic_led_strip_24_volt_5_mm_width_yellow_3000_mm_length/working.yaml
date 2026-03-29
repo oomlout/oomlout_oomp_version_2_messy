@@ -1,0 +1,81 @@
+classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_upper: ELECTRONIC
+color: yellow
+color_capital: Yellow
+color_first_letter: y
+color_first_letter_upper: Y
+color_upper: YELLOW
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 3000_mm_length
+description_main_capital: 3000 mm Length
+description_main_first_letter: '3'
+description_main_first_letter_upper: '3'
+description_main_upper: 3000_MM_LENGTH
+description_only_numbers: '3000'
+description_only_numbers_short: 3k
+description_or_color: Y3k
+description_or_color_upper: Y3K
+directory: parts/electronic_led_strip_24_volt_5_mm_width_yellow_3000_mm_length
+distributors: []
+filter: ''
+from_yaml: false
+id: electronic_led_strip_24_volt_5_mm_width_yellow_3000_mm_length
+id_no_class: led_strip_24_volt_5_mm_width_yellow_3000_mm_length
+id_no_size: yellow_3000_mm_length
+id_no_type: strip_24_volt_5_mm_width_yellow_3000_mm_length
+link_distributor_aliexpress: https://www.aliexpress.com/item/1005007532172895.html
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_strip_24_volt_5_mm_width_yellow_3000_mm_length
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_strip_24_volt_5_mm_width_yellow_3000_mm_length
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_strip_24_volt_5_mm_width_yellow_3000_mm_length
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[electronic_led_strip_24_volt_5_mm_width_yellow_3000_mm_length](none)<br>[ly](none)<br>[Electronic
+    Led Strip 24 Volt 5 Mm Width Yellow 3000 Mm Length](none)<br><br>'
+markdown_short: '[electronic_led_strip_24_volt_5_mm_width_yellow_3000_mm_length](none)<br><br>'
+md5: 498bac0b52595ec1136c46a85e4ecf07
+md5_10: 498bac0b52
+md5_10_upper: 498BAC0B52
+md5_5: 498ba
+md5_5_upper: 498BA
+md5_6: 498bac
+md5_6_alpha: 2vb1o
+md5_6_alpha_upper: 2VB1O
+md5_6_upper: 498BAC
+name: Electronic Led Strip 24 Volt 5 Mm Width Yellow 3000 Mm Length
+name_no_class: Led Strip 24 Volt 5 Mm Width Yellow 3000 Mm Length
+name_no_size: Yellow 3000 Mm Length
+name_no_size_short: Yellow 3k Mm Length
+name_no_type: Strip 24 Volt 5 Mm Width Yellow 3000 Mm Length
+oomp_key: oomp_electronic_led_strip_24_volt_5_mm_width_yellow_3000_mm_length
+part_number: ''
+part_number_capital: ''
+part_number_distriubutor_aliexpress: '1005007532172895'
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ly
+short_code_upper: LY
+short_name: Strip 24 Volt 5 Mm Width Yellow3000 Mm Length Led
+size: strip_24_volt_5_mm_width
+size_capital: Strip 24 Volt 5 mm Width
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: '245'
+size_only_numbers_no_zeros: '245'
+size_upper: STRIP_24_VOLT_5_MM_WIDTH
+type: led
+type_capital: Led
+type_first_letter: l
+type_first_letter_upper: L
+type_upper: LED

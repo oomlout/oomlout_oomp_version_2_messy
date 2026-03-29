@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_lighting
+description_extra: to_sort
+description_extra_capital: To Sort
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TO_SORT
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_lighting_pendant_to_sort
+distributors: []
+filter: ''
+from_yaml: false
+id: category_lighting_pendant_to_sort
+id_no_class: lighting_pendant_to_sort
+id_no_size: to_sort
+id_no_type: pendant_to_sort
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_lighting_pendant_to_sort
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_lighting_pendant_to_sort
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_lighting_pendant_to_sort
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_lighting_pendant_to_sort](none)<br>[](none)<br>[Category
+    Lighting Pendant To Sort](none)<br><br>'
+markdown_short: '[category_lighting_pendant_to_sort](none)<br><br>'
+md5: aebf9c19544c2a04b49cc19555d7a9a0
+md5_10: aebf9c1954
+md5_10_upper: AEBF9C1954
+md5_5: aebf9
+md5_5_upper: AEBF9
+md5_6: aebf9c
+md5_6_alpha: 6tgnw
+md5_6_alpha_upper: 6TGNW
+md5_6_upper: AEBF9C
+name: Category Lighting Pendant To Sort
+name_no_class: Lighting Pendant To Sort
+name_no_size: To Sort
+name_no_size_short: To Sort
+name_no_type: Pendant To Sort
+oomp_key: oomp_category_lighting_pendant_to_sort
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorylighting
+size: pendant
+size_capital: Pendant
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PENDANT
+type: lighting
+type_capital: Lighting
+type_first_letter: l
+type_first_letter_upper: L
+type_upper: LIGHTING

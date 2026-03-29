@@ -1,0 +1,80 @@
+classification: food
+classification_capital: Food
+classification_first_letter: f
+classification_first_letter_upper: F
+classification_upper: FOOD
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: peppercorn rainbow
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: peppercorn_rainbow
+description_main_capital: Peppercorn Rainbow
+description_main_first_letter: p
+description_main_first_letter_upper: P
+description_main_upper: PEPPERCORN_RAINBOW
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/food_seasoning_salt_and_pepper_peppercorn_rainbow
+distributors: []
+filter: ''
+from_yaml: false
+id: food_seasoning_salt_and_pepper_peppercorn_rainbow
+id_no_class: seasoning_salt_and_pepper_peppercorn_rainbow
+id_no_size: peppercorn_rainbow
+id_no_type: salt_and_pepper_peppercorn_rainbow
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_salt_and_pepper_peppercorn_rainbow
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_salt_and_pepper_peppercorn_rainbow
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_salt_and_pepper_peppercorn_rainbow
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[food_seasoning_salt_and_pepper_peppercorn_rainbow](none)<br>[](none)<br>[Food
+    Seasoning Salt And Pepper Peppercorn Rainbow](none)<br><br>'
+markdown_short: '[food_seasoning_salt_and_pepper_peppercorn_rainbow](none)<br><br>'
+md5: e0cbd021f58949e2427e7f7ea1c9b627
+md5_10: e0cbd021f5
+md5_10_upper: E0CBD021F5
+md5_5: e0cbd
+md5_5_upper: E0CBD
+md5_6: e0cbd0
+md5_6_alpha: 8rrgw
+md5_6_alpha_upper: 8RRGW
+md5_6_upper: E0CBD0
+name: Food Seasoning Salt And Pepper Peppercorn Rainbow
+name_no_class: Seasoning Salt And Pepper Peppercorn Rainbow
+name_no_size: Peppercorn Rainbow
+name_no_size_short: Peppercorn Rainbow
+name_no_type: Salt And Pepper Peppercorn Rainbow
+name_short: Peppercorn Rainbow
+oomp_key: oomp_food_seasoning_salt_and_pepper_peppercorn_rainbow
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: salt_and_pepper
+size_capital: Salt And Pepper
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SALT_AND_PEPPER
+type: seasoning
+type_capital: Seasoning
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: SEASONING

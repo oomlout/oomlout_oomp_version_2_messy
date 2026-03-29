@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: wanhao_duplicator_i3_plus
+color_capital: Wanhao Duplicator I3 Plus
+color_first_letter: w
+color_first_letter_upper: W
+color_upper: WANHAO_DUPLICATOR_I3_PLUS
+description: category_three_d_printer
+description_extra: old
+description_extra_capital: Old
+description_extra_first_letter: o
+description_extra_first_letter_upper: O
+description_extra_upper: OLD
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'W '
+description_or_color_upper: 'W '
+directory: parts/category_three_d_printer_printer_wanhao_duplicator_i3_plus_old
+distributors: []
+filter: ''
+from_yaml: false
+id: category_three_d_printer_printer_wanhao_duplicator_i3_plus_old
+id_no_class: three_d_printer_printer_wanhao_duplicator_i3_plus_old
+id_no_size: wanhao_duplicator_i3_plus_old
+id_no_type: printer_wanhao_duplicator_i3_plus_old
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_three_d_printer_printer_wanhao_duplicator_i3_plus_old
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_three_d_printer_printer_wanhao_duplicator_i3_plus_old
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_three_d_printer_printer_wanhao_duplicator_i3_plus_old
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_three_d_printer_printer_wanhao_duplicator_i3_plus_old](none)<br>[](none)<br>[Category
+    Three D Printer Printer Wanhao Duplicator I3 Plus Old](none)<br><br>'
+markdown_short: '[category_three_d_printer_printer_wanhao_duplicator_i3_plus_old](none)<br><br>'
+md5: baf6665ac48c200692b297c2b12e66be
+md5_10: baf6665ac4
+md5_10_upper: BAF6665AC4
+md5_5: baf66
+md5_5_upper: BAF66
+md5_6: baf666
+md5_6_alpha: 7amau
+md5_6_alpha_upper: 7AMAU
+md5_6_upper: BAF666
+name: Category Three D Printer Printer Wanhao Duplicator I3 Plus Old
+name_no_class: Three D Printer Printer Wanhao Duplicator I3 Plus Old
+name_no_size: Wanhao Duplicator I3 Plus Old
+name_no_size_short: Wanhao Duplicator I3 Plus Old
+name_no_type: Printer Wanhao Duplicator I3 Plus Old
+oomp_key: oomp_category_three_d_printer_printer_wanhao_duplicator_i3_plus_old
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorythreedprinter
+size: printer
+size_capital: Printer
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PRINTER
+type: three_d_printer
+type_capital: Three D Printer
+type_first_letter: t
+type_first_letter_upper: T
+type_upper: THREE_D_PRINTER

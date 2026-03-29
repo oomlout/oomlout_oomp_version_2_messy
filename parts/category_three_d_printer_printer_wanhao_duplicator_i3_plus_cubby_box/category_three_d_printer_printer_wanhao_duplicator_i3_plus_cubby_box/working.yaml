@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: wanhao_duplicator_i3_plus
+color_capital: Wanhao Duplicator I3 Plus
+color_first_letter: w
+color_first_letter_upper: W
+color_upper: WANHAO_DUPLICATOR_I3_PLUS
+description: category_three_d_printer
+description_extra: cubby_box
+description_extra_capital: Cubby Box
+description_extra_first_letter: c
+description_extra_first_letter_upper: C
+description_extra_upper: CUBBY_BOX
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'W '
+description_or_color_upper: 'W '
+directory: parts/category_three_d_printer_printer_wanhao_duplicator_i3_plus_cubby_box
+distributors: []
+filter: ''
+from_yaml: false
+id: category_three_d_printer_printer_wanhao_duplicator_i3_plus_cubby_box
+id_no_class: three_d_printer_printer_wanhao_duplicator_i3_plus_cubby_box
+id_no_size: wanhao_duplicator_i3_plus_cubby_box
+id_no_type: printer_wanhao_duplicator_i3_plus_cubby_box
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_three_d_printer_printer_wanhao_duplicator_i3_plus_cubby_box
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_three_d_printer_printer_wanhao_duplicator_i3_plus_cubby_box
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_three_d_printer_printer_wanhao_duplicator_i3_plus_cubby_box
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_three_d_printer_printer_wanhao_duplicator_i3_plus_cubby_box](none)<br>[](none)<br>[Category
+    Three D Printer Printer Wanhao Duplicator I3 Plus Cubby Box](none)<br><br>'
+markdown_short: '[category_three_d_printer_printer_wanhao_duplicator_i3_plus_cubby_box](none)<br><br>'
+md5: 5bdad072ffbb6abb7de618775ce6454a
+md5_10: 5bdad072ff
+md5_10_upper: 5BDAD072FF
+md5_5: 5bdad
+md5_5_upper: 5BDAD
+md5_6: 5bdad0
+md5_6_alpha: 3l0wg
+md5_6_alpha_upper: 3L0WG
+md5_6_upper: 5BDAD0
+name: Category Three D Printer Printer Wanhao Duplicator I3 Plus Cubby Box
+name_no_class: Three D Printer Printer Wanhao Duplicator I3 Plus Cubby Box
+name_no_size: Wanhao Duplicator I3 Plus Cubby Box
+name_no_size_short: Wanhao Duplicator I3 Plus Cubby Box
+name_no_type: Printer Wanhao Duplicator I3 Plus Cubby Box
+oomp_key: oomp_category_three_d_printer_printer_wanhao_duplicator_i3_plus_cubby_box
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorythreedprinter
+size: printer
+size_capital: Printer
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PRINTER
+type: three_d_printer
+type_capital: Three D Printer
+type_first_letter: t
+type_first_letter_upper: T
+type_upper: THREE_D_PRINTER

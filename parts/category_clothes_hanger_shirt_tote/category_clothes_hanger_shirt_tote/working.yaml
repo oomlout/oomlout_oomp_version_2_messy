@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: shirt
+color_capital: Shirt
+color_first_letter: s
+color_first_letter_upper: S
+color_upper: SHIRT
+description: category_clothes
+description_extra: tote
+description_extra_capital: Tote
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TOTE
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'S '
+description_or_color_upper: 'S '
+directory: parts/category_clothes_hanger_shirt_tote
+distributors: []
+filter: ''
+from_yaml: false
+id: category_clothes_hanger_shirt_tote
+id_no_class: clothes_hanger_shirt_tote
+id_no_size: shirt_tote
+id_no_type: hanger_shirt_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_clothes_hanger_shirt_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_clothes_hanger_shirt_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_clothes_hanger_shirt_tote
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_clothes_hanger_shirt_tote](none)<br>[](none)<br>[Category
+    Clothes Hanger Shirt Tote](none)<br><br>'
+markdown_short: '[category_clothes_hanger_shirt_tote](none)<br><br>'
+md5: 71e73c333ab26a17e75c6b8a9b4dd677
+md5_10: 71e73c333a
+md5_10_upper: 71E73C333A
+md5_5: 71e73
+md5_5_upper: 71E73
+md5_6: 71e73c
+md5_6_alpha: 4fzuk
+md5_6_alpha_upper: 4FZUK
+md5_6_upper: 71E73C
+name: Category Clothes Hanger Shirt Tote
+name_no_class: Clothes Hanger Shirt Tote
+name_no_size: Shirt Tote
+name_no_size_short: Shirt Tote
+name_no_type: Hanger Shirt Tote
+oomp_key: oomp_category_clothes_hanger_shirt_tote
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryclothes
+size: hanger
+size_capital: Hanger
+size_first_letter: h
+size_first_letter_upper: H
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: HANGER
+type: clothes
+type_capital: Clothes
+type_first_letter: c
+type_first_letter_upper: C
+type_upper: CLOTHES

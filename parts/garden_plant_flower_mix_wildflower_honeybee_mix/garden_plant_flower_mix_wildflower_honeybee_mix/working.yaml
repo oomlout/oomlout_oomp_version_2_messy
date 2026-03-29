@@ -1,0 +1,79 @@
+classification: garden
+classification_capital: Garden
+classification_first_letter: g
+classification_first_letter_upper: G
+classification_upper: GARDEN
+color: mix
+color_capital: Mix
+color_first_letter: m
+color_first_letter_upper: M
+color_upper: MIX
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: wildflower_honeybee_mix
+description_main_capital: Wildflower Honeybee Mix
+description_main_first_letter: w
+description_main_first_letter_upper: W
+description_main_upper: WILDFLOWER_HONEYBEE_MIX
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'M '
+description_or_color_upper: 'M '
+directory: parts/garden_plant_flower_mix_wildflower_honeybee_mix
+distributor_sutton_seeds: '140000'
+distributors: []
+id: garden_plant_flower_mix_wildflower_honeybee_mix
+id_no_class: plant_flower_mix_wildflower_honeybee_mix
+id_no_size: mix_wildhoneybee_mix
+id_no_type: flower_mix_wildflower_honeybee_mix
+link_distributor_sutton_seeds: https://www.suttons.co.uk/SUSGWE56/wildflower-honeybee-mix-seeds_mh-53182
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/garden_plant_flower_mix_wildflower_honeybee_mix
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/garden_plant_flower_mix_wildflower_honeybee_mix
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/garden_plant_flower_mix_wildflower_honeybee_mix
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[garden_plant_flower_mix_wildflower_honeybee_mix](none)<br>[](none)<br>[Garden
+    Plant Flower Mix Wildflower Honeybee Mix](none)<br><br>'
+markdown_short: '[garden_plant_flower_mix_wildflower_honeybee_mix](none)<br><br>'
+md5: 67dcb14f6e471d086da3e6eab183d666
+md5_10: 67dcb14f6e
+md5_10_upper: 67DCB14F6E
+md5_5: 67dcb
+md5_5_upper: 67DCB
+md5_6: 67dcb1
+md5_6_alpha: 41w35
+md5_6_alpha_upper: 41W35
+md5_6_upper: 67DCB1
+name: Garden Plant Flower Mix Wildflower Honeybee Mix
+name_no_class: Plant Flower Mix Wildflower Honeybee Mix
+name_no_size: Mix Wildhoneybee Mix
+name_no_size_short: Mix Wildhoneybee Mix
+name_no_type: Flower Mix Wildflower Honeybee Mix
+oomp_key: oomp_garden_plant_flower_mix_wildflower_honeybee_mix
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: flower
+size_capital: Flower
+size_first_letter: f
+size_first_letter_upper: F
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: FLOWER
+type: plant
+type_capital: Plant
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PLANT

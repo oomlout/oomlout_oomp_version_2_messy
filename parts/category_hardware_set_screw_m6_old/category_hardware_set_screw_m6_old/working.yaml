@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: m6
+color_capital: M6
+color_first_letter: m
+color_first_letter_upper: M
+color_upper: M6
+description: category_hardware
+description_extra: old
+description_extra_capital: Old
+description_extra_first_letter: o
+description_extra_first_letter_upper: O
+description_extra_upper: OLD
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'M '
+description_or_color_upper: 'M '
+directory: parts/category_hardware_set_screw_m6_old
+distributors: []
+filter: ''
+from_yaml: false
+id: category_hardware_set_screw_m6_old
+id_no_class: hardware_set_screw_m6_old
+id_no_size: m6_old
+id_no_type: set_screw_m6_old
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_set_screw_m6_old
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_set_screw_m6_old
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_set_screw_m6_old
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_hardware_set_screw_m6_old](none)<br>[](none)<br>[Category
+    Hardware Set Screw M6 Old](none)<br><br>'
+markdown_short: '[category_hardware_set_screw_m6_old](none)<br><br>'
+md5: af976570e71bb321d7b3014b8a608165
+md5_10: af976570e7
+md5_10_upper: AF976570E7
+md5_5: af976
+md5_5_upper: AF976
+md5_6: af9765
+md5_6_alpha: 6unad
+md5_6_alpha_upper: 6UNAD
+md5_6_upper: AF9765
+name: Category Hardware Set Screw M6 Old
+name_no_class: Hardware Set Screw M6 Old
+name_no_size: M6 Old
+name_no_size_short: M6 Old
+name_no_type: Set Screw M6 Old
+oomp_key: oomp_category_hardware_set_screw_m6_old
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryhardware
+size: set_screw
+size_capital: Set Screw
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SET_SCREW
+type: hardware
+type_capital: Hardware
+type_first_letter: h
+type_first_letter_upper: H
+type_upper: HARDWARE

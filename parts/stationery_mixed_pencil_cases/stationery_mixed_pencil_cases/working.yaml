@@ -1,0 +1,77 @@
+classification: stationery
+classification_capital: Stationery
+classification_first_letter: s
+classification_first_letter_upper: S
+classification_upper: STATIONERY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: pencil_cases
+description_main_capital: Pencil Cases
+description_main_first_letter: p
+description_main_first_letter_upper: P
+description_main_upper: PENCIL_CASES
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/stationery_mixed_pencil_cases
+distributors: []
+id: stationery_mixed_pencil_cases
+id_no_class: mixed_pencil_cases
+id_no_size: pencilcases
+id_no_type: pencil_cases
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_mixed_pencil_cases
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_mixed_pencil_cases
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/stationery_mixed_pencil_cases
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[stationery_mixed_pencil_cases](none)<br>[](none)<br>[Stationery Mixed
+    Pencil Cases](none)<br><br>'
+markdown_short: '[stationery_mixed_pencil_cases](none)<br><br>'
+md5: 4acb945d51de1f9d36c193672dc5bf6b
+md5_10: 4acb945d51
+md5_10_upper: 4ACB945D51
+md5_5: 4acb9
+md5_5_upper: 4ACB9
+md5_6: 4acb94
+md5_6_alpha: 2x28k
+md5_6_alpha_upper: 2X28K
+md5_6_upper: 4ACB94
+name: Stationery Mixed Pencil Cases
+name_no_class: Mixed Pencil Cases
+name_no_size: Pencilcases
+name_no_size_short: Pencilcases
+name_no_type: Pencil Cases
+oomp_key: oomp_stationery_mixed_pencil_cases
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: mixed
+type_capital: Mixed
+type_first_letter: m
+type_first_letter_upper: M
+type_upper: MIXED

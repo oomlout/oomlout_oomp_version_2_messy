@@ -1,0 +1,78 @@
+classification: clothes
+classification_capital: Clothes
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CLOTHES
+color: extra_small
+color_capital: Extra Small
+color_first_letter: e
+color_first_letter_upper: E
+color_upper: EXTRA_SMALL
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: maroon
+description_main_capital: Maroon
+description_main_first_letter: m
+description_main_first_letter_upper: M
+description_main_upper: MAROON
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'E '
+description_or_color_upper: 'E '
+directory: parts/clothes_item_pajama_top_extra_small_maroon
+distributors: []
+filter: ''
+from_yaml: false
+id: clothes_item_pajama_top_extra_small_maroon
+id_no_class: item_pajama_top_extra_small_maroon
+id_no_size: extra_small_maroon
+id_no_type: pajama_top_extra_small_maroon
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_pajama_top_extra_small_maroon
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_pajama_top_extra_small_maroon
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_pajama_top_extra_small_maroon
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[clothes_item_pajama_top_extra_small_maroon](none)<br>[](none)<br>[Clothes
+    Item Pajama Top Extra Small Maroon](none)<br><br>'
+markdown_short: '[clothes_item_pajama_top_extra_small_maroon](none)<br><br>'
+md5: 630c041d09f69b88387580b4117bc94c
+md5_10: 630c041d09
+md5_10_upper: 630C041D09
+md5_5: 630c0
+md5_5_upper: 630C0
+md5_6: 630c04
+md5_6_alpha: 3v4lg
+md5_6_alpha_upper: 3V4LG
+md5_6_upper: 630C04
+name: Clothes Item Pajama Top Extra Small Maroon
+name_no_class: Item Pajama Top Extra Small Maroon
+name_no_size: Extra Small Maroon
+name_no_size_short: Extra Small Maroon
+name_no_type: Pajama Top Extra Small Maroon
+oomp_key: oomp_clothes_item_pajama_top_extra_small_maroon
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: pajama_top
+size_capital: Pajama Top
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PAJAMA_TOP
+type: item
+type_capital: Item
+type_first_letter: i
+type_first_letter_upper: I
+type_upper: ITEM

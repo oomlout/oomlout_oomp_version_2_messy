@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: thread
+color_capital: Thread
+color_first_letter: t
+color_first_letter_upper: T
+color_upper: THREAD
+description: category_craft
+description_extra: tote
+description_extra_capital: Tote
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TOTE
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'T '
+description_or_color_upper: 'T '
+directory: parts/category_craft_embroidery_thread_tote
+distributors: []
+filter: ''
+from_yaml: false
+id: category_craft_embroidery_thread_tote
+id_no_class: craft_embroidery_thread_tote
+id_no_size: thread_tote
+id_no_type: embroidery_thread_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_craft_embroidery_thread_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_craft_embroidery_thread_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_craft_embroidery_thread_tote
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_craft_embroidery_thread_tote](none)<br>[](none)<br>[Category
+    Craft Embroidery Thread Tote](none)<br><br>'
+markdown_short: '[category_craft_embroidery_thread_tote](none)<br><br>'
+md5: ceb3a6083a318fc92a25cef9dfd4e83d
+md5_10: ceb3a6083a
+md5_10_upper: CEB3A6083A
+md5_5: ceb3a
+md5_5_upper: CEB3A
+md5_6: ceb3a6
+md5_6_alpha: 82ch2
+md5_6_alpha_upper: 82CH2
+md5_6_upper: CEB3A6
+name: Category Craft Embroidery Thread Tote
+name_no_class: Craft Embroidery Thread Tote
+name_no_size: Thread Tote
+name_no_size_short: Thread Tote
+name_no_type: Embroidery Thread Tote
+oomp_key: oomp_category_craft_embroidery_thread_tote
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorycraft
+size: embroidery
+size_capital: Embroidery
+size_first_letter: e
+size_first_letter_upper: E
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: EMBROIDERY
+type: craft
+type_capital: Craft
+type_first_letter: c
+type_first_letter_upper: C
+type_upper: CRAFT

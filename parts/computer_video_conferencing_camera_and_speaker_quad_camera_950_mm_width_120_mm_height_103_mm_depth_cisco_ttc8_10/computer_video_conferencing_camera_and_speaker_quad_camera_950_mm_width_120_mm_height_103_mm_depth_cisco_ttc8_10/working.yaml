@@ -1,0 +1,85 @@
+classification: computer
+classification_capital: Computer
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: COMPUTER
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: 950_mm_width_120_mm_height_103_mm_depth
+description_extra_capital: 950 mm Width 120 mm Height 103 mm Depth
+description_extra_first_letter: '9'
+description_extra_first_letter_upper: '9'
+description_extra_upper: 950_MM_WIDTH_120_MM_HEIGHT_103_MM_DEPTH
+description_main: quad_camera
+description_main_capital: Quad Camera
+description_main_first_letter: q
+description_main_first_letter_upper: Q
+description_main_upper: QUAD_CAMERA
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/computer_video_conferencing_camera_and_speaker_quad_camera_950_mm_width_120_mm_height_103_mm_depth_cisco_ttc8_10
+distributors: []
+filter: ''
+from_yaml: false
+id: computer_video_conferencing_camera_and_speaker_quad_camera_950_mm_width_120_mm_height_103_mm_depth_cisco_ttc8_10
+id_no_class: video_conferencing_camera_and_speaker_quad_camera_950_mm_width_120_mm_height_103_mm_depth_cisco_ttc8_10
+id_no_size: quad_camera_950_mm_width_120_mm_height_103_mm_depth_cisco_ttc8_10
+id_no_type: camera_and_speaker_quad_camera_950_mm_width_120_mm_height_103_mm_depth_cisco_ttc8_10
+link_distributor_cisco: https://www.webex.com/us/en/devices/cameras/cisco-quad-camera.html
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_video_conferencing_camera_and_speaker_quad_camera_950_mm_width_120_mm_height_103_mm_depth_cisco_ttc8_10
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_video_conferencing_camera_and_speaker_quad_camera_950_mm_width_120_mm_height_103_mm_depth_cisco_ttc8_10
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_video_conferencing_camera_and_speaker_quad_camera_950_mm_width_120_mm_height_103_mm_depth_cisco_ttc8_10
+manufacturer: cisco
+manufacturer_capital: Cisco
+manufacturer_first_letter: c
+manufacturer_first_letter_upper: C
+manufacturer_upper: CISCO
+manufacturers: []
+markdown_full: '[computer_video_conferencing_camera_and_speaker_quad_camera_950_mm_width_120_mm_height_103_mm_depth_cisco_ttc8_10](none)<br>[](none)<br>[Computer
+    Video Conferencing Camera And Speaker Quad Camera 950 Mm Width 120 Mm Height 103
+    Mm Depth Cisco Ttc8 10](none)<br><br>'
+markdown_short: '[computer_video_conferencing_camera_and_speaker_quad_camera_950_mm_width_120_mm_height_103_mm_depth_cisco_ttc8_10](none)<br><br>'
+md5: 21a4d379ce9c468bddba33296c981c79
+md5_10: 21a4d379ce
+md5_10_upper: 21A4D379CE
+md5_5: 21a4d
+md5_5_upper: 21A4D
+md5_6: 21a4d3
+md5_6_alpha: 1b9ar
+md5_6_alpha_upper: 1B9AR
+md5_6_upper: 21A4D3
+name: Computer Video Conferencing Camera And Speaker Quad Camera 950 Mm Width 120
+    Mm Height 103 Mm Depth Cisco Ttc8 10
+name_no_class: Video Conferencing Camera And Speaker Quad Camera 950 Mm Width 120
+    Mm Height 103 Mm Depth Cisco Ttc8 10
+name_no_size: Quad Camera 950 Mm Width 120 Mm Height 103 Mm Depth Cisco Ttc8 10
+name_no_size_short: Quad Camera 950 Mm Width 120 Mm Height 103 Mm Depth Cisco Ttc8
+    10
+name_no_type: Camera And Speaker Quad Camera 950 Mm Width 120 Mm Height 103 Mm Depth
+    Cisco Ttc8 10
+oomp_key: oomp_computer_video_conferencing_camera_and_speaker_quad_camera_950_mm_width_120_mm_height_103_mm_depth_cisco_ttc8_10
+part_number: ttc8_10
+part_number_capital: Ttc8.10
+part_number_exact: TTC8-10
+part_number_first_letter: t
+part_number_first_letter_upper: T
+part_number_upper: TTC8_10
+short_code: ''
+short_code_upper: ''
+size: camera_and_speaker
+size_capital: Camera And Speaker
+size_first_letter: c
+size_first_letter_upper: C
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: CAMERA_AND_SPEAKER
+type: video_conferencing
+type_capital: Video Conferencing
+type_first_letter: v
+type_first_letter_upper: V
+type_upper: VIDEO_CONFERENCING

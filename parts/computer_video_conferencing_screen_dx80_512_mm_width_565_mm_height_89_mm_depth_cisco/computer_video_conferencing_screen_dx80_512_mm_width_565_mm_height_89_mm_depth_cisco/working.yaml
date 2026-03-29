@@ -1,0 +1,80 @@
+classification: computer
+classification_capital: Computer
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: COMPUTER
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: 512_mm_width_565_mm_height_89_mm_depth
+description_extra_capital: 512 mm Width 565 mm Height 89 mm Depth
+description_extra_first_letter: '5'
+description_extra_first_letter_upper: '5'
+description_extra_upper: 512_MM_WIDTH_565_MM_HEIGHT_89_MM_DEPTH
+description_main: dx80
+description_main_capital: Dx80
+description_main_first_letter: d
+description_main_first_letter_upper: D
+description_main_upper: DX80
+description_only_numbers: '80'
+description_only_numbers_short: '80'
+description_or_color: '80'
+description_or_color_upper: '80'
+directory: parts/computer_video_conferencing_screen_dx80_512_mm_width_565_mm_height_89_mm_depth_cisco
+distributors: []
+filter: ''
+from_yaml: false
+id: computer_video_conferencing_screen_dx80_512_mm_width_565_mm_height_89_mm_depth_cisco
+id_no_class: video_conferencing_screen_dx80_512_mm_width_565_mm_height_89_mm_depth_cisco
+id_no_size: dx80_512_mm_width_565_mm_height_89_mm_depth_cisco
+id_no_type: screen_dx80_512_mm_width_565_mm_height_89_mm_depth_cisco
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_video_conferencing_screen_dx80_512_mm_width_565_mm_height_89_mm_depth_cisco
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_video_conferencing_screen_dx80_512_mm_width_565_mm_height_89_mm_depth_cisco
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_video_conferencing_screen_dx80_512_mm_width_565_mm_height_89_mm_depth_cisco
+manufacturer: cisco
+manufacturer_capital: Cisco
+manufacturer_first_letter: c
+manufacturer_first_letter_upper: C
+manufacturer_upper: CISCO
+manufacturers: []
+markdown_full: '[computer_video_conferencing_screen_dx80_512_mm_width_565_mm_height_89_mm_depth_cisco](none)<br>[](none)<br>[Computer
+    Video Conferencing Screen Dx80 512 Mm Width 565 Mm Height 89 Mm Depth Cisco](none)<br><br>'
+markdown_short: '[computer_video_conferencing_screen_dx80_512_mm_width_565_mm_height_89_mm_depth_cisco](none)<br><br>'
+md5: 275fee49231cc507b90585eb22fe0430
+md5_10: 275fee4923
+md5_10_upper: 275FEE4923
+md5_5: 275fe
+md5_5_upper: 275FE
+md5_6: 275fee
+md5_6_alpha: 1jb3i
+md5_6_alpha_upper: 1JB3I
+md5_6_upper: 275FEE
+name: Computer Video Conferencing Screen Dx80 512 Mm Width 565 Mm Height 89 Mm Depth
+    Cisco
+name_no_class: Video Conferencing Screen Dx80 512 Mm Width 565 Mm Height 89 Mm Depth
+    Cisco
+name_no_size: Dx80 512 Mm Width 565 Mm Height 89 Mm Depth Cisco
+name_no_size_short: Dx80 512 Mm Width 565 Mm Height 89 Mm Depth Cisco
+name_no_type: Screen Dx80 512 Mm Width 565 Mm Height 89 Mm Depth Cisco
+oomp_key: oomp_computer_video_conferencing_screen_dx80_512_mm_width_565_mm_height_89_mm_depth_cisco
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: screen
+size_capital: Screen
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SCREEN
+type: video_conferencing
+type_capital: Video Conferencing
+type_first_letter: v
+type_first_letter_upper: V
+type_upper: VIDEO_CONFERENCING

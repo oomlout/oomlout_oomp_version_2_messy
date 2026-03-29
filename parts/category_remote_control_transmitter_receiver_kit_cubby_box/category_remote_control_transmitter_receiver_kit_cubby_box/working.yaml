@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_remote_control
+description_extra: cubby_box
+description_extra_capital: Cubby Box
+description_extra_first_letter: c
+description_extra_first_letter_upper: C
+description_extra_upper: CUBBY_BOX
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_remote_control_transmitter_receiver_kit_cubby_box
+distributors: []
+filter: ''
+from_yaml: false
+id: category_remote_control_transmitter_receiver_kit_cubby_box
+id_no_class: remote_control_transmitter_receiver_kit_cubby_box
+id_no_size: cubby_box
+id_no_type: transmitter_receiver_kit_cubby_box
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_remote_control_transmitter_receiver_kit_cubby_box
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_remote_control_transmitter_receiver_kit_cubby_box
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_remote_control_transmitter_receiver_kit_cubby_box
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_remote_control_transmitter_receiver_kit_cubby_box](none)<br>[](none)<br>[Category
+    Remote Control Transmitter Receiver Kit Cubby Box](none)<br><br>'
+markdown_short: '[category_remote_control_transmitter_receiver_kit_cubby_box](none)<br><br>'
+md5: ed2fdca8e70d141b9ed85f8f671f28b6
+md5_10: ed2fdca8e7
+md5_10_upper: ED2FDCA8E7
+md5_5: ed2fd
+md5_5_upper: ED2FD
+md5_6: ed2fdc
+md5_6_alpha: 9961o
+md5_6_alpha_upper: 9961O
+md5_6_upper: ED2FDC
+name: Category Remote Control Transmitter Receiver Kit Cubby Box
+name_no_class: Remote Control Transmitter Receiver Kit Cubby Box
+name_no_size: Cubby Box
+name_no_size_short: Cubby Box
+name_no_type: Transmitter Receiver Kit Cubby Box
+oomp_key: oomp_category_remote_control_transmitter_receiver_kit_cubby_box
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryremotecontrol
+size: transmitter_receiver_kit
+size_capital: Transmitter Receiver Kit
+size_first_letter: t
+size_first_letter_upper: T
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: TRANSMITTER_RECEIVER_KIT
+type: remote_control
+type_capital: Remote Control
+type_first_letter: r
+type_first_letter_upper: R
+type_upper: REMOTE_CONTROL

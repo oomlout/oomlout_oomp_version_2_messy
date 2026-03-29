@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_hardware
+description_extra: tote
+description_extra_capital: Tote
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TOTE
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_hardware_screw_button_head_tote
+distributors: []
+filter: ''
+from_yaml: false
+id: category_hardware_screw_button_head_tote
+id_no_class: hardware_screw_button_head_tote
+id_no_size: tote
+id_no_type: screw_button_head_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_screw_button_head_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_screw_button_head_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_screw_button_head_tote
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_hardware_screw_button_head_tote](none)<br>[](none)<br>[Category
+    Hardware Screw Button Head Tote](none)<br><br>'
+markdown_short: '[category_hardware_screw_button_head_tote](none)<br><br>'
+md5: ebd841eb3b28bfd964cac17dfc050753
+md5_10: ebd841eb3b
+md5_10_upper: EBD841EB3B
+md5_5: ebd84
+md5_5_upper: EBD84
+md5_6: ebd841
+md5_6_alpha: 97a69
+md5_6_alpha_upper: 97A69
+md5_6_upper: EBD841
+name: Category Hardware Screw Button Head Tote
+name_no_class: Hardware Screw Button Head Tote
+name_no_size: Tote
+name_no_size_short: Tote
+name_no_type: Screw Button Head Tote
+oomp_key: oomp_category_hardware_screw_button_head_tote
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryhardware
+size: screw_button_head
+size_capital: Screw Button Head
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SCREW_BUTTON_HEAD
+type: hardware
+type_capital: Hardware
+type_first_letter: h
+type_first_letter_upper: H
+type_upper: HARDWARE

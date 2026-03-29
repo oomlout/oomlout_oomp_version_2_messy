@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: size_85
+color_capital: Size 85
+color_first_letter: s
+color_first_letter_upper: S
+color_upper: SIZE_85
+description: category_packaging
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'S '
+description_or_color_upper: 'S '
+directory: parts/category_packaging_elastic_band_size_85
+distributors: []
+filter: ''
+from_yaml: false
+id: category_packaging_elastic_band_size_85
+id_no_class: packaging_elastic_band_size_85
+id_no_size: size_85
+id_no_type: elastic_band_size_85
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_packaging_elastic_band_size_85
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_packaging_elastic_band_size_85
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_packaging_elastic_band_size_85
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_packaging_elastic_band_size_85](none)<br>[](none)<br>[Category
+    Packaging Elastic Band Size 85](none)<br><br>'
+markdown_short: '[category_packaging_elastic_band_size_85](none)<br><br>'
+md5: a996d72d69f73629af347ff3d6d66031
+md5_10: a996d72d69
+md5_10_upper: A996D72D69
+md5_5: a996d
+md5_5_upper: A996D
+md5_6: a996d7
+md5_6_alpha: 6m7rr
+md5_6_alpha_upper: 6M7RR
+md5_6_upper: A996D7
+name: Category Packaging Elastic Band Size 85
+name_no_class: Packaging Elastic Band Size 85
+name_no_size: Size 85
+name_no_size_short: Size 85
+name_no_type: Elastic Band Size 85
+oomp_key: oomp_category_packaging_elastic_band_size_85
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorypackaging
+size: elastic_band
+size_capital: Elastic Band
+size_first_letter: e
+size_first_letter_upper: E
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ELASTIC_BAND
+type: packaging
+type_capital: Packaging
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PACKAGING

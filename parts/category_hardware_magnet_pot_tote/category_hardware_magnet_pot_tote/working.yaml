@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: pot
+color_capital: Pot
+color_first_letter: p
+color_first_letter_upper: P
+color_upper: POT
+description: category_hardware
+description_extra: tote
+description_extra_capital: Tote
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TOTE
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'P '
+description_or_color_upper: 'P '
+directory: parts/category_hardware_magnet_pot_tote
+distributors: []
+filter: ''
+from_yaml: false
+id: category_hardware_magnet_pot_tote
+id_no_class: hardware_magnet_pot_tote
+id_no_size: pot_tote
+id_no_type: magnet_pot_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_magnet_pot_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_magnet_pot_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_magnet_pot_tote
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_hardware_magnet_pot_tote](none)<br>[](none)<br>[Category
+    Hardware Magnet Pot Tote](none)<br><br>'
+markdown_short: '[category_hardware_magnet_pot_tote](none)<br><br>'
+md5: f5dd7d4c7b4f80090b783aef67829fa7
+md5_10: f5dd7d4c7b
+md5_10_upper: F5DD7D4C7B
+md5_5: f5dd7
+md5_5_upper: F5DD7
+md5_6: f5dd7d
+md5_6_alpha: 9lcvx
+md5_6_alpha_upper: 9LCVX
+md5_6_upper: F5DD7D
+name: Category Hardware Magnet Pot Tote
+name_no_class: Hardware Magnet Pot Tote
+name_no_size: Pot Tote
+name_no_size_short: Pot Tote
+name_no_type: Magnet Pot Tote
+oomp_key: oomp_category_hardware_magnet_pot_tote
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryhardware
+size: magnet
+size_capital: Magnet
+size_first_letter: m
+size_first_letter_upper: M
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: MAGNET
+type: hardware
+type_capital: Hardware
+type_first_letter: h
+type_first_letter_upper: H
+type_upper: HARDWARE

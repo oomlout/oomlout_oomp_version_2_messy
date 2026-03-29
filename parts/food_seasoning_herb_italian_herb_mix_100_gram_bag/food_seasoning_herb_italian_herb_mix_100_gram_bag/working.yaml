@@ -1,0 +1,80 @@
+classification: food
+classification_capital: Food
+classification_first_letter: f
+classification_first_letter_upper: F
+classification_upper: FOOD
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: italian herb mix
+description_extra: 100_gram_bag
+description_extra_capital: 100 Gram Bag
+description_extra_first_letter: '1'
+description_extra_first_letter_upper: '1'
+description_extra_upper: 100_GRAM_BAG
+description_main: italian_herb_mix
+description_main_capital: Italian Herb Mix
+description_main_first_letter: i
+description_main_first_letter_upper: I
+description_main_upper: ITALIAN_HERB_MIX
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/food_seasoning_herb_italian_herb_mix_100_gram_bag
+distributors: []
+filter: ''
+from_yaml: false
+id: food_seasoning_herb_italian_herb_mix_100_gram_bag
+id_no_class: seasoning_herb_italian_herb_mix_100_gram_bag
+id_no_size: italian_mix_100_gram_bag
+id_no_type: herb_italian_herb_mix_100_gram_bag
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_herb_italian_herb_mix_100_gram_bag
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_herb_italian_herb_mix_100_gram_bag
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_seasoning_herb_italian_herb_mix_100_gram_bag
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[food_seasoning_herb_italian_herb_mix_100_gram_bag](none)<br>[](none)<br>[Food
+    Seasoning Herb Italian Herb Mix 100 Gram Bag](none)<br><br>'
+markdown_short: '[food_seasoning_herb_italian_herb_mix_100_gram_bag](none)<br><br>'
+md5: d23ed09e8af0035115d1fca8b7cba970
+md5_10: d23ed09e8a
+md5_10_upper: D23ED09E8A
+md5_5: d23ed
+md5_5_upper: D23ED
+md5_6: d23ed0
+md5_6_alpha: 87bo0
+md5_6_alpha_upper: 87BO0
+md5_6_upper: D23ED0
+name: Food Seasoning Herb Italian Herb Mix 100 Gram Bag
+name_no_class: Seasoning Herb Italian Herb Mix 100 Gram Bag
+name_no_size: Italian Mix 100 Gram Bag
+name_no_size_short: Italian Mix 100 Gram Bag
+name_no_type: Herb Italian Herb Mix 100 Gram Bag
+name_short: Italian Herb Mix
+oomp_key: oomp_food_seasoning_herb_italian_herb_mix_100_gram_bag
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: herb
+size_capital: Herb
+size_first_letter: h
+size_first_letter_upper: H
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: HERB
+type: seasoning
+type_capital: Seasoning
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: SEASONING

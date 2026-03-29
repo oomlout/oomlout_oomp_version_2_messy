@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: a5
+color_capital: A5
+color_first_letter: a
+color_first_letter_upper: A
+color_upper: A5
+description: category_stationery
+description_extra: to_sort
+description_extra_capital: To Sort
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TO_SORT
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'A '
+description_or_color_upper: 'A '
+directory: parts/category_stationery_notebook_a5_to_sort
+distributors: []
+filter: ''
+from_yaml: false
+id: category_stationery_notebook_a5_to_sort
+id_no_class: stationery_notebook_a5_to_sort
+id_no_size: a5_to_sort
+id_no_type: notebook_a5_to_sort
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_stationery_notebook_a5_to_sort
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_stationery_notebook_a5_to_sort
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_stationery_notebook_a5_to_sort
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_stationery_notebook_a5_to_sort](none)<br>[](none)<br>[Category
+    Stationery Notebook A5 To Sort](none)<br><br>'
+markdown_short: '[category_stationery_notebook_a5_to_sort](none)<br><br>'
+md5: 49ce981ceba43147d61352b81b406961
+md5_10: 49ce981ceb
+md5_10_upper: 49CE981CEB
+md5_5: 49ce9
+md5_5_upper: 49CE9
+md5_6: 49ce98
+md5_6_alpha: 2vo9k
+md5_6_alpha_upper: 2VO9K
+md5_6_upper: 49CE98
+name: Category Stationery Notebook A5 To Sort
+name_no_class: Stationery Notebook A5 To Sort
+name_no_size: A5 To Sort
+name_no_size_short: A5 To Sort
+name_no_type: Notebook A5 To Sort
+oomp_key: oomp_category_stationery_notebook_a5_to_sort
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorystationery
+size: notebook
+size_capital: Notebook
+size_first_letter: n
+size_first_letter_upper: N
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: NOTEBOOK
+type: stationery
+type_capital: Stationery
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: STATIONERY

@@ -1,0 +1,79 @@
+classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_upper: ELECTRONIC
+color: red
+color_capital: Red
+color_first_letter: r
+color_first_letter_upper: R
+color_upper: RED
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 30000_mm_length
+description_main_capital: 30000 mm Length
+description_main_first_letter: '3'
+description_main_first_letter_upper: '3'
+description_main_upper: 30000_MM_LENGTH
+description_only_numbers: '30000'
+description_only_numbers_short: 30k
+description_or_color: R30k
+description_or_color_upper: R30K
+directory: parts/electronic_heatshrink_2_to_1_shrink_ratio_76_2_mm_internal_diameter_red_30000_mm_length
+distributors: []
+id: electronic_heatshrink_2_to_1_shrink_ratio_76_2_mm_internal_diameter_red_30000_mm_length
+id_no_class: heatshrink_2_to_1_shrink_ratio_76_2_mm_internal_diameter_red_30000_mm_length
+id_no_size: red_30000_mm_length
+id_no_type: 76_2_mm_internal_diameter_red_30000_mm_length
+kicad_reference: ''
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_76_2_mm_internal_diameter_red_30000_mm_length
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_76_2_mm_internal_diameter_red_30000_mm_length
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_heatshrink_2_to_1_shrink_ratio_76_2_mm_internal_diameter_red_30000_mm_length
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[electronic_heatshrink_2_to_1_shrink_ratio_76_2_mm_internal_diameter_red_30000_mm_length](none)<br>[r](none)<br>[Electronic
+    Heatshrink 2 To 1 Shrink Ratio 76 2 Mm Internal Diameter Red 30000 Mm Length](none)<br><br>'
+markdown_short: '[electronic_heatshrink_2_to_1_shrink_ratio_76_2_mm_internal_diameter_red_30000_mm_length](none)<br><br>'
+md5: 6936ec5060f5e081b4bf3830876fcce3
+md5_10: 6936ec5060
+md5_10_upper: 6936EC5060
+md5_5: 6936e
+md5_5_upper: 6936E
+md5_6: 6936ec
+md5_6_alpha: 43sh8
+md5_6_alpha_upper: 43SH8
+md5_6_upper: 6936EC
+name: Electronic Heatshrink 2 To 1 Shrink Ratio 76 2 Mm Internal Diameter Red 30000
+    Mm Length
+name_no_class: Heatshrink 2 To 1 Shrink Ratio 76 2 Mm Internal Diameter Red 30000
+    Mm Length
+name_no_size: Red 30000 Mm Length
+name_no_size_short: Red 30k Mm Length
+name_no_type: 76 2 Mm Internal Diameter Red 30000 Mm Length
+oomp_key: oomp_electronic_heatshrink_2_to_1_shrink_ratio_76_2_mm_internal_diameter_red_30000_mm_length
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: r
+short_code_upper: R
+size: 76_2_mm_internal_diameter
+size_capital: 76.2 mm Internal Diameter
+size_first_letter: '7'
+size_first_letter_upper: '7'
+size_only_numbers: '762'
+size_only_numbers_no_zeros: '762'
+size_upper: 76_2_MM_INTERNAL_DIAMETER
+type: heatshrink_2_to_1_shrink_ratio
+type_capital: Heatshrink 2 To 1 Shrink Ratio
+type_first_letter: h
+type_first_letter_upper: H
+type_upper: HEATSHRINK_2_TO_1_SHRINK_RATIO

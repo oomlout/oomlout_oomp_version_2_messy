@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_paper
+description_extra: cubby_box
+description_extra_capital: Cubby Box
+description_extra_first_letter: c
+description_extra_first_letter_upper: C
+description_extra_upper: CUBBY_BOX
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_paper_envelope_cubby_box
+distributors: []
+filter: ''
+from_yaml: false
+id: category_paper_envelope_cubby_box
+id_no_class: paper_envelope_cubby_box
+id_no_size: cubby_box
+id_no_type: envelope_cubby_box
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_paper_envelope_cubby_box
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_paper_envelope_cubby_box
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_paper_envelope_cubby_box
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_paper_envelope_cubby_box](none)<br>[](none)<br>[Category
+    Paper Envelope Cubby Box](none)<br><br>'
+markdown_short: '[category_paper_envelope_cubby_box](none)<br><br>'
+md5: 7457931d536e10bc100c6512a465ccba
+md5_10: 7457931d53
+md5_10_upper: 7457931D53
+md5_5: '74579'
+md5_5_upper: '74579'
+md5_6: '745793'
+md5_6_alpha: 4jf6b
+md5_6_alpha_upper: 4JF6B
+md5_6_upper: '745793'
+name: Category Paper Envelope Cubby Box
+name_no_class: Paper Envelope Cubby Box
+name_no_size: Cubby Box
+name_no_size_short: Cubby Box
+name_no_type: Envelope Cubby Box
+oomp_key: oomp_category_paper_envelope_cubby_box
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorypaper
+size: envelope
+size_capital: Envelope
+size_first_letter: e
+size_first_letter_upper: E
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ENVELOPE
+type: paper
+type_capital: Paper
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PAPER

@@ -1,0 +1,85 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: 12_mm_diameter_140_mm_length_acroball_style
+color_capital: 12 mm Diameter 140 mm Length Acroball Style
+color_first_letter: '1'
+color_first_letter_upper: '1'
+color_upper: 12_MM_DIAMETER_140_MM_LENGTH_ACROBALL_STYLE
+description: category_stationery
+description_extra: cubby_box
+description_extra_capital: Cubby Box
+description_extra_first_letter: c
+description_extra_first_letter_upper: C
+description_extra_upper: CUBBY_BOX
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: '1 '
+description_or_color_upper: '1 '
+directory: parts/category_stationery_pen_ballpoint_clicky_12_mm_diameter_140_mm_length_acroball_style_cubby_box
+distributors: []
+filter: ''
+from_yaml: false
+id: category_stationery_pen_ballpoint_clicky_12_mm_diameter_140_mm_length_acroball_style_cubby_box
+id_no_class: stationery_pen_ballpoint_clicky_12_mm_diameter_140_mm_length_acroball_style_cubby_box
+id_no_size: 12_mm_diameter_140_mm_length_acroball_style_cubby_box
+id_no_type: pen_ballpoint_clicky_12_mm_diameter_140_mm_length_acroball_style_cubby_box
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_stationery_pen_ballpoint_clicky_12_mm_diameter_140_mm_length_acroball_style_cubby_box
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_stationery_pen_ballpoint_clicky_12_mm_diameter_140_mm_length_acroball_style_cubby_box
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_stationery_pen_ballpoint_clicky_12_mm_diameter_140_mm_length_acroball_style_cubby_box
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_stationery_pen_ballpoint_clicky_12_mm_diameter_140_mm_length_acroball_style_cubby_box](none)<br>[](none)<br>[Category
+    Stationery Pen Ballpoint Clicky 12 Mm Diameter 140 Mm Length Acroball Style Cubby
+    Box](none)<br><br>'
+markdown_short: '[category_stationery_pen_ballpoint_clicky_12_mm_diameter_140_mm_length_acroball_style_cubby_box](none)<br><br>'
+md5: 196d16efa3c8ab6e3f48a269f5157d9d
+md5_10: 196d16efa3
+md5_10_upper: 196D16EFA3
+md5_5: 196d1
+md5_5_upper: 196D1
+md5_6: 196d16
+md5_6_alpha: zpqu
+md5_6_alpha_upper: ZPQU
+md5_6_upper: 196D16
+name: Category Stationery Pen Ballpoint Clicky 12 Mm Diameter 140 Mm Length Acroball
+    Style Cubby Box
+name_no_class: Stationery Pen Ballpoint Clicky 12 Mm Diameter 140 Mm Length Acroball
+    Style Cubby Box
+name_no_size: 12 Mm Diameter 140 Mm Length Acroball Style Cubby Box
+name_no_size_short: 12 Mm Diameter 140 Mm Length Acroball Style Cubby Box
+name_no_type: Pen Ballpoint Clicky 12 Mm Diameter 140 Mm Length Acroball Style Cubby
+    Box
+oomp_key: oomp_category_stationery_pen_ballpoint_clicky_12_mm_diameter_140_mm_length_acroball_style_cubby_box
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorystationery
+size: pen_ballpoint_clicky
+size_capital: Pen Ballpoint Clicky
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PEN_BALLPOINT_CLICKY
+type: stationery
+type_capital: Stationery
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: STATIONERY

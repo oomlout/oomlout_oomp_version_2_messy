@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ikea_gorm
+color_capital: Ikea Gorm
+color_first_letter: i
+color_first_letter_upper: I
+color_upper: IKEA_GORM
+description: category_furniture
+description_extra: old
+description_extra_capital: Old
+description_extra_first_letter: o
+description_extra_first_letter_upper: O
+description_extra_upper: OLD
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'I '
+description_or_color_upper: 'I '
+directory: parts/category_furniture_shelf_ikea_gorm_old
+distributors: []
+filter: ''
+from_yaml: false
+id: category_furniture_shelf_ikea_gorm_old
+id_no_class: furniture_shelf_ikea_gorm_old
+id_no_size: ikea_gorm_old
+id_no_type: shelf_ikea_gorm_old
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_furniture_shelf_ikea_gorm_old
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_furniture_shelf_ikea_gorm_old
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_furniture_shelf_ikea_gorm_old
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_furniture_shelf_ikea_gorm_old](none)<br>[](none)<br>[Category
+    Furniture Shelf Ikea Gorm Old](none)<br><br>'
+markdown_short: '[category_furniture_shelf_ikea_gorm_old](none)<br><br>'
+md5: 7ba18954bc93d7a9b9da122b90922952
+md5_10: 7ba18954bc
+md5_10_upper: 7BA18954BC
+md5_5: 7ba18
+md5_5_upper: 7BA18
+md5_6: 7ba189
+md5_6_alpha: 4tnrd
+md5_6_alpha_upper: 4TNRD
+md5_6_upper: 7BA189
+name: Category Furniture Shelf Ikea Gorm Old
+name_no_class: Furniture Shelf Ikea Gorm Old
+name_no_size: Ikea Gorm Old
+name_no_size_short: Ikea Gorm Old
+name_no_type: Shelf Ikea Gorm Old
+oomp_key: oomp_category_furniture_shelf_ikea_gorm_old
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryfurniture
+size: shelf
+size_capital: Shelf
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SHELF
+type: furniture
+type_capital: Furniture
+type_first_letter: f
+type_first_letter_upper: F
+type_upper: FURNITURE

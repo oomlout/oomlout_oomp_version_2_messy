@@ -1,0 +1,77 @@
+classification: toy
+classification_capital: Toy
+classification_first_letter: t
+classification_first_letter_upper: T
+classification_upper: TOY
+color: car_remote_control
+color_capital: Car Remote Control
+color_first_letter: c
+color_first_letter_upper: C
+color_upper: CAR_REMOTE_CONTROL
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: lambourghini_huracan_green
+description_main_capital: Lambourghini Huracan Green
+description_main_first_letter: l
+description_main_first_letter_upper: L
+description_main_upper: LAMBOURGHINI_HURACAN_GREEN
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'C '
+description_or_color_upper: 'C '
+directory: parts/toy_building_mechano_car_remote_control_lambourghini_huracan_green_mechano
+distributors: []
+id: toy_building_mechano_car_remote_control_lambourghini_huracan_green_mechano
+id_no_class: building_mechano_car_remote_control_lambourghini_huracan_green_mechano
+id_no_size: car_remote_control_lambourghini_huracan_green_mechano
+id_no_type: mechano_car_remote_control_lambourghini_huracan_green_mechano
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_building_mechano_car_remote_control_lambourghini_huracan_green_mechano
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_building_mechano_car_remote_control_lambourghini_huracan_green_mechano
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_building_mechano_car_remote_control_lambourghini_huracan_green_mechano
+manufacturer: mechano
+manufacturer_capital: Mechano
+manufacturer_first_letter: m
+manufacturer_first_letter_upper: M
+manufacturer_upper: MECHANO
+manufacturers: []
+markdown_full: '[toy_building_mechano_car_remote_control_lambourghini_huracan_green_mechano](none)<br>[](none)<br>[Toy
+    Building Mechano Car Remote Control Lambourghini Huracan Green Mechano](none)<br><br>'
+markdown_short: '[toy_building_mechano_car_remote_control_lambourghini_huracan_green_mechano](none)<br><br>'
+md5: 4c04ed4ab181ce709b093be9967a72a7
+md5_10: 4c04ed4ab1
+md5_10_upper: 4C04ED4AB1
+md5_5: 4c04e
+md5_5_upper: 4C04E
+md5_6: 4c04ed
+md5_6_alpha: 2ys4t
+md5_6_alpha_upper: 2YS4T
+md5_6_upper: 4C04ED
+name: Toy Building Mechano Car Remote Control Lambourghini Huracan Green Mechano
+name_no_class: Building Mechano Car Remote Control Lambourghini Huracan Green Mechano
+name_no_size: Car Remote Control Lambourghini Huracan Green Mechano
+name_no_size_short: Car Remote Control Lambourghini Huracan Green Mechano
+name_no_type: Mechano Car Remote Control Lambourghini Huracan Green Mechano
+oomp_key: oomp_toy_building_mechano_car_remote_control_lambourghini_huracan_green_mechano
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: mechano
+size_capital: Mechano
+size_first_letter: m
+size_first_letter_upper: M
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: MECHANO
+type: building
+type_capital: Building
+type_first_letter: b
+type_first_letter_upper: B
+type_upper: BUILDING

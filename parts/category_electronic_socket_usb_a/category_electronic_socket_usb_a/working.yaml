@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: usb_a
+color_capital: Usb A
+color_first_letter: u
+color_first_letter_upper: U
+color_upper: USB_A
+description: category_electronic
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'U '
+description_or_color_upper: 'U '
+directory: parts/category_electronic_socket_usb_a
+distributors: []
+filter: ''
+from_yaml: false
+id: category_electronic_socket_usb_a
+id_no_class: electronic_socket_usb_a
+id_no_size: usb_a
+id_no_type: socket_usb_a
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_socket_usb_a
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_socket_usb_a
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_socket_usb_a
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_electronic_socket_usb_a](none)<br>[](none)<br>[Category
+    Electronic Socket Usb A](none)<br><br>'
+markdown_short: '[category_electronic_socket_usb_a](none)<br><br>'
+md5: 8f52e8ad2c29e9319312fd54b42a3b25
+md5_10: 8f52e8ad2c
+md5_10_upper: 8F52E8AD2C
+md5_5: 8f52e
+md5_5_upper: 8F52E
+md5_6: 8f52e8
+md5_6_alpha: 5lbl4
+md5_6_alpha_upper: 5LBL4
+md5_6_upper: 8F52E8
+name: Category Electronic Socket Usb A
+name_no_class: Electronic Socket Usb A
+name_no_size: Usb A
+name_no_size_short: Usb A
+name_no_type: Socket Usb A
+oomp_key: oomp_category_electronic_socket_usb_a
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryelectronic
+size: socket
+size_capital: Socket
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SOCKET
+type: electronic
+type_capital: Electronic
+type_first_letter: e
+type_first_letter_upper: E
+type_upper: ELECTRONIC

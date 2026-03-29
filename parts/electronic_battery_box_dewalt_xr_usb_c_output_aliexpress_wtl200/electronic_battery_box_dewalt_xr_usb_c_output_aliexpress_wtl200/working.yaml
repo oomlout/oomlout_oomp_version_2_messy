@@ -1,0 +1,80 @@
+classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_upper: ELECTRONIC
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: usb_c_output
+description_main_capital: Usb C Output
+description_main_first_letter: u
+description_main_first_letter_upper: U
+description_main_upper: USB_C_OUTPUT
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/electronic_battery_box_dewalt_xr_usb_c_output_aliexpress_wtl200
+distributors: []
+id: electronic_battery_box_dewalt_xr_usb_c_output_aliexpress_wtl200
+id_no_class: battery_box_dewalt_xr_usb_c_output_aliexpress_wtl200
+id_no_size: usb_c_output_aliexpress_wtl200
+id_no_type: dewalt_xr_usb_c_output_aliexpress_wtl200
+link_distributor_aliexpress: https://www.aliexpress.com/item/1005004999187666.html
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_battery_box_dewalt_xr_usb_c_output_aliexpress_wtl200
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_battery_box_dewalt_xr_usb_c_output_aliexpress_wtl200
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_battery_box_dewalt_xr_usb_c_output_aliexpress_wtl200
+manufacturer: aliexpress
+manufacturer_capital: Aliexpress
+manufacturer_first_letter: a
+manufacturer_first_letter_upper: A
+manufacturer_upper: ALIEXPRESS
+manufacturers: []
+markdown_full: '[electronic_battery_box_dewalt_xr_usb_c_output_aliexpress_wtl200](none)<br>[](none)<br>[Electronic
+    Battery Box Dewalt Xr Usb C Output Aliexpress Wtl200](none)<br><br>'
+markdown_short: '[electronic_battery_box_dewalt_xr_usb_c_output_aliexpress_wtl200](none)<br><br>'
+md5: 837aef5f2c0f6a18a74a9ee01ad98bc9
+md5_10: 837aef5f2c
+md5_10_upper: 837AEF5F2C
+md5_5: 837ae
+md5_5_upper: 837AE
+md5_6: 837aef
+md5_6_alpha: 54oof
+md5_6_alpha_upper: 54OOF
+md5_6_upper: 837AEF
+name: Electronic Battery Box Dewalt Xr Usb C Output Aliexpress Wtl200
+name_no_class: Battery Box Dewalt Xr Usb C Output Aliexpress Wtl200
+name_no_size: Usb C Output Aliexpress Wtl200
+name_no_size_short: Usb C Output Aliexpress Wtl200
+name_no_type: Dewalt Xr Usb C Output Aliexpress Wtl200
+oomp_key: oomp_electronic_battery_box_dewalt_xr_usb_c_output_aliexpress_wtl200
+part_number: wtl200
+part_number_capital: Wtl200
+part_number_distributor_aliexpress: '1005004999187666'
+part_number_exact: WTL200
+part_number_first_letter: w
+part_number_first_letter_upper: W
+part_number_upper: WTL200
+short_code: ''
+short_code_upper: ''
+short_name: Dewalt XR Battery USB Charger
+size: dewalt_xr
+size_capital: Dewalt Xr
+size_first_letter: d
+size_first_letter_upper: D
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: DEWALT_XR
+type: battery_box
+type_capital: Battery Box
+type_first_letter: b
+type_first_letter_upper: B
+type_upper: BATTERY_BOX

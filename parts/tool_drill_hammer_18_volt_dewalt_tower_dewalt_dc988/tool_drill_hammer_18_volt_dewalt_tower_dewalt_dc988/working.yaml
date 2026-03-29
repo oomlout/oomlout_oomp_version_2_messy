@@ -1,0 +1,78 @@
+classification: tool
+classification_capital: Tool
+classification_first_letter: t
+classification_first_letter_upper: T
+classification_upper: TOOL
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/tool_drill_hammer_18_volt_dewalt_tower_dewalt_dc988
+distributors: []
+filter: ''
+from_yaml: false
+id: tool_drill_hammer_18_volt_dewalt_tower_dewalt_dc988
+id_no_class: drill_hammer_18_volt_dewalt_tower_dewalt_dc988
+id_no_size: dewalt_dc988
+id_no_type: 18_volt_dewalt_tower_dewalt_dc988
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_drill_hammer_18_volt_dewalt_tower_dewalt_dc988
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_drill_hammer_18_volt_dewalt_tower_dewalt_dc988
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_drill_hammer_18_volt_dewalt_tower_dewalt_dc988
+manufacturer: dewalt
+manufacturer_capital: Dewalt
+manufacturer_first_letter: d
+manufacturer_first_letter_upper: D
+manufacturer_upper: DEWALT
+manufacturers: []
+markdown_full: '[tool_drill_hammer_18_volt_dewalt_tower_dewalt_dc988](none)<br>[](none)<br>[Tool
+    Drill Hammer 18 Volt Dewalt Tower Dewalt Dc988](none)<br><br>'
+markdown_short: '[tool_drill_hammer_18_volt_dewalt_tower_dewalt_dc988](none)<br><br>'
+md5: b5e33a7e7292eb93c7d24cce8fc6b0a0
+md5_10: b5e33a7e72
+md5_10_upper: B5E33A7E72
+md5_5: b5e33
+md5_5_upper: B5E33
+md5_6: b5e33a
+md5_6_alpha: 73hoa
+md5_6_alpha_upper: 73HOA
+md5_6_upper: B5E33A
+name: Tool Drill Hammer 18 Volt Dewalt Tower Dewalt Dc988
+name_no_class: Drill Hammer 18 Volt Dewalt Tower Dewalt Dc988
+name_no_size: Dewalt Dc988
+name_no_size_short: Dewalt Dc988
+name_no_type: 18 Volt Dewalt Tower Dewalt Dc988
+oomp_key: oomp_tool_drill_hammer_18_volt_dewalt_tower_dewalt_dc988
+part_number: dc988
+part_number_capital: Dc988
+part_number_first_letter: d
+part_number_first_letter_upper: D
+part_number_upper: DC988
+short_code: ''
+short_code_upper: ''
+size: 18_volt_dewalt_tower
+size_capital: 18 Volt Dewalt Tower
+size_first_letter: '1'
+size_first_letter_upper: '1'
+size_only_numbers: '18'
+size_only_numbers_no_zeros: '18'
+size_upper: 18_VOLT_DEWALT_TOWER
+type: drill_hammer
+type_capital: Drill Hammer
+type_first_letter: d
+type_first_letter_upper: D
+type_upper: DRILL_HAMMER

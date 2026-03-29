@@ -1,0 +1,77 @@
+classification: book
+classification_capital: Book
+classification_first_letter: b
+classification_first_letter_upper: B
+classification_upper: BOOK
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/book_chapter_teen
+distributors: []
+filter: ''
+from_yaml: false
+id: book_chapter_teen
+id_no_class: chapter_teen
+id_no_size: teen
+id_no_type: teen
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/book_chapter_teen
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/book_chapter_teen
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/book_chapter_teen
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[book_chapter_teen](none)<br>[](none)<br>[Book Chapter Teen](none)<br><br>'
+markdown_short: '[book_chapter_teen](none)<br><br>'
+md5: a0382e8d662ba7ca42b2b9ddf8c1c03d
+md5_10: a0382e8d66
+md5_10_upper: A0382E8D66
+md5_5: a0382
+md5_5_upper: A0382
+md5_6: a0382e
+md5_6_alpha: 691ym
+md5_6_alpha_upper: 691YM
+md5_6_upper: A0382E
+name: Book Chapter Teen
+name_no_class: Chapter Teen
+name_no_size: Teen
+name_no_size_short: Teen
+name_no_type: Teen
+oomp_key: oomp_book_chapter_teen
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: teen
+size_capital: Teen
+size_first_letter: t
+size_first_letter_upper: T
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: TEEN
+type: chapter
+type_capital: Chapter
+type_first_letter: c
+type_first_letter_upper: C
+type_upper: CHAPTER

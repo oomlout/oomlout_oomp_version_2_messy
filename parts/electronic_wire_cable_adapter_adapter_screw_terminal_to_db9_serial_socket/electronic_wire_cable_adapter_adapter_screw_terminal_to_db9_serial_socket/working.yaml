@@ -1,0 +1,78 @@
+classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_upper: ELECTRONIC
+color: adapter_screw_terminal
+color_capital: Adapter Screw Terminal
+color_first_letter: a
+color_first_letter_upper: A
+color_upper: ADAPTER_SCREW_TERMINAL
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: to_db9_serial_socket
+description_main_capital: To Db9 Serial Socket
+description_main_first_letter: t
+description_main_first_letter_upper: T
+description_main_upper: TO_DB9_SERIAL_SOCKET
+description_only_numbers: '9'
+description_only_numbers_short: '9'
+description_or_color: A9
+description_or_color_upper: A9
+directory: parts/electronic_wire_cable_adapter_adapter_screw_terminal_to_db9_serial_socket
+distributors: []
+filter: ''
+from_yaml: false
+id: electronic_wire_cable_adapter_adapter_screw_terminal_to_db9_serial_socket
+id_no_class: wire_cable_adapter_adapter_screw_terminal_to_db9_serial_socket
+id_no_size: screw_terminal_to_db9_serial_socket
+id_no_type: adapter_adapter_screw_terminal_to_db9_serial_socket
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_wire_cable_adapter_adapter_screw_terminal_to_db9_serial_socket
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_wire_cable_adapter_adapter_screw_terminal_to_db9_serial_socket
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_wire_cable_adapter_adapter_screw_terminal_to_db9_serial_socket
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[electronic_wire_cable_adapter_adapter_screw_terminal_to_db9_serial_socket](none)<br>[](none)<br>[Electronic
+    Wire Cable Adapter Adapter Screw Terminal To Db9 Serial Socket](none)<br><br>'
+markdown_short: '[electronic_wire_cable_adapter_adapter_screw_terminal_to_db9_serial_socket](none)<br><br>'
+md5: 1477f639243edc98fbf9b90b22f3fa61
+md5_10: 1477f63924
+md5_10_upper: 1477F63924
+md5_5: 1477f
+md5_5_upper: 1477F
+md5_6: 1477f6
+md5_6_alpha: sr1y
+md5_6_alpha_upper: SR1Y
+md5_6_upper: 1477F6
+name: Electronic Wire Cable Adapter Adapter Screw Terminal To Db9 Serial Socket
+name_no_class: Wire Cable Adapter Adapter Screw Terminal To Db9 Serial Socket
+name_no_size: Screw Terminal To Db9 Serial Socket
+name_no_size_short: Screw Terminal To Db9 Serial Socket
+name_no_type: Adapter Adapter Screw Terminal To Db9 Serial Socket
+oomp_key: oomp_electronic_wire_cable_adapter_adapter_screw_terminal_to_db9_serial_socket
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: adapter
+size_capital: Adapter
+size_first_letter: a
+size_first_letter_upper: A
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ADAPTER
+type: wire_cable
+type_capital: Wire Cable
+type_first_letter: w
+type_first_letter_upper: W
+type_upper: WIRE_CABLE

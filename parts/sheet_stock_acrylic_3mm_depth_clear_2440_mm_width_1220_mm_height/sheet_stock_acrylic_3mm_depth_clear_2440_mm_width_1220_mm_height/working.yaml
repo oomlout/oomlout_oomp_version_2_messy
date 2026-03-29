@@ -1,0 +1,78 @@
+classification: sheet_stock
+classification_capital: Sheet Stock
+classification_first_letter: s
+classification_first_letter_upper: S
+classification_upper: SHEET_STOCK
+color: clear
+color_capital: Clear
+color_first_letter: c
+color_first_letter_upper: C
+color_upper: CLEAR
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 2440_mm_width_1220_mm_height
+description_main_capital: 2440 mm Width 1220 mm Height
+description_main_first_letter: '2'
+description_main_first_letter_upper: '2'
+description_main_upper: 2440_MM_WIDTH_1220_MM_HEIGHT
+description_only_numbers: '24401220'
+description_only_numbers_short: 2M4
+description_or_color: C2M4
+description_or_color_upper: C2M4
+directory: parts/sheet_stock_acrylic_3mm_depth_clear_2440_mm_width_1220_mm_height
+distributors: []
+filter: ''
+from_yaml: false
+id: sheet_stock_acrylic_3mm_depth_clear_2440_mm_width_1220_mm_height
+id_no_class: acrylic_3mm_depth_clear_2440_mm_width_1220_mm_height
+id_no_size: clear_2440_mm_width_1220_mm_height
+id_no_type: 3mm_depth_clear_2440_mm_width_1220_mm_height
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/sheet_stock_acrylic_3mm_depth_clear_2440_mm_width_1220_mm_height
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/sheet_stock_acrylic_3mm_depth_clear_2440_mm_width_1220_mm_height
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/sheet_stock_acrylic_3mm_depth_clear_2440_mm_width_1220_mm_height
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[sheet_stock_acrylic_3mm_depth_clear_2440_mm_width_1220_mm_height](none)<br>[c](none)<br>[Sheet
+    Stock Acrylic 3Mm Depth Clear 2440 Mm Width 1220 Mm Height](none)<br><br>'
+markdown_short: '[sheet_stock_acrylic_3mm_depth_clear_2440_mm_width_1220_mm_height](none)<br><br>'
+md5: 7dd031a429977428cc7a851da91058ba
+md5_10: 7dd031a429
+md5_10_upper: 7DD031A429
+md5_5: 7dd03
+md5_5_upper: 7DD03
+md5_6: 7dd031
+md5_6_alpha: 4wq41
+md5_6_alpha_upper: 4WQ41
+md5_6_upper: 7DD031
+name: Sheet Stock Acrylic 3Mm Depth Clear 2440 Mm Width 1220 Mm Height
+name_no_class: Acrylic 3Mm Depth Clear 2440 Mm Width 1220 Mm Height
+name_no_size: Clear 2440 Mm Width 1220 Mm Height
+name_no_size_short: Clear 2440 Mm Width 1220 Mm Height
+name_no_type: 3Mm Depth Clear 2440 Mm Width 1220 Mm Height
+oomp_key: oomp_sheet_stock_acrylic_3mm_depth_clear_2440_mm_width_1220_mm_height
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: c
+short_code_upper: C
+size: 3mm_depth
+size_capital: 3mm Depth
+size_first_letter: '3'
+size_first_letter_upper: '3'
+size_only_numbers: '3'
+size_only_numbers_no_zeros: '3'
+size_upper: 3MM_DEPTH
+type: acrylic
+type_capital: Acrylic
+type_first_letter: a
+type_first_letter_upper: A
+type_upper: ACRYLIC

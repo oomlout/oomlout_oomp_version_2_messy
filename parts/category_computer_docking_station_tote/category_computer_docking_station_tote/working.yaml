@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_computer
+description_extra: tote
+description_extra_capital: Tote
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TOTE
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_computer_docking_station_tote
+distributors: []
+filter: ''
+from_yaml: false
+id: category_computer_docking_station_tote
+id_no_class: computer_docking_station_tote
+id_no_size: tote
+id_no_type: docking_station_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_docking_station_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_docking_station_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_docking_station_tote
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_computer_docking_station_tote](none)<br>[](none)<br>[Category
+    Computer Docking Station Tote](none)<br><br>'
+markdown_short: '[category_computer_docking_station_tote](none)<br><br>'
+md5: f1ee7c35bd068384d97e9e0452f980f1
+md5_10: f1ee7c35bd
+md5_10_upper: F1EE7C35BD
+md5_5: f1ee7
+md5_5_upper: F1EE7
+md5_6: f1ee7c
+md5_6_alpha: 9ftz0
+md5_6_alpha_upper: 9FTZ0
+md5_6_upper: F1EE7C
+name: Category Computer Docking Station Tote
+name_no_class: Computer Docking Station Tote
+name_no_size: Tote
+name_no_size_short: Tote
+name_no_type: Docking Station Tote
+oomp_key: oomp_category_computer_docking_station_tote
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorycomputer
+size: docking_station
+size_capital: Docking Station
+size_first_letter: d
+size_first_letter_upper: D
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: DOCKING_STATION
+type: computer
+type_capital: Computer
+type_first_letter: c
+type_first_letter_upper: C
+type_upper: COMPUTER

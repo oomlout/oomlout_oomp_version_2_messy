@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: prototyping_tin
+color_capital: Prototyping Tin
+color_first_letter: p
+color_first_letter_upper: P
+color_upper: PROTOTYPING_TIN
+description: category_company_oomlout
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'P '
+description_or_color_upper: 'P '
+directory: parts/category_company_oomlout_product_prototyping_tin
+distributors: []
+filter: ''
+from_yaml: false
+id: category_company_oomlout_product_prototyping_tin
+id_no_class: company_oomlout_product_prototyping_tin
+id_no_size: prototyping_tin
+id_no_type: product_prototyping_tin
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_company_oomlout_product_prototyping_tin
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_company_oomlout_product_prototyping_tin
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_company_oomlout_product_prototyping_tin
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_company_oomlout_product_prototyping_tin](none)<br>[](none)<br>[Category
+    Company Oomlout Product Prototyping Tin](none)<br><br>'
+markdown_short: '[category_company_oomlout_product_prototyping_tin](none)<br><br>'
+md5: b812f9078d1a8df8387cdde8c68cbaf9
+md5_10: b812f9078d
+md5_10_upper: B812F9078D
+md5_5: b812f
+md5_5_upper: B812F
+md5_6: b812f9
+md5_6_alpha: 76k8p
+md5_6_alpha_upper: 76K8P
+md5_6_upper: B812F9
+name: Category Company Oomlout Product Prototyping Tin
+name_no_class: Company Oomlout Product Prototyping Tin
+name_no_size: Prototyping Tin
+name_no_size_short: Prototyping Tin
+name_no_type: Product Prototyping Tin
+oomp_key: oomp_category_company_oomlout_product_prototyping_tin
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorycompanyoomlout
+size: product
+size_capital: Product
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PRODUCT
+type: company_oomlout
+type_capital: Company Oomlout
+type_first_letter: c
+type_first_letter_upper: C
+type_upper: COMPANY_OOMLOUT

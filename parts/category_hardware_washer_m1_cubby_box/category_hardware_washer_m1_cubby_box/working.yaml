@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: m1
+color_capital: M1
+color_first_letter: m
+color_first_letter_upper: M
+color_upper: M1
+description: category_hardware
+description_extra: cubby_box
+description_extra_capital: Cubby Box
+description_extra_first_letter: c
+description_extra_first_letter_upper: C
+description_extra_upper: CUBBY_BOX
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'M '
+description_or_color_upper: 'M '
+directory: parts/category_hardware_washer_m1_cubby_box
+distributors: []
+filter: ''
+from_yaml: false
+id: category_hardware_washer_m1_cubby_box
+id_no_class: hardware_washer_m1_cubby_box
+id_no_size: m1_cubby_box
+id_no_type: washer_m1_cubby_box
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_washer_m1_cubby_box
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_washer_m1_cubby_box
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_washer_m1_cubby_box
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_hardware_washer_m1_cubby_box](none)<br>[](none)<br>[Category
+    Hardware Washer M1 Cubby Box](none)<br><br>'
+markdown_short: '[category_hardware_washer_m1_cubby_box](none)<br><br>'
+md5: 5141bfe28674832dc5686f09696ff2c0
+md5_10: 5141bfe286
+md5_10_upper: 5141BFE286
+md5_5: 5141b
+md5_5_upper: 5141B
+md5_6: 5141bf
+md5_6_alpha: 364zj
+md5_6_alpha_upper: 364ZJ
+md5_6_upper: 5141BF
+name: Category Hardware Washer M1 Cubby Box
+name_no_class: Hardware Washer M1 Cubby Box
+name_no_size: M1 Cubby Box
+name_no_size_short: M1 Cubby Box
+name_no_type: Washer M1 Cubby Box
+oomp_key: oomp_category_hardware_washer_m1_cubby_box
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryhardware
+size: washer
+size_capital: Washer
+size_first_letter: w
+size_first_letter_upper: W
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: WASHER
+type: hardware
+type_capital: Hardware
+type_first_letter: h
+type_first_letter_upper: H
+type_upper: HARDWARE

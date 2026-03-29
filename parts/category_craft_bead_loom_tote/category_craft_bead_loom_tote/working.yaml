@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: loom
+color_capital: Loom
+color_first_letter: l
+color_first_letter_upper: L
+color_upper: LOOM
+description: category_craft
+description_extra: tote
+description_extra_capital: Tote
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TOTE
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'L '
+description_or_color_upper: 'L '
+directory: parts/category_craft_bead_loom_tote
+distributors: []
+filter: ''
+from_yaml: false
+id: category_craft_bead_loom_tote
+id_no_class: craft_bead_loom_tote
+id_no_size: loom_tote
+id_no_type: bead_loom_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_craft_bead_loom_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_craft_bead_loom_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_craft_bead_loom_tote
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_craft_bead_loom_tote](none)<br>[](none)<br>[Category Craft
+    Bead Loom Tote](none)<br><br>'
+markdown_short: '[category_craft_bead_loom_tote](none)<br><br>'
+md5: a7998847e6ba6450111e5c2417ec038d
+md5_10: a7998847e6
+md5_10_upper: A7998847E6
+md5_5: a7998
+md5_5_upper: A7998
+md5_6: a79988
+md5_6_alpha: 6jf60
+md5_6_alpha_upper: 6JF60
+md5_6_upper: A79988
+name: Category Craft Bead Loom Tote
+name_no_class: Craft Bead Loom Tote
+name_no_size: Loom Tote
+name_no_size_short: Loom Tote
+name_no_type: Bead Loom Tote
+oomp_key: oomp_category_craft_bead_loom_tote
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorycraft
+size: bead
+size_capital: Bead
+size_first_letter: b
+size_first_letter_upper: B
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: BEAD
+type: craft
+type_capital: Craft
+type_first_letter: c
+type_first_letter_upper: C
+type_upper: CRAFT

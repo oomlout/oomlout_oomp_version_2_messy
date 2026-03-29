@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: meat
+color_capital: Meat
+color_first_letter: m
+color_first_letter_upper: M
+color_upper: MEAT
+description: category_book
+description_extra: tote
+description_extra_capital: Tote
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TOTE
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'M '
+description_or_color_upper: 'M '
+directory: parts/category_book_cook_meat_tote
+distributors: []
+filter: ''
+from_yaml: false
+id: category_book_cook_meat_tote
+id_no_class: book_cook_meat_tote
+id_no_size: meat_tote
+id_no_type: cook_meat_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_book_cook_meat_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_book_cook_meat_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_book_cook_meat_tote
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_book_cook_meat_tote](none)<br>[](none)<br>[Category Book
+    Cook Meat Tote](none)<br><br>'
+markdown_short: '[category_book_cook_meat_tote](none)<br><br>'
+md5: ab6c61503b479aebddbfbdbf32848bb8
+md5_10: ab6c61503b
+md5_10_upper: AB6C61503B
+md5_5: ab6c6
+md5_5_upper: AB6C6
+md5_6: ab6c61
+md5_6_alpha: 6osip
+md5_6_alpha_upper: 6OSIP
+md5_6_upper: AB6C61
+name: Category Book Cook Meat Tote
+name_no_class: Book Cook Meat Tote
+name_no_size: Meat Tote
+name_no_size_short: Meat Tote
+name_no_type: Cook Meat Tote
+oomp_key: oomp_category_book_cook_meat_tote
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorybook
+size: cook
+size_capital: Cook
+size_first_letter: c
+size_first_letter_upper: C
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: COOK
+type: book
+type_capital: Book
+type_first_letter: b
+type_first_letter_upper: B
+type_upper: BOOK

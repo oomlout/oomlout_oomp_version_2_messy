@@ -1,0 +1,79 @@
+classification: food
+classification_capital: Food
+classification_first_letter: f
+classification_first_letter_upper: F
+classification_upper: FOOD
+color: corn
+color_capital: Corn
+color_first_letter: c
+color_first_letter_upper: C
+color_upper: CORN
+description: flour_corn
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'C '
+description_or_color_upper: 'C '
+directory: parts/food_baking_flour_corn
+distributors: []
+filter: ''
+from_yaml: false
+id: food_baking_flour_corn
+id_no_class: baking_flour_corn
+id_no_size: corn
+id_no_type: flour_corn
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_baking_flour_corn
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_baking_flour_corn
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_baking_flour_corn
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[food_baking_flour_corn](none)<br>[](none)<br>[Food Baking Flour Corn](none)<br><br>'
+markdown_short: '[food_baking_flour_corn](none)<br><br>'
+md5: 4d95277cd50059af9bb04ac542c5e551
+md5_10: 4d95277cd5
+md5_10_upper: 4D95277CD5
+md5_5: 4d952
+md5_5_upper: 4D952
+md5_6: 4d9527
+md5_6_alpha: 30z6v
+md5_6_alpha_upper: 30Z6V
+md5_6_upper: 4D9527
+name: Food Baking Flour Corn
+name_no_class: Baking Flour Corn
+name_no_size: Corn
+name_no_size_short: Corn
+name_no_type: Flour Corn
+name_short: Flour Corn
+oomp_key: oomp_food_baking_flour_corn
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: flour
+size_capital: Flour
+size_first_letter: f
+size_first_letter_upper: F
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: FLOUR
+type: baking
+type_capital: Baking
+type_first_letter: b
+type_first_letter_upper: B
+type_upper: BAKING

@@ -1,0 +1,77 @@
+classification: mechanical
+classification_capital: Mechanical
+classification_first_letter: m
+classification_first_letter_upper: M
+classification_upper: MECHANICAL
+color: 6_mm_belt_width
+color_capital: 6 mm Belt Width
+color_first_letter: '6'
+color_first_letter_upper: '6'
+color_upper: 6_MM_BELT_WIDTH
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 130_teeth_260_mm_circumference
+description_main_capital: 130 Teeth 260 mm Circumference
+description_main_first_letter: '1'
+description_main_first_letter_upper: '1'
+description_main_upper: 130_TEETH_260_MM_CIRCUMFERENCE
+description_only_numbers: '130260'
+description_only_numbers_short: 130k
+description_or_color: 6130k
+description_or_color_upper: 6130K
+directory: parts/mechanical_timing_belt_2gt_2_mm_pitch_6_mm_belt_width_130_teeth_260_mm_circumference
+distributors: []
+id: mechanical_timing_belt_2gt_2_mm_pitch_6_mm_belt_width_130_teeth_260_mm_circumference
+id_no_class: timing_belt_2gt_2_mm_pitch_6_mm_belt_width_130_teeth_260_mm_circumference
+id_no_size: 6_mm_belt_width_130_teeth_260_mm_circumference
+id_no_type: 2gt_2_mm_pitch_6_mm_belt_width_130_teeth_260_mm_circumference
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_timing_belt_2gt_2_mm_pitch_6_mm_belt_width_130_teeth_260_mm_circumference
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_timing_belt_2gt_2_mm_pitch_6_mm_belt_width_130_teeth_260_mm_circumference
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/mechanical_timing_belt_2gt_2_mm_pitch_6_mm_belt_width_130_teeth_260_mm_circumference
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[mechanical_timing_belt_2gt_2_mm_pitch_6_mm_belt_width_130_teeth_260_mm_circumference](none)<br>[](none)<br>[Mechanical
+    Timing Belt 2Gt 2 Mm Pitch 6 Mm Belt Width 130 Teeth 260 Mm Circumference](none)<br><br>'
+markdown_short: '[mechanical_timing_belt_2gt_2_mm_pitch_6_mm_belt_width_130_teeth_260_mm_circumference](none)<br><br>'
+md5: 5a864d2ba25aa1ccc4e742984873537d
+md5_10: 5a864d2ba2
+md5_10_upper: 5A864D2BA2
+md5_5: 5a864
+md5_5_upper: 5A864
+md5_6: 5a864d
+md5_6_alpha: 3j5n1
+md5_6_alpha_upper: 3J5N1
+md5_6_upper: 5A864D
+name: Mechanical Timing Belt 2Gt 2 Mm Pitch 6 Mm Belt Width 130 Teeth 260 Mm Circumference
+name_no_class: Timing Belt 2Gt 2 Mm Pitch 6 Mm Belt Width 130 Teeth 260 Mm Circumference
+name_no_size: 6 Mm Belt Width 130 Teeth 260 Mm Circumference
+name_no_size_short: 6 Mm Belt Width 130 Teeth 260 Mm Circumference
+name_no_type: 2Gt 2 Mm Pitch 6 Mm Belt Width 130 Teeth 260 Mm Circumference
+oomp_key: oomp_mechanical_timing_belt_2gt_2_mm_pitch_6_mm_belt_width_130_teeth_260_mm_circumference
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: 2gt_2_mm_pitch
+size_capital: 2Gt 2 mm Pitch
+size_first_letter: '2'
+size_first_letter_upper: '2'
+size_only_numbers: '22'
+size_only_numbers_no_zeros: '22'
+size_upper: 2GT_2_MM_PITCH
+type: timing_belt
+type_capital: Timing Belt
+type_first_letter: t
+type_first_letter_upper: T
+type_upper: TIMING_BELT

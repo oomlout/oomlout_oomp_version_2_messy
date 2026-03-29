@@ -1,0 +1,78 @@
+classification: clothes
+classification_capital: Clothes
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CLOTHES
+color: large
+color_capital: Large
+color_first_letter: l
+color_first_letter_upper: L
+color_upper: LARGE
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: black
+description_main_capital: Black
+description_main_first_letter: b
+description_main_first_letter_upper: B
+description_main_upper: BLACK
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'L '
+description_or_color_upper: 'L '
+directory: parts/clothes_item_gloves_large_black
+distributors: []
+filter: ''
+from_yaml: false
+id: clothes_item_gloves_large_black
+id_no_class: item_gloves_large_black
+id_no_size: large_black
+id_no_type: gloves_large_black
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_gloves_large_black
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_gloves_large_black
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_gloves_large_black
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[clothes_item_gloves_large_black](none)<br>[](none)<br>[Clothes Item
+    Gloves Large Black](none)<br><br>'
+markdown_short: '[clothes_item_gloves_large_black](none)<br><br>'
+md5: c127eb9e5a0a744dec833e4e6fd3aa7d
+md5_10: c127eb9e5a
+md5_10_upper: C127EB9E5A
+md5_5: c127e
+md5_5_upper: C127E
+md5_6: c127eb
+md5_6_alpha: 7jbhn
+md5_6_alpha_upper: 7JBHN
+md5_6_upper: C127EB
+name: Clothes Item Gloves Large Black
+name_no_class: Item Gloves Large Black
+name_no_size: Large Black
+name_no_size_short: Large Black
+name_no_type: Gloves Large Black
+oomp_key: oomp_clothes_item_gloves_large_black
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: gloves
+size_capital: Gloves
+size_first_letter: g
+size_first_letter_upper: G
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: GLOVES
+type: item
+type_capital: Item
+type_first_letter: i
+type_first_letter_upper: I
+type_upper: ITEM

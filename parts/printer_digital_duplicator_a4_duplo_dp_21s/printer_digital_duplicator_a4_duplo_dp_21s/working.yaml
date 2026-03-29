@@ -1,0 +1,78 @@
+classification: printer
+classification_capital: Printer
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_upper: PRINTER
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/printer_digital_duplicator_a4_duplo_dp_21s
+distributors: []
+id: printer_digital_duplicator_a4_duplo_dp_21s
+id_no_class: digital_duplicator_a4_duplo_dp_21s
+id_no_size: duplo_dp_21s
+id_no_type: a4_duplo_dp_21s
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_digital_duplicator_a4_duplo_dp_21s
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_digital_duplicator_a4_duplo_dp_21s
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_digital_duplicator_a4_duplo_dp_21s
+manufacturer: duplo
+manufacturer_capital: Duplo
+manufacturer_first_letter: d
+manufacturer_first_letter_upper: D
+manufacturer_upper: DUPLO
+manufacturers: []
+markdown_full: '[printer_digital_duplicator_a4_duplo_dp_21s](none)<br>[](none)<br>[Printer
+    Digital Duplicator A4 Duplo Dp 21S](none)<br><br>'
+markdown_short: '[printer_digital_duplicator_a4_duplo_dp_21s](none)<br><br>'
+md5: 9ec17a60379dfad98ea925654db887d0
+md5_10: 9ec17a6037
+md5_10_upper: 9EC17A6037
+md5_5: 9ec17
+md5_5_upper: 9EC17
+md5_6: 9ec17a
+md5_6_alpha: 66zy2
+md5_6_alpha_upper: 66ZY2
+md5_6_upper: 9EC17A
+name: Printer Digital Duplicator A4 Duplo Dp 21S
+name_no_class: Digital Duplicator A4 Duplo Dp 21S
+name_no_size: Duplo Dp 21S
+name_no_size_short: Duplo Dp 21S
+name_no_type: A4 Duplo Dp 21S
+oomp_key: oomp_printer_digital_duplicator_a4_duplo_dp_21s
+part_number: dp_21s
+part_number_capital: Dp 21S
+part_number_exact: DP-21S
+part_number_first_letter: d
+part_number_first_letter_upper: D
+part_number_upper: DP_21S
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: a4
+size_capital: A4
+size_first_letter: a
+size_first_letter_upper: A
+size_only_numbers: '4'
+size_only_numbers_no_zeros: '4'
+size_upper: A4
+type: digital_duplicator
+type_capital: Digital Duplicator
+type_first_letter: d
+type_first_letter_upper: D
+type_upper: DIGITAL_DUPLICATOR

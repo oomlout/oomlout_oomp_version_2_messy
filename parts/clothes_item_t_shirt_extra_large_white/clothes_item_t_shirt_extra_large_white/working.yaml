@@ -1,0 +1,78 @@
+classification: clothes
+classification_capital: Clothes
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CLOTHES
+color: extra_large
+color_capital: Extra Large
+color_first_letter: e
+color_first_letter_upper: E
+color_upper: EXTRA_LARGE
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: white
+description_main_capital: White
+description_main_first_letter: w
+description_main_first_letter_upper: W
+description_main_upper: WHITE
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'E '
+description_or_color_upper: 'E '
+directory: parts/clothes_item_t_shirt_extra_large_white
+distributors: []
+filter: ''
+from_yaml: false
+id: clothes_item_t_shirt_extra_large_white
+id_no_class: item_t_shirt_extra_large_white
+id_no_size: extra_large_white
+id_no_type: t_shirt_extra_large_white
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_t_shirt_extra_large_white
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_t_shirt_extra_large_white
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_t_shirt_extra_large_white
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[clothes_item_t_shirt_extra_large_white](none)<br>[](none)<br>[Clothes
+    Item T Shirt Extra Large White](none)<br><br>'
+markdown_short: '[clothes_item_t_shirt_extra_large_white](none)<br><br>'
+md5: 867d38396a74346918df9f3c7c96b7c9
+md5_10: 867d38396a
+md5_10_upper: 867D38396A
+md5_5: 867d3
+md5_5_upper: 867D3
+md5_6: 867d38
+md5_6_alpha: 58wu0
+md5_6_alpha_upper: 58WU0
+md5_6_upper: 867D38
+name: Clothes Item T Shirt Extra Large White
+name_no_class: Item T Shirt Extra Large White
+name_no_size: Extra Large White
+name_no_size_short: Extra Large White
+name_no_type: T Shirt Extra Large White
+oomp_key: oomp_clothes_item_t_shirt_extra_large_white
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: t_shirt
+size_capital: T Shirt
+size_first_letter: t
+size_first_letter_upper: T
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: T_SHIRT
+type: item
+type_capital: Item
+type_first_letter: i
+type_first_letter_upper: I
+type_upper: ITEM

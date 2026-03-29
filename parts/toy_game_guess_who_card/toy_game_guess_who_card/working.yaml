@@ -1,0 +1,76 @@
+classification: toy
+classification_capital: Toy
+classification_first_letter: t
+classification_first_letter_upper: T
+classification_upper: TOY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: card
+description_extra_capital: Card
+description_extra_first_letter: c
+description_extra_first_letter_upper: C
+description_extra_upper: CARD
+description_main: guess_who
+description_main_capital: Guess Who
+description_main_first_letter: g
+description_main_first_letter_upper: G
+description_main_upper: GUESS_WHO
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/toy_game_guess_who_card
+distributors: []
+id: toy_game_guess_who_card
+id_no_class: game_guess_who_card
+id_no_size: guesswhocard
+id_no_type: guess_who_card
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_game_guess_who_card
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_game_guess_who_card
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_game_guess_who_card
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[toy_game_guess_who_card](none)<br>[](none)<br>[Toy Game Guess Who
+    Card](none)<br><br>'
+markdown_short: '[toy_game_guess_who_card](none)<br><br>'
+md5: 6c8346599e131ccadc080189fe74dea3
+md5_10: 6c8346599e
+md5_10_upper: 6C8346599E
+md5_5: 6c834
+md5_5_upper: 6C834
+md5_6: 6c8346
+md5_6_alpha: 48f9i
+md5_6_alpha_upper: 48F9I
+md5_6_upper: 6C8346
+name: Toy Game Guess Who Card
+name_no_class: Game Guess Who Card
+name_no_size: Guesswhocard
+name_no_size_short: Guesswhocard
+name_no_type: Guess Who Card
+oomp_key: oomp_toy_game_guess_who_card
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: game
+type_capital: Game
+type_first_letter: g
+type_first_letter_upper: G
+type_upper: GAME

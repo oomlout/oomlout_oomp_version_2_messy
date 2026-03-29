@@ -1,0 +1,82 @@
+classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_upper: ELECTRONIC
+color: dual_h_bridge
+color_capital: Dual H Bridge
+color_first_letter: d
+color_first_letter_upper: D
+color_upper: DUAL_H_BRIDGE
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: 25_mm_width_21_mm_length_red_pcb
+description_main_capital: 25 mm Width 21 mm Length Red Pcb
+description_main_first_letter: '2'
+description_main_first_letter_upper: '2'
+description_main_upper: 25_MM_WIDTH_21_MM_LENGTH_RED_PCB
+description_only_numbers: '2521'
+description_only_numbers_short: 2k5
+description_or_color: D2k5
+description_or_color_upper: D2K5
+directory: parts/electronic_breakout_board_motor_driver_l298n_dual_h_bridge_25_mm_width_21_mm_length_red_pcb_aliexpress
+distributors: []
+id: electronic_breakout_board_motor_driver_l298n_dual_h_bridge_25_mm_width_21_mm_length_red_pcb_aliexpress
+id_no_class: breakout_board_motor_driver_l298n_dual_h_bridge_25_mm_width_21_mm_length_red_pcb_aliexpress
+id_no_size: dual_h_bridge_25_mm_width_21_mm_length_red_pcb_aliexpress
+id_no_type: l298n_dual_h_bridge_25_mm_width_21_mm_length_red_pcb_aliexpress
+kicad_reference: BB
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_motor_driver_l298n_dual_h_bridge_25_mm_width_21_mm_length_red_pcb_aliexpress
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_motor_driver_l298n_dual_h_bridge_25_mm_width_21_mm_length_red_pcb_aliexpress
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_motor_driver_l298n_dual_h_bridge_25_mm_width_21_mm_length_red_pcb_aliexpress
+manufacturer: aliexpress
+manufacturer_capital: Aliexpress
+manufacturer_first_letter: a
+manufacturer_first_letter_upper: A
+manufacturer_upper: ALIEXPRESS
+manufacturers: []
+markdown_full: '[electronic_breakout_board_motor_driver_l298n_dual_h_bridge_25_mm_width_21_mm_length_red_pcb_aliexpress](none)<br>[](none)<br>[Electronic
+    Breakout Board Motor Driver L298N Dual H Bridge 25 Mm Width 21 Mm Length Red Pcb
+    Aliexpress](none)<br><br>'
+markdown_short: '[electronic_breakout_board_motor_driver_l298n_dual_h_bridge_25_mm_width_21_mm_length_red_pcb_aliexpress](none)<br><br>'
+md5: cdb19f2c2c455b91ff721a23405b264f
+md5_10: cdb19f2c2c
+md5_10_upper: CDB19F2C2C
+md5_5: cdb19
+md5_5_upper: CDB19
+md5_6: cdb19f
+md5_6_alpha: 80xi7
+md5_6_alpha_upper: 80XI7
+md5_6_upper: CDB19F
+name: Electronic Breakout Board Motor Driver L298N Dual H Bridge 25 Mm Width 21 Mm
+    Length Red Pcb Aliexpress
+name_no_class: Breakout Board Motor Driver L298N Dual H Bridge 25 Mm Width 21 Mm Length
+    Red Pcb Aliexpress
+name_no_size: Dual H Bridge 25 Mm Width 21 Mm Length Red Pcb Aliexpress
+name_no_size_short: Dual H Bridge 25 Mm Width 21 Mm Length Red Pcb Aliexpress
+name_no_type: L298N Dual H Bridge 25 Mm Width 21 Mm Length Red Pcb Aliexpress
+notes: []
+oomp_key: oomp_electronic_breakout_board_motor_driver_l298n_dual_h_bridge_25_mm_width_21_mm_length_red_pcb_aliexpress
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: l298n
+size_capital: L298N
+size_first_letter: l
+size_first_letter_upper: L
+size_only_numbers: '298'
+size_only_numbers_no_zeros: '298'
+size_upper: L298N
+type: breakout_board_motor_driver
+type_capital: Breakout Board Motor Driver
+type_first_letter: b
+type_first_letter_upper: B
+type_upper: BREAKOUT_BOARD_MOTOR_DRIVER

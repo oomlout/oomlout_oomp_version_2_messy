@@ -1,0 +1,76 @@
+classification: video_game_console
+classification_capital: Video Game Console
+classification_first_letter: v
+classification_first_letter_upper: V
+classification_upper: VIDEO_GAME_CONSOLE
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: controller
+description_main_capital: Controller
+description_main_first_letter: c
+description_main_first_letter_upper: C
+description_main_upper: CONTROLLER
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/video_game_console_playstation_controller
+distributors: []
+id: video_game_console_playstation_controller
+id_no_class: playstation_controller
+id_no_size: controller
+id_no_type: controller
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/video_game_console_playstation_controller
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/video_game_console_playstation_controller
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/video_game_console_playstation_controller
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[video_game_console_playstation_controller](none)<br>[](none)<br>[Video
+    Game Console Playstation Controller](none)<br><br>'
+markdown_short: '[video_game_console_playstation_controller](none)<br><br>'
+md5: 039ce95805f103e3a52ce6507b058a46
+md5_10: 039ce95805
+md5_10_upper: 039CE95805
+md5_5: 039ce
+md5_5_upper: 039CE
+md5_6: 039ce9
+md5_6_alpha: 52p5
+md5_6_alpha_upper: 52P5
+md5_6_upper: 039CE9
+name: Video Game Console Playstation Controller
+name_no_class: Playstation Controller
+name_no_size: Controller
+name_no_size_short: Controller
+name_no_type: Controller
+oomp_key: oomp_video_game_console_playstation_controller
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: playstation
+type_capital: Playstation
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PLAYSTATION

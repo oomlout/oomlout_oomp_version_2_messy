@@ -1,0 +1,80 @@
+classification: food
+classification_capital: Food
+classification_first_letter: f
+classification_first_letter_upper: F
+classification_upper: FOOD
+color: spaghetti
+color_capital: Spaghetti
+color_first_letter: s
+color_first_letter_upper: S
+color_upper: SPAGHETTI
+description: pasta_spaghetti
+description_extra: box_500_gram
+description_extra_capital: Box 500 Gram
+description_extra_first_letter: b
+description_extra_first_letter_upper: B
+description_extra_upper: BOX_500_GRAM
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'S '
+description_or_color_upper: 'S '
+directory: parts/food_starch_pasta_spaghetti_box_500_gram_barilla
+distributors: []
+filter: ''
+from_yaml: false
+id: food_starch_pasta_spaghetti_box_500_gram_barilla
+id_no_class: starch_pasta_spaghetti_box_500_gram_barilla
+id_no_size: spaghetti_box_500_gram_barilla
+id_no_type: pasta_spaghetti_box_500_gram_barilla
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_pasta_spaghetti_box_500_gram_barilla
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_pasta_spaghetti_box_500_gram_barilla
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_pasta_spaghetti_box_500_gram_barilla
+manufacturer: barilla
+manufacturer_capital: Barilla
+manufacturer_first_letter: b
+manufacturer_first_letter_upper: B
+manufacturer_upper: BARILLA
+manufacturers: []
+markdown_full: '[food_starch_pasta_spaghetti_box_500_gram_barilla](none)<br>[](none)<br>[Food
+    Starch Pasta Spaghetti Box 500 Gram Barilla](none)<br><br>'
+markdown_short: '[food_starch_pasta_spaghetti_box_500_gram_barilla](none)<br><br>'
+md5: 075100ddc62b6b5af53f154fcb3b9a49
+md5_10: 075100ddc6
+md5_10_upper: 075100DDC6
+md5_5: '07510'
+md5_5_upper: '07510'
+md5_6: '075100'
+md5_6_alpha: a9z4
+md5_6_alpha_upper: A9Z4
+md5_6_upper: '075100'
+name: Food Starch Pasta Spaghetti Box 500 Gram Barilla
+name_no_class: Starch Pasta Spaghetti Box 500 Gram Barilla
+name_no_size: Spaghetti Box 500 Gram Barilla
+name_no_size_short: Spaghetti Box 500 Gram Barilla
+name_no_type: Pasta Spaghetti Box 500 Gram Barilla
+name_short: Pasta Spaghetti Box
+oomp_key: oomp_food_starch_pasta_spaghetti_box_500_gram_barilla
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: pasta
+size_capital: Pasta
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PASTA
+type: starch
+type_capital: Starch
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: STARCH

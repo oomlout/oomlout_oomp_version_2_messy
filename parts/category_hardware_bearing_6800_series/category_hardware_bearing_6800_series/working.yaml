@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: 6800_series
+color_capital: 6800 Series
+color_first_letter: '6'
+color_first_letter_upper: '6'
+color_upper: 6800_SERIES
+description: category_hardware
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: '6 '
+description_or_color_upper: '6 '
+directory: parts/category_hardware_bearing_6800_series
+distributors: []
+filter: ''
+from_yaml: false
+id: category_hardware_bearing_6800_series
+id_no_class: hardware_bearing_6800_series
+id_no_size: 6800_series
+id_no_type: bearing_6800_series
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_bearing_6800_series
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_bearing_6800_series
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_bearing_6800_series
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_hardware_bearing_6800_series](none)<br>[](none)<br>[Category
+    Hardware Bearing 6800 Series](none)<br><br>'
+markdown_short: '[category_hardware_bearing_6800_series](none)<br><br>'
+md5: 12492e347f23c0abb2208a71df9f9aff
+md5_10: 12492e347f
+md5_10_upper: 12492E347F
+md5_5: '12492'
+md5_5_upper: '12492'
+md5_6: 12492e
+md5_6_alpha: pooe
+md5_6_alpha_upper: POOE
+md5_6_upper: 12492E
+name: Category Hardware Bearing 6800 Series
+name_no_class: Hardware Bearing 6800 Series
+name_no_size: 6800 Series
+name_no_size_short: 6800 Series
+name_no_type: Bearing 6800 Series
+oomp_key: oomp_category_hardware_bearing_6800_series
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryhardware
+size: bearing
+size_capital: Bearing
+size_first_letter: b
+size_first_letter_upper: B
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: BEARING
+type: hardware
+type_capital: Hardware
+type_first_letter: h
+type_first_letter_upper: H
+type_upper: HARDWARE

@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: florist
+color_capital: Florist
+color_first_letter: f
+color_first_letter_upper: F
+color_upper: FLORIST
+description: category_craft
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'F '
+description_or_color_upper: 'F '
+directory: parts/category_craft_ribbon_florist
+distributors: []
+filter: ''
+from_yaml: false
+id: category_craft_ribbon_florist
+id_no_class: craft_ribbon_florist
+id_no_size: florist
+id_no_type: ribbon_florist
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_craft_ribbon_florist
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_craft_ribbon_florist
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_craft_ribbon_florist
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_craft_ribbon_florist](none)<br>[](none)<br>[Category Craft
+    Ribbon Florist](none)<br><br>'
+markdown_short: '[category_craft_ribbon_florist](none)<br><br>'
+md5: faf2bad4a81777d533271775683a3c3f
+md5_10: faf2bad4a8
+md5_10_upper: FAF2BAD4A8
+md5_5: faf2b
+md5_5_upper: FAF2B
+md5_6: faf2ba
+md5_6_alpha: 9shx6
+md5_6_alpha_upper: 9SHX6
+md5_6_upper: FAF2BA
+name: Category Craft Ribbon Florist
+name_no_class: Craft Ribbon Florist
+name_no_size: Florist
+name_no_size_short: Florist
+name_no_type: Ribbon Florist
+oomp_key: oomp_category_craft_ribbon_florist
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorycraft
+size: ribbon
+size_capital: Ribbon
+size_first_letter: r
+size_first_letter_upper: R
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: RIBBON
+type: craft
+type_capital: Craft
+type_first_letter: c
+type_first_letter_upper: C
+type_upper: CRAFT

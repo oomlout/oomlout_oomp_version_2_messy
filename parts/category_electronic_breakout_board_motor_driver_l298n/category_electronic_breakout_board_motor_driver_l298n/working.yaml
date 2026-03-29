@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: l298n
+color_capital: L298N
+color_first_letter: l
+color_first_letter_upper: L
+color_upper: L298N
+description: category_electronic
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'L '
+description_or_color_upper: 'L '
+directory: parts/category_electronic_breakout_board_motor_driver_l298n
+distributors: []
+filter: ''
+from_yaml: false
+id: category_electronic_breakout_board_motor_driver_l298n
+id_no_class: electronic_breakout_board_motor_driver_l298n
+id_no_size: l298n
+id_no_type: breakout_board_motor_driver_l298n
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_breakout_board_motor_driver_l298n
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_breakout_board_motor_driver_l298n
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_electronic_breakout_board_motor_driver_l298n
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_electronic_breakout_board_motor_driver_l298n](none)<br>[](none)<br>[Category
+    Electronic Breakout Board Motor Driver L298N](none)<br><br>'
+markdown_short: '[category_electronic_breakout_board_motor_driver_l298n](none)<br><br>'
+md5: da39554c95fb88bb5e74aaca1e487d96
+md5_10: da39554c95
+md5_10_upper: DA39554C95
+md5_5: da395
+md5_5_upper: DA395
+md5_6: da3955
+md5_6_alpha: 8ij4l
+md5_6_alpha_upper: 8IJ4L
+md5_6_upper: DA3955
+name: Category Electronic Breakout Board Motor Driver L298N
+name_no_class: Electronic Breakout Board Motor Driver L298N
+name_no_size: L298N
+name_no_size_short: L298N
+name_no_type: Breakout Board Motor Driver L298N
+oomp_key: oomp_category_electronic_breakout_board_motor_driver_l298n
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryelectronic
+size: breakout_board_motor_driver
+size_capital: Breakout Board Motor Driver
+size_first_letter: b
+size_first_letter_upper: B
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: BREAKOUT_BOARD_MOTOR_DRIVER
+type: electronic
+type_capital: Electronic
+type_first_letter: e
+type_first_letter_upper: E
+type_upper: ELECTRONIC

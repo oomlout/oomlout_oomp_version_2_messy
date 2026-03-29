@@ -1,0 +1,80 @@
+classification: vinyl_cutter
+classification_capital: Vinyl Cutter
+classification_first_letter: v
+classification_first_letter_upper: V
+classification_upper: VINYL_CUTTER
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: joy_xtra
+description_main_capital: Joy Xtra
+description_main_first_letter: j
+description_main_first_letter_upper: J
+description_main_upper: JOY_XTRA
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/vinyl_cutter_vinyl_cutter_cricut_joy_xtra_cricut
+distributors: []
+filter: ''
+from_yaml: false
+id: vinyl_cutter_vinyl_cutter_cricut_joy_xtra_cricut
+id_no_class: cricut_joy_xtra_cricut
+id_no_size: joy_xtra_cricut
+id_no_type: cricut_joy_xtra_cricut
+link_distributor_cricut: ''
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/vinyl_cutter_vinyl_cutter_cricut_joy_xtra_cricut
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/vinyl_cutter_vinyl_cutter_cricut_joy_xtra_cricut
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/vinyl_cutter_vinyl_cutter_cricut_joy_xtra_cricut
+manufacturer: cricut
+manufacturer_capital: Cricut
+manufacturer_first_letter: c
+manufacturer_first_letter_upper: C
+manufacturer_upper: CRICUT
+manufacturers: []
+markdown_full: '[vinyl_cutter_vinyl_cutter_cricut_joy_xtra_cricut](none)<br>[](none)<br>[Vinyl
+    Cutter Vinyl Cutter Cricut Joy Xtra Cricut](none)<br><br>'
+markdown_short: '[vinyl_cutter_vinyl_cutter_cricut_joy_xtra_cricut](none)<br><br>'
+md5: fffeda1d54ffcd96d637c21b64532930
+md5_10: fffeda1d54
+md5_10_upper: FFFEDA1D54
+md5_5: fffed
+md5_5_upper: FFFED
+md5_6: fffeda
+md5_6_alpha: 9zl5m
+md5_6_alpha_upper: 9ZL5M
+md5_6_upper: FFFEDA
+name: Vinyl Cutter Vinyl Cutter Cricut Joy Xtra Cricut
+name_no_class: Cricut Joy Xtra Cricut
+name_no_size: Joy Xtra Cricut
+name_no_size_short: Joy Xtra Cricut
+name_no_type: Cricut Joy Xtra Cricut
+oomp_key: oomp_vinyl_cutter_vinyl_cutter_cricut_joy_xtra_cricut
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: cricut
+size_capital: Cricut
+size_first_letter: c
+size_first_letter_upper: C
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: CRICUT
+type: vinyl_cutter
+type_capital: Vinyl Cutter
+type_first_letter: v
+type_first_letter_upper: V
+type_upper: VINYL_CUTTER

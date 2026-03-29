@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: 50_8_mm_width_25_4_mm_length
+color_capital: 50 8 mm Width 25.4 mm Length
+color_first_letter: '5'
+color_first_letter_upper: '5'
+color_upper: 50_8_MM_WIDTH_25_4_MM_LENGTH
+description: category_packaging
+description_extra: tote
+description_extra_capital: Tote
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TOTE
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: '5 '
+description_or_color_upper: '5 '
+directory: parts/category_packaging_label_50_8_mm_width_25_4_mm_length_tote
+distributors: []
+filter: ''
+from_yaml: false
+id: category_packaging_label_50_8_mm_width_25_4_mm_length_tote
+id_no_class: packaging_label_50_8_mm_width_25_4_mm_length_tote
+id_no_size: 50_8_mm_width_25_4_mm_length_tote
+id_no_type: label_50_8_mm_width_25_4_mm_length_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_packaging_label_50_8_mm_width_25_4_mm_length_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_packaging_label_50_8_mm_width_25_4_mm_length_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_packaging_label_50_8_mm_width_25_4_mm_length_tote
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_packaging_label_50_8_mm_width_25_4_mm_length_tote](none)<br>[](none)<br>[Category
+    Packaging Label 50 8 Mm Width 25 4 Mm Length Tote](none)<br><br>'
+markdown_short: '[category_packaging_label_50_8_mm_width_25_4_mm_length_tote](none)<br><br>'
+md5: a37be14ac18fe9da4407e8bcc88c6d37
+md5_10: a37be14ac1
+md5_10_upper: A37BE14AC1
+md5_5: a37be
+md5_5_upper: A37BE
+md5_6: a37be1
+md5_6_alpha: 6dn1d
+md5_6_alpha_upper: 6DN1D
+md5_6_upper: A37BE1
+name: Category Packaging Label 50 8 Mm Width 25 4 Mm Length Tote
+name_no_class: Packaging Label 50 8 Mm Width 25 4 Mm Length Tote
+name_no_size: 50 8 Mm Width 25 4 Mm Length Tote
+name_no_size_short: 50 8 Mm Width 25 4 Mm Length Tote
+name_no_type: Label 50 8 Mm Width 25 4 Mm Length Tote
+oomp_key: oomp_category_packaging_label_50_8_mm_width_25_4_mm_length_tote
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorypackaging
+size: label
+size_capital: Label
+size_first_letter: l
+size_first_letter_upper: L
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: LABEL
+type: packaging
+type_capital: Packaging
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PACKAGING

@@ -1,0 +1,78 @@
+classification: clothes
+classification_capital: Clothes
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CLOTHES
+color: small
+color_capital: Small
+color_first_letter: s
+color_first_letter_upper: S
+color_upper: SMALL
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: white
+description_main_capital: White
+description_main_first_letter: w
+description_main_first_letter_upper: W
+description_main_upper: WHITE
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'S '
+description_or_color_upper: 'S '
+directory: parts/clothes_item_socks_small_white
+distributors: []
+filter: ''
+from_yaml: false
+id: clothes_item_socks_small_white
+id_no_class: item_socks_small_white
+id_no_size: small_white
+id_no_type: socks_small_white
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_socks_small_white
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_socks_small_white
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_socks_small_white
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[clothes_item_socks_small_white](none)<br>[](none)<br>[Clothes Item
+    Socks Small White](none)<br><br>'
+markdown_short: '[clothes_item_socks_small_white](none)<br><br>'
+md5: fa7019bf697c9c9665378837cb02e2ff
+md5_10: fa7019bf69
+md5_10_upper: FA7019BF69
+md5_5: fa701
+md5_5_upper: FA701
+md5_6: fa7019
+md5_6_alpha: 9rs49
+md5_6_alpha_upper: 9RS49
+md5_6_upper: FA7019
+name: Clothes Item Socks Small White
+name_no_class: Item Socks Small White
+name_no_size: Small White
+name_no_size_short: Small White
+name_no_type: Socks Small White
+oomp_key: oomp_clothes_item_socks_small_white
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: socks
+size_capital: Socks
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SOCKS
+type: item
+type_capital: Item
+type_first_letter: i
+type_first_letter_upper: I
+type_upper: ITEM

@@ -1,0 +1,80 @@
+classification: vinyl
+classification_capital: Vinyl
+classification_first_letter: v
+classification_first_letter_upper: V
+classification_upper: VINYL
+color: red
+color_capital: Red
+color_first_letter: r
+color_first_letter_upper: R
+color_upper: RED
+description_extra: a4_210_mm_width_297_mm_height
+description_extra_capital: A4.210 mm Width 297 mm Height
+description_extra_first_letter: a
+description_extra_first_letter_upper: A
+description_extra_upper: A4_210_MM_WIDTH_297_MM_HEIGHT
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'R '
+description_or_color_upper: 'R '
+directory: parts/vinyl_red_a4_210_mm_width_297_mm_height
+distributors: []
+filter: ''
+from_yaml: false
+height: 297 mm
+id: vinyl_red_a4_210_mm_width_297_mm_height
+id_no_class: red_a4_210_mm_width_297_mm_height
+id_no_size: reda4210mmwidth297mmheight
+id_no_type: reda4210mmwidth297mmheight
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/vinyl_red_a4_210_mm_width_297_mm_height
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/vinyl_red_a4_210_mm_width_297_mm_height
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/vinyl_red_a4_210_mm_width_297_mm_height
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[vinyl_red_a4_210_mm_width_297_mm_height](none)<br>[r](none)<br>[Vinyl
+    Red A4 210 Mm Width 297 Mm Height](none)<br><br>'
+markdown_short: '[vinyl_red_a4_210_mm_width_297_mm_height](none)<br><br>'
+md5: 251d56435d51600426d7d62fe6e73086
+md5_10: 251d56435d
+md5_10_upper: 251D56435D
+md5_5: 251d5
+md5_5_upper: 251D5
+md5_6: 251d56
+md5_6_alpha: 1g4t2
+md5_6_alpha_upper: 1G4T2
+md5_6_upper: 251D56
+name: Vinyl Red A4 210 Mm Width 297 Mm Height
+name_no_class: Red A4 210 Mm Width 297 Mm Height
+name_no_size: Reda4210Mmwidth297Mmheight
+name_no_size_short: Reda4210Mmwidth297Mmheight
+name_no_type: Reda4210Mmwidth297Mmheight
+oomp_key: oomp_vinyl_red_a4_210_mm_width_297_mm_height
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: r
+short_code_upper: R
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: ''
+type_capital: ''
+type_first_letter: ''
+type_first_letter_upper: ''
+type_upper: ''
+width: 210 mm

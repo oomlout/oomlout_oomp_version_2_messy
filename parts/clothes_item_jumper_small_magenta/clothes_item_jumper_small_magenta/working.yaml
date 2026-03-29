@@ -1,0 +1,78 @@
+classification: clothes
+classification_capital: Clothes
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CLOTHES
+color: small
+color_capital: Small
+color_first_letter: s
+color_first_letter_upper: S
+color_upper: SMALL
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: magenta
+description_main_capital: Magenta
+description_main_first_letter: m
+description_main_first_letter_upper: M
+description_main_upper: MAGENTA
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'S '
+description_or_color_upper: 'S '
+directory: parts/clothes_item_jumper_small_magenta
+distributors: []
+filter: ''
+from_yaml: false
+id: clothes_item_jumper_small_magenta
+id_no_class: item_jumper_small_magenta
+id_no_size: small_magenta
+id_no_type: jumper_small_magenta
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_jumper_small_magenta
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_jumper_small_magenta
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_jumper_small_magenta
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[clothes_item_jumper_small_magenta](none)<br>[](none)<br>[Clothes
+    Item Jumper Small Magenta](none)<br><br>'
+markdown_short: '[clothes_item_jumper_small_magenta](none)<br><br>'
+md5: e01c6099d09a17278b1a5ef00b0de918
+md5_10: e01c6099d0
+md5_10_upper: E01C6099D0
+md5_5: e01c6
+md5_5_upper: E01C6
+md5_6: e01c60
+md5_6_alpha: 8qstc
+md5_6_alpha_upper: 8QSTC
+md5_6_upper: E01C60
+name: Clothes Item Jumper Small Magenta
+name_no_class: Item Jumper Small Magenta
+name_no_size: Small Magenta
+name_no_size_short: Small Magenta
+name_no_type: Jumper Small Magenta
+oomp_key: oomp_clothes_item_jumper_small_magenta
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: jumper
+size_capital: Jumper
+size_first_letter: j
+size_first_letter_upper: J
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: JUMPER
+type: item
+type_capital: Item
+type_first_letter: i
+type_first_letter_upper: I
+type_upper: ITEM

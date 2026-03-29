@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_lighting
+description_extra: tote
+description_extra_capital: Tote
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TOTE
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_lighting_pendant_tote
+distributors: []
+filter: ''
+from_yaml: false
+id: category_lighting_pendant_tote
+id_no_class: lighting_pendant_tote
+id_no_size: tote
+id_no_type: pendant_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_lighting_pendant_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_lighting_pendant_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_lighting_pendant_tote
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_lighting_pendant_tote](none)<br>[](none)<br>[Category Lighting
+    Pendant Tote](none)<br><br>'
+markdown_short: '[category_lighting_pendant_tote](none)<br><br>'
+md5: 122e57aeae0cc144b11b63be09ad7caa
+md5_10: 122e57aeae
+md5_10_upper: 122E57AEAE
+md5_5: 122e5
+md5_5_upper: 122E5
+md5_6: 122e57
+md5_6_alpha: pjdj
+md5_6_alpha_upper: PJDJ
+md5_6_upper: 122E57
+name: Category Lighting Pendant Tote
+name_no_class: Lighting Pendant Tote
+name_no_size: Tote
+name_no_size_short: Tote
+name_no_type: Pendant Tote
+oomp_key: oomp_category_lighting_pendant_tote
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorylighting
+size: pendant
+size_capital: Pendant
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PENDANT
+type: lighting
+type_capital: Lighting
+type_first_letter: l
+type_first_letter_upper: L
+type_upper: LIGHTING

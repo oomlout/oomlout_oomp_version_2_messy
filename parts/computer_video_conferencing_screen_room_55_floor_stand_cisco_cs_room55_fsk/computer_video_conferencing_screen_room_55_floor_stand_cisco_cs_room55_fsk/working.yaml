@@ -1,0 +1,79 @@
+classification: computer
+classification_capital: Computer
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: COMPUTER
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: room_55_floor_stand
+description_main_capital: Room 55 Floor Stand
+description_main_first_letter: r
+description_main_first_letter_upper: R
+description_main_upper: ROOM_55_FLOOR_STAND
+description_only_numbers: '55'
+description_only_numbers_short: '55'
+description_or_color: '55'
+description_or_color_upper: '55'
+directory: parts/computer_video_conferencing_screen_room_55_floor_stand_cisco_cs_room55_fsk
+distributors: []
+filter: ''
+from_yaml: false
+id: computer_video_conferencing_screen_room_55_floor_stand_cisco_cs_room55_fsk
+id_no_class: video_conferencing_screen_room_55_floor_stand_cisco_cs_room55_fsk
+id_no_size: room_55_floor_stand_cisco_cs_room55_fsk
+id_no_type: screen_room_55_floor_stand_cisco_cs_room55_fsk
+link_distributor_cisco: https://www.cisco.com/c/en/us/support/collaboration-endpoints/spark-room-55/model.html
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_video_conferencing_screen_room_55_floor_stand_cisco_cs_room55_fsk
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_video_conferencing_screen_room_55_floor_stand_cisco_cs_room55_fsk
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_video_conferencing_screen_room_55_floor_stand_cisco_cs_room55_fsk
+manufacturer: cisco
+manufacturer_capital: Cisco
+manufacturer_first_letter: c
+manufacturer_first_letter_upper: C
+manufacturer_upper: CISCO
+manufacturers: []
+markdown_full: '[computer_video_conferencing_screen_room_55_floor_stand_cisco_cs_room55_fsk](none)<br>[](none)<br>[Computer
+    Video Conferencing Screen Room 55 Floor Stand Cisco Cs Room55 Fsk](none)<br><br>'
+markdown_short: '[computer_video_conferencing_screen_room_55_floor_stand_cisco_cs_room55_fsk](none)<br><br>'
+md5: 12066137754383ac9969f6f98ef510ba
+md5_10: '1206613775'
+md5_10_upper: '1206613775'
+md5_5: '12066'
+md5_5_upper: '12066'
+md5_6: '120661'
+md5_6_alpha: pbhd
+md5_6_alpha_upper: PBHD
+md5_6_upper: '120661'
+name: Computer Video Conferencing Screen Room 55 Floor Stand Cisco Cs Room55 Fsk
+name_no_class: Video Conferencing Screen Room 55 Floor Stand Cisco Cs Room55 Fsk
+name_no_size: Room 55 Floor Stand Cisco Cs Room55 Fsk
+name_no_size_short: Room 55 Floor Stand Cisco Cs Room55 Fsk
+name_no_type: Screen Room 55 Floor Stand Cisco Cs Room55 Fsk
+oomp_key: oomp_computer_video_conferencing_screen_room_55_floor_stand_cisco_cs_room55_fsk
+part_number: cs_room55_fsk
+part_number_capital: Cs Room55 Fsk
+part_number_first_letter: c
+part_number_first_letter_upper: C
+part_number_upper: CS_ROOM55_FSK
+short_code: ''
+short_code_upper: ''
+size: screen
+size_capital: Screen
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SCREEN
+type: video_conferencing
+type_capital: Video Conferencing
+type_first_letter: v
+type_first_letter_upper: V
+type_upper: VIDEO_CONFERENCING

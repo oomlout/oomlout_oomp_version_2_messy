@@ -1,0 +1,78 @@
+classification: clothes
+classification_capital: Clothes
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CLOTHES
+color: large
+color_capital: Large
+color_first_letter: l
+color_first_letter_upper: L
+color_upper: LARGE
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: pink
+description_main_capital: Pink
+description_main_first_letter: p
+description_main_first_letter_upper: P
+description_main_upper: PINK
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'L '
+description_or_color_upper: 'L '
+directory: parts/clothes_item_socks_large_pink
+distributors: []
+filter: ''
+from_yaml: false
+id: clothes_item_socks_large_pink
+id_no_class: item_socks_large_pink
+id_no_size: large_pink
+id_no_type: socks_large_pink
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_socks_large_pink
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_socks_large_pink
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_socks_large_pink
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[clothes_item_socks_large_pink](none)<br>[](none)<br>[Clothes Item
+    Socks Large Pink](none)<br><br>'
+markdown_short: '[clothes_item_socks_large_pink](none)<br><br>'
+md5: 324715a43944df2ef9b7625dcf24c96e
+md5_10: 324715a439
+md5_10_upper: 324715A439
+md5_5: '32471'
+md5_5_upper: '32471'
+md5_6: '324715'
+md5_6_alpha: 1ymfp
+md5_6_alpha_upper: 1YMFP
+md5_6_upper: '324715'
+name: Clothes Item Socks Large Pink
+name_no_class: Item Socks Large Pink
+name_no_size: Large Pink
+name_no_size_short: Large Pink
+name_no_type: Socks Large Pink
+oomp_key: oomp_clothes_item_socks_large_pink
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: socks
+size_capital: Socks
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SOCKS
+type: item
+type_capital: Item
+type_first_letter: i
+type_first_letter_upper: I
+type_upper: ITEM

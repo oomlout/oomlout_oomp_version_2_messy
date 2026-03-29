@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_packaging
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_packaging_tin_can
+distributors: []
+filter: ''
+from_yaml: false
+id: category_packaging_tin_can
+id_no_class: packaging_tin_can
+id_no_size: tin_can
+id_no_type: tin_can
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_packaging_tin_can
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_packaging_tin_can
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_packaging_tin_can
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_packaging_tin_can](none)<br>[](none)<br>[Category Packaging
+    Tin Can](none)<br><br>'
+markdown_short: '[category_packaging_tin_can](none)<br><br>'
+md5: a6d3828fcdc40228f2fe146aa5a5c3af
+md5_10: a6d3828fcd
+md5_10_upper: A6D3828FCD
+md5_5: a6d38
+md5_5_upper: A6D38
+md5_6: a6d382
+md5_6_alpha: 6ic1u
+md5_6_alpha_upper: 6IC1U
+md5_6_upper: A6D382
+name: Category Packaging Tin Can
+name_no_class: Packaging Tin Can
+name_no_size: Tin Can
+name_no_size_short: Tin Can
+name_no_type: Tin Can
+oomp_key: oomp_category_packaging_tin_can
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorypackaging
+size: tin_can
+size_capital: Tin Can
+size_first_letter: t
+size_first_letter_upper: T
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: TIN_CAN
+type: packaging
+type_capital: Packaging
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PACKAGING

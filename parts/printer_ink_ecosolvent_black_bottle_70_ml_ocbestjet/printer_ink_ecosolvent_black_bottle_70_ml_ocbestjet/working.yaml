@@ -1,0 +1,76 @@
+classification: printer
+classification_capital: Printer
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_upper: PRINTER
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: black_bottle_70_ml
+description_main_capital: Black Bottle 70 Ml
+description_main_first_letter: b
+description_main_first_letter_upper: B
+description_main_upper: BLACK_BOTTLE_70_ML
+description_only_numbers: '70'
+description_only_numbers_short: '70'
+description_or_color: '70'
+description_or_color_upper: '70'
+directory: parts/printer_ink_ecosolvent_black_bottle_70_ml_ocbestjet
+distributors: []
+id: printer_ink_ecosolvent_black_bottle_70_ml_ocbestjet
+id_no_class: ink_ecosolvent_black_bottle_70_ml_ocbestjet
+id_no_size: black_bottle_70_ml_ocbestjet
+id_no_type: ecosolvent_black_bottle_70_ml_ocbestjet
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_ink_ecosolvent_black_bottle_70_ml_ocbestjet
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_ink_ecosolvent_black_bottle_70_ml_ocbestjet
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_ink_ecosolvent_black_bottle_70_ml_ocbestjet
+manufacturer: ocbestjet
+manufacturer_capital: Ocbestjet
+manufacturer_first_letter: o
+manufacturer_first_letter_upper: O
+manufacturer_upper: OCBESTJET
+manufacturers: []
+markdown_full: '[printer_ink_ecosolvent_black_bottle_70_ml_ocbestjet](none)<br>[](none)<br>[Printer
+    Ink Ecosolvent Black Bottle 70 Ml Ocbestjet](none)<br><br>'
+markdown_short: '[printer_ink_ecosolvent_black_bottle_70_ml_ocbestjet](none)<br><br>'
+md5: e68562ac763b82ee9896caee7d3755dd
+md5_10: e68562ac76
+md5_10_upper: E68562AC76
+md5_5: e6856
+md5_5_upper: E6856
+md5_6: e68562
+md5_6_alpha: 8zsyq
+md5_6_alpha_upper: 8ZSYQ
+md5_6_upper: E68562
+name: Printer Ink Ecosolvent Black Bottle 70 Ml Ocbestjet
+name_no_class: Ink Ecosolvent Black Bottle 70 Ml Ocbestjet
+name_no_size: Black Bottle 70 Ml Ocbestjet
+name_no_size_short: Black Bottle 70 Ml Ocbestjet
+name_no_type: Ecosolvent Black Bottle 70 Ml Ocbestjet
+oomp_key: oomp_printer_ink_ecosolvent_black_bottle_70_ml_ocbestjet
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: ecosolvent
+size_capital: Ecosolvent
+size_first_letter: e
+size_first_letter_upper: E
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ECOSOLVENT
+type: ink
+type_capital: Ink
+type_first_letter: i
+type_first_letter_upper: I
+type_upper: INK

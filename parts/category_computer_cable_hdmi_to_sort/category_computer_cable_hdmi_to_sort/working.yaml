@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: hdmi
+color_capital: Hdmi
+color_first_letter: h
+color_first_letter_upper: H
+color_upper: HDMI
+description: category_computer
+description_extra: to_sort
+description_extra_capital: To Sort
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TO_SORT
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'H '
+description_or_color_upper: 'H '
+directory: parts/category_computer_cable_hdmi_to_sort
+distributors: []
+filter: ''
+from_yaml: false
+id: category_computer_cable_hdmi_to_sort
+id_no_class: computer_cable_hdmi_to_sort
+id_no_size: hdmi_to_sort
+id_no_type: cable_hdmi_to_sort
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_cable_hdmi_to_sort
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_cable_hdmi_to_sort
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_computer_cable_hdmi_to_sort
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_computer_cable_hdmi_to_sort](none)<br>[](none)<br>[Category
+    Computer Cable Hdmi To Sort](none)<br><br>'
+markdown_short: '[category_computer_cable_hdmi_to_sort](none)<br><br>'
+md5: b6c94776f140a87f7f146939baf8d2d0
+md5_10: b6c94776f1
+md5_10_upper: B6C94776F1
+md5_5: b6c94
+md5_5_upper: B6C94
+md5_6: b6c947
+md5_6_alpha: 74r47
+md5_6_alpha_upper: 74R47
+md5_6_upper: B6C947
+name: Category Computer Cable Hdmi To Sort
+name_no_class: Computer Cable Hdmi To Sort
+name_no_size: Hdmi To Sort
+name_no_size_short: Hdmi To Sort
+name_no_type: Cable Hdmi To Sort
+oomp_key: oomp_category_computer_cable_hdmi_to_sort
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorycomputer
+size: cable
+size_capital: Cable
+size_first_letter: c
+size_first_letter_upper: C
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: CABLE
+type: computer
+type_capital: Computer
+type_first_letter: c
+type_first_letter_upper: C
+type_upper: COMPUTER

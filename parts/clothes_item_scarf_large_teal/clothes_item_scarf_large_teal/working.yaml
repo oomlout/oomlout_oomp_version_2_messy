@@ -1,0 +1,78 @@
+classification: clothes
+classification_capital: Clothes
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CLOTHES
+color: large
+color_capital: Large
+color_first_letter: l
+color_first_letter_upper: L
+color_upper: LARGE
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: teal
+description_main_capital: Teal
+description_main_first_letter: t
+description_main_first_letter_upper: T
+description_main_upper: TEAL
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'L '
+description_or_color_upper: 'L '
+directory: parts/clothes_item_scarf_large_teal
+distributors: []
+filter: ''
+from_yaml: false
+id: clothes_item_scarf_large_teal
+id_no_class: item_scarf_large_teal
+id_no_size: large_teal
+id_no_type: scarf_large_teal
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_scarf_large_teal
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_scarf_large_teal
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/clothes_item_scarf_large_teal
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[clothes_item_scarf_large_teal](none)<br>[](none)<br>[Clothes Item
+    Scarf Large Teal](none)<br><br>'
+markdown_short: '[clothes_item_scarf_large_teal](none)<br><br>'
+md5: 2e35f37038d1071d23871f188a688ba7
+md5_10: 2e35f37038
+md5_10_upper: 2E35F37038
+md5_5: 2e35f
+md5_5_upper: 2E35F
+md5_6: 2e35f3
+md5_6_alpha: 1sws3
+md5_6_alpha_upper: 1SWS3
+md5_6_upper: 2E35F3
+name: Clothes Item Scarf Large Teal
+name_no_class: Item Scarf Large Teal
+name_no_size: Large Teal
+name_no_size_short: Large Teal
+name_no_type: Scarf Large Teal
+oomp_key: oomp_clothes_item_scarf_large_teal
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: scarf
+size_capital: Scarf
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SCARF
+type: item
+type_capital: Item
+type_first_letter: i
+type_first_letter_upper: I
+type_upper: ITEM

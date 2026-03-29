@@ -1,0 +1,80 @@
+classification: food
+classification_capital: Food
+classification_first_letter: f
+classification_first_letter_upper: F
+classification_upper: FOOD
+color: long_grain_quick_cook
+color_capital: Long Grain Quick Cook
+color_first_letter: l
+color_first_letter_upper: L
+color_upper: LONG_GRAIN_QUICK_COOK
+description: rice_long_grain_quick_cook
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'L '
+description_or_color_upper: 'L '
+directory: parts/food_starch_rice_long_grain_quick_cook
+distributors: []
+filter: ''
+from_yaml: false
+id: food_starch_rice_long_grain_quick_cook
+id_no_class: starch_rice_long_grain_quick_cook
+id_no_size: long_grain_quick_cook
+id_no_type: rice_long_grain_quick_cook
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_rice_long_grain_quick_cook
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_rice_long_grain_quick_cook
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_starch_rice_long_grain_quick_cook
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[food_starch_rice_long_grain_quick_cook](none)<br>[](none)<br>[Food
+    Starch Rice Long Grain Quick Cook](none)<br><br>'
+markdown_short: '[food_starch_rice_long_grain_quick_cook](none)<br><br>'
+md5: c5f12dc7142570c30d6dde539975681d
+md5_10: c5f12dc714
+md5_10_upper: C5F12DC714
+md5_5: c5f12
+md5_5_upper: C5F12
+md5_6: c5f12d
+md5_6_alpha: 7q1il
+md5_6_alpha_upper: 7Q1IL
+md5_6_upper: C5F12D
+name: Food Starch Rice Long Grain Quick Cook
+name_no_class: Starch Rice Long Grain Quick Cook
+name_no_size: Long Grain Quick Cook
+name_no_size_short: Long Grain Quick Cook
+name_no_type: Rice Long Grain Quick Cook
+name_short: Rice long_grain_quick_cook
+oomp_key: oomp_food_starch_rice_long_grain_quick_cook
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: rice
+size_capital: Rice
+size_first_letter: r
+size_first_letter_upper: R
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: RICE
+type: starch
+type_capital: Starch
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: STARCH

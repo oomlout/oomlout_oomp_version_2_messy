@@ -1,0 +1,82 @@
+classification: dish
+classification_capital: Dish
+classification_first_letter: d
+classification_first_letter_upper: D
+classification_upper: DISH
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: 2300_ml_220_mm_diameter_80_mm_depth
+description_extra_capital: 2300 Ml 220 mm Diameter 80 mm Depth
+description_extra_first_letter: '2'
+description_extra_first_letter_upper: '2'
+description_extra_upper: 2300_ML_220_MM_DIAMETER_80_MM_DEPTH
+description_main: caserole_dish_round
+description_main_capital: Caserole Dish Round
+description_main_first_letter: c
+description_main_first_letter_upper: C
+description_main_upper: CASEROLE_DISH_ROUND
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/dish_baking_pyrex_caserole_dish_round_2300_ml_220_mm_diameter_80_mm_depth_pyrex_208A000
+distributors: []
+filter: ''
+from_yaml: false
+id: dish_baking_pyrex_caserole_dish_round_2300_ml_220_mm_diameter_80_mm_depth_pyrex_208A000
+id_no_class: baking_pyrex_caserole_round_2300_ml_220_mm_diameter_80_mm_depth_pyrex_208A000
+id_no_size: caserole_round_2300_ml_220_mm_diameter_80_mm_depth_208A000
+id_no_type: pyrex_caserole_round_2300_ml_220_mm_diameter_80_mm_depth_pyrex_208A000
+link_distributor_pyrex: https://pyrex.co.uk/products/glass-round-casserole-high-resistance?variant=14730280599587
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/dish_baking_pyrex_caserole_dish_round_2300_ml_220_mm_diameter_80_mm_depth_pyrex_208A000
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/dish_baking_pyrex_caserole_dish_round_2300_ml_220_mm_diameter_80_mm_depth_pyrex_208A000
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/dish_baking_pyrex_caserole_dish_round_2300_ml_220_mm_diameter_80_mm_depth_pyrex_208A000
+manufacturer: pyrex
+manufacturer_capital: Pyrex
+manufacturer_first_letter: p
+manufacturer_first_letter_upper: P
+manufacturer_upper: PYREX
+manufacturers: []
+markdown_full: '[dish_baking_pyrex_caserole_dish_round_2300_ml_220_mm_diameter_80_mm_depth_pyrex_208A000](none)<br>[](none)<br>[Dish
+    Baking Pyrex Caserole Dish Round 2300 Ml 220 Mm Diameter 80 Mm Depth Pyrex 208A000](none)<br><br>'
+markdown_short: '[dish_baking_pyrex_caserole_dish_round_2300_ml_220_mm_diameter_80_mm_depth_pyrex_208A000](none)<br><br>'
+md5: c92fd989aaf7c7093fa7ac46a1221777
+md5_10: c92fd989aa
+md5_10_upper: C92FD989AA
+md5_5: c92fd
+md5_5_upper: C92FD
+md5_6: c92fd9
+md5_6_alpha: 7ulll
+md5_6_alpha_upper: 7ULLL
+md5_6_upper: C92FD9
+name: Dish Baking Pyrex Caserole Dish Round 2300 Ml 220 Mm Diameter 80 Mm Depth Pyrex
+    208A000
+name_no_class: Baking Pyrex Caserole Round 2300 Ml 220 Mm Diameter 80 Mm Depth Pyrex
+    208A000
+name_no_size: Caserole Round 2300 Ml 220 Mm Diameter 80 Mm Depth 208A000
+name_no_size_short: Caserole Round 2300 Ml 220 Mm Diameter 80 Mm Depth 208A000
+name_no_type: Pyrex Caserole Round 2300 Ml 220 Mm Diameter 80 Mm Depth Pyrex 208A000
+oomp_key: oomp_dish_baking_pyrex_caserole_dish_round_2300_ml_220_mm_diameter_80_mm_depth_pyrex_208A000
+part_number: 208A000
+part_number_capital: 208A000
+part_number_exact: 208A000
+part_number_first_letter: '2'
+part_number_first_letter_upper: '2'
+part_number_upper: 208A000
+short_code: ''
+short_code_upper: ''
+size: pyrex
+size_capital: Pyrex
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PYREX
+type: baking
+type_capital: Baking
+type_first_letter: b
+type_first_letter_upper: B
+type_upper: BAKING

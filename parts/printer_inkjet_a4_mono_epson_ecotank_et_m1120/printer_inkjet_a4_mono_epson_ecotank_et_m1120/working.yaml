@@ -1,0 +1,88 @@
+classification: printer
+classification_capital: Printer
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_upper: PRINTER
+color: mono
+color_capital: Mono
+color_first_letter: m
+color_first_letter_upper: M
+color_upper: MONO
+compatible_ink_bottles:
+- '110'
+description_chat_gpt: A4 mono print-only (ultra low running cost).
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'M '
+description_or_color_upper: 'M '
+directory: parts/printer_inkjet_a4_mono_epson_ecotank_et_m1120
+distributors: []
+features:
+- wifi
+id: printer_inkjet_a4_mono_epson_ecotank_et_m1120
+id_no_class: inkjet_a4_mono_epson_ecotank_et_m1120
+id_no_size: mono_epson_ecotank_et_m1120
+id_no_type: a4_mono_epson_ecotank_et_m1120
+ink_type: pigment
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_inkjet_a4_mono_epson_ecotank_et_m1120
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_inkjet_a4_mono_epson_ecotank_et_m1120
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/printer_inkjet_a4_mono_epson_ecotank_et_m1120
+manufacturer: epson_ecotank
+manufacturer_capital: Epson Ecotank
+manufacturer_first_letter: e
+manufacturer_first_letter_upper: E
+manufacturer_upper: EPSON_ECOTANK
+manufacturers: []
+markdown_full: '[printer_inkjet_a4_mono_epson_ecotank_et_m1120](none)<br>[](none)<br>[Printer
+    Inkjet A4 Mono Epson Ecotank Et M1120](none)<br><br>'
+markdown_short: '[printer_inkjet_a4_mono_epson_ecotank_et_m1120](none)<br><br>'
+md5: b181b69d49f335aede803240118913cf
+md5_10: b181b69d49
+md5_10_upper: B181B69D49
+md5_5: b181b
+md5_5_upper: B181B
+md5_6: b181b6
+md5_6_alpha: 6xc52
+md5_6_alpha_upper: 6XC52
+md5_6_upper: B181B6
+name: Printer Inkjet A4 Mono Epson Ecotank Et M1120
+name_no_class: Inkjet A4 Mono Epson Ecotank Et M1120
+name_no_size: Mono Epson Ecotank Et M1120
+name_no_size_short: Mono Epson Ecotank Et M1120
+name_no_type: A4 Mono Epson Ecotank Et M1120
+nozzle_count_black: 180
+nozzle_count_per_colour: 0
+oomp_key: oomp_printer_inkjet_a4_mono_epson_ecotank_et_m1120
+original_rrp_gbp: 199.99
+part_number: et_m1120
+part_number_capital: Et M1120
+part_number_first_letter: e
+part_number_first_letter_upper: E
+part_number_upper: ET_M1120
+printhead_technology: Micro Piezo
+short_code: ''
+short_code_upper: ''
+short_name: EcoTank ET-M1120
+size: a4
+size_capital: A4
+size_first_letter: a
+size_first_letter_upper: A
+size_only_numbers: '4'
+size_only_numbers_no_zeros: '4'
+size_upper: A4
+total_colours: 1
+type: inkjet
+type_capital: Inkjet
+type_first_letter: i
+type_first_letter_upper: I
+type_upper: INKJET

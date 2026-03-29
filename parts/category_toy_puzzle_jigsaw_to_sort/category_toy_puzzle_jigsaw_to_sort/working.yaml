@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: jigsaw
+color_capital: Jigsaw
+color_first_letter: j
+color_first_letter_upper: J
+color_upper: JIGSAW
+description: category_toy
+description_extra: to_sort
+description_extra_capital: To Sort
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TO_SORT
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'J '
+description_or_color_upper: 'J '
+directory: parts/category_toy_puzzle_jigsaw_to_sort
+distributors: []
+filter: ''
+from_yaml: false
+id: category_toy_puzzle_jigsaw_to_sort
+id_no_class: toy_puzzle_jigsaw_to_sort
+id_no_size: jigsaw_to_sort
+id_no_type: puzzle_jigsaw_to_sort
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_toy_puzzle_jigsaw_to_sort
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_toy_puzzle_jigsaw_to_sort
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_toy_puzzle_jigsaw_to_sort
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_toy_puzzle_jigsaw_to_sort](none)<br>[](none)<br>[Category
+    Toy Puzzle Jigsaw To Sort](none)<br><br>'
+markdown_short: '[category_toy_puzzle_jigsaw_to_sort](none)<br><br>'
+md5: fd0cdfa797b0bb61020179314d0c547d
+md5_10: fd0cdfa797
+md5_10_upper: FD0CDFA797
+md5_5: fd0cd
+md5_5_upper: FD0CD
+md5_6: fd0cdf
+md5_6_alpha: 9vg7z
+md5_6_alpha_upper: 9VG7Z
+md5_6_upper: FD0CDF
+name: Category Toy Puzzle Jigsaw To Sort
+name_no_class: Toy Puzzle Jigsaw To Sort
+name_no_size: Jigsaw To Sort
+name_no_size_short: Jigsaw To Sort
+name_no_type: Puzzle Jigsaw To Sort
+oomp_key: oomp_category_toy_puzzle_jigsaw_to_sort
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorytoy
+size: puzzle
+size_capital: Puzzle
+size_first_letter: p
+size_first_letter_upper: P
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: PUZZLE
+type: toy
+type_capital: Toy
+type_first_letter: t
+type_first_letter_upper: T
+type_upper: TOY

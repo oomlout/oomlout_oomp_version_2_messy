@@ -1,0 +1,77 @@
+classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_upper: ELECTRONIC
+color: bosch_bma400
+color_capital: Bosch Bma400
+color_first_letter: b
+color_first_letter_upper: B
+color_upper: BOSCH_BMA400
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'B '
+description_or_color_upper: 'B '
+directory: parts/electronic_breakout_board_sensor_accelerometer_bosch_bma400_sparkfun_sen_21208
+distributors: []
+id: electronic_breakout_board_sensor_accelerometer_bosch_bma400_sparkfun_sen_21208
+id_no_class: breakout_board_sensor_accelerometer_bosch_bma400_sparkfun_sen_21208
+id_no_size: bosch_bma400_sparkfun_sen_21208
+id_no_type: accelerometer_bosch_bma400_sparkfun_sen_21208
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_sensor_accelerometer_bosch_bma400_sparkfun_sen_21208
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_sensor_accelerometer_bosch_bma400_sparkfun_sen_21208
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_breakout_board_sensor_accelerometer_bosch_bma400_sparkfun_sen_21208
+manufacturer: sparkfun
+manufacturer_capital: Sparkfun
+manufacturer_first_letter: s
+manufacturer_first_letter_upper: S
+manufacturer_upper: SPARKFUN
+manufacturers: []
+markdown_full: '[electronic_breakout_board_sensor_accelerometer_bosch_bma400_sparkfun_sen_21208](none)<br>[](none)<br>[Electronic
+    Breakout Board Sensor Accelerometer Bosch Bma400 Sparkfun Sen 21208](none)<br><br>'
+markdown_short: '[electronic_breakout_board_sensor_accelerometer_bosch_bma400_sparkfun_sen_21208](none)<br><br>'
+md5: cf30ef55e78b902fab50aefd5102dabd
+md5_10: cf30ef55e7
+md5_10_upper: CF30EF55E7
+md5_5: cf30e
+md5_5_upper: CF30E
+md5_6: cf30ef
+md5_6_alpha: 8317z
+md5_6_alpha_upper: 8317Z
+md5_6_upper: CF30EF
+name: Electronic Breakout Board Sensor Accelerometer Bosch Bma400 Sparkfun Sen 21208
+name_no_class: Breakout Board Sensor Accelerometer Bosch Bma400 Sparkfun Sen 21208
+name_no_size: Bosch Bma400 Sparkfun Sen 21208
+name_no_size_short: Bosch Bma400 Sparkfun Sen 21208
+name_no_type: Accelerometer Bosch Bma400 Sparkfun Sen 21208
+oomp_key: oomp_electronic_breakout_board_sensor_accelerometer_bosch_bma400_sparkfun_sen_21208
+oomp_repo: http://github.com/oomlout/oomlout_oomp_source_electronic_breakout_board_sensor_accelerometer_bosch_bma400_sparkfun_sen_21208
+part_number: sen_21208
+part_number_capital: Sen 21208
+part_number_first_letter: s
+part_number_first_letter_upper: S
+part_number_upper: SEN_21208
+short_code: ''
+short_code_upper: ''
+size: accelerometer
+size_capital: Accelerometer
+size_first_letter: a
+size_first_letter_upper: A
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ACCELEROMETER
+type: breakout_board_sensor
+type_capital: Breakout Board Sensor
+type_first_letter: b
+type_first_letter_upper: B
+type_upper: BREAKOUT_BOARD_SENSOR

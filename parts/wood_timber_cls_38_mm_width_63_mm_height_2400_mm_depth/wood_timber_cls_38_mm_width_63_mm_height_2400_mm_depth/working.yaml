@@ -1,0 +1,83 @@
+classification: wood
+classification_capital: Wood
+classification_first_letter: w
+classification_first_letter_upper: W
+classification_upper: WOOD
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/wood_timber_cls_38_mm_width_63_mm_height_2400_mm_depth
+distributors: []
+filter: ''
+from_yaml: false
+id: wood_timber_cls_38_mm_width_63_mm_height_2400_mm_depth
+id_no_class: timber_cls_38_mm_width_63_mm_height_2400_mm_depth
+id_no_size: 38_mm_width_63_mm_height_2400_mm_depth
+id_no_type: 38_mm_width_63_mm_height_2400_mm_depth
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/wood_timber_cls_38_mm_width_63_mm_height_2400_mm_depth
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/wood_timber_cls_38_mm_width_63_mm_height_2400_mm_depth
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/wood_timber_cls_38_mm_width_63_mm_height_2400_mm_depth
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[wood_timber_cls_38_mm_width_63_mm_height_2400_mm_depth](none)<br>[](none)<br>[Wood
+    Timber Cls 38 Mm Width 63 Mm Height 2400 Mm Depth](none)<br><br>'
+markdown_short: '[wood_timber_cls_38_mm_width_63_mm_height_2400_mm_depth](none)<br><br>'
+md5: 46b97ef42fa1cf2298bdb643b6099edb
+md5_10: 46b97ef42f
+md5_10_upper: 46B97EF42F
+md5_5: 46b97
+md5_5_upper: 46B97
+md5_6: 46b97e
+md5_6_alpha: 2rce6
+md5_6_alpha_upper: 2RCE6
+md5_6_upper: 46B97E
+name: Wood Timber Cls 38 Mm Width 63 Mm Height 2400 Mm Depth
+name_no_class: Timber Cls 38 Mm Width 63 Mm Height 2400 Mm Depth
+name_no_size: 38 Mm Width 63 Mm Height 2400 Mm Depth
+name_no_size_short: 38 Mm Width 63 Mm Height 2400 Mm Depth
+name_no_type: 38 Mm Width 63 Mm Height 2400 Mm Depth
+oomp_key: oomp_wood_timber_cls_38_mm_width_63_mm_height_2400_mm_depth
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name:
+- three by two
+- 3x2
+- two by three
+- 2x3
+size: 38_mm_width_63_mm_height_2400_mm_depth
+size_capital: 38 mm Width 63 mm Height 2400 mm Depth
+size_first_letter: '3'
+size_first_letter_upper: '3'
+size_only_numbers: '38632400'
+size_only_numbers_no_zeros: '386324'
+size_upper: 38_MM_WIDTH_63_MM_HEIGHT_2400_MM_DEPTH
+type: timber_cls
+type_capital: Timber Cls
+type_first_letter: t
+type_first_letter_upper: T
+type_upper: TIMBER_CLS

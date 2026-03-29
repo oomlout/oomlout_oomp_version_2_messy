@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: teen
+color_capital: Teen
+color_first_letter: t
+color_first_letter_upper: T
+color_upper: TEEN
+description: category_book
+description_extra: to_sort
+description_extra_capital: To Sort
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TO_SORT
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'T '
+description_or_color_upper: 'T '
+directory: parts/category_book_chapter_teen_to_sort
+distributors: []
+filter: ''
+from_yaml: false
+id: category_book_chapter_teen_to_sort
+id_no_class: book_chapter_teen_to_sort
+id_no_size: teen_to_sort
+id_no_type: chapter_teen_to_sort
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_book_chapter_teen_to_sort
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_book_chapter_teen_to_sort
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_book_chapter_teen_to_sort
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_book_chapter_teen_to_sort](none)<br>[](none)<br>[Category
+    Book Chapter Teen To Sort](none)<br><br>'
+markdown_short: '[category_book_chapter_teen_to_sort](none)<br><br>'
+md5: efa8987cb772c1d6e2ff0f24b024aab2
+md5_10: efa8987cb7
+md5_10_upper: EFA8987CB7
+md5_5: efa89
+md5_5_upper: EFA89
+md5_6: efa898
+md5_6_alpha: 9cn14
+md5_6_alpha_upper: 9CN14
+md5_6_upper: EFA898
+name: Category Book Chapter Teen To Sort
+name_no_class: Book Chapter Teen To Sort
+name_no_size: Teen To Sort
+name_no_size_short: Teen To Sort
+name_no_type: Chapter Teen To Sort
+oomp_key: oomp_category_book_chapter_teen_to_sort
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorybook
+size: chapter
+size_capital: Chapter
+size_first_letter: c
+size_first_letter_upper: C
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: CHAPTER
+type: book
+type_capital: Book
+type_first_letter: b
+type_first_letter_upper: B
+type_upper: BOOK

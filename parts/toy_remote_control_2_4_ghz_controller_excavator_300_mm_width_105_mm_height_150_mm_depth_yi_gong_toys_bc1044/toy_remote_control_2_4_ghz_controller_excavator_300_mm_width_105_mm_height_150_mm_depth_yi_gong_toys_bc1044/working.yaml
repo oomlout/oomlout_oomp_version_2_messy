@@ -1,0 +1,87 @@
+classification: toy
+classification_capital: Toy
+classification_first_letter: t
+classification_first_letter_upper: T
+classification_upper: TOY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: excavator_300_mm_width_105_mm_height_150_mm_depth
+description_main_capital: Excavator 300 mm Width 105 mm Height 150 mm Depth
+description_main_first_letter: e
+description_main_first_letter_upper: E
+description_main_upper: EXCAVATOR_300_MM_WIDTH_105_MM_HEIGHT_150_MM_DEPTH
+description_only_numbers: '300105150'
+description_only_numbers_short: 3M
+description_or_color: 3M
+description_or_color_upper: 3M
+directory: parts/toy_remote_control_2_4_ghz_controller_excavator_300_mm_width_105_mm_height_150_mm_depth_yi_gong_toys_bc1044
+distributor_aliexpress: '1005007659407993'
+distributor_amazon: B0D3KQQX6G
+distributors: []
+id: toy_remote_control_2_4_ghz_controller_excavator_300_mm_width_105_mm_height_150_mm_depth_yi_gong_toys_bc1044
+id_no_class: remote_control_2_4_ghz_controller_excavator_300_mm_width_105_mm_height_150_mm_depth_yi_gong_toys_bc1044
+id_no_size: excavator_300_mm_width_105_mm_height_150_mm_depth_yi_gong_toys_bc1044
+id_no_type: 2_4_ghz_controller_excavator_300_mm_width_105_mm_height_150_mm_depth_yi_gong_toys_bc1044
+link_distributor_aliexpress: https://www.aliexpress.com/item/1005007659407993.html
+link_distributor_amazon: https://www.amazon.co.uk/dp/B0D3KQQX6G
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_remote_control_2_4_ghz_controller_excavator_300_mm_width_105_mm_height_150_mm_depth_yi_gong_toys_bc1044
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_remote_control_2_4_ghz_controller_excavator_300_mm_width_105_mm_height_150_mm_depth_yi_gong_toys_bc1044
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_remote_control_2_4_ghz_controller_excavator_300_mm_width_105_mm_height_150_mm_depth_yi_gong_toys_bc1044
+manufacturer: yi_gong_toys
+manufacturer_capital: Yi Gong Toys
+manufacturer_first_letter: y
+manufacturer_first_letter_upper: Y
+manufacturer_upper: YI_GONG_TOYS
+manufacturers: []
+markdown_full: '[toy_remote_control_2_4_ghz_controller_excavator_300_mm_width_105_mm_height_150_mm_depth_yi_gong_toys_bc1044](none)<br>[](none)<br>[Toy
+    Remote Control 2 4 Ghz Controller Excavator 300 Mm Width 105 Mm Height 150 Mm
+    Depth Yi Gong Toys Bc1044](none)<br><br>'
+markdown_short: '[toy_remote_control_2_4_ghz_controller_excavator_300_mm_width_105_mm_height_150_mm_depth_yi_gong_toys_bc1044](none)<br><br>'
+md5: 2ee9d6c3205e05b23f7c5dd30a645666
+md5_10: 2ee9d6c320
+md5_10_upper: 2EE9D6C320
+md5_5: 2ee9d
+md5_5_upper: 2EE9D
+md5_6: 2ee9d6
+md5_6_alpha: 1twba
+md5_6_alpha_upper: 1TWBA
+md5_6_upper: 2EE9D6
+name: Toy Remote Control 2 4 Ghz Controller Excavator 300 Mm Width 105 Mm Height 150
+    Mm Depth Yi Gong Toys Bc1044
+name_no_class: Remote Control 2 4 Ghz Controller Excavator 300 Mm Width 105 Mm Height
+    150 Mm Depth Yi Gong Toys Bc1044
+name_no_size: Excavator 300 Mm Width 105 Mm Height 150 Mm Depth Yi Gong Toys Bc1044
+name_no_size_short: Excavator 300 Mm Width 105 Mm Height 150 Mm Depth Yi Gong Toys
+    Bc1044
+name_no_type: 2 4 Ghz Controller Excavator 300 Mm Width 105 Mm Height 150 Mm Depth
+    Yi Gong Toys Bc1044
+oomp_key: oomp_toy_remote_control_2_4_ghz_controller_excavator_300_mm_width_105_mm_height_150_mm_depth_yi_gong_toys_bc1044
+part_number: bc1044
+part_number_capital: Bc1044
+part_number_exact: BC1044
+part_number_first_letter: b
+part_number_first_letter_upper: B
+part_number_upper: BC1044
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: 2_4_ghz_controller
+size_capital: 2.4 Ghz Controller
+size_first_letter: '2'
+size_first_letter_upper: '2'
+size_only_numbers: '24'
+size_only_numbers_no_zeros: '24'
+size_upper: 2_4_GHZ_CONTROLLER
+type: remote_control
+type_capital: Remote Control
+type_first_letter: r
+type_first_letter_upper: R
+type_upper: REMOTE_CONTROL

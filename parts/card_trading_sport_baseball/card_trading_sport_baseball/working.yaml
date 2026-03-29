@@ -1,0 +1,78 @@
+classification: card_trading
+classification_capital: Card Trading
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CARD_TRADING
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/card_trading_sport_baseball
+distributors: []
+filter: ''
+from_yaml: false
+id: card_trading_sport_baseball
+id_no_class: sport_baseball
+id_no_size: sportbaseball
+id_no_type: sport_baseball
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/card_trading_sport_baseball
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/card_trading_sport_baseball
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/card_trading_sport_baseball
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[card_trading_sport_baseball](none)<br>[](none)<br>[Card Trading Sport
+    Baseball](none)<br><br>'
+markdown_short: '[card_trading_sport_baseball](none)<br><br>'
+md5: 54e70bbbbc42d9d448f16ec14691c3aa
+md5_10: 54e70bbbbc
+md5_10_upper: 54E70BBBBC
+md5_5: 54e70
+md5_5_upper: 54E70
+md5_6: 54e70b
+md5_6_alpha: 3b9cb
+md5_6_alpha_upper: 3B9CB
+md5_6_upper: 54E70B
+name: Card Trading Sport Baseball
+name_no_class: Sport Baseball
+name_no_size: Sportbaseball
+name_no_size_short: Sportbaseball
+name_no_type: Sport Baseball
+oomp_key: oomp_card_trading_sport_baseball
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: sport_baseball
+type_capital: Sport Baseball
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: SPORT_BASEBALL

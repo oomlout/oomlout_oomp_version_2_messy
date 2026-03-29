@@ -1,0 +1,77 @@
+classification: robot_vacuum
+classification_capital: Robot Vacuum
+classification_first_letter: r
+classification_first_letter_upper: R
+classification_upper: ROBOT_VACUUM
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/robot_vacuum_roomba_530
+distributors: []
+id: robot_vacuum_roomba_530
+id_no_class: roomba_530
+id_no_size: roomba530
+id_no_type: roomba530
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/robot_vacuum_roomba_530
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/robot_vacuum_roomba_530
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/robot_vacuum_roomba_530
+manufacturer: roomba
+manufacturer_capital: Roomba
+manufacturer_first_letter: r
+manufacturer_first_letter_upper: R
+manufacturer_upper: ROOMBA
+manufacturers: []
+markdown_full: '[robot_vacuum_roomba_530](none)<br>[](none)<br>[Robot Vacuum Roomba
+    530](none)<br><br>'
+markdown_short: '[robot_vacuum_roomba_530](none)<br><br>'
+md5: 40b2be7851feb72d2c4d370b71f98443
+md5_10: 40b2be7851
+md5_10_upper: 40B2BE7851
+md5_5: 40b2b
+md5_5_upper: 40B2B
+md5_6: 40b2be
+md5_6_alpha: 2ivni
+md5_6_alpha_upper: 2IVNI
+md5_6_upper: 40B2BE
+name: Robot Vacuum Roomba 530
+name_no_class: Roomba 530
+name_no_size: Roomba530
+name_no_size_short: Roomba530
+name_no_type: Roomba530
+oomp_key: oomp_robot_vacuum_roomba_530
+part_number: '530'
+part_number_capital: '530'
+part_number_first_letter: '5'
+part_number_first_letter_upper: '5'
+part_number_upper: '530'
+short_code: ''
+short_code_upper: ''
+short_name: Roomba 530
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: ''
+type_capital: ''
+type_first_letter: ''
+type_first_letter_upper: ''
+type_upper: ''

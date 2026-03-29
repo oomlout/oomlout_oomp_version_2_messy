@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: letter_216_mm_width_279_mm_height
+color_capital: Letter 216 mm Width 279 mm Height
+color_first_letter: l
+color_first_letter_upper: L
+color_upper: LETTER_216_MM_WIDTH_279_MM_HEIGHT
+description: category_paper
+description_extra: tote
+description_extra_capital: Tote
+description_extra_first_letter: t
+description_extra_first_letter_upper: T
+description_extra_upper: TOTE
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'L '
+description_or_color_upper: 'L '
+directory: parts/category_paper_sheet_letter_216_mm_width_279_mm_height_tote
+distributors: []
+filter: ''
+from_yaml: false
+id: category_paper_sheet_letter_216_mm_width_279_mm_height_tote
+id_no_class: paper_sheet_letter_216_mm_width_279_mm_height_tote
+id_no_size: letter_216_mm_width_279_mm_height_tote
+id_no_type: sheet_letter_216_mm_width_279_mm_height_tote
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_paper_sheet_letter_216_mm_width_279_mm_height_tote
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_paper_sheet_letter_216_mm_width_279_mm_height_tote
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_paper_sheet_letter_216_mm_width_279_mm_height_tote
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_paper_sheet_letter_216_mm_width_279_mm_height_tote](none)<br>[](none)<br>[Category
+    Paper Sheet Letter 216 Mm Width 279 Mm Height Tote](none)<br><br>'
+markdown_short: '[category_paper_sheet_letter_216_mm_width_279_mm_height_tote](none)<br><br>'
+md5: 1f0487d2abfa3a931b3cb4f1cc30133d
+md5_10: 1f0487d2ab
+md5_10_upper: 1F0487D2AB
+md5_5: 1f048
+md5_5_upper: 1F048
+md5_6: 1f0487
+md5_6_alpha: 17khz
+md5_6_alpha_upper: 17KHZ
+md5_6_upper: 1F0487
+name: Category Paper Sheet Letter 216 Mm Width 279 Mm Height Tote
+name_no_class: Paper Sheet Letter 216 Mm Width 279 Mm Height Tote
+name_no_size: Letter 216 Mm Width 279 Mm Height Tote
+name_no_size_short: Letter 216 Mm Width 279 Mm Height Tote
+name_no_type: Sheet Letter 216 Mm Width 279 Mm Height Tote
+oomp_key: oomp_category_paper_sheet_letter_216_mm_width_279_mm_height_tote
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorypaper
+size: sheet
+size_capital: Sheet
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SHEET
+type: paper
+type_capital: Paper
+type_first_letter: p
+type_first_letter_upper: P
+type_upper: PAPER

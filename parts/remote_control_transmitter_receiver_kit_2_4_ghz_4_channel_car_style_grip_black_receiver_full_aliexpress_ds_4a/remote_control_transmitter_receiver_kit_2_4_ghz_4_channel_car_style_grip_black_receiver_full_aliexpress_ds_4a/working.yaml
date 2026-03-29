@@ -1,0 +1,85 @@
+classification: remote_control
+classification_capital: Remote Control
+classification_first_letter: r
+classification_first_letter_upper: R
+classification_upper: REMOTE_CONTROL
+color: car_style_grip_black
+color_capital: Car Style Grip Black
+color_first_letter: c
+color_first_letter_upper: C
+color_upper: CAR_STYLE_GRIP_BLACK
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: receiver_full
+description_main_capital: Receiver Full
+description_main_first_letter: r
+description_main_first_letter_upper: R
+description_main_upper: RECEIVER_FULL
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'C '
+description_or_color_upper: 'C '
+directory: parts/remote_control_transmitter_receiver_kit_2_4_ghz_4_channel_car_style_grip_black_receiver_full_aliexpress_ds_4a
+distributors: []
+id: remote_control_transmitter_receiver_kit_2_4_ghz_4_channel_car_style_grip_black_receiver_full_aliexpress_ds_4a
+id_no_class: transmitter_receiver_kit_2_4_ghz_4_channel_car_style_grip_black_receiver_full_aliexpress_ds_4a
+id_no_size: car_style_grip_black_receiver_full_aliexpress_ds_4a
+id_no_type: 2_4_ghz_4_channel_car_style_grip_black_receiver_full_aliexpress_ds_4a
+link_distributor_aliexpress: https://www.aliexpress.com/item/1005006041694540.html
+link_distributor_amazon: https://www.amazon.co.uk/dp/B0CH8G9NJ5
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/remote_control_transmitter_receiver_kit_2_4_ghz_4_channel_car_style_grip_black_receiver_full_aliexpress_ds_4a
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/remote_control_transmitter_receiver_kit_2_4_ghz_4_channel_car_style_grip_black_receiver_full_aliexpress_ds_4a
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/remote_control_transmitter_receiver_kit_2_4_ghz_4_channel_car_style_grip_black_receiver_full_aliexpress_ds_4a
+manufacturer: aliexpress
+manufacturer_capital: Aliexpress
+manufacturer_first_letter: a
+manufacturer_first_letter_upper: A
+manufacturer_upper: ALIEXPRESS
+manufacturers: []
+markdown_full: '[remote_control_transmitter_receiver_kit_2_4_ghz_4_channel_car_style_grip_black_receiver_full_aliexpress_ds_4a](none)<br>[](none)<br>[Remote
+    Control Transmitter Receiver Kit 2 4 Ghz 4 Channel Car Style Grip Black Receiver
+    Full Aliexpress Ds 4A](none)<br><br>'
+markdown_short: '[remote_control_transmitter_receiver_kit_2_4_ghz_4_channel_car_style_grip_black_receiver_full_aliexpress_ds_4a](none)<br><br>'
+md5: 17b8cf677ae364e5411c939a6c8e39e3
+md5_10: 17b8cf677a
+md5_10_upper: 17B8CF677A
+md5_5: 17b8c
+md5_5_upper: 17B8C
+md5_6: 17b8cf
+md5_6_alpha: xbkf
+md5_6_alpha_upper: XBKF
+md5_6_upper: 17B8CF
+name: Remote Control Transmitter Receiver Kit 2 4 Ghz 4 Channel Car Style Grip Black
+    Receiver Full Aliexpress Ds 4A
+name_no_class: Transmitter Receiver Kit 2 4 Ghz 4 Channel Car Style Grip Black Receiver
+    Full Aliexpress Ds 4A
+name_no_size: Car Style Grip Black Receiver Full Aliexpress Ds 4A
+name_no_size_short: Car Style Grip Black Receiver Full Aliexpress Ds 4A
+name_no_type: 2 4 Ghz 4 Channel Car Style Grip Black Receiver Full Aliexpress Ds 4A
+oomp_key: oomp_remote_control_transmitter_receiver_kit_2_4_ghz_4_channel_car_style_grip_black_receiver_full_aliexpress_ds_4a
+part_number: ds_4a
+part_number_capital: Ds 4A
+part_number_distributor_aliexpress: '1005006041694540'
+part_number_distributor_amazon: B0CH8G9NJ5
+part_number_exact: DS-4A
+part_number_first_letter: d
+part_number_first_letter_upper: D
+part_number_upper: DS_4A
+short_code: ''
+short_code_upper: ''
+short_name: Transmitter Kit 4 Channel
+size: 2_4_ghz_4_channel
+size_capital: 2.4 Ghz 4 Channel
+size_first_letter: '2'
+size_first_letter_upper: '2'
+size_only_numbers: '244'
+size_only_numbers_no_zeros: '244'
+size_upper: 2_4_GHZ_4_CHANNEL
+type: transmitter_receiver_kit
+type_capital: Transmitter Receiver Kit
+type_first_letter: t
+type_first_letter_upper: T
+type_upper: TRANSMITTER_RECEIVER_KIT

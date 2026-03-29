@@ -1,0 +1,78 @@
+classification: sheet_stock
+classification_capital: Sheet Stock
+classification_first_letter: s
+classification_first_letter_upper: S
+classification_upper: SHEET_STOCK
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/sheet_stock_acrylic_6mm_depth
+distributors: []
+filter: ''
+from_yaml: false
+id: sheet_stock_acrylic_6mm_depth
+id_no_class: acrylic_6mm_depth
+id_no_size: 6mm_depth
+id_no_type: 6mm_depth
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/sheet_stock_acrylic_6mm_depth
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/sheet_stock_acrylic_6mm_depth
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/sheet_stock_acrylic_6mm_depth
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[sheet_stock_acrylic_6mm_depth](none)<br>[](none)<br>[Sheet Stock
+    Acrylic 6Mm Depth](none)<br><br>'
+markdown_short: '[sheet_stock_acrylic_6mm_depth](none)<br><br>'
+md5: 6be773acb4ed050fdf2be8372fe96814
+md5_10: 6be773acb4
+md5_10_upper: 6BE773ACB4
+md5_5: 6be77
+md5_5_upper: 6BE77
+md5_6: 6be773
+md5_6_alpha: 47khf
+md5_6_alpha_upper: 47KHF
+md5_6_upper: 6BE773
+name: Sheet Stock Acrylic 6Mm Depth
+name_no_class: Acrylic 6Mm Depth
+name_no_size: 6Mm Depth
+name_no_size_short: 6Mm Depth
+name_no_type: 6Mm Depth
+oomp_key: oomp_sheet_stock_acrylic_6mm_depth
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: 6mm_depth
+size_capital: 6mm Depth
+size_first_letter: '6'
+size_first_letter_upper: '6'
+size_only_numbers: '6'
+size_only_numbers_no_zeros: '6'
+size_upper: 6MM_DEPTH
+type: acrylic
+type_capital: Acrylic
+type_first_letter: a
+type_first_letter_upper: A
+type_upper: ACRYLIC

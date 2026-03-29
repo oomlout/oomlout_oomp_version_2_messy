@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: 7_mm
+color_capital: 7 mm
+color_first_letter: '7'
+color_first_letter_upper: '7'
+color_upper: 7_MM
+description: category_hardware
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: '7 '
+description_or_color_upper: '7 '
+directory: parts/category_hardware_ball_bearing_7_mm
+distributors: []
+filter: ''
+from_yaml: false
+id: category_hardware_ball_bearing_7_mm
+id_no_class: hardware_ball_bearing_7_mm
+id_no_size: 7_mm
+id_no_type: ball_bearing_7_mm
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_ball_bearing_7_mm
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_ball_bearing_7_mm
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_hardware_ball_bearing_7_mm
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_hardware_ball_bearing_7_mm](none)<br>[](none)<br>[Category
+    Hardware Ball Bearing 7 Mm](none)<br><br>'
+markdown_short: '[category_hardware_ball_bearing_7_mm](none)<br><br>'
+md5: 18dbd7a6ca6b58c6e7cf1d953be84023
+md5_10: 18dbd7a6ca
+md5_10_upper: 18DBD7A6CA
+md5_5: 18dbd
+md5_5_upper: 18DBD
+md5_6: 18dbd7
+md5_6_alpha: yx1z
+md5_6_alpha_upper: YX1Z
+md5_6_upper: 18DBD7
+name: Category Hardware Ball Bearing 7 Mm
+name_no_class: Hardware Ball Bearing 7 Mm
+name_no_size: 7 Mm
+name_no_size_short: 7 Mm
+name_no_type: Ball Bearing 7 Mm
+oomp_key: oomp_category_hardware_ball_bearing_7_mm
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categoryhardware
+size: ball_bearing
+size_capital: Ball Bearing
+size_first_letter: b
+size_first_letter_upper: B
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: BALL_BEARING
+type: hardware
+type_capital: Hardware
+type_first_letter: h
+type_first_letter_upper: H
+type_upper: HARDWARE

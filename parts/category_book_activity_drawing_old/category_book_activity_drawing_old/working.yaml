@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: drawing
+color_capital: Drawing
+color_first_letter: d
+color_first_letter_upper: D
+color_upper: DRAWING
+description: category_book
+description_extra: old
+description_extra_capital: Old
+description_extra_first_letter: o
+description_extra_first_letter_upper: O
+description_extra_upper: OLD
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'D '
+description_or_color_upper: 'D '
+directory: parts/category_book_activity_drawing_old
+distributors: []
+filter: ''
+from_yaml: false
+id: category_book_activity_drawing_old
+id_no_class: book_activity_drawing_old
+id_no_size: drawing_old
+id_no_type: activity_drawing_old
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_book_activity_drawing_old
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_book_activity_drawing_old
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_book_activity_drawing_old
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_book_activity_drawing_old](none)<br>[](none)<br>[Category
+    Book Activity Drawing Old](none)<br><br>'
+markdown_short: '[category_book_activity_drawing_old](none)<br><br>'
+md5: 01fe3e5700b6fc6cb7e077e247156e19
+md5_10: 01fe3e5700
+md5_10_upper: 01FE3E5700
+md5_5: 01fe3
+md5_5_upper: 01FE3
+md5_6: 01fe3e
+md5_6_alpha: 2sse
+md5_6_alpha_upper: 2SSE
+md5_6_upper: 01FE3E
+name: Category Book Activity Drawing Old
+name_no_class: Book Activity Drawing Old
+name_no_size: Drawing Old
+name_no_size_short: Drawing Old
+name_no_type: Activity Drawing Old
+oomp_key: oomp_category_book_activity_drawing_old
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorybook
+size: activity
+size_capital: Activity
+size_first_letter: a
+size_first_letter_upper: A
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ACTIVITY
+type: book
+type_capital: Book
+type_first_letter: b
+type_first_letter_upper: B
+type_upper: BOOK

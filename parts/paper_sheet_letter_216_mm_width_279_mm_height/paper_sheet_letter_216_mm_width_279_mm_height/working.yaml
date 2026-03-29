@@ -1,0 +1,80 @@
+classification: paper
+classification_capital: Paper
+classification_first_letter: p
+classification_first_letter_upper: P
+classification_upper: PAPER
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/paper_sheet_letter_216_mm_width_279_mm_height
+distributors: []
+filter: ''
+from_yaml: false
+height: 279 mm
+id: paper_sheet_letter_216_mm_width_279_mm_height
+id_no_class: sheet_letter_216_mm_width_279_mm_height
+id_no_size: letter_216_mm_width_279_mm_height
+id_no_type: letter_216_mm_width_279_mm_height
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_letter_216_mm_width_279_mm_height
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_letter_216_mm_width_279_mm_height
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/paper_sheet_letter_216_mm_width_279_mm_height
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[paper_sheet_letter_216_mm_width_279_mm_height](none)<br>[](none)<br>[Paper
+    Sheet Letter 216 Mm Width 279 Mm Height](none)<br><br>'
+markdown_short: '[paper_sheet_letter_216_mm_width_279_mm_height](none)<br><br>'
+md5: 37009d87eee85d53abbe7964e8cc2945
+md5_10: 37009d87ee
+md5_10_upper: 37009D87EE
+md5_5: '37009'
+md5_5_upper: '37009'
+md5_6: 37009d
+md5_6_alpha: 259ct
+md5_6_alpha_upper: 259CT
+md5_6_upper: 37009D
+name: Paper Sheet Letter 216 Mm Width 279 Mm Height
+name_no_class: Sheet Letter 216 Mm Width 279 Mm Height
+name_no_size: Letter 216 Mm Width 279 Mm Height
+name_no_size_short: Letter 216 Mm Width 279 Mm Height
+name_no_type: Letter 216 Mm Width 279 Mm Height
+oomp_key: oomp_paper_sheet_letter_216_mm_width_279_mm_height
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: letter_216_mm_width_279_mm_height
+size_capital: Letter 216 mm Width 279 mm Height
+size_first_letter: l
+size_first_letter_upper: L
+size_only_numbers: '216279'
+size_only_numbers_no_zeros: '216279'
+size_upper: LETTER_216_MM_WIDTH_279_MM_HEIGHT
+type: sheet
+type_capital: Sheet
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: SHEET
+width: 216 mm

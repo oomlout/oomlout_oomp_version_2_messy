@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ukulele
+color_capital: Ukulele
+color_first_letter: u
+color_first_letter_upper: U
+color_upper: UKULELE
+description: category_toy
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'U '
+description_or_color_upper: 'U '
+directory: parts/category_toy_musical_instrument_ukulele
+distributors: []
+filter: ''
+from_yaml: false
+id: category_toy_musical_instrument_ukulele
+id_no_class: toy_musical_instrument_ukulele
+id_no_size: ukulele
+id_no_type: musical_instrument_ukulele
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_toy_musical_instrument_ukulele
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_toy_musical_instrument_ukulele
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_toy_musical_instrument_ukulele
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_toy_musical_instrument_ukulele](none)<br>[](none)<br>[Category
+    Toy Musical Instrument Ukulele](none)<br><br>'
+markdown_short: '[category_toy_musical_instrument_ukulele](none)<br><br>'
+md5: 08d07725300a4af67de4cb2264fe8bc9
+md5_10: 08d0772530
+md5_10_upper: 08D0772530
+md5_5: 08d07
+md5_5_upper: 08D07
+md5_6: 08d077
+md5_6_alpha: cdpz
+md5_6_alpha_upper: CDPZ
+md5_6_upper: 08D077
+name: Category Toy Musical Instrument Ukulele
+name_no_class: Toy Musical Instrument Ukulele
+name_no_size: Ukulele
+name_no_size_short: Ukulele
+name_no_type: Musical Instrument Ukulele
+oomp_key: oomp_category_toy_musical_instrument_ukulele
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorytoy
+size: musical_instrument
+size_capital: Musical Instrument
+size_first_letter: m
+size_first_letter_upper: M
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: MUSICAL_INSTRUMENT
+type: toy
+type_capital: Toy
+type_first_letter: t
+type_first_letter_upper: T
+type_upper: TOY

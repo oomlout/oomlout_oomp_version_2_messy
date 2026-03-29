@@ -1,0 +1,76 @@
+classification: hardware
+classification_capital: Hardware
+classification_first_letter: h
+classification_first_letter_upper: H
+classification_upper: HARDWARE
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/hardware_ball_bearing_20_mm
+distributors: []
+id: hardware_ball_bearing_20_mm
+id_no_class: ball_bearing_20_mm
+id_no_size: 20_mm
+id_no_type: 20_mm
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_ball_bearing_20_mm
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_ball_bearing_20_mm
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/hardware_ball_bearing_20_mm
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[hardware_ball_bearing_20_mm](none)<br>[20](none)<br>[Hardware Ball
+    Bearing 20 Mm](none)<br><br>'
+markdown_short: '[hardware_ball_bearing_20_mm](none)<br><br>'
+md5: 5caedfb0984c6613ae4b85719c003dc6
+md5_10: 5caedfb098
+md5_10_upper: 5CAEDFB098
+md5_5: 5caed
+md5_5_upper: 5CAED
+md5_6: 5caedf
+md5_6_alpha: 3m6sf
+md5_6_alpha_upper: 3M6SF
+md5_6_upper: 5CAEDF
+name: Hardware Ball Bearing 20 Mm
+name_no_class: Ball Bearing 20 Mm
+name_no_size: 20 Mm
+name_no_size_short: 20 Mm
+name_no_type: 20 Mm
+oomp_key: oomp_hardware_ball_bearing_20_mm
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: '20'
+short_code_upper: '20'
+size: 20_mm
+size_capital: 20 mm
+size_first_letter: '2'
+size_first_letter_upper: '2'
+size_only_numbers: '20'
+size_only_numbers_no_zeros: '2'
+size_upper: 20_MM
+type: ball_bearing
+type_capital: Ball Bearing
+type_first_letter: b
+type_first_letter_upper: B
+type_upper: BALL_BEARING

@@ -1,0 +1,86 @@
+classification: computer
+classification_capital: Computer
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: COMPUTER
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: 1240_mm_width_830_mm_height_105_mm_depth
+description_extra_capital: 1240 mm Width 830 mm Height 105 mm Depth
+description_extra_first_letter: '1'
+description_extra_first_letter_upper: '1'
+description_extra_upper: 1240_MM_WIDTH_830_MM_HEIGHT_105_MM_DEPTH
+description_main: spark_board_55
+description_main_capital: Spark Board 55
+description_main_first_letter: s
+description_main_first_letter_upper: S
+description_main_upper: SPARK_BOARD_55
+description_only_numbers: '55'
+description_only_numbers_short: '55'
+description_or_color: '55'
+description_or_color_upper: '55'
+directory: parts/computer_video_conferencing_screen_spark_board_55_1240_mm_width_830_mm_height_105_mm_depth_cisco_spark_board55_k9
+distributors: []
+filter: ''
+from_yaml: false
+id: computer_video_conferencing_screen_spark_board_55_1240_mm_width_830_mm_height_105_mm_depth_cisco_spark_board55_k9
+id_no_class: video_conferencing_screen_spark_board_55_1240_mm_width_830_mm_height_105_mm_depth_cisco_spark_board55_k9
+id_no_size: spark_board_55_1240_mm_width_830_mm_height_105_mm_depth_cisco_spark_board55_k9
+id_no_type: screen_spark_board_55_1240_mm_width_830_mm_height_105_mm_depth_cisco_spark_board55_k9
+link_distributor_cisco: https://www.cisco.com/c/en/us/support/collaboration-endpoints/spark-board/series.html
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_video_conferencing_screen_spark_board_55_1240_mm_width_830_mm_height_105_mm_depth_cisco_spark_board55_k9
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_video_conferencing_screen_spark_board_55_1240_mm_width_830_mm_height_105_mm_depth_cisco_spark_board55_k9
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/computer_video_conferencing_screen_spark_board_55_1240_mm_width_830_mm_height_105_mm_depth_cisco_spark_board55_k9
+manufacturer: cisco
+manufacturer_capital: Cisco
+manufacturer_first_letter: c
+manufacturer_first_letter_upper: C
+manufacturer_upper: CISCO
+manufacturers: []
+markdown_full: '[computer_video_conferencing_screen_spark_board_55_1240_mm_width_830_mm_height_105_mm_depth_cisco_spark_board55_k9](none)<br>[](none)<br>[Computer
+    Video Conferencing Screen Spark Board 55 1240 Mm Width 830 Mm Height 105 Mm Depth
+    Cisco Spark Board55 K9](none)<br><br>'
+markdown_short: '[computer_video_conferencing_screen_spark_board_55_1240_mm_width_830_mm_height_105_mm_depth_cisco_spark_board55_k9](none)<br><br>'
+md5: 7be3f012560d8cad603a4762d97c46df
+md5_10: 7be3f01256
+md5_10_upper: 7BE3F01256
+md5_5: 7be3f
+md5_5_upper: 7BE3F
+md5_6: 7be3f0
+md5_6_alpha: 4u0vk
+md5_6_alpha_upper: 4U0VK
+md5_6_upper: 7BE3F0
+name: Computer Video Conferencing Screen Spark Board 55 1240 Mm Width 830 Mm Height
+    105 Mm Depth Cisco Spark Board55 K9
+name_no_class: Video Conferencing Screen Spark Board 55 1240 Mm Width 830 Mm Height
+    105 Mm Depth Cisco Spark Board55 K9
+name_no_size: Spark Board 55 1240 Mm Width 830 Mm Height 105 Mm Depth Cisco Spark
+    Board55 K9
+name_no_size_short: Spark Board 55 1240 Mm Width 830 Mm Height 105 Mm Depth Cisco
+    Spark Board55 K9
+name_no_type: Screen Spark Board 55 1240 Mm Width 830 Mm Height 105 Mm Depth Cisco
+    Spark Board55 K9
+oomp_key: oomp_computer_video_conferencing_screen_spark_board_55_1240_mm_width_830_mm_height_105_mm_depth_cisco_spark_board55_k9
+part_number: spark_board55_k9
+part_number_capital: Spark Board55 K9
+part_number_exact: SPARK-BOARD55-K9
+part_number_first_letter: s
+part_number_first_letter_upper: S
+part_number_upper: SPARK_BOARD55_K9
+short_code: ''
+short_code_upper: ''
+size: screen
+size_capital: Screen
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SCREEN
+type: video_conferencing
+type_capital: Video Conferencing
+type_first_letter: v
+type_first_letter_upper: V
+type_upper: VIDEO_CONFERENCING

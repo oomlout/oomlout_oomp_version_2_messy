@@ -1,0 +1,94 @@
+classification: electronic
+classification_capital: Electronic
+classification_first_letter: e
+classification_first_letter_upper: E
+classification_upper: ELECTRONIC
+color: white
+color_capital: White
+color_first_letter: w
+color_first_letter_upper: W
+color_upper: WHITE
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: tint
+description_main_capital: Tint
+description_main_first_letter: t
+description_main_first_letter_upper: T
+description_main_upper: TINT
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'W '
+description_or_color_upper: 'W '
+directory: parts/electronic_led_0603_white_tint
+distributors:
+-   id: distributor_lcsc
+    link: https://lcsc.com/product-detail/C965808.html
+    name: LCSC
+    part_number: C965808
+filter: ''
+from_yaml: false
+id: electronic_led_0603_white_tint
+id_no_class: led_0603_white_tint
+id_no_size: white_tint
+id_no_type: 0603_white_tint
+kicad_reference: L
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_0603_white_tint
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_0603_white_tint
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/electronic_led_0603_white_tint
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers:
+-   id: manufacturer_xinglight
+    link: ''
+    name: XINGLIGHT
+    part_number: XL-1608UWC-04
+markdown_full: '[electronic_led_0603_white_tint](none)<br>[l6w](none)<br>[Electronic
+    Led 0603 White Tint](none)<br>[LCSC - C965808<br>](https://lcsc.com/product-detail/C965808.html)<br>[XINGLIGHT
+    - XL-1608UWC-04]() [(L)  ](https://www.lcsc.com/search?q=XL-1608UWC-04)[(D)  ](https://www.digikey.com/en/products?keywords=XL-1608UWC-04)[(M)  ](https://www.mouser.com/Search/Refine?Keyword=XL-1608UWC-04)[(N)  ](https://www.newark.com/search?st=XL-1608UWC-04)[(SZ)  ](https://so.szlcsc.com/global.html?k=XL-1608UWC-04)<br>'
+markdown_short: '[electronic_led_0603_white_tint](none)<br>[LCSC - C965808<br>](https://lcsc.com/product-detail/C965808.html)<br>[XINGLIGHT
+    - XL-1608UWC-04]()'
+md5: 524b29eed927ff6eb22b345da0f93803
+md5_10: 524b29eed9
+md5_10_upper: 524B29EED9
+md5_5: 524b2
+md5_5_upper: 524B2
+md5_6: 524b29
+md5_6_alpha: 37lex
+md5_6_alpha_upper: 37LEX
+md5_6_upper: 524B29
+name: Electronic Led 0603 White Tint
+name_no_class: Led 0603 White Tint
+name_no_size: White Tint
+name_no_size_short: White Tint
+name_no_type: 0603 White Tint
+oomp_key: oomp_electronic_led_0603_white_tint
+package_style: smd_tape
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: l6w
+short_code_upper: L6W
+short_name: 0603 Whitetint Led
+size: '0603'
+size_capital: '0603'
+size_first_letter: '0'
+size_first_letter_upper: '0'
+size_only_numbers: '0603'
+size_only_numbers_no_zeros: '63'
+size_upper: '0603'
+smd_tape_depth: 1_5_mm
+smd_tape_pitch: 4_mm
+smd_tape_width: 8_mm
+type: led
+type_capital: Led
+type_first_letter: l
+type_first_letter_upper: L
+type_upper: LED

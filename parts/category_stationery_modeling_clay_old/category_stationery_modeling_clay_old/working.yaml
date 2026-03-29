@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_stationery
+description_extra: old
+description_extra_capital: Old
+description_extra_first_letter: o
+description_extra_first_letter_upper: O
+description_extra_upper: OLD
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_stationery_modeling_clay_old
+distributors: []
+filter: ''
+from_yaml: false
+id: category_stationery_modeling_clay_old
+id_no_class: stationery_modeling_clay_old
+id_no_size: old
+id_no_type: modeling_clay_old
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_stationery_modeling_clay_old
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_stationery_modeling_clay_old
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_stationery_modeling_clay_old
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_stationery_modeling_clay_old](none)<br>[](none)<br>[Category
+    Stationery Modeling Clay Old](none)<br><br>'
+markdown_short: '[category_stationery_modeling_clay_old](none)<br><br>'
+md5: c6b6d6c85a2df2f04574d698ce9f6dc5
+md5_10: c6b6d6c85a
+md5_10_upper: C6B6D6C85A
+md5_5: c6b6d
+md5_5_upper: C6B6D
+md5_6: c6b6d6
+md5_6_alpha: 7r4k6
+md5_6_alpha_upper: 7R4K6
+md5_6_upper: C6B6D6
+name: Category Stationery Modeling Clay Old
+name_no_class: Stationery Modeling Clay Old
+name_no_size: Old
+name_no_size_short: Old
+name_no_type: Modeling Clay Old
+oomp_key: oomp_category_stationery_modeling_clay_old
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorystationery
+size: modeling_clay
+size_capital: Modeling Clay
+size_first_letter: m
+size_first_letter_upper: M
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: MODELING_CLAY
+type: stationery
+type_capital: Stationery
+type_first_letter: s
+type_first_letter_upper: S
+type_upper: STATIONERY

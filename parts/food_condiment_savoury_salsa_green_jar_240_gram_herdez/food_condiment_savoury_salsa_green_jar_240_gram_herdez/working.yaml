@@ -1,0 +1,79 @@
+classification: food
+classification_capital: Food
+classification_first_letter: f
+classification_first_letter_upper: F
+classification_upper: FOOD
+color: savoury
+color_capital: Savoury
+color_first_letter: s
+color_first_letter_upper: S
+color_upper: SAVOURY
+description_extra: jar_240_gram
+description_extra_capital: Jar 240 Gram
+description_extra_first_letter: j
+description_extra_first_letter_upper: J
+description_extra_upper: JAR_240_GRAM
+description_main: salsa_green
+description_main_capital: Salsa Green
+description_main_first_letter: s
+description_main_first_letter_upper: S
+description_main_upper: SALSA_GREEN
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'S '
+description_or_color_upper: 'S '
+directory: parts/food_condiment_savoury_salsa_green_jar_240_gram_herdez
+distributors: []
+filter: ''
+from_yaml: false
+id: food_condiment_savoury_salsa_green_jar_240_gram_herdez
+id_no_class: condiment_savoury_salsa_green_jar_240_gram_herdez
+id_no_size: savourysalsagreenjar240gramherdez
+id_no_type: savoury_salsa_green_jar_240_gram_herdez
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_condiment_savoury_salsa_green_jar_240_gram_herdez
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_condiment_savoury_salsa_green_jar_240_gram_herdez
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/food_condiment_savoury_salsa_green_jar_240_gram_herdez
+manufacturer: herdez
+manufacturer_capital: Herdez
+manufacturer_first_letter: h
+manufacturer_first_letter_upper: H
+manufacturer_upper: HERDEZ
+manufacturers: []
+markdown_full: '[food_condiment_savoury_salsa_green_jar_240_gram_herdez](none)<br>[](none)<br>[Food
+    Condiment Savoury Salsa Green Jar 240 Gram Herdez](none)<br><br>'
+markdown_short: '[food_condiment_savoury_salsa_green_jar_240_gram_herdez](none)<br><br>'
+md5: a3aa1f341b94a7bca6c6855d9f01aaae
+md5_10: a3aa1f341b
+md5_10_upper: A3AA1F341B
+md5_5: a3aa1
+md5_5_upper: A3AA1
+md5_6: a3aa1f
+md5_6_alpha: 6dw67
+md5_6_alpha_upper: 6DW67
+md5_6_upper: A3AA1F
+name: Food Condiment Savoury Salsa Green Jar 240 Gram Herdez
+name_no_class: Condiment Savoury Salsa Green Jar 240 Gram Herdez
+name_no_size: Savourysalsagreenjar240Gramherdez
+name_no_size_short: Savourysalsagreenjar240Gramherdez
+name_no_type: Savoury Salsa Green Jar 240 Gram Herdez
+name_short: Salsa Green
+oomp_key: oomp_food_condiment_savoury_salsa_green_jar_240_gram_herdez
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: condiment
+type_capital: Condiment
+type_first_letter: c
+type_first_letter_upper: C
+type_upper: CONDIMENT

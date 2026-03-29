@@ -1,0 +1,77 @@
+classification: toy
+classification_capital: Toy
+classification_first_letter: t
+classification_first_letter_upper: T
+classification_upper: TOY
+color: track
+color_capital: Track
+color_first_letter: t
+color_first_letter_upper: T
+color_upper: TRACK
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'T '
+description_or_color_upper: 'T '
+directory: parts/toy_building_brio_track_brio
+distributors: []
+id: toy_building_brio_track_brio
+id_no_class: building_brio_track_brio
+id_no_size: track_brio
+id_no_type: brio_track_brio
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_building_brio_track_brio
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_building_brio_track_brio
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/toy_building_brio_track_brio
+manufacturer: brio
+manufacturer_capital: Brio
+manufacturer_first_letter: b
+manufacturer_first_letter_upper: B
+manufacturer_upper: BRIO
+manufacturers: []
+markdown_full: '[toy_building_brio_track_brio](none)<br>[](none)<br>[Toy Building
+    Brio Track Brio](none)<br><br>'
+markdown_short: '[toy_building_brio_track_brio](none)<br><br>'
+md5: 9b743f0689c157fbb6ca0b178bbec539
+md5_10: 9b743f0689
+md5_10_upper: 9B743F0689
+md5_5: 9b743
+md5_5_upper: 9B743
+md5_6: 9b743f
+md5_6_alpha: 62czj
+md5_6_alpha_upper: 62CZJ
+md5_6_upper: 9B743F
+name: Toy Building Brio Track Brio
+name_no_class: Building Brio Track Brio
+name_no_size: Track Brio
+name_no_size_short: Track Brio
+name_no_type: Brio Track Brio
+oomp_key: oomp_toy_building_brio_track_brio
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: ''
+size: brio
+size_capital: Brio
+size_first_letter: b
+size_first_letter_upper: B
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: BRIO
+type: building
+type_capital: Building
+type_first_letter: b
+type_first_letter_upper: B
+type_upper: BUILDING

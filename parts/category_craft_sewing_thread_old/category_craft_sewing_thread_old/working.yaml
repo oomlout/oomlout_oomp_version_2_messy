@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: thread
+color_capital: Thread
+color_first_letter: t
+color_first_letter_upper: T
+color_upper: THREAD
+description: category_craft
+description_extra: old
+description_extra_capital: Old
+description_extra_first_letter: o
+description_extra_first_letter_upper: O
+description_extra_upper: OLD
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: 'T '
+description_or_color_upper: 'T '
+directory: parts/category_craft_sewing_thread_old
+distributors: []
+filter: ''
+from_yaml: false
+id: category_craft_sewing_thread_old
+id_no_class: craft_sewing_thread_old
+id_no_size: thread_old
+id_no_type: sewing_thread_old
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_craft_sewing_thread_old
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_craft_sewing_thread_old
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_craft_sewing_thread_old
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_craft_sewing_thread_old](none)<br>[](none)<br>[Category
+    Craft Sewing Thread Old](none)<br><br>'
+markdown_short: '[category_craft_sewing_thread_old](none)<br><br>'
+md5: 8224825841aa81fc11804f24348ae2ca
+md5_10: '8224825841'
+md5_10_upper: '8224825841'
+md5_5: '82248'
+md5_5_upper: '82248'
+md5_6: '822482'
+md5_6_alpha: 52t1e
+md5_6_alpha_upper: 52T1E
+md5_6_upper: '822482'
+name: Category Craft Sewing Thread Old
+name_no_class: Craft Sewing Thread Old
+name_no_size: Thread Old
+name_no_size_short: Thread Old
+name_no_type: Sewing Thread Old
+oomp_key: oomp_category_craft_sewing_thread_old
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorycraft
+size: sewing
+size_capital: Sewing
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SEWING
+type: craft
+type_capital: Craft
+type_first_letter: c
+type_first_letter_upper: C
+type_upper: CRAFT

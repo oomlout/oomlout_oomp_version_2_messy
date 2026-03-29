@@ -1,0 +1,77 @@
+classification: book
+classification_capital: Book
+classification_first_letter: b
+classification_first_letter_upper: B
+classification_upper: BOOK
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/book_cook_meat
+distributors: []
+filter: ''
+from_yaml: false
+id: book_cook_meat
+id_no_class: cook_meat
+id_no_size: meat
+id_no_type: meat
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/book_cook_meat
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/book_cook_meat
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/book_cook_meat
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[book_cook_meat](none)<br>[](none)<br>[Book Cook Meat](none)<br><br>'
+markdown_short: '[book_cook_meat](none)<br><br>'
+md5: 09db80908ead78cbe1f27f299cd503d0
+md5_10: 09db80908e
+md5_10_upper: 09DB80908E
+md5_5: 09db8
+md5_5_upper: 09DB8
+md5_6: 09db80
+md5_6_alpha: dugw
+md5_6_alpha_upper: DUGW
+md5_6_upper: 09DB80
+name: Book Cook Meat
+name_no_class: Cook Meat
+name_no_size: Meat
+name_no_size_short: Meat
+name_no_type: Meat
+oomp_key: oomp_book_cook_meat
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+size: meat
+size_capital: Meat
+size_first_letter: m
+size_first_letter_upper: M
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: MEAT
+type: cook
+type_capital: Cook
+type_first_letter: c
+type_first_letter_upper: C
+type_upper: COOK

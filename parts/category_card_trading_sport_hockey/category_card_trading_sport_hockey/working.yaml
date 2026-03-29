@@ -1,0 +1,81 @@
+classification: category
+classification_capital: Category
+classification_first_letter: c
+classification_first_letter_upper: C
+classification_upper: CATEGORY
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_upper: ''
+description: category_card_trading
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_upper: ''
+description_main: ''
+description_main_capital: ''
+description_main_first_letter: ''
+description_main_first_letter_upper: ''
+description_main_upper: ''
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/category_card_trading_sport_hockey
+distributors: []
+filter: ''
+from_yaml: false
+id: category_card_trading_sport_hockey
+id_no_class: card_trading_sport_hockey
+id_no_size: sport_hockey
+id_no_type: sport_hockey
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_card_trading_sport_hockey
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_card_trading_sport_hockey
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/category_card_trading_sport_hockey
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[category_card_trading_sport_hockey](none)<br>[](none)<br>[Category
+    Card Trading Sport Hockey](none)<br><br>'
+markdown_short: '[category_card_trading_sport_hockey](none)<br><br>'
+md5: e7687f6c0214c42be9db19732a940e45
+md5_10: e7687f6c02
+md5_10_upper: E7687F6C02
+md5_5: e7687
+md5_5_upper: E7687
+md5_6: e7687f
+md5_6_alpha: 911tr
+md5_6_alpha_upper: 911TR
+md5_6_upper: E7687F
+name: Category Card Trading Sport Hockey
+name_no_class: Card Trading Sport Hockey
+name_no_size: Sport Hockey
+name_no_size_short: Sport Hockey
+name_no_type: Sport Hockey
+oomp_key: oomp_category_card_trading_sport_hockey
+part_number: ''
+part_number_capital: ''
+part_number_exact: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_upper: ''
+short_code: ''
+short_code_upper: ''
+short_name: Categorycardtrading
+size: sport_hockey
+size_capital: Sport Hockey
+size_first_letter: s
+size_first_letter_upper: S
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: SPORT_HOCKEY
+type: card_trading
+type_capital: Card Trading
+type_first_letter: c
+type_first_letter_upper: C
+type_upper: CARD_TRADING
